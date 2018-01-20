@@ -2,85 +2,11 @@
 ## Pat Pound - Tuesday, May 5, 2015
 [Source recording](https://www.youtube.com/watch?v=E2jSXwobvts)
 
-1
-00:00:00,000 --> 00:00:15,060
-[Music intro]
+Okay, well thank you all for coming out and spending your own time, and I’m really, really excited to see the accessibility meetup. They’ve been very instrumental in other cities, so I think it’s a really good sign that Chicago has one. I follow you on Twitter, and watch what’s going on, so it’s particularly exciting to have a special session because I was in town. I love coming to Chicago, it’s funny because once I come, my time gets filled up. It’s always good filled up.
 
-2
-00:00:15,160 --> 00:00:24,900
-Okay, well thank you all for coming out and spending your own time, and I’m really, really excited to see the accessibility meetup.
+Background-wise, I was born very premature. The amount of oxygen that was necessary to save my life caused my blindness, which is not that uncommon during that day and time. However, I was premature enough, probably even today, that would have happened. I had very low vision as a child until I was fourteen. So I went all the way through seventh grade in public  went to the school for the blind, and then learned all the blindness skills; braille, had to walk with a cane, basically how to be blind. Part of that, I had really no training in terms of being a low vision person.
 
-3
-00:00:24,900 --> 00:00:31,320
-They’ve been very instrumental in other cities, so I think it’s a really good sign that Chicago has one.
-
-4
-00:00:31,700 --> 00:00:36,500
-I follow you on Twitter, and watch what’s going on,
-
-5
-00:00:36,500 --> 00:00:41,060
-so it’s particularly exciting to have a special session
-
-6
-00:00:41,060 --> 00:00:42,720
-because I was in town.
-
-7
-00:00:42,720 --> 00:00:44,340
-I love coming to Chicago,
-
-8
-00:00:44,340 --> 00:00:48,260
-it’s funny because once I come, my time gets filled up.
-
-9
-00:00:48,260 --> 00:00:50,680
-It’s always good filled up.
-
-10
-00:00:52,660 --> 00:00:56,180
-Background-wise, I was born very premature.
-
-11
-00:00:56,580 --> 00:01:01,540
-The amount of oxygen that was necessary to save my life caused my blindness,
-
-12
-00:01:01,960 --> 00:01:05,120
-which is not that uncommon during that day and time.
-
-13
-00:01:05,660 --> 00:01:10,640
-However, I was premature enough, probably even today, that would have happened.
-
-14
-00:01:11,140 --> 00:01:15,180
-I had very low vision as a child until I was fourteen.
-
-15
-00:01:15,960 --> 00:01:22,880
-So I went all the way through seventh grade in public school, then I lost vision,
-
-16
-00:01:22,880 --> 00:01:28,200
-went to the school for the blind, and then learned all the blindness skills;
-
-17
-00:01:28,200 --> 00:01:31,920
-braille, had to walk with a cane, basically how to be blind.
-
-18
-00:01:31,920 --> 00:01:37,760
-Part of that, I had really no training in terms of being a low vision person.
-
-19
-00:01:38,380 --> 00:01:48,240
-Career wise, I spent half of my work career in blindness rehab, teaching folks blindness skills, a lot of that related to tech.
-
-20
-00:01:48,240 --> 00:01:52,500
-I was always using some of the newest tech.
+Career wise, I spent half of my work career in blindness rehab, teaching folks blindness skills, a lot of that related to tech. I was always using some of the newest tech.
 
 21
 00:01:52,500 --> 00:01:58,480
