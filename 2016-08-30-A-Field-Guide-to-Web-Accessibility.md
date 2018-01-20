@@ -2,66 +2,12 @@
 ## Derek Featherstone - Tuesday, August 30, 2016
 [Source recording](https://www.youtube.com/watch?v=gf_BrfCZT7c)
 
-1
-00:00:11,720 --> 00:00:16,280
-[Dennis]: I'm very, very excited to introduce Derek Featherstone.
+[Dennis]: I'm very, very excited to introduce Derek Featherstone. He is a former Ironman tri-athlete, 
+and a current Star Wars fanboy. You notice I saw the Ottawa meetup ... He's also been a web professional since 1999 an internationally known speaker, teacher and authority on accessibility and web design. He leads the team at Simply Accessible based in Ottawa Canada. He always puts the user first and strives to make the web a better place by designing experiences that are easy to use for everyone, including people with disabilities. Derek's ideal accessible experience is to combine engaging, rich content, with brilliant design, and technical development excellence. Please give a warm Chicago welcome to Derek Featherstone.
 
-2
-00:00:17,100 --> 00:00:22,900
-He is a former Ironman tri-athlete, 
-and a current Star Wars fanboy.
-
-3
-00:00:24,640 --> 00:00:28,520
-You notice I saw the Ottawa meetup ...
-
-4
-00:00:28,520 --> 00:00:31,620
-He's also been a web professional since 1999
-
-5
-00:00:31,620 --> 00:00:37,860
-an internationally known speaker, teacher and 
-authority on accessibility and web design.
-
-6
-00:00:38,220 --> 00:00:42,840
-He leads the team at Simply Accessible 
-based in Ottawa Canada
-
-7
-00:00:43,180 --> 00:00:47,560
-He always puts the user first and strives to make the web a better place
-
-8
-00:00:47,560 --> 00:00:54,400
-by designing experiences that are easy to use for everyone, including people with disabilities.
-
-9
-00:00:54,400 --> 00:01:01,120
-Derek's ideal accessible experience is to combine engaging, rich content,
-
-10
-00:01:01,120 --> 00:01:05,020
-with brilliant design, and technical development excellence.
-
-11
-00:01:05,020 --> 00:01:08,840
-Please give a warm Chicago welcome 
-to Derek Featherstone.
-
-12
-00:01:08,880 --> 00:01:16,060
 [Applause]
 
-13
-00:01:16,780 --> 00:01:20,120
-[Derek Featherstone]: I'm sweating a lot right now, 
-with that introduction.
-
-14
-00:01:20,120 --> 00:01:25,100
-I feel a little bit of pressure, but I think we'll sort it out.
+[Derek Featherstone]: I'm sweating a lot right now, with that introduction. I feel a little bit of pressure, but I think we'll sort it out.
 
 15
 00:01:25,100 --> 00:01:28,460
