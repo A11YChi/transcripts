@@ -20,430 +20,36 @@ The people who use Audio Description are obviously people who are blind or who h
 
 So who are they, who is this population. According to a report from the 2012 National Health Interview Survey, 20.6 million adults age 18 or older reported experiencing vision loss. So here, the term "vision loss" refers to individuals who reported they had trouble seeing, even when wearing glasses or contact lenses as well as individuals who reported that they are blind or unable to see at all. This estimate pertains to a nationally representative sample of non-institutionalized civilian population 18 years of age or older. Of that population, 12.4 million are women, and 8.2 million are men. 15.3 million are between the ages of 18 and 64 and 5.3 million are 65 years of age or older. And of the 20.1 million people who indicated race on that survey, 16.6 million are white,  2.6 million are black or African-American 2.9 million are hispanic or latino 668,000 are Asian, and 236,000 are American Indian or Alaskan Native. As far as education level is concerned, of the Americans who have vision loss, and are 25 years of age or older, 4 million have less than a high school diploma 5.1 million have a high school diploma or GED, 5.8 million have some college education and 4.1 million have a bachelors degree or higher. So this is not a homogeneous population.
 
-Vision afflictions, whether it's complete blindness or we have retinal neuropathy, or tunnel vision
+Vision afflictions, whether it's complete blindness or we have retinal neuropathy, or tunnel vision all of these would be rolled into this population. So why do we do this? Well ... the desire in Audio Description is to make the blind or low vision experience as comparable to the sighted experience as possible. So we get into issues of accessibility, we get into issues of independence. If I go into a museum, and I'm blind or have low vision, I'd like to be able to walk around that museum by myself, not necessarily have to have a companion with me. Content equity. I should be able to get as much out of the content that's there as the sighted individual. And overall quality of life, because people who are blind or have low vision tend not to go out as much. They don't participate in social gatherings as much as some other folks. And it's just a real hassle. So, now I've caught up with myself.
 
-57
-00:04:47,420 --> 00:04:50,880
-all of these would be rolled into this population.
+Translation. So we typically think of translation again as being across a single sense. So for instance, when I'm translating something from French into English If I'm doing a written version, I write from French, and I write the English equivalent. I can also translate speech in the aural realm from French into English. So that can be modified, that can be codified, and it can be a word for word direct translation. In Audio Description, translation is across the senses. We're translating the visual into the aural. There is no equivalent of a correct or certifiable piece of audio description. Alright, so, you can see that it is more nuanced because it relies on language to step in, and there's no way to define the best sentence to be written, or the best way to say things.
 
-58
-00:04:54,880 --> 00:04:56,920
-So why do we do this? Well...
+But, just as language has rules about word order and structure, in audio description, those rules are known as standards or best practices, which are a little bit stronger than just recommended guidelines. But for the technically-minded folks like myself, there's got to be some way to do better than just recommended guidelines, right? You can delve into it a bit more, it can be applied to see what some of the challenges are. This title brought up live performance and media.
 
-59
-00:04:56,920 --> 00:05:00,680
-the desire in Audio Description is to make the blind or low vision experience
+In the context of audio description, I would put it that audio description, for live performance and media refers solely in the time or temporal domain. In live performance, things are changing, characters are moving, the order in which things are being said can change from one night to the next, from one performance to the next. Whereas in media, I know exactly where all of those gaps are going to be, its a fixed piece of content. And so that makes it a little bit easier.
 
-60
-00:05:00,680 --> 00:05:03,660
-as comparable to the sighted experience as possible.
+So it's much easier for me to write a script for a piece of media, knowing how long I have to say and can plan better, and deliver it in that way. So let's look at some of the performance use cases. So for live performance, stuff that moves, there's obviously theater. Now this can be plays. It can be poetry slams. It can be musical acts. It can be an opera. These are all under the heading of theater. I can describe dance. But I'd have to use a different vocabulary to describe tap vs ballet vs modern dance. Corporate functions. Meetings. Social gatherings. Dinner parties and galas. There are conferences. Which can be academic conferences, tradeshows. 
 
-61
-00:05:03,660 --> 00:05:08,680
-So we get into issues of accessibility, we get into issues of independence.
+Imagine you are walking around an exhibit floor of a conference. Where are the vendor booths? How do I get from one place to the next? Where are the bathrooms? Where are the meeting rooms themselves? Lectures and webinars. I can listen to a TED talk, or a lecture by an academic professor, but if I can't see the material that they are presenting visually, I'm only getting half, if not less of the information that they are describing.
 
-62
-00:05:08,680 --> 00:05:12,216
-If I go into a museum, and I'm blind or have low vision,
+Architectural tours. Now this is kind of a hybrid, in that, if I'm taking a Chicago boat tour the buildings aren't moving, but my path along the river may change, and the speed in which I go through them changes. I just did a couple of animal shows at the Brookfield Zoo this last Sunday as part of the ADA 25 event I described a dolphin show, and I described a free flight bird show. If you weren't able to see it, well, you're missing kind of what they're doing. Are they doing a backward tail walk, are they doing a forward tail walk, what's that bird that just whizzed by my head? Is that a Red-tail Hawk? What does that look like? So all of these things are lost if I can't get that information.
 
-63
-00:05:12,216 --> 00:05:18,236
-I'd like to be able to walk around that museum by myself, not necessarily have to have a companion with me.
+So remember, the purpose of audio description is to  provide the same, or as equivalent as possible, the experience to the blind or low vision population, as the sighted audience gets. 
 
-64
-00:05:18,236 --> 00:05:24,605
-Content equity. I should be able to get as much out of the content that's there as the sighted individual.
+So in media we have obviously television shows. If I'm watching a television show, and maybe, sometimes I can't see what the characters are doing. Now often times in the past, people who are blind or low vision, family members or friends would sit next to them and would describe what is going on, to the best of their ability. But, I don't have to rely on that, if I have audio description in the television show itself.
 
-65
-00:05:25,400 --> 00:05:32,740
-And overall quality of life, because people who are blind or have low vision tend not to go out as much
+Same thing for movies. If I go to a theater ... one of the first movies I saw that had audio description was ... oh, I'm blanking on it ... it was the ... about the tiger, in the boat, on the ocean ...
 
-66
-00:05:32,740 --> 00:05:36,461
-They don't participate in social gatherings as much as some other folks.
+**[Audience member]:**  "Life of Pi"
 
-67
-00:05:36,461 --> 00:05:40,420
-And it's just a real hassle.
+**[Martin]:** "Life of Pi" There are long stretches in "The Life of Pi" where there is no dialog. He's just hanging out at sea. There are times when he looks over the edge of the boat and he sees the myriad of life underneath him, all different colors and shapes swimming by. But that can go on for long stretches of time, and there's nothing, aurally, in the soundtrack of the film to tell you whats going on. So that would really make that experience a whole lot less inclusive.
 
-68
-00:05:43,682 --> 00:05:45,822
-So, now I've caught up with myself.
+There's a listsev that is part of the American Council for the Blind, Audio Description Project there was quite a bit of chatter on that website about Netflix movies. So there is a Marvel superhero named Daredevil. Daredevil is blind. But the series itself initially wasn't audio described. So there's an activist here in Chicago named Robert King who's blind and he has started up the Netflix Accessibility Project and has lobbied them to get description for their Netflix produced content. He succeeded in that, and so more and more shows on Netflix and across the realm of television and movies are being described.
 
-69
-00:05:45,822 --> 00:05:47,082
-Translation.
+I'll talk a little bit later about the Communications and Video Accessibility Act of 2010. Essentially, there is some legislation that has come online just in the last few years that mandates how much of the broadcaster's programming needs to be audio described.
 
-70
-00:05:47,880 --> 00:05:53,080
-So we typically think of translation again as being across a single sense.
+Cultural institutions. Imagine going to the Art Institute and trying to experience that as a person who is blind or has low vision. What does that painting look like? How do I move around the space? Same thing with Natural History Museums. Sue, the Tyrannosaurus Rex, what does that look like? What do some of the other dinosaurs look like? Without audio description, I have no idea.
 
-71
-00:05:53,080 --> 00:05:56,480
-So for instance, when I'm translating something from French into English
-
-72
-00:05:56,480 --> 00:06:00,956
-If I'm doing a written version, I write from French, and I write the English equivalent.
-
-73
-00:06:01,360 --> 00:06:06,820
-I can also translate speech in the aural realm from French into English.
-
-74
-00:06:06,820 --> 00:06:12,242
-So that can be modified, that can be codified, and it can be a word for word direct translation.
-
-75
-00:06:13,080 --> 00:06:17,240
-In Audio Description, translation is across the senses.
-
-76
-00:06:17,620 --> 00:06:20,660
-We're translating the visual into the aural.
-
-77
-00:06:20,660 --> 00:06:25,418
-There is no equivalent of a correct or certifiable piece of audio description.
-
-78
-00:06:25,420 --> 00:06:30,820
-Alright, so, you can see that it is more nuanced because it relies on language to step in,
-
-79
-00:06:30,820 --> 00:06:36,780
-and there's no way to define the best sentence to be written, or the best way to say things.
-
-80
-00:06:37,240 --> 00:06:42,180
-But, just as language has rules about word order and structure,
-
-81
-00:06:42,180 --> 00:06:47,000
-in audio description, those rules are known as standards or best practices.
-
-82
-00:06:47,000 --> 00:06:50,929
-which are a little bit stronger than just recommended guidelines.
-
-83
-00:06:55,120 --> 00:07:01,680
-But for the technically-minded folks like myself, there's got to be some way to do better than just
-
-84
-00:07:02,700 --> 00:07:05,000
-recommended guidelines, right?
-
-85
-00:07:06,020 --> 00:07:10,960
-You can delve into it a bit more, it can be applied
-
-86
-00:07:10,960 --> 00:07:14,920
-to see what some of the challenges are
-
-87
-00:07:16,500 --> 00:07:20,500
-This title brought up live performance and media.
-
-88
-00:07:20,940 --> 00:07:30,220
-In the context of audio description, I would put it that audio description, for live performance and media
-
-89
-00:07:30,220 --> 00:07:33,780
-refers solely in the time or temporal domain.
-
-90
-00:07:33,780 --> 00:07:38,000
-in live performance, things are changing, characters are moving,
-
-91
-00:07:38,000 --> 00:07:41,840
-the order in which things are being said can change from one night to the next,
-
-92
-00:07:41,840 --> 00:07:43,720
-from one performance to the next.
-
-93
-00:07:43,760 --> 00:07:49,780
-Whereas in media, I know exactly where all of those gaps are going to be.
-
-94
-00:07:49,780 --> 00:07:55,360
-its a fixed piece of content. And so that makes it a little bit easier.
-
-95
-00:07:57,360 --> 00:08:03,440
-So it's much easier for me to write a script for a piece of media, knowing how long I have to say
-
-96
-00:08:03,440 --> 00:08:06,900
-and can plan better, and deliver it in that way.
-
-97
-00:08:10,120 --> 00:08:12,540
-So let's look at some of the performance use cases.
-
-98
-00:08:12,820 --> 00:08:18,140
-So for live performance, stuff that moves, there's obviously theater.
-
-99
-00:08:18,140 --> 00:08:22,000
-Now this can be plays. It can be poetry slams.
-
-100
-00:08:22,000 --> 00:08:29,560
-It can be musical acts. It can be an opera. These are all under the heading of theater.
-
-101
-00:08:29,560 --> 00:08:38,700
-I can describe dance. But I'd have to use a different vocabulary to describe tap vs ballet vs modern dance.
-
-102
-00:08:41,040 --> 00:08:42,840
-Corporate functions.
-
-103
-00:08:45,460 --> 00:08:54,040
-Meetings. Social gatherings. Dinner parties and galas. There are conferences.
-
-104
-00:08:54,040 --> 00:08:57,140
-Which can be academic conferences, tradeshows.
-
-105
-00:08:57,140 --> 00:09:01,700
-Imagine you are walking around an exhibit floor of a conference.
-
-106
-00:09:01,700 --> 00:09:05,755
-Where are the vendor booths? How do I get from one place to the next?
-
-107
-00:09:05,755 --> 00:09:07,435
-Where are the bathrooms?
-
-108
-00:09:07,435 --> 00:09:11,135
-Where are the meeting rooms themselves?
-
-109
-00:09:11,140 --> 00:09:19,000
-Lectures and webinars. I can listen to a TED talk, or a lecture by an academic professor,
-
-110
-00:09:19,000 --> 00:09:22,748
-but if I can't see the material that they are presenting visually,
-
-111
-00:09:22,748 --> 00:09:27,373
-I'm only getting half, if not less of the information that they are describing.
-
-112
-00:09:30,500 --> 00:09:32,340
-Architectural tours.
-
-113
-00:09:32,340 --> 00:09:36,800
-Now this is kind of a hybrid, in that, if I'm taking a Chicago boat tour
-
-114
-00:09:36,800 --> 00:09:40,260
-the buildings aren't moving, but my path along the river may change,
-
-115
-00:09:40,260 --> 00:09:42,920
-and the speed in which I go through them changes.
-
-116
-00:09:42,920 --> 00:09:48,760
-I just did a couple of animal shows at the Brookfield Zoo this last Sunday as part of the ADA 25 event
-
-117
-00:09:48,760 --> 00:09:54,400
-I described a dolphin show, and I described a free flight bird show.
-
-118
-00:09:54,400 --> 00:09:58,960
-If you weren't able to see it, well, you're missing kind of what they're doing.
-
-119
-00:09:58,960 --> 00:10:02,140
-Are they doing a backward tail walk, are they doing a forward tail walk,
-
-120
-00:10:02,140 --> 00:10:06,661
-What's that bird that just whizzed by my head? Is that a Red-tail Hawk? What does that look like?
-
-121
-00:10:06,661 --> 00:10:11,240
-So all of these things are lost if I can't get that information.
-
-122
-00:10:11,240 --> 00:10:16,693
-So remember, the purpose of audio description is to  provide the same, or as equivalent as possible,
-
-123
-00:10:16,693 --> 00:10:22,333
-the experience to the blind or low vision population, as the sighted audience gets.
-
-124
-00:10:28,900 --> 00:10:31,160
-So in media
-
-125
-00:10:33,900 --> 00:10:36,540
-we have obviously television shows.
-
-126
-00:10:36,540 --> 00:10:44,200
-If I'm watching a television show, and maybe, sometimes I can't see what the characters are doing.
-
-127
-00:10:44,200 --> 00:10:49,820
-Now often times in the past, people who are blind or low vision, family members or friends would sit next to them
-
-128
-00:10:49,820 --> 00:10:52,920
-and would describe what is going on, to the best of their ability.
-
-129
-00:10:52,920 --> 00:10:58,311
-But, I don't have to rely on that, if I have audio description in the television show itself.
-
-130
-00:10:59,620 --> 00:11:07,280
-Same thing for movies. If I go to a theater ... one of the first movies I saw that had audio description
-
-131
-00:11:07,280 --> 00:11:15,740
-was ... oh, I'm blanking on it ... it was the ...
-
-132
-00:11:15,740 --> 00:11:21,380
-about the tiger, in the boat, on the ocean
-
-133
-00:11:21,380 --> 00:11:23,460
-[audience member "Life of Pi"]
-
-134
-00:11:23,480 --> 00:11:24,420
-"Life of Pi"
-
-135
-00:11:24,420 --> 00:11:28,060
-There are long stretches in "The Life of Pi" where there is no dialog.
-
-136
-00:11:28,060 --> 00:11:29,800
-He's just hanging out at sea.
-
-137
-00:11:29,800 --> 00:11:31,840
-There are times when he looks over the edge of the boat
-
-138
-00:11:31,840 --> 00:11:37,112
-and he sees the myriad of life underneath him, all different colors and shapes swimming by.
-
-139
-00:11:37,120 --> 00:11:40,380
-But that can go on for long stretches of time.
-
-140
-00:11:40,426 --> 00:11:46,186
-and there's nothing, aurally, in the soundtrack of the film to tell you whats going on.
-
-141
-00:11:46,186 --> 00:11:49,806
-So that would really make that experience a whole lot less inclusive.
-
-142
-00:11:51,520 --> 00:11:57,320
-There's a listsev that is part of the American Council for the Blind, Audio Description Project
-
-143
-00:11:57,320 --> 00:12:01,660
-there was quite a bit of chatter on that website about Netflix movies.
-
-144
-00:12:01,660 --> 00:12:08,560
-so there is a Marvel superhero named Daredevil
-
-145
-00:12:08,560 --> 00:12:14,460
-Daredevil is blind. But the series itself initially wasn't audio described.
-
-146
-00:12:14,900 --> 00:12:18,780
-So there's an activist here in Chicago named Robert King who's blind
-
-147
-00:12:18,780 --> 00:12:22,206
-and he has started up the Netflix Accessibility Project
-
-148
-00:12:22,206 --> 00:12:27,140
-and has lobbied them to get description for their Netflix produced content.
-
-149
-00:12:27,140 --> 00:12:31,540
-He succeeded in that, and so more and more shows on Netflix
-
-150
-00:12:31,540 --> 00:12:36,360
-and across the realm of television and movies are being described.
-
-151
-00:12:36,360 --> 00:12:41,660
-I'll talk a little bit later about the Communications and Video Accessibility Act of 2010
-
-152
-00:12:41,660 --> 00:12:45,986
-Essentially, there is some legislation that has come online just in the last few years
-
-153
-00:12:48,933 --> 00:12:54,693
-that mandates how much of the broadcaster's programming needs to be audio described.
-
-154
-00:12:57,220 --> 00:12:59,280
-Cultural institutions
-
-155
-00:12:59,280 --> 00:13:02,740
-Imagine going to the Art Institute and trying to experience that
-
-156
-00:13:02,740 --> 00:13:04,980
-as a person who is blind or has low vision
-
-157
-00:13:04,980 --> 00:13:06,960
-What does that painting look like?
-
-158
-00:13:06,960 --> 00:13:09,460
-How do I move around the space?
-
-159
-00:13:09,460 --> 00:13:11,918
-Same thing with Natural History Museums.
-
-160
-00:13:11,918 --> 00:13:17,578
-Sue, the tyrannosaurus rex, what does that look like? What do some of the other dinosaurs look like?
-
-161
-00:13:17,578 --> 00:13:20,818
-Without audio description, I have no idea.
-
-162
-00:13:20,820 --> 00:13:22,360
 Science museums.
 
 163
@@ -2710,3 +2316,8 @@ audio description relates to Universal Design. I'll be happy to talk to anyone a
 01:02:33,360 --> 01:02:39,400
 I now have a slide on the screen that are some resource URLs.
 
+* [Standards for Audio Description](http://www.audiodescriptioncoalition.org/index.html)
+* [Audio Description for People with Vision Loss – Performing Arts Guide](http://www.kennedy-center.org/accessibility/education/lead/2013KC_AudioDescripGuide.pdf)
+* [FCC Consumer Guide to the 21st Century Communications and Video Accessibility Act (CVAA)](https://transition.fcc.gov/cgb/consumerfacts/CVAA-access-act.pdf)
+* [Facts and Figures on Adults with Vision Loss](http://www.afb.org/info/blindness-statistics/adults/facts-and-figures/235#demographics)
+* [CDC National Health Interview Survey](http://www.cdc.gov/nchs/nhis.htm)
