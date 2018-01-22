@@ -2,228 +2,24 @@
 ## Presenter: Martin Wilde - Tuesday, July 21, 2015
 [Source recording](https://www.youtube.com/watch?v=UAb8jRMObRM)
 
-1
-00:00:08,683 --> 00:00:10,283
-My name is Martin Wilde,
+**[Martin]:** My name is Martin Wilde, and I am a Chicago-based audio description writer and voicer.
 
-2
-00:00:10,283 --> 00:00:14,023
-and I am a Chicago-based audio description writer and voicer.
+In general, what we're going to go over tonight is kind of a definition of audio description we're going to look at where that is applied, some of the rules for audio description. You'll actually get a fairly in-depth overview of what audio description really is and some of the rules of audio description and how that is applied to media and live performance. And then I have about 3 or 4 videos, a couple of commercials and then a snippet of a film I did that will show audio description in action. I have a list of resources at the end and then I can take any questions you might have after that.
 
-3
-00:00:14,023 --> 00:00:19,720
-In general, what we're going to go over tonight is kind of a definition of audio description
+So, what is Audio Description? Well, as I talk about, or gave Dennis in the run up to this meetup, Audio Description makes visual images accessible for people who are blind or have low vision. Using words that are succinct, vivid and imaginative, the description translates the visual image into an aural form that is accessible to these individuals. For the performing arts and media, description inserts this narrative into the natural pauses in the dialog between critical sound events. So ... that's easy enough. But, I'd like to take a little time, to delve a little more deeply into what that really means.
 
-4
-00:00:19,720 --> 00:00:24,760
-we're going to look at where that is applied,
+Easy enough, its another way to think about it is to say what you see. We are doing a translation from the visual to the aural. Now, typically, we think of a translation as, oh say, going from French to English or the other way around. I'm getting ahead of myself I'll follow my slides here.
 
-5
-00:00:24,760 --> 00:00:26,660
-some of the rules for audio description
+There are many different names for Audio Description. Audio Description is used a lot in the US. They use this logo to identify Audio Descriptions, so it's a square box with a capital block-letter A and D and to the right of the D there are three sound waves emanating from the curve of the D. So that is the symbol for Audio Description in the United States. In Canada, they use Described Video, and that is just a block-letter D, with two sound waves emanating from the right side curve of the D. Some people also call it Video Description. But when you abbreviate that to block letters ... it's rather unfortunate ... um ... element 
 
-6
-00:00:26,660 --> 00:00:34,720
-You'll actually get a fairly in-depth overview of what audio description really is.
+[Laughter] 
 
-7
-00:00:34,720 --> 00:00:40,539
-and some of the rules of audio description and how that is applied to media and live performance.
+**[Martin]:** so we don't call it Video Description.
 
-8
-00:00:40,540 --> 00:00:48,760
-And then I have about 3 or 4 videos, a couple of commercials and then a snippet of a film I did
-
-9
-00:00:48,760 --> 00:00:52,540
-that will show audio description in action.
-
-10
-00:00:52,540 --> 00:00:58,371
-I have a list of resources at the end and then I can take any questions you might have after that.
-
-11
-00:01:02,380 --> 00:01:05,160
-So, what is Audio Description?
-
-12
-00:01:05,160 --> 00:01:11,280
-Well, as I talk about, or gave Dennis in the run up to this meetup,
-
-13
-00:01:11,280 --> 00:01:17,120
-Audio Description makes visual images accessible for people who are blind or have low vision.
-
-14
-00:01:17,120 --> 00:01:23,680
-Using words that are succinct, vivid and imaginative, the description translates the visual image
-
-15
-00:01:23,680 --> 00:01:27,220
-into an aural form that is accessible to these individuals.
-
-16
-00:01:27,220 --> 00:01:34,101
-For the performing arts and media, description inserts this narrative into the natural pauses in the dialog
-
-17
-00:01:34,101 --> 00:01:35,883
-between critical sound events.
-
-18
-00:01:35,883 --> 00:01:38,420
-So ... that's easy enough.
-
-19
-00:01:38,420 --> 00:01:44,087
-But, I'd like to take a little time, to delve a little more deeply into what that really means.
-
-20
-00:01:44,900 --> 00:01:50,200
-Easy enough, its another way to think about it is to say what you see
-
-21
-00:01:50,200 --> 00:01:53,400
-We are doing a translation from the visual to the aural.
-
-22
-00:01:53,400 --> 00:01:59,480
-Now, typically, we think of a translation as, oh say, going from French to English
-
-23
-00:01:59,480 --> 00:02:01,480
-or the other way around.
-
-24
-00:02:04,000 --> 00:02:05,840
-I'm getting ahead of myself
-
-25
-00:02:05,983 --> 00:02:07,823
-I'll follow my slides here.
-
-26
-00:02:08,000 --> 00:02:10,480
-There are many different names for Audio Description.
-
-27
-00:02:10,540 --> 00:02:13,340
-Audio Description is used a lot in the US
-
-28
-00:02:13,340 --> 00:02:20,080
-They use this logo to identify Audio Descriptions, so it's a square box with a capital block-letter A and D
-
-29
-00:02:20,080 --> 00:02:24,829
-and to the right of the D there are three sound waves emanating from the curve of the D
-
-30
-00:02:24,829 --> 00:02:29,349
-So that is the symbol for Audio Description in the United States.
-
-31
-00:02:30,700 --> 00:02:39,340
-In Canada, they use Described Video, and that is just a block-letter D, with two sound waves emanating from the right side curve of the D
-
-32
-00:02:41,209 --> 00:02:46,169
-Some people also call it Video Description. But when you abbreviate that to block letters ...
-
-33
-00:02:46,169 --> 00:02:50,856
-... it's rather unfortunate ... um ... element [laughter] so we don't call it Video Description.
-
-34
-00:02:56,240 --> 00:03:01,160
 The people who use Audio Description are obviously people who are blind or who have low vision.
 
-35
-00:03:01,160 --> 00:03:03,560
-So who are they, who is this population.
+So who are they, who is this population. According to a report from the 2012 National Health Interview Survey, 20.6 million adults age 18 or older reported experiencing vision loss. So here, the term "vision loss" refers to individuals who reported they had trouble seeing, even when wearing glasses or contact lenses as well as individuals who reported that they are blind or unable to see at all. This estimate pertains to a nationally representative sample of non-institutionalized civilian population 18 years of age or older. Of that population, 12.4 million are women, and 8.2 million are men. 15.3 million are between the ages of 18 and 64 and 5.3 million are 65 years of age or older. And of the 20.1 million people who indicated race on that survey, 16.6 million are white,  2.6 million are black or African-American 2.9 million are hispanic or latino 668,000 are Asian, and 236,000 are American Indian or Alaskan Native. As far as education level is concerned, of the Americans who have vision loss, and are 25 years of age or older, 4 million have less than a high school diploma 5.1 million have a high school diploma or GED, 5.8 million have some college education and 4.1 million have a bachelors degree or higher. So this is not a homogeneous population.
 
-36
-00:03:04,229 --> 00:03:08,429
-According to a report from the 2012 National Health Interview Survey,
-
-37
-00:03:08,680 --> 00:03:16,580
-20.6 million adults age 18 or older reported experiencing vision loss.
-
-38
-00:03:16,600 --> 00:03:21,400
-So here, the term "vision loss" refers to individuals who reported they had trouble seeing,
-
-39
-00:03:21,400 --> 00:03:24,250
-even when wearing glasses or contact lenses
-
-40
-00:03:24,250 --> 00:03:28,156
-as well as individuals who reported that they are blind or unable to see at all.
-
-41
-00:03:29,020 --> 00:03:34,160
-This estimate pertains to a nationally representative sample of non-institutionalized civilian population
-
-42
-00:03:34,160 --> 00:03:35,760
-18 years of age or older.
-
-43
-00:03:39,000 --> 00:03:43,800
-Of that population, 12.4 million are women, and 8.2 million are men.
-
-44
-00:03:45,040 --> 00:03:48,920
-15.3 million are between the ages of 18 and 64
-
-45
-00:03:48,920 --> 00:03:52,040
-and 5.3 million are 65 years of age or older.
-
-46
-00:03:53,260 --> 00:03:58,620
-And of the 20.1 million people who indicated race on that survey,
-
-47
-00:03:58,940 --> 00:04:04,180
-16.6 million are white,  2.6 million are black or African-American
-
-48
-00:04:04,180 --> 00:04:07,160
-2.9 million are hispanic or latino
-
-49
-00:04:07,160 --> 00:04:13,520
-668,000 are Asian, and 236,000 are American Indian or Alaskan Native.
-
-50
-00:04:15,400 --> 00:04:21,980
-As far as education level is concerned, of the Americans who have vision loss, and are 25 years of age or older,
-
-51
-00:04:22,820 --> 00:04:25,860
-4 million have less than a high school diploma
-
-52
-00:04:26,340 --> 00:04:29,880
-5.1 million have a high school diploma or GED
-
-53
-00:04:29,880 --> 00:04:32,540
-5.8 million have some college education
-
-54
-00:04:32,540 --> 00:04:35,900
-and 4.1 million have a bachelors degree or higher.
-
-55
-00:04:35,900 --> 00:04:38,740
-So this is not a homogeneous population.
-
-56
-00:04:39,200 --> 00:04:47,420
 Vision afflictions, whether it's complete blindness or we have retinal neuropathy, or tunnel vision
 
 57
