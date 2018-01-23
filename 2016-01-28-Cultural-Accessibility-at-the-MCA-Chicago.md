@@ -2,398 +2,55 @@
 ## Anna Chiaretta Lavatelli, Susan Chun and Sina Bahram - Thursday, January 28, 2016
 [Source recording](https://www.youtube.com/watch?v=XxdwxwdxSVo)
 
-1
-00:00:04,720 --> 00:00:10,500
-[Sina]: So, I can go over a couple of things.
+**[Sina]:** So, I can go over a couple of things.
 
-2
-00:00:10,500 --> 00:00:19,600
-So, we started working together because the MCA was launching a new website.
+So, we started working together because the MCA was launching a new website. And so the new website had a lot of, as these projects do,  goals, some of them competing some of them aligning, and accessibility was one of the goals there. And so we started talking very early. The reason I'm pointing this out is because that doesn't often happen, so for those of you who are in the accessibility space, you'll know a couple of different recipes, one of them is, "we launched two years ago and we should really get on that, so, yeah, what are your thoughts on our website?" Others are "Yeah, we totally know that it is inaccessible, but we don't have the funds to deal with it" and et cetera. And yet others are "Oh yeah, we're going to be really great. We're definitely going to involve accessibility and usability and all that stuff like that," about one week before launch. Sounds like a good plan.
 
-3
-00:00:19,600 --> 00:00:27,840
-And so the new website had a lot of, as these projects do,  goals, some of them competing
+So that's some of the things that often happen in this space. And lead to less than optimal results, right? Because it's the architecture model. If you think about it at the end, after a family has been living in the house adding a room is very expensive. But if you think about it at the blueprint phase,  it costs a little extra money maybe, but you're talking to the architect, your tearing down walls, redrawing lines, things like that.
 
-4
-00:00:27,840 --> 00:00:33,140
-some of them aligning, and accessibility was one of the goals there.
+Same with accessibility. Started working with these guys on accessibility, of the website and we have some thoughts to share with you on that. One of the consequences of doing accessibility on a museum website, actually an art museum, is that there's art. And so this art is on the web. And now we have an issue. We can't just say, images don't have alt text. That's not a one-liner anymore. You can have ten thousand images, all of a sudden, that's a really big commitment. You can't just slip that one by. So we really started to have these serious discussion about images needing to be described and what does that even mean? What about if it's art? Yeah, ok, we have some very good standards for describing an infographic like a pie chart but what does it mean to describe a work of art? And what about different authors having different opinions and biases and so on and so forth. And this lead to the creation of a tool here at the MCA called Coyote.
 
-5
-00:00:33,140 --> 00:00:37,440
-And so we started talking very early. The reason I'm pointing this out is because
+Coyote is nothing more than a web application. It's a web-based application, that happens to be accessible. Which is a little ironic given what is does. What is does is the workflow management for describing images. So, if you have a lot of images, which the MCA does, assigning descriptions to that is a lot harder than just a field in WordPress or a field in Drupal for example. because there are different languages perhaps, there are short descriptions and long descriptions there are multiple descriptions for a single photo, or the opposite of that problem, the same image being used in different ways, across the website. In this case, it's just a thumbnail for the restaurant, but over here, it's the actual focus, it's the featured image for the restaurant page. Those might have different meanings. The other thing is that, some of you might be thinking well, when it's used as an icon or a link or button, that's really important for, let's say blind users but , what's the point in describing it in other senses. Then it's just decorative.
 
-6
-00:00:37,460 --> 00:00:41,700
-that doesn't often happen, so for those of you who are in the accessibility space,
+We hear this word a lot in accessibility with respect to decorative images. But because it's such a part of the institution, and I'm speaking a little bit for you here, because it's such a core part of the institution, and the aesthetic, the information content, the actual meaning behind the work that's done here, Susan and Anna rightfully felt that this needs to be really well described, this needs to be part of the core tenons of the usability model of somebody coming to the website.
 
-7
-00:00:41,700 --> 00:00:47,700
-you'll know a couple of different recipes, one of them is, "we launched two years ago
+So, what we started doing was started putting these descriptions into Coyote and I think I'll let these guys talk about that a little bit, then what I was thinking was we can project if we want to, but honestly, I got a speaker set up here, we can get some good volume I'm happy to let a screen reader read you guys some descriptions, I think there are some sample descriptions as well and you can visit the website on your own device of course as well, which would be fine, if you need to use a particular AT, a particular assistive technology to interact with it.
 
-8
-00:00:47,700 --> 00:00:53,180
-and we should really get on that, so, yeah, what are your thoughts on our website?"
+But maybe before we do that, I want to talk just a little about, the effect of description with respect to the curation staff and the awesome, different organizations that got involved.
 
-9
-00:00:53,180 --> 00:01:00,180
-Others are "Yeah, we totally know that it is inaccessible, but we don't have the funds to deal with it" and et cetera
+**[Susan]:** Yeah, so as Sina was saying, the task of describing ten thousand images and doing that on an anomaly basis, and then addressing the backlog of images is a pretty daunting one. Just to give you context, really, this is something that as far as we know, no art museum in this country has taken on and committed to. There are projects, in gallery projects, or mobile projects that are accessible and for which images have been described. But nothing on the sort of systematic scale, and so it wasn't as if we were going to be totally on the hook if we didn't do this. Which actually makes this a little bit harder. There were some, you know, if the law were pounding down our door, we could sell it. As it is, we were obliged to think about a couple of things. One was selling it to colleagues from throughout the museum. It was pretty clear to me from the very beginning. Sina and I actually disagreed about this, I now recall.
 
-10
-00:01:00,180 --> 00:01:05,100
-And yet others are "Oh yeah, we're going to be really great. We're definitely going to involve accessibility
+When we were first talking about who would do the description, I think that we thought it needed Sina thought it needed to be done within, my, which is publishing, media, that people who had a certain set of skills would be best to do this. And unlike cataloging, I mean I'm a cataloging professional, so I think about those things too. But it didn't seem to me even remotely possible that it could scale. I mean we're just not a big enough group. And so we snuck around Sina, and a ...
 
-11
-00:01:05,100 --> 00:01:11,460
-and usability and all that stuff like that," about one week before launch. Sounds like a good plan.
-
-12
-00:01:11,460 --> 00:01:21,320
-So that's some of the things that often happen in this space. And lead to less than optimal results, right?
-
-13
-00:01:21,320 --> 00:01:26,460
-because it's the architecture model. If you think about it at the end, after a family has been living in the house
-
-14
-00:01:26,460 --> 00:01:28,940
-adding a room is very expensive.
-
-15
-00:01:28,940 --> 00:01:32,540
-But if you think about it at the blueprint phase,  it costs a little extra money maybe,
-
-16
-00:01:32,540 --> 00:01:39,100
-but you're talking to the architect, your tearing down walls, redrawing lines, things like that.
-
-17
-00:01:39,100 --> 00:01:45,260
-Same with accessibility. Started working with these guys on accessibility, of the website
-
-18
-00:01:45,260 --> 00:01:49,180
-and we have some thoughts to share with you on that.
-
-19
-00:01:49,180 --> 00:01:55,340
-One of the consequences of doing accessibility on a museum website, actually an art museum,
-
-20
-00:01:55,340 --> 00:02:00,200
-is that there's art. And so this art is on the web. And now we have an issue.
-
-21
-00:02:00,200 --> 00:02:06,860
-We can't just say, images don't have alt text. 
-That's not a one-liner anymore.
-
-22
-00:02:06,860 --> 00:02:12,300
-You can have ten thousand images, all of a sudden, that's a really big commitment.
-
-23
-00:02:12,300 --> 00:02:18,320
-You can't just slip that one by. So we really started to have these serious discussion about
-
-24
-00:02:18,320 --> 00:02:22,100
-images needing to be described and what does that even mean?
-
-25
-00:02:22,100 --> 00:02:27,200
-What about if it's art? Yeah, ok, we have some very good standards for describing an infographic like a pie chart
-
-26
-00:02:27,200 --> 00:02:31,700
-but what does it mean to describe a work of art? And what about different authors having different opinions
-
-27
-00:02:31,700 --> 00:02:39,740
-and biases and so on and so forth. And this lead to the creation of a tool here at the MCA called Coyote.
-
-28
-00:02:39,740 --> 00:02:46,740
-Coyote is nothing more than a web application. It's a web-based application, that happens to be accessible.
-
-29
-00:02:46,740 --> 00:02:53,600
-Which is a little ironic given what is does. What is does is the workflow management for describing images.
-
-30
-00:02:53,600 --> 00:02:59,420
-So, if you have a lot of images, which the MCA does, assigning descriptions to that
-
-31
-00:02:59,420 --> 00:03:04,540
-is a lot harder than just a field in WordPress or a field in Drupal for example.
-
-32
-00:03:04,540 --> 00:03:09,540
-because there are different languages perhaps, there are short descriptions and long descriptions
-
-33
-00:03:09,540 --> 00:03:14,480
-there are multiple descriptions for a single photo, or the opposite of that problem, the same image
-
-34
-00:03:14,480 --> 00:03:20,380
-being used in different ways, across the website. In this case, it's just a thumbnail for the restaurant,
-
-35
-00:03:20,380 --> 00:03:25,260
-but over here, it's the actual focus, it's the featured image for the restaurant page.
-
-36
-00:03:25,260 --> 00:03:30,060
-Those might have different meanings. The other thing is that, some of you might be thinking
-
-37
-00:03:30,060 --> 00:03:36,140
-well, when it's used as an icon or a link or button, that's really important for, let's say blind users
-
-38
-00:03:36,140 --> 00:03:40,840
-but , what's the point in describing it in other senses. Then it's just decorative.
-
-39
-00:03:40,840 --> 00:03:44,880
-We hear this word a lot in accessibility with respect to decorative images.
-
-40
-00:03:44,880 --> 00:03:50,440
-But because it's such a part of the institution, and I'm speaking a little bit for you here,
-
-41
-00:03:50,440 --> 00:03:58,060
-because it's such a core part of the institution, and the aesthetic, the information content,
-
-42
-00:03:58,060 --> 00:04:05,120
-the actual meaning behind the work that's done here, Susan and Anna rightfully felt that
-
-43
-00:04:05,120 --> 00:04:10,140
-that this needs to be really well described, this needs to be part of the core tenons
-
-44
-00:04:10,140 --> 00:04:13,840
-of the usability model of somebody coming to the website.
-
-45
-00:04:13,840 --> 00:04:19,040
-So, what we started doing was started putting these descriptions into Coyote
-
-46
-00:04:19,040 --> 00:04:22,560
-and I think I'll let these guys talk about that a little bit, then what I was thinking was
-
-47
-00:04:22,560 --> 00:04:28,420
-we can project if we want to, but honestly, I got a speaker set up here, we can get some good volume
-
-48
-00:04:28,420 --> 00:04:33,460
-I'm happy to let a screen reader read you guys some descriptions, I think there are some sample descriptions
-
-49
-00:04:33,460 --> 00:04:39,200
-as well and you can visit the website on your own device of course as well, which would be fine, if you need
-
-50
-00:04:39,200 --> 00:04:43,040
-to use a particular AT, a particular assistive technology to interact with it.
-
-51
-00:04:43,040 --> 00:04:49,440
-But maybe before we do that, I want to talk just a little about, the effect of description
-
-52
-00:04:49,440 --> 00:04:55,300
-with respect to the curation staff and the awesome, different organizations that got involved.
-
-53
-00:04:55,300 --> 00:05:03,580
-[Susan] Yeah, so as Sina was saying, the task of describing ten thousand images
-
-54
-00:05:03,580 --> 00:05:09,900
-and doing that on an anomaly basis, and then addressing the backlog of images
-
-55
-00:05:09,900 --> 00:05:16,980
-is a pretty daunting one. Just to give you context, really, this is something that as far as we know,
-
-56
-00:05:16,980 --> 00:05:21,120
-no art museum in this country has taken on and committed to.
-
-57
-00:05:21,120 --> 00:05:30,780
-There are projects, in gallery projects, or mobile projects that are accessible
-
-58
-00:05:30,780 --> 00:05:33,060
-and for which images have been described.
-
-59
-00:05:33,060 --> 00:05:39,400
-but nothing on the sort of systematic scale, and so it wasn't as if we were going to be totally
-
-60
-00:05:39,400 --> 00:05:44,740
-on the hook if we didn't do this. Which actually makes this a little bit harder.
-
-61
-00:05:44,740 --> 00:05:51,960
-There were some, you know, if the law were pounding down our door, we could sell it.
-
-62
-00:05:51,960 --> 00:06:01,500
-As it is, we were obliged to think about a couple of things. One was selling it to colleagues
-
-63
-00:06:01,500 --> 00:06:06,000
-from throughout the museum. It was pretty clear to me from the very beginning.
-
-64
-00:06:06,000 --> 00:06:09,920
-Sina and I actually disagreed about this, I now recall.
-
-65
-00:06:09,920 --> 00:06:16,240
-When we were first talking about who would do the description, I think that we thought it needed
-
-66
-00:06:16,240 --> 00:06:22,460
-Sina thought it needed to be done within, my, which is publishing, media,
-
-67
-00:06:22,460 --> 00:06:25,900
-that people who had a certain set of skills would be best to do this.
-
-68
-00:06:25,900 --> 00:06:31,540
-And unlike cataloging, I mean I'm a cataloging professional, so I think about those things too.
-
-69
-00:06:31,540 --> 00:06:36,700
-But it didn't seem to me even remotely possible that it could scale. I mean we're just not a big enough group.
-
-70
-00:06:36,700 --> 00:06:39,820
-And so we snuck around Sina, and a
-
-71
-00:06:39,820 --> 00:06:41,580
 [Laughter]
 
-72
-00:06:41,580 --> 00:06:43,640
-[Sina] I totally forgot that you did that.
+**[Sina]:** I totally forgot that you did that.
 
-73
-00:06:43,640 --> 00:06:45,060
 [Laughter]
 
-74
-00:06:45,060 --> 00:06:48,620
-[Susan] No, but that first meeting that we had, that big room full of people,
+**[Susan]:** No, but that first meeting that we had, that big room full of people, we kept telling people "be quiet" ...
 
-75
-00:06:48,620 --> 00:06:50,460
-we kept telling people "be quiet"
-
-76
-00:06:50,460 --> 00:06:51,480
 [Laughter]
 
-77
-00:06:51,480 --> 00:06:55,080
-[Anna] Well, no. There was this hilarious  ... we talked about it was going to be five people,
+**[Anna]:** Well, no. There was this hilarious  ... we talked about it was going to be five people, it was actually this room full of people. There was this moment when you asked "can you hear me?" And everybody said "Yes!"
 
-78
-00:06:55,080 --> 00:07:00,980
-it was actually this room full of people. There was this moment when you asked "can you hear me?"
-
-79
-00:07:00,980 --> 00:07:02,660
-And everybody said "Yes!"
-
-80
-00:07:02,660 --> 00:07:04,320
 [Laughter]
 
-81
-00:07:04,320 --> 00:07:06,500
-And Sina was like "oh no."
+**[Anna]:** And Sina was like "oh no."
 
-82
-00:07:06,500 --> 00:07:08,820
 [Laughter]
 
-83
-00:07:08,820 --> 00:07:14,020
-[Susan] But it was scary because I'm afraid of Sina.
+**[Susan]:** But it was scary because I'm afraid of Sina.
 
-84
-00:07:14,020 --> 00:07:16,220
 [Laughter]
 
-85
-00:07:16,220 --> 00:07:21,060
-[Susan] Also, that find to see how many people. We sent out an email
+**[Susan]:** Also, that find to see how many people. We sent out an email to the staff, and to staff from all other, not just professionals who were involved in creating content but also visitor services, human resources, a lot of different folks who we thought would be good candidates for doing this work. And the response was really really robust. We were asking people to come on their own time, lunch time, and they did. So that was pretty exciting. From our point of view, this is the only way this will sustain this.
 
-86
-00:07:21,060 --> 00:07:28,580
-to the staff, and to staff from all other, not just professionals who were involved in creating content
+Otto was saying earlier in a meeting today that we did our first writing sessions as a group because this is not a natural thing necessarily to do. But what we've imagined in our heads is that this is the kind of thing that folks would ... on a really boring conference call ...
 
-87
-00:07:28,580 --> 00:07:32,840
-but also visitor services, human resources, a lot of different folks
-
-88
-00:07:32,840 --> 00:07:38,540
-who we thought would be good candidates for doing this work. And the response was really really robust.
-
-89
-00:07:38,540 --> 00:07:45,080
-We were asking people to come on their own time, lunch time, and they did.
-
-90
-00:07:45,080 --> 00:07:48,720
-So that was pretty exciting.
-
-91
-00:07:48,720 --> 00:07:52,960
-From our point of view, this is the only way this will sustain this.
-
-92
-00:07:54,060 --> 00:08:03,680
-Otto was saying earlier in a meeting today that we did our first writing sessions as a group
-
-93
-00:08:03,680 --> 00:08:11,260
-because this is not a natural thing necessarily to do. But what we've imagined in our heads
-
-94
-00:08:11,260 --> 00:08:17,260
-is that this is the kind of thing that folks would ... on a really boring conference call ...
-
-95
-00:08:17,260 --> 00:08:21,020
 [Laughter]
 
-96
-00:08:21,020 --> 00:08:25,260
-... on their lunch hour, if they have a little extra flex to it, they would do that.
-
-97
-00:08:25,260 --> 00:08:30,020
-So we built the tool to be something that people could sign in to from where ever, whenever.
-
-98
-00:08:30,020 --> 00:08:43,220
-We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting
+**[Susan]:** ... on their lunch hour, if they have a little extra flex to it, they would do that. So we built the tool to be something that people could sign in to from where ever, whenever. We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting
 
 99
 00:08:43,220 --> 00:08:48,160
