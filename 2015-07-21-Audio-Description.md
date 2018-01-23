@@ -92,57 +92,53 @@ So, on my website, which I'll give you at the end, there are a number of videos 
 
 **[Commercial Audio Description]:** Flying low over the ocean on a foggy night, churning and spraying water. Words, Film Academy Baden Württemberg presents B.O.A.T.S. based on a true story. An advancing aircraft carrier and flotilla. A blue sweep across a radar screen. A radio operator, crewman at computer consoles.
 
-384
-00:31:34,980 --> 00:31:38,260
-**[Commercial Dialog]:** "Captain, there's an odd object at 1200"
+**[Commercial Dialog]:** _"Captain, there's an odd object at 1200"_
 
-"Sir, contact established."
+_"Sir, contact established."_
 
-"On speaker please."
+_"On speaker please."_
 
 **[Commercial Audio Description]:** Two men eating at a table.
 
-**[Commercial Dialog]:** This is 8853, please change your course by fifteen degrees southwest ... in order to prevent a collision with us. 
+**[Commercial Dialog]:** _This is 8853, please change your course by fifteen degrees southwest ... in order to prevent a collision with us._
 
-This is the USS Lincoln, member of the United States Navy.
+_This is the USS Lincoln, member of the United States Navy._
 
-Change your course by fifteen degrees northwest in order to avert a collision with us. Over.
+_Change your course by fifteen degrees northwest in order to avert a collision with us. Over._
 
-This is not possible. 
+_This is not possible._ 
 
-You have to avert.
+_You have to avert._
 
 **[Commercial Audio Description]:** Tight lipped and grey with leathery skin, the captain takes the radio mic from its dock.
 
-**[Commercial Dialog]:** This is Captain Richard James Howard speaking, commander of USS Lincoln air craft carrier, part of the Navy of the United States of America.
+**[Commercial Dialog]:** _This is Captain Richard James Howard speaking, commander of USS Lincoln air craft carrier, part of the Navy of the United States of America._
 
 **[Commercial Audio Description]:** The men by their radio.
 
-**[Commercial Dialog]:** We are the second largest warship of the American fleet. We are escorted by two cruisers, six destroyers and four submarines. I command you to change your course by fifteen degrees northwest. If you do not comply, we will be forced to take military action. Over.
+**[Commercial Dialog]:** _We are the second largest warship of the American fleet. We are escorted by two cruisers, six destroyers and four submarines. I command you to change your course by fifteen degrees northwest. If you do not comply, we will be forced to take military action. Over._
 
 **[Commercial Audio Description]:** The captain's hard face, smirking. The men return to their food, glancing at one another.
 
 The crew , motionless, eyes fixed on their faces.
 
-**[Commercial Dialog]:** We are two person. With us, we have our dog, we have two beer, we have our food and a friend who is making siesta right now. We do not move anywhere. We are a lighthouse, on the coast off of Spain.
+**[Commercial Dialog]:** _We are two person. With us, we have our dog, we have two beer, we have our food and a friend who is making siesta right now. We do not move anywhere. We are a lighthouse, on the coast off of Spain._
 
 **[Commercial Audio Description]:** The lighthouse beam sweeps over a rocky coastline, foaming over the clouds, over ships.
 
-**[Commercial Dialog]:** Perfect over a beer bottle, always right.
+**[Commercial Dialog]:** _Perfect over a beer bottle, always right._
 
-410
-00:33:17,160 --> 00:33:18,660
 **[Martin]:** Okay. This is for Trident Gum.
 
 **[Commercial Audio Description]:** Chinese characters. In English, Pet Shop. A white skull with headphones and two baby ostrich. Porcelain cats, one waving its arm. A bulldog sleeping on the floor. An old Chinese man with a white beard grooming a Shih Tzu, tuffs falling to the floor. A young man by a tropical fish tank pulls a package of gum from his jeans, Trident, and eats a stick as an orange fish begins to sing, with others in the tank.
 
-**[Fish singing]:** "I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango? Thunderbolt and lightning, Very, very frightening me. Galileo Galileo Galileo.
+**[Fish singing]:** _"I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango? Thunderbolt and lightning, Very, very frightening me. Galileo Galileo Galileo._
 
 **[Commercial Audio Description]:** He glances at the gum pack.
 
 424
 00:34:57,240 --> 00:34:59,240
-**[Fish singing]:** "Galileo Galileo Figaro Magnifico."
+**[Fish singing]:** _"Galileo Galileo Figaro Magnifico."_
 
 425
 00:34:59,240 --> 00:35:00,480
@@ -150,7 +146,7 @@ The crew , motionless, eyes fixed on their faces.
 
 427
 00:35:03,560 --> 00:35:05,200
-**[Singing]:** Mama mia mama mia
+**[Singing]:** _Mama mia mama mia_
 
 428
 00:35:05,200 --> 00:35:10,940
@@ -158,7 +154,7 @@ The crew , motionless, eyes fixed on their faces.
 
 430
 00:35:13,840 --> 00:35:15,420
-**[Young man singing solo]:** "For me!"
+**[Young man singing solo]:** _"For me!"_
 
 431
 00:35:15,420 --> 00:35:19,320
@@ -170,40 +166,26 @@ The crew , motionless, eyes fixed on their faces.
 
 **[Commercial Audio Description]:** Chinese characters. In English, Pet Shop. A white skull with headphones and two baby ostrich. Porcelain cats, one waving its arm. A bulldog sleeping on the floor. An old Chinese man with a white beard grooming a Shih Tzu, tuffs falling to the floor. A young man by a tropical fish tank pulls a package of gum from his jeans, Trident, and eats a stick as an orange fish begins to sing, with others in the tank.
 
-**[Fish singing]:** "I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango? Thunderbolt and lightning, Very, very frightening me. Galileo Galileo Galileo.
+**[Fish singing]:** _"I see a little silhouetto of a man, Scaramouche, Scaramouche, will you do the Fandango? Thunderbolt and lightning, Very, very frightening me. Galileo Galileo Galileo._
 
 **[Commercial Audio Description]:** He glances at the gum pack.
 
-424
-00:34:57,240 --> 00:34:59,240
-**[Fish singing]:** "Galileo Galileo Figaro Magnifico."
+**[Fish singing]:** _"Galileo Galileo Figaro Magnifico."_
 
-425
-00:34:59,240 --> 00:35:00,480
 **[Commercial Audio Description]:** All the pets sign along. A bearded dragon, a cat, a canary...
 
-427
-00:35:03,560 --> 00:35:05,200
-**[Singing]:** Mama mia mama mia
+**[Singing]:** _Mama mia mama mia_
 
-428
-00:35:05,200 --> 00:35:10,940
 **[Commercial Audio Description]:** A spotted fish, a skull and baby birds. Not in sync with the beat, young man surveys the animal chorus, smiles and thrusts his arms into the air.
 
-430
-00:35:13,840 --> 00:35:15,420
-**[Young man singing solo]:** "For me!"
+**[Young man singing solo]:** _"For me!"_
 
-431
-00:35:15,420 --> 00:35:19,320
 **[Commercial Audio Description]:** The old man looks up, the fish swim away. The young man smiles.
 
 **[Martin]** So, what's interesting in that, in a couple of instances, I had to say things a little before ... sometimes a little bit after, so the temporal description that I could give did not exactly match the visual information, but it conveyed the story nonetheless. So you have to be very judicious about where in this type of example.
 
 And I have one more piece here, that is more of an educational video.
 
-459
-00:37:11,260 --> 00:37:17,695
 **[Video Audio Description]:** Long slender body Shark walks across the sea floor rather than swim by wiggling its body and pushing with its pectoral and pelvic fins. Its features include a general brown coloration and numerous clusters of mainly two to three polygonal spots, widely scattered white spots in the matrix between dark clusters, fewer than ten large dark spots on the inter-orbital snout region, and a pair of larger dark marks on the ventral surface of the head. Clamoring over the rough terrain over the seafloor, similar to a baby crawling on its stomach, the shark forages for food by sticking its snout into the corners, recesses and alcoves of rock and coral formations for any prey which might be hiding there in. Walking sharks, also known as Bamboo sharks, or Long Tail Carpet Sharks, belong to the family Henneselyday, in the shark order Arectalobelforms.
 
 **[Martin]:** Well, that's pretty much what we'll get out of that video.
@@ -234,7 +216,7 @@ A sunny, cloudless day outside a green, two-story house with a two car garage, t
 
 Additional canvases sit stacked to the side on a window-lined porch where a cat grooms herself while sitting on an end table. A pony-tailed, dark-haired woman in a floppy white sun hat kneels on the ground outside in the back yard next to a flower bed and a multi-tiered birdbath. A line of tall evergreens stand guard along a wooden fence at the back. In the garden, yellow daffodils bloom next to pink peonies. The woman digs in the dirt wearing pink garden gloves with white flowers. She clips a bunch of daffodils, laying them carefully in a wicker basket. She glances toward the house, stands, and picks up her basket. Carrying the basket, she walks into the house. ]
 
-**[Knocking at the door]**
+[Knocking at the door]
 
 **[Video Audio Description]:** She lays her hat on a chair by the front door, pulls aside the lace curtains to see the person knocking, then opens the door.
 
@@ -356,8 +338,6 @@ _Here's my card, it's got my cell number on it. Call me anytime. Just take it._
 
 _Thanks for the coffee._
 
-592
-00:49:23,000 --> 00:49:24,660
 **[Video Audio Description]:** He walks out the door. Mrs. Thompson closes the door, and stares down at McCoy’s card in her hand. ]
 
 Later that night, an interior door bangs gently in the wind next to glass vase filled with daffodils. In candlelight, Mrs. Thompson sits on a couch in her pajamas, hair down. A jazz record plays on a turntable. She leafs through an old scrapbook filled with pictures and mementos of her husband. She turns the page to a picture of Leonard. Her fingers trail across the page. On the facing page, a newspaper clipping reads: “Office Building Burns; Man Dies.”  She wipes away something in her eye. She turns the page. Another headline reads, “Widow Cleared of Charges, Money Still Missing.” She starts, twisting around to see the door has knocked over the flower vase. She steps over to the mess, and moves to get a cloth. Stepping carefully around the broken glass, she kneels down and picks up the flowers from the floor, placing them gently in the cloth.
