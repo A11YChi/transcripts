@@ -408,7 +408,7 @@ Well, you've all been very patient, I appreciate that very much. I have a couple
 
 I'm just going to end now. I have another slide here, I was going to talk here about how audio description relates to Universal Design. I'll be happy to talk to anyone about that.
 
-I now have a slide on the screen that are some resource URLs.
+I now have a slide on the screen that are some resource URLs. 
 
 * [Standards for Audio Description](http://www.audiodescriptioncoalition.org/index.html)
 * [Audio Description for People with Vision Loss – Performing Arts Guide](http://www.kennedy-center.org/accessibility/education/lead/2013KC_AudioDescripGuide.pdf)
