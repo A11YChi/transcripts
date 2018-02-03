@@ -112,7 +112,7 @@ We’ve gotten to actually do some of the airport testing. It was really fun to 
 
 **[Pat]:** What do I need to find? Trash cans! Trash cans are actually harder than the places. Believe it or not. And I think all outdoor trash cans should forced to have iBeacons. 
 
-[Laughter] 
+[Laughter]  
 
 **[Pat]:** I labeled a lot of outside stuff, but not in the inside.
 
@@ -122,7 +122,7 @@ Other questions?
 
 **[Pat]:** Well, I wouldn’t say that the Uber map works in particular. But they give you the time estimate. So it’s not as important to see them coming as it is to know when they’re coming. During the period of time when cell phones were coming in and pay phones were disappearing, blind people had big headaches, because if you hadn’t bought a cell phone yet, you would miss your taxi, you would go inside and have trouble finding a pay phone. And your taxi would come and leave you. 
 
-[Laughter] 
+[Laughter]  
 
 **[Pat]:** Then you had a real problem, if you had no phone or taxi. I would really look at the access of the Apple map. I am truly intrigued at how well they were able to do that. The other things is that, not last year’s WWDC but the year before, they did a hotel map for their convention, that I salivated over. I wasn’t even there, but I was just listing to the session. They had like a, what do you call the box that you can flick through and it changes … a combo box or something like that. Anyway, for example, if you were at break and you wanted to know where the coffee was, coffee was on the list. So you could turn that option on or off. Which makes a lot of sense. I mean there’s always things you want on, like elevators, stairs, things like that, that you always want. They didn’t have like the walls drawn, but you could get relational things, like you know on the other side of the escalators were certain meeting rooms. That is a huge amount of help, in an inside environment where you have nothing. Initially Uber had trouble, their rating system wasn’t accessible. But now all that is labeled well. Open Doors has worked with them too because, part of their problem was that riders could rate you. Well, if I left any dog hair in the car, and they didn’t like dogs, they probably rated me low. And so they started Uber access, which is UberX I think, I can’t remember exactly what it is called in the app. But, those drivers have had more training on disability and they have agreed to have guide dogs and things like that. There are still problems with some people who don’t want to pick up guide dogs. It used to be true in D.C., I don’t know if it’s still true, I haven’t been there recently. But to catch a regular taxi in D.C. with a guide dog, you had to actually send a person without a dog. A decoy. To actually get in your cab, and not let it go, then you walk out and get in the cab. That’s how bad it was. Because they would just drive off. Some other future things. I’m really watching 3-D printing. I’m so intrigued, I can’t even begin to tell you.
 
