@@ -50,901 +50,148 @@ Otto was saying earlier in a meeting today that we did our first writing session
 
 [Laughter]
 
-**[Susan]:** ... on their lunch hour, if they have a little extra flex to it, they would do that. So we built the tool to be something that people could sign in to from where ever, whenever. We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting
+**[Susan]:** ... on their lunch hour, if they have a little extra flex to it, they would do that. So we built the tool to be something that people could sign in to from where ever, whenever. We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting. Some basic information about the difference between alt and a long description. But more than anything, a lot of questions that our folks asked, that don't necessarily come up like in other contexts. Is a picture of Adam and Eve fleeing the Garden of Eden just two naked people running, or is it actually Adam and Eve, how much knowledge do you assume people have really good questions that I have to say, I've said this a lot today, we don't have answers to.
 
-99
-00:08:43,220 --> 00:08:48,160
-Some basic information about the difference between alt and a long description.
-
-100
-00:08:48,160 --> 00:08:53,900
-But more than anything, a lot of questions that our folks asked, that don't necessarily come up
-
-101
-00:08:53,900 --> 00:09:01,120
-like in other contexts. Is a picture of Adam and Eve fleeing the Garden of Eden
-
-102
-00:09:01,120 --> 00:09:09,660
-just two naked people running, or is it actually Adam and Eve, how much knowledge do you assume people have
-
-103
-00:09:09,660 --> 00:09:15,040
-really good questions that I have to say, I've said this a lot today, we don't have answers to.
-
-104
-00:09:15,040 --> 00:09:18,740
-We're really just beginning to compile questions and beginning to think about,
-
-105
-00:09:18,740 --> 00:09:27,100
-how institutions and individuals address those. But the group nature of thinking together about
-
-106
-00:09:27,100 --> 00:09:31,860
-description, what is valuable, what works, what is comfortable to do
-
-107
-00:09:31,860 --> 00:09:35,540
-what are valuable descriptions to end users, that's a piece we need to tackle next,
-
-108
-00:09:35,540 --> 00:09:41,240
-is sort of in our sights.
+We're really just beginning to compile questions and beginning to think about, how institutions and individuals address those. But the group nature of thinking together about description, what is valuable, what works, what is comfortable to do
+what are valuable descriptions to end users, that's a piece we need to tackle next, is sort of in our sights.
 
 109
 00:09:42,520 --> 00:09:47,960
-[Sina] You have the right groups. So the number of descriptions that these guys have been able to pull off
-
-110
-00:09:47,960 --> 00:09:52,640
-is ... it started after the first three, four hundred?
-
-111
-00:09:52,640 --> 00:09:53,680
-[Anna] Yeah.
-
-112
-00:09:53,680 --> 00:09:55,780
-[Sina] And it is over one thousand now?
-
-113
-00:09:55,780 --> 00:09:57,780
-[Anna] Actually what was amazing, yeah, it's well over one thousand now.
-
-114
-00:09:57,780 --> 00:10:05,260
-What was amazing was, adding the counter, one of the features I asked Sina to incorporate into the software
-
-115
-00:10:05,260 --> 00:10:10,480
-was a counter, so you could see how many descriptions were in there. How many images were described.
-
-116
-00:10:10,480 --> 00:10:12,160
-To encourage people to keep going.
-
-117
-00:10:12,160 --> 00:10:15,440
-[Susan] There was even some game theory in there.
-
-118
-00:10:15,440 --> 00:10:19,280
-[Anna] Some departments wanted it to become competitive, so there's a counter.
-
-119
-00:10:19,280 --> 00:10:23,680
-And so once the counter was active, we had another Coyote group writing session.
-
-120
-00:10:23,680 --> 00:10:28,840
-We had laptops set up in this room again, set up around the room and everyone was writing in pairs
-
-121
-00:10:28,840 --> 00:10:37,000
-And I was just refreshing the homepage of Coyote every fifteen minutes and watching the number go up
-
-122
-00:10:37,000 --> 00:10:41,060
-And in an hour we went from three or four hundred to over a thousand.
-
-123
-00:10:41,060 --> 00:10:43,500
-And now we're over a thousand and counting
-
-124
-00:10:43,500 --> 00:10:47,700
-[Susan] Of which a very large number are unreviewed because
-
-125
-00:10:47,700 --> 00:10:52,120
-the people who are supposed to be reviewing are
-
-126
-00:10:52,120 --> 00:10:55,400
-[Sina] sitting on either side of me.
-
-127
-00:10:55,400 --> 00:10:57,420
-[Laughter]
-
-128
-00:10:57,420 --> 00:11:00,560
-[Sina] But that does bring up a good point about the review process.
-
-129
-00:11:00,560 --> 00:11:05,600
-So I mentioned workflow earlier, but kind of casually and didn't define it.
-
-130
-00:11:05,600 --> 00:11:11,320
-So this idea of putting descriptions on images is one thing. Having it really be,
-
-131
-00:11:11,320 --> 00:11:15,400
-again, going back to having accessibility live, I've said this a couple times today,
-
-132
-00:11:15,400 --> 00:11:20,800
-having accessibility live as a first class citizen, as part of projects here, projects plural,
-
-133
-00:11:20,800 --> 00:11:24,480
-means that these descriptions get edited, content matters.
-
-134
-00:11:24,480 --> 00:11:27,680
-I've seen a lot of upsides, I'm sure you guys have too.
-
-135
-00:11:27,680 --> 00:11:35,940
-My most favorite is accessibility being misspelled. Usually there's a "C" or an "S" missing.
-
-136
-00:11:35,940 --> 00:11:43,460
-And screen readers say it funny. Which is ironic. But that's part of the process here.
-
-137
-00:11:43,460 --> 00:11:48,520
-Susan just ... the amount of passion and care that goes into digital media here
-
-138
-00:11:48,520 --> 00:11:52,840
-also goes into the accessibility quality. The quality of the content for accessibility.
-
-139
-00:11:52,840 --> 00:11:57,620
-And the descriptions, actually do you have one? 
-Do you want to read?
-
-140
-00:12:00,220 --> 00:12:06,740
-I can have a screen reader do this as well, and you can go to mcachicago.org and a lot of the graphics there are
-
-141
-00:12:07,320 --> 00:12:12,360
-Oh one quick note, for the folks familiar with short and long description.
-
-142
-00:12:12,360 --> 00:12:16,280
-Right now,  just for now, and I will explain why I am saying this in a second,
-
-143
-00:12:16,280 --> 00:12:21,900
-the long descriptions, the lengthier ones if you will, they are stored as the alt text of the image.
-
-144
-00:12:21,900 --> 00:12:28,080
-Yes, we definitely know that alt text is traditionally done ... 120, 200 characters or less,
-
-145
-00:12:28,080 --> 00:12:34,980
-but the reason we did that was for maximum compatibility, and then later on, in future cycles
-
-146
-00:12:34,980 --> 00:12:40,380
-and iterations of the development cycle for the website, we're actually going to roll out ...
-
-147
-00:12:40,380 --> 00:12:41,560
-I can talk about that, right?
-
-148
-00:12:41,560 --> 00:12:42,360
-[Susan] Yes, of course.
-
-149
-00:12:42,360 --> 00:12:48,860
-[Sina] We're going to roll out a feature whereby we're making visible,
-
-150
-00:12:48,860 --> 00:12:53,160
-and I mean that in every sense of the word, not only to screen reader users
-
-151
-00:12:53,160 --> 00:12:59,140
-but also to every user who can see, and what not, the long descriptions and the short descriptions
-
-152
-00:12:59,140 --> 00:13:04,300
-of these images. And the reason that matters is because of something that Susan always brings up,
-
-153
-00:13:04,300 --> 00:13:08,520
-which is when you start talking to people about this stuff and start talking to them about describing it,
-
-154
-00:13:08,520 --> 00:13:12,220
-or whether, just the fact that the stuff exists, say "Oh, I want to see that."
-
-155
-00:13:12,220 --> 00:13:17,100
-and right now it's mainly accessible to using the screen reader, or if you check some things in your browser
-
-156
-00:13:17,100 --> 00:13:21,680
-but we want to make sure that is exposed to all users accessibly, so sure it will be
-
-157
-00:13:21,680 --> 00:13:27,100
-some short descriptions, an alt and a nice widget to expose the longer descriptions for keyboard users
-
-158
-00:13:27,100 --> 00:13:34,720
-but for mouse users and everybody as well so that everybody can benefit from those descriptions.
-
-159
-00:13:34,720 --> 00:13:42,860
-[Anna] Because, ostensibly its close viewing of an artwork, and that's been
-
-160
-00:13:42,860 --> 00:13:45,840
-the most exciting part, it opens up these artworks.
-
-161
-00:13:45,840 --> 00:13:53,480
-So, I'm going to read a description written by a curator at the MCA of a painting.
-
-162
-00:13:53,480 --> 00:13:56,720
-I will perhaps show it and you can decide.
-
-163
-00:13:56,720 --> 00:13:58,040
-[Laughter]
-
-164
-00:13:58,040 --> 00:14:00,600
-[Anna] and this is a long description.
-
-165
-00:14:02,100 --> 00:14:07,600
-This painting, a realistic portrait, depicts a young African-American woman in a stylish orange coat.
-
-166
-00:14:07,600 --> 00:14:11,480
-In the lower right corner of the image, she holds a thin paint brush in her hand,
-
-167
-00:14:11,480 --> 00:14:17,180
-alongside a flat palette covered in thicks dabs of paint in a variety of colors.
-
-168
-00:14:17,180 --> 00:14:22,760
-The square composition centers on her face and upper body and she looks directly out at the viewer
-
-169
-00:14:22,760 --> 00:14:28,480
-with a calm but commanding gaze. At first, the dark black hue of her skin almost blends in
-
-170
-00:14:28,480 --> 00:14:34,060
-with the black wall that is directly behind her on the left. But her dark complexion also contrasts
-
-171
-00:14:34,060 --> 00:14:39,020
-with the white background of a partially finished painting that appears behind her on the right.
-
-172
-00:14:39,020 --> 00:14:44,360
-Gradually it becomes evident that she is painting a self portrait using a paint by numbers system.
-
-173
-00:14:44,360 --> 00:14:48,640
-On the easel beside her, the figure's face and body are divided up into smaller shapes,
-
-174
-00:14:48,640 --> 00:14:53,380
-each one outlined in light blue. She has filled in a few of them already with bright orange
-
-175
-00:14:53,380 --> 00:14:59,460
-or mint green from her palette, but she isn't strictly following actual colors of her own appearance.
-
-176
-00:15:01,080 --> 00:15:12,320
-[Susan] So, Anna said that a curator wrote that, I think that was, oh, sorry, microphone. I think it was interesting
-
-177
-00:15:12,320 --> 00:15:19,140
-about this is that, that isn't ... though it was written by a curator, that's not actually how our curators write.
-
-178
-00:15:19,140 --> 00:15:20,800
-[Anna] Not at all.
-
-179
-00:15:20,800 --> 00:15:28,780
-[Susan] Before I came here, I worked at the Metropolitan Museum of Art and we had a phrase that we used
-
-180
-00:15:28,780 --> 00:15:38,180
-and it always said disabling, which was that, what you, this is a terrible terrible text, it's art history for the blind.
-
-181
-00:15:38,180 --> 00:15:39,980
-[Laughter]
-
-182
-00:15:39,980 --> 00:15:47,300
-[Susan] It said exactly that. The sky is blue, the grass is green, the pretty girl is lying on the beach,
-
-183
-00:15:47,300 --> 00:15:56,260
-it was purely descriptive and that was considered to be somehow lesser
-
-184
-00:15:56,260 --> 00:16:01,120
-because it wasn't interpretive, it wasn't scholarly and it didn't contain research
-
-185
-00:16:01,120 --> 00:16:05,340
-[Sina] As opposed to something which I might call rather useless from a vision point of view
-
-186
-00:16:05,340 --> 00:16:11,120
-which is that we can experience a rich plethora of colors the artists youthful age.
-
-187
-00:16:11,120 --> 00:16:15,620
-[Laughter]
-
-188
-00:16:15,620 --> 00:16:20,080
-[Susan] But I understand that person who wrote this would have been raised to disdain art,
-
-189
-00:16:20,080 --> 00:16:26,600
-his grief for the blind, just that kind of description, and he has been one of our most enthusiastic participants
-
-190
-00:16:26,600 --> 00:16:34,820
-because he has found in doing this some value for his practice that has ...
-
-191
-00:16:34,820 --> 00:16:42,860
-enforcing him to empathize with the point of view of somebody who doesn't come to works of art
-
-192
-00:16:42,860 --> 00:16:48,200
-with knowledge that has been gained over years and years and years of study
-
-193
-00:16:48,200 --> 00:16:55,280
-and it's been really exciting to watch him sort of raise the idea that there are things to be said
-
-194
-00:16:55,280 --> 00:17:04,160
-in simple description of the sort that might actually be as valuable as the writing that he does
-
-195
-00:17:04,160 --> 00:17:15,120
-that takes five years of research. So we're really excited about how this work is done and that it's
-
-196
-00:17:15,120 --> 00:17:20,780
-something that is going to bring value to our users and our visitors, but it's also really helping our staff
-
-197
-00:17:20,780 --> 00:17:26,100
-to think about what we do and why.
-
-198
-00:17:26,100 --> 00:17:31,660
-[Sina] And not only to help the staff but to help someone who, has great twenty-twenty vision
-
-199
-00:17:31,660 --> 00:17:40,960
-and can see the painting just fine. And I read the description and say you know, I never noticed X, Y and Z
-
-200
-00:17:40,960 --> 00:17:47,980
-I never actually picked up on X, Y, and Z and that is a really enriching experience not only for
-
-201
-00:17:47,980 --> 00:17:53,000
-someone who might be experiencing it for the first time, but there's this, in the gaming world
-
-202
-00:17:53,000 --> 00:17:57,600
-you would call it replay value, right? So there's this quality though
-
-203
-00:17:57,600 --> 00:18:05,040
-of using accessibility and inclusive design to increase the replay value of visiting an art museum
-
-204
-00:18:05,040 --> 00:18:10,600
-and experiencing these works of art. Yeah sure, you can still see it again and
-
-205
-00:18:10,600 --> 00:18:14,120
-you might get something different out of it of course because that's one of the essences of art
-
-206
-00:18:14,120 --> 00:18:21,340
-but having this description almost repositions you to appreciate that visual information
-
-207
-00:18:21,340 --> 00:18:24,120
-even if you can see in a different way.
-
-208
-00:18:24,120 --> 00:18:28,700
-[Susan] This is part of the reason why when we built Coyote, it was important for us to allow
-
-209
-00:18:28,700 --> 00:18:35,640
-for multiple description. Which again is one of those, it's kind of sacrilegious, in this institution.
-
-210
-00:18:35,640 --> 00:18:37,880
-There should be a kind of...
-
-211
-00:18:37,880 --> 00:18:38,420
-[Sina] Thing
-
-212
-00:18:38,420 --> 00:18:44,940
-[Susan] Absolutely, the right description. I don't believe in that. But it's really difficult
-
-213
-00:18:44,940 --> 00:18:54,020
-to change a culture that sort of strives for an absolute perfect.
-
-214
-00:18:54,020 --> 00:19:01,680
-and we are ... so this is one of the reasons, by the way, I realize that it sounds really icky,
-
-215
-00:19:01,680 --> 00:19:07,060
-that I was saying we had to have these things, they have to be edited, there can't be subject and predicates
-
-216
-00:19:07,060 --> 00:19:12,220
-because Sina suggested that we could do without verbs ... and articles.
-
-217
-00:19:12,220 --> 00:19:13,800
-[Anna] No it was articles.
-
-218
-00:19:13,800 --> 00:19:20,500
-[Susan] No, yeah, okay, definitely not verbs. Also without articles.
-
-219
-00:19:20,500 --> 00:19:21,340
-But ...
-
-220
-00:19:21,340 --> 00:19:23,040
-[Sina] For short, just to be clear.
-
-221
-00:19:23,040 --> 00:19:25,920
-[Laughter]
-
-222
-00:19:25,920 --> 00:19:32,180
-[Susan] Part of ... yes, for short descriptions. Very well. Part of the reason why we're
-
-223
-00:19:32,180 --> 00:19:41,620
-being a little bit cautious about the editorial pieces is that I'm a little afraid that we're just beginning to
-
-224
-00:19:41,620 --> 00:19:48,060
-tip the culture again toward, it's okay for visitor services staff to describe something because they spent
-
-225
-00:19:48,060 --> 00:19:54,360
-all of this time talking to visitors and trying to understand what they want to know, what they don't see
-
-226
-00:19:54,360 --> 00:19:59,260
-this is the type of interaction that curators don't have so they bring that experience to the description
-
-227
-00:19:59,260 --> 00:20:09,060
-it's pretty exciting to see the ways that the different members of the MCA team are learning from each other
-
-228
-00:20:09,060 --> 00:20:17,580
-about our interaction with the public. That was an unexpected side effect of this whole process.
-
-229
-00:20:17,580 --> 00:20:22,040
-[Sina] I think we want to phrase this a little bit more as a discussion, without raising your hand
-
-230
-00:20:22,040 --> 00:20:24,600
-because that's useless for me, but ... any questions?
-
-231
-00:20:24,600 --> 00:20:26,440
-[Susan] Could you just tap your hand
-
-232
-00:20:26,440 --> 00:20:29,540
-[Laughter]
-
-233
-00:20:29,540 --> 00:20:34,280
-[Sina] Or just speak up ... so many burning questions. But any questions
-
-234
-00:20:34,280 --> 00:20:40,100
-or comments on stuff that we discussed so far?
-
-235
-00:20:40,100 --> 00:20:46,140
-I'm totally commandeering ... you guys ok with that?
-
-236
-00:20:46,140 --> 00:20:47,580
-[Susan] Yeah
-
-237
-00:20:47,580 --> 00:20:48,920
-[Anna] Of course
-
-238
-00:20:48,920 --> 00:20:53,920
-[Sina] I'm being arbitrary, you spoke up first, in the front, to my right
-
-239
-00:20:53,920 --> 00:21:02,400
-[Renee] Have any of your artists objected to defining, describing their work?
-
-240
-00:21:02,400 --> 00:21:08,060
-My daughter's a choreographer and she will not say what it means
-
-241
-00:21:08,060 --> 00:21:14,860
-[Susan] We recently published a little factoid about the number of works in our collection
-
-242
-00:21:14,860 --> 00:21:19,060
-that have the title of "untitled" and its a very significant number
-
-243
-00:21:19,060 --> 00:21:20,440
-[Anna] Twenty one percent
-
-244
-00:21:20,440 --> 00:21:21,480
-[Sina] Wow!
-
-245
-00:21:21,480 --> 00:21:22,600
-[Anna Laughing] Contemporary art
-
-246
-00:21:22,600 --> 00:21:31,720
-[Susan] And we published alongside sort of a note that artists will frequently title something untitled
-
-247
-00:21:31,720 --> 00:21:39,260
-so as to allow for interpretation on the part of the viewer, so yeah that's one reason why artists may object to...
-
-248
-00:21:39,260 --> 00:21:40,940
-[Renee] that was my point
-
-249
-00:21:40,940 --> 00:21:48,040
-[Susan] yes, but the other reason is we might frankly be wrong. We haven't heard it yet
-
-250
-00:21:48,040 --> 00:21:55,740
-but then we haven't been engaging with them. I suspect that'll absolutely happen, but I also think
-
-251
-00:21:55,740 --> 00:21:59,560
-there will be plenty that don't mind. But this is what you have to do.
-
-252
-00:21:59,560 --> 00:22:05,060
-[Sina] So Anna has a really good story. I mean if you want to tell it.
-
-253
-00:22:05,060 --> 00:22:06,820
-[Anna] About the painter?
-
-254
-00:22:06,820 --> 00:22:08,540
-[Sina] Yeah
-
-255
-00:22:08,540 --> 00:22:17,120
-[Anna] Yeah, so Sina got us all thinking about this all the time. The process of describing
-
-256
-00:22:17,120 --> 00:22:19,560
-[Sina] They actually think about accessibility
-more than I do
-
-257
-00:22:19,560 --> 00:22:20,340
-[Laughter]
-
-258
-00:22:20,340 --> 00:22:21,840
-[Anna] Possibly true.
-
-259
-00:22:21,840 --> 00:22:24,340
-[Susan] Because we're learning
-
-260
-00:22:24,340 --> 00:22:31,760
-[Anna] We're learning, we're veraciously consuming information. So one of the things I do here
-
-261
-00:22:31,760 --> 00:22:36,780
-at the museum is the video production, overseeing the video production. And so we were interviewing
-
-262
-00:22:36,780 --> 00:22:42,240
-Jack Whitten who actually has a show at the Walker right now, I think it's still up
-
-263
-00:22:42,240 --> 00:22:47,780
-and is in our collection. And so he was in town, and we wanted to interview him while he was in town.
-
-264
-00:22:47,780 --> 00:22:53,320
-about the piece of art in our collection which is a painting. It's a very abstract painting
-
-265
-00:22:53,320 --> 00:23:00,700
-and I thought as an exercise, I'll ask him to describe his own painting, what are the colors,
-
-266
-00:23:00,700 --> 00:23:11,180
-how would you describe this to someone who couldn't see it. And he did a sort of poetic, physical description
-
-267
-00:23:11,180 --> 00:23:18,240
-of the painting, but then immediately digressed into this story, bringing tears to his eyes,
-
-268
-00:23:18,240 --> 00:23:24,600
-of having an exhibition where he gave permission to the registrars to let people touch his paintings
-
-269
-00:23:24,600 --> 00:23:30,180
-and so a blind tour came through and they were able to touch his paintings and feel all of the surfaces
-
-270
-00:23:30,180 --> 00:23:35,620
-because there are these very flat swaths of paint that have been, he calls it a developer
-
-271
-00:23:35,620 --> 00:23:41,020
-but he drags across the canvas that makes the colors blend together in a peculiar way
-
-272
-00:23:41,020 --> 00:23:45,800
-and there's a hard stop at the end so there's a bit of texture, so there's this smooth surface
-
-273
-00:23:45,800 --> 00:23:53,620
-with all kinds of drys made into the surface until you hit the edge and it was really like
-
-274
-00:23:53,620 --> 00:23:59,520
-to hear an artist open up and talk about their work in a way that they wouldn't normally in an interview
-
-275
-00:23:59,520 --> 00:24:05,720
-it was fantastic. And so these kinds of experiences are constantly opening up here.
-
-276
-00:24:05,720 --> 00:24:15,540
-[Susan] We have all of these fantasies. We have this idea that we might combine these descriptions with
-
-277
-00:24:15,540 --> 00:24:21,040
-sign language, which we're learning about, because, again, just beginning to learn, and
-
-278
-00:24:21,040 --> 00:24:30,260
-as we groom signers, who are especially dramatic, because they all seem to be destined for the theater
-
-279
-00:24:30,260 --> 00:24:35,800
-we had this idea that it would be really kind of cool to see these descriptions acted out
-
-280
-00:24:35,800 --> 00:24:47,360
-or at least signed. There's a lot to it that allows us to think about interpreting pictures
-
-281
-00:24:47,360 --> 00:24:52,160
-in many many dimensions that we were expecting. Because honestly, most museums think
-
-282
-00:24:52,160 --> 00:24:57,020
-this is the dullest thing we could possibly do with your time.
-
-283
-00:24:57,020 --> 00:24:57,900
-[Sina] We changed that.
-
-284
-00:24:57,900 --> 00:24:58,660
-[Susan] We changed that.
-
-285
-00:24:58,660 --> 00:25:00,680
-[SIna] We had some questions in the middle, I think.
-
-286
-00:25:00,680 --> 00:25:05,220
-[Elizabeth] Oh, I had a question. I was just very interested. You had mentioned that you got a
-
-287
-00:25:05,220 --> 00:25:11,100
-really good response when you sent out emails and I am wondering, my immediate thought was
-
-288
-00:25:11,100 --> 00:25:19,720
-you got that really good response probably because all of your people are very engaged and really proud of
-
-289
-00:25:19,720 --> 00:25:23,180
-the place that they work. Would you say that would be the case?
-
-290
-00:25:23,180 --> 00:25:29,100
-[Susan] Yes, but I don't think they necessarily ...  you're going to assume that they are going to be proud
-
-291
-00:25:29,100 --> 00:25:34,120
-because it's an art museum or because they are inherently creative. And I think there is a lot of that.
-
-292
-00:25:34,120 --> 00:25:41,740
-But I think there is also the sense of ... people working at non-profits are often in it because they wanted to be
-
-293
-00:25:41,740 --> 00:25:48,660
-in a place that is just doing good. And I think that the accessibility aspect of this,
-
-294
-00:25:48,660 --> 00:25:58,840
-serving underserved communities, offering something that, to people who we've basically we've closed
-
-295
-00:25:58,840 --> 00:26:06,400
-our doors to in the past because, you know, to hear Sina talk about, there's not a lot for a blind person
-
-296
-00:26:06,400 --> 00:26:14,740
-in this building, is something that a lot of them respond to, totally independently to the art.
-
-297
-00:26:14,740 --> 00:26:21,440
-[Sina] And, just to set the stage here, the first time, if it wasn't all, oh my goodness,
-
-298
-00:26:21,440 --> 00:26:25,900
-ramp up to five hundred descriptions and then a thousand, there was one spreadsheet
-
-299
-00:26:25,900 --> 00:26:31,260
-Anna sent out I think and it was to elicit responses, this is when the software was still being developed
-
-300
-00:26:31,260 --> 00:26:36,180
-so that flow didn't exist, so they just wanted to gather it in a spreadsheet, and it came back empty
-
-301
-00:26:36,180 --> 00:26:44,620
-like empty, zero. So, it really is a story about going from zero to sixty, it's not just everything was
-
-302
-00:26:44,620 --> 00:26:52,740
-sunflowers and meadows, from day one. But I think part of that was just, nothing to do with accessibility
-
-303
-00:26:52,740 --> 00:26:59,360
-to be honest with you, its basic social engineering, get people involved, get them involved in groups
-
-304
-00:26:59,360 --> 00:27:05,180
-do the partner exercises, have the descriptions be meaningful, so when we had conference calls
-
-305
-00:27:05,180 --> 00:27:10,320
-and they were describing things, one of the things I remember really clearly from those calls
-
-306
-00:27:10,320 --> 00:27:15,200
-is that folks would read the descriptions that they had authored. And it was really cool.
-
-307
-00:27:15,200 --> 00:27:22,300
-And when they were reading it, there honestly was very little, at least I felt, maybe they were just
-
-308
-00:27:22,300 --> 00:27:28,920
-looking really angrily at the speakerphone, so Susan can tell me, but I didn't really feel a lot of pride of ownership
-
-309
-00:27:28,920 --> 00:27:34,280
-in the bad sense of that word. In other words, I don't care of you can't see it, it's my awesome description.
-
-310
-00:27:34,280 --> 00:27:41,000
-It was a lot more like I never thought about mentioning her race before, or that's really interesting
-
-311
-00:27:41,000 --> 00:27:46,300
-should we use the word naked or should we use the nude and what are the implications there in
-
-312
-00:27:46,300 --> 00:27:51,040
-what if it's an erotic painting? So there were all these interesting discussions that came out of
-
-313
-00:27:51,040 --> 00:27:59,920
-actually thinking about this for the first time, so the thing I appreciate most about this particular group of people
-
-314
-00:27:59,920 --> 00:28:07,520
-a lot of them are not in the room right now, is the ability to bring deep thought to something
-
-315
-00:28:07,520 --> 00:28:11,620
-to take it seriously, and then everything else stems from there in my mind.
-
-316
-00:28:11,620 --> 00:28:16,880
-[Anna] And, Sina just demonstrated another factor, which is, having the trainings with Sina
-
-317
-00:28:16,880 --> 00:28:22,960
-that means therefore connecting people with someone who can directly praise them
-
-318
-00:28:22,960 --> 00:28:28,340
-and thank them, was a huge factor, because we had a room full of people working together
-
-319
-00:28:28,340 --> 00:28:35,600
-they'd do some descriptions and then Sina would end every call with "and by the way, and not as a consultant,
-
-320
-00:28:35,600 --> 00:28:44,740
-thank you." And I think that is such a huge motivator. You could feel the other kind of cry in the room.
-
-321
-00:28:44,740 --> 00:28:46,180
-[Sina] Right, right.
+**[Sina]:** You have the right groups. So the number of descriptions that these guys have been able to pull off is ... it started after the first three, four hundred?
+
+**[Anna]:** Yeah.
+
+**[Sina]:** And it is over one thousand now?
+
+**[Anna]:** Actually what was amazing, yeah, it's well over one thousand now. What was amazing was, adding the counter, one of the features I asked Sina to incorporate into the software was a counter, so you could see how many descriptions were in there. How many images were described. To encourage people to keep going.
+
+**[Susan]:** There was even some game theory in there.
+
+**[Anna]:** Some departments wanted it to become competitive, so there's a counter. And so once the counter was active, we had another Coyote group writing session. We had laptops set up in this room again, set up around the room and everyone was writing in pairs. And I was just refreshing the homepage of Coyote every fifteen minutes and watching the number go up. And in an hour we went from three or four hundred to over a thousand. And now we're over a thousand and counting.
+
+**[Susan]:** Of which a very large number are unreviewed because the people who are supposed to be reviewing are ...
+
+**[Sina]:** ... sitting on either side of me.
+
+**[Laughter]**
+
+**[Sina]** But that does bring up a good point about the review process. So I mentioned workflow earlier, but kind of casually and didn't define it. So this idea of putting descriptions on images is one thing. Having it really be, again, going back to having accessibility live, I've said this a couple times today, having accessibility live as a first class citizen, as part of projects here, projects plural, means that these descriptions get edited, content matters. I've seen a lot of upsides, I'm sure you guys have too. My most favorite is accessibility being misspelled. Usually there's a "C" or an "S" missing. And screen readers say it funny. Which is ironic. But that's part of the process here.
+
+Susan just ... the amount of passion and care that goes into digital media here also goes into the accessibility quality. The quality of the content for accessibility. And the descriptions, actually do you have one? Do you want to read? I can have a screen reader do this as well, and you can go to mcachicago.org and a lot of the graphics there are. Oh one quick note, for the folks familiar with short and long description. Right now, just for now, and I will explain why I am saying this in a second, the long descriptions, the lengthier ones if you will, they are stored as the alt text of the image.
+
+Yes, we definitely know that alt text is traditionally done ... 120, 200 characters or less, but the reason we did that was for maximum compatibility, and then later on, in future cycles and iterations of the development cycle for the website, we're actually going to roll out ... I can talk about that, right?
+
+**[Susan]:** Yes, of course.
+
+**[Sina]:** We're going to roll out a feature whereby we're making visible, and I mean that in every sense of the word, not only to screen reader users but also to every user who can see, and what not, the long descriptions and the short descriptions of these images. And the reason that matters is because of something that Susan always brings up, which is when you start talking to people about this stuff and start talking to them about describing it, or whether, just the fact that the stuff exists, say "Oh, I want to see that," and right now it's mainly accessible to using the screen reader, or if you check some things in your browser but we want to make sure that is exposed to all users accessibly, so sure it will be some short descriptions, an alt and a nice widget to expose the longer descriptions for keyboard users but for mouse users and everybody as well so that everybody can benefit from those descriptions.
+
+**[Anna]:** Because, ostensibly its close viewing of an artwork, and that's been the most exciting part, it opens up these artworks. So, I'm going to read a description written by a curator at the MCA of a painting. I will perhaps show it and you can decide.
+
+**[Laughter]**
+
+**[Anna]:** and this is a long description. 
+
+This painting, a realistic portrait, depicts a young African-American woman in a stylish orange coat. In the lower right corner of the image, she holds a thin paint brush in her hand, alongside a flat palette covered in thicks dabs of paint in a variety of colors. The square composition centers on her face and upper body and she looks directly out at the viewer with a calm but commanding gaze. At first, the dark black hue of her skin almost blends in with the black wall that is directly behind her on the left. But her dark complexion also contrasts with the white background of a partially finished painting that appears behind her on the right. Gradually it becomes evident that she is painting a self portrait using a paint by numbers system. On the easel beside her, the figure's face and body are divided up into smaller shapes, each one outlined in light blue. She has filled in a few of them already with bright orange or mint green from her palette, but she isn't strictly following actual colors of her own appearance.
+
+**[Susan]:** So, Anna said that a curator wrote that, I think that was, oh, sorry, microphone. I think it was interesting about this is that, that isn't ... though it was written by a curator, that's not actually how our curators write.
+
+**[Anna]:** Not at all.
+
+**[Susan]:** Before I came here, I worked at the Metropolitan Museum of Art and we had a phrase that we used and it always said disabling, which was that, what you, this is a terrible terrible text, it's art history for the blind.
+
+**[Laughter]**
+
+**[Susan]:** It said exactly that. The sky is blue, the grass is green, the pretty girl is lying on the beach, it was purely descriptive and that was considered to be somehow lesser because it wasn't interpretive, it wasn't scholarly and it didn't contain research
+
+**[Sina]:** As opposed to something which I might call rather useless from a vision point of view which is that we can experience a rich plethora of colors the artists youthful age.
+
+**[Laughter]**
+
+**[Susan]:** But I understand that person who wrote this would have been raised to disdain art, his grief for the blind, just that kind of description, and he has been one of our most enthusiastic participants because he has found in doing this some value for his practice that has ... enforcing him to empathize with the point of view of somebody who doesn't come to works of art with knowledge that has been gained over years and years and years of study and it's been really exciting to watch him sort of raise the idea that there are things to be said in simple description of the sort that might actually be as valuable as the writing that he does that takes five years of research. So we're really excited about how this work is done and that it's something that is going to bring value to our users and our visitors, but it's also really helping our staff to think about what we do and why.
+
+**[Sina]:** And not only to help the staff but to help someone who, has great twenty-twenty vision and can see the painting just fine. And I read the description and say you know, I never noticed X, Y and Z. I never actually picked up on X, Y, and Z and that is a really enriching experience not only for someone who might be experiencing it for the first time, but there's this, in the gaming world you would call it replay value, right? So there's this quality though of using accessibility and inclusive design to increase the replay value of visiting an art museum and experiencing these works of art. Yeah sure, you can still see it again and you might get something different out of it of course because that's one of the essences of art but having this description almost repositions you to appreciate that visual information even if you can see in a different way.
+
+**[Susan]:** This is part of the reason why when we built Coyote, it was important for us to allow for multiple description. Which again is one of those, it's kind of sacrilegious, in this institution. There should be a kind of...
+
+**[Sina]:** Thing
+
+**[Susan]:** Absolutely, the right description. I don't believe in that. But it's really difficult to change a culture that sort of strives for an absolute perfect, and we are ... so this is one of the reasons, by the way, I realize that it sounds really icky, that I was saying we had to have these things, they have to be edited, there can't be subject and predicates because Sina suggested that we could do without verbs ... and articles.
+
+**[Anna]:** No it was articles.
+
+**[Susan]:** No, yeah, okay, definitely not verbs. Also without articles. But ...
+
+**[Sina]:** For short, just to be clear.
+
+**[Laughter]**
+
+**[Susan]:** Part of ... yes, for short descriptions. Very well. Part of the reason why we're being a little bit cautious about the editorial pieces is that I'm a little afraid that we're just beginning to tip the culture again toward, it's okay for visitor services staff to describe something because they spent all of this time talking to visitors and trying to understand what they want to know, what they don't see this is the type of interaction that curators don't have so they bring that experience to the description it's pretty exciting to see the ways that the different members of the MCA team are learning from each other about our interaction with the public. That was an unexpected side effect of this whole process.
+
+**[Sina]:** I think we want to phrase this a little bit more as a discussion, without raising your hand because that's useless for me, but ... any questions?
+
+**[Susan]:** Could you just tap your hand
+
+**[Laughter]**
+
+**[Sina]:** Or just speak up ... so many burning questions. But any questions or comments on stuff that we discussed so far? I'm totally commandeering ... you guys ok with that?
+
+**[Susan]:** Yeah
+
+**[Anna]:** Of course
+
+**[Sina]:** I'm being arbitrary, you spoke up first, in the front, to my right ...
+
+**[Renee]:** Have any of your artists objected to defining, describing their work? My daughter's a choreographer and she will not say what it means.
+
+**[Susan]:** We recently published a little factoid about the number of works in our collection that have the title of "untitled" and its a very significant number.
+
+**[Anna]:** Twenty one percent
+
+**[Sina]:** Wow!
+
+**[Anna]** **[Laughing]:** Contemporary art.
+
+**[Susan]:** And we published alongside sort of a note that artists will frequently title something untitled so as to allow for interpretation on the part of the viewer, so yeah that's one reason why artists may object to...
+
+**[Renee]:** That was my point.
+
+**[Susan]:** Yes, but the other reason is we might frankly be wrong. We haven't heard it yet but then we haven't been engaging with them. I suspect that'll absolutely happen, but I also think there will be plenty that don't mind. But this is what you have to do.
+
+**[Sina]:** So Anna has a really good story. I mean if you want to tell it.
+
+**[Anna]:** About the painter?
+
+**[Sina]** Yeah.
+
+**[Anna]:** Yeah, so Sina got us all thinking about this all the time. The process of describing ...
+
+**[Sina]:** They actually think about accessibility more than I do.
+
+**[Laughter]**
+
+**[Anna]:** Possibly true.
+
+**[Susan]:** Because we're learning.
+
+**[Anna]:** We're learning, we're veraciously consuming information. So one of the things I do here at the museum is the video production, overseeing the video production. And so we were interviewing Jack Whitten who actually has a show at the Walker right now, I think it's still up and is in our collection. And so he was in town, and we wanted to interview him while he was in town, about the piece of art in our collection which is a painting. It's a very abstract painting and I thought as an exercise, I'll ask him to describe his own painting, what are the colors, how would you describe this to someone who couldn't see it. And he did a sort of poetic, physical description of the painting, but then immediately digressed into this story, bringing tears to his eyes, of having an exhibition where he gave permission to the registrars to let people touch his paintings and so a blind tour came through and they were able to touch his paintings and feel all of the surfaces because there are these very flat swaths of paint that have been, he calls it a developer but he drags across the canvas that makes the colors blend together in a peculiar way and there's a hard stop at the end so there's a bit of texture, so there's this smooth surface with all kinds of drys made into the surface until you hit the edge and it was really like to hear an artist open up and talk about their work in a way that they wouldn't normally in an interview it was fantastic. And so these kinds of experiences are constantly opening up here.
+
+**[Susan]:** We have all of these fantasies. We have this idea that we might combine these descriptions with sign language, which we're learning about, because, again, just beginning to learn, and as we groom signers, who are especially dramatic, because they all seem to be destined for the theater we had this idea that it would be really kind of cool to see these descriptions acted out or at least signed. There's a lot to it that allows us to think about interpreting pictures in many many dimensions that we were expecting. Because honestly, most museums think this is the dullest thing we could possibly do with your time.
+
+**[Sina]:** We changed that.
+
+**[Susan]:** We changed that.
+
+**[Sina]:** We had some questions in the middle, I think.
+
+**[Elizabeth]:** Oh, I had a question. I was just very interested. You had mentioned that you got a really good response when you sent out emails and I am wondering, my immediate thought was you got that really good response probably because all of your people are very engaged and really proud of the place that they work. Would you say that would be the case?
+
+**[Susan]:** Yes, but I don't think they necessarily ... you're going to assume that they are going to be proud because it's an art museum or because they are inherently creative. And I think there is a lot of that. But I think there is also the sense of ... people working at non-profits are often in it because they wanted to be in a place that is just doing good. And I think that the accessibility aspect of this, serving underserved communities, offering something that, to people who we've basically we've closed our doors to in the past because, you know, to hear Sina talk about, there's not a lot for a blind person in this building, is something that a lot of them respond to, totally independently to the art.
+
+**[Sina]:** And, just to set the stage here, the first time, if it wasn't all, oh my goodness, ramp up to five hundred descriptions and then a thousand, there was one spreadsheet Anna sent out I think and it was to elicit responses, this is when the software was still being developed so that flow didn't exist, so they just wanted to gather it in a spreadsheet, and it came back empty like empty, zero. So, it really is a story about going from zero to sixty, it's not just everything was sunflowers and meadows, from day one. But I think part of that was just, nothing to do with accessibility to be honest with you, its basic social engineering, get people involved, get them involved in groups do the partner exercises, have the descriptions be meaningful, so when we had conference calls and they were describing things, one of the things I remember really clearly from those calls is that folks would read the descriptions that they had authored. And it was really cool. And when they were reading it, there honestly was very little, at least I felt, maybe they were just looking really angrily at the speakerphone, so Susan can tell me, but I didn't really feel a lot of pride of ownership in the bad sense of that word. In other words, I don't care of you can't see it, it's my awesome description. It was a lot more like I never thought about mentioning her race before, or that's really interesting should we use the word naked or should we use the nude and what are the implications there in what if it's an erotic painting? So there were all these interesting discussions that came out of actually thinking about this for the first time, so the thing I appreciate most about this particular group of people a lot of them are not in the room right now, is the ability to bring deep thought to something to take it seriously, and then everything else stems from there in my mind.
+
+**[Anna]:** And, Sina just demonstrated another factor, which is, having the trainings with Sina that means therefore connecting people with someone who can directly praise them and thank them, was a huge factor, because we had a room full of people working together they'd do some descriptions and then Sina would end every call with "and by the way, and not as a consultant, thank you." And I think that is such a huge motivator. You could feel the other kind of cry in the room.
+
+**[Sina]:** Right, right.
 
 322
 00:28:46,180 --> 00:28:58,480
@@ -3412,23 +2659,13 @@ when you get home or whenever you feel like it, please go back to the meetup sit
 01:25:30,600 --> 01:25:35,940
 and please provide feedback, you know, was this helpful, was it not, was it missing something.
 
-938
-01:25:35,940 --> 01:25:37,960
-[Susan] Well, don't rate us if it wasn't helpful.
+**[Susan]:** Well, don't rate us if it wasn't helpful.
 
-939
-01:25:37,960 --> 01:25:40,320
-[Laughter]
+**[Laughter]**
 
-940
-01:25:40,320 --> 01:25:46,000
 More from the meetup side rather than the content side. Thank you so very much.
 
-941
-01:25:46,000 --> 01:25:47,860
-[Susan, Sina & Anna] Thank you.
+**[Susan, Sina & Anna]:** Thank you.
 
-942
-01:25:47,860 --> 01:25:51,540
-[Applause]
+**[Applause]**
 
