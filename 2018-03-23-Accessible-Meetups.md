@@ -136,43 +136,17 @@ Like they did accessibility speed dating at one of our events. So it's just like
 
 *[Dennis]:* But luckily enough, after the second event at the bar, we had someone from Razorfish, who said "Hey, I can put you in our conference room, after hours." And, basically, the rest is history after that. We've worked with various groups, individuals and not ... So, one thing I would say is ... even though it's slightly dealing with the devil, sometimes, as you might look at it, look for a recruitment firm. They love to have their talent, UX, developers, and stuff, come in to their organization if they have the facilities, they would be more than happy to host your event. Now, there's pros and cons ... they're going to want to sell ... so you will have to manage that, maybe, depending on the recruitment firm. But that's one way to sort of "get in," if you're having problems.
 
-*[Billy]:* Schools, dev shops, those little bootcamp ... we have an organization in Toronto called Hacker U.
+*[Billy]:* Schools, dev shops, those little bootcamp ... we have an organization in Toronto called Hacker U. They offer us their classrooms after hours as well, so there's always opportunities. You just have to dig a little bit. You ran out of a library?
 
-253
-00:19:01,660 --> 00:19:06,100
-They offer us their classrooms after hours as well, so there's always opportunities.
+*[John Croston III]:* We ran for the first 4 or 5 years out of a public library. And now we're at Blackboard, we're there all the time.
 
-254
-00:19:06,880 --> 00:19:08,420
-You just have to dig a little bit.
+*[Audience member]:* Seattle too.
 
-255
-00:19:09,240 --> 00:19:10,640
-You ran out of a library?
+*[John Croston III]:* Seattle is out of a library too.
 
-256
-00:19:10,640 --> 00:19:13,860
-[John Croston III]: We ran for the first 4 or 5 years out of a public library.
+*[Billy]:* So libraries are an option, any kind of public space.
 
-257
-00:19:14,020 --> 00:19:16,280
-And now we're at Blackboard, we're there all the time.
-
-258
-00:19:16,280 --> 00:19:17,700
-[Audience member]: Seattle too.
-
-259
-00:19:17,700 --> 00:19:19,700
-[John Croston III]: Seattle is out of a library too.
-
-260
-00:19:19,700 --> 00:19:21,960
-[Billy]: So libraries are an option, any kind of public space.
-
-261
-00:19:23,220 --> 00:19:28,060
-[Dennis]: The one thing I will say is, you might feel relieved once you've found a venue,
+*[Dennis]:* The one thing I will say is, you might feel relieved once you've found a venue,
 
 262
 00:19:28,580 --> 00:19:31,220
