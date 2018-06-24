@@ -2,139 +2,141 @@
 Billy Gregory and Dennis Deacon
 March 23, 2018
 
-[Presenter] Thanks very much. Enjoy the show.
+*[Presenter]:* Thanks very much. Enjoy the show.
 
-[Dennis Deacon]: Notice how he called it a show?
+*[Dennis Deacon]:* Notice how he called it a show?
 
-[Laughter]
+*[Laughter]*
 
-[Dennis]: Probably because you're here.
+*[Dennis]:* Probably because you're here.
 
-[Billy Gregory]: I resemble that remark.
+*[Billy Gregory]:* I resemble that remark.
 
-[Dennis]: So, hello everyone. Thank you for attending today's session on accessibility meetups. How many people are currently in an accessibility meetup? Raise your hands ...
+*[Dennis]:* So, hello everyone. Thank you for attending today's session on accessibility meetups. How many people are currently in an accessibility meetup? Raise your hands ...
 
-[Billy]: Wow!
+*[Billy]:* Wow!
 
-[Dennis]: We'll do more polling a little bit later.
+*[Dennis]:* We'll do more polling a little bit later.
 
 My name is Dennis Deacon. I'm an accessibility engineer with The Paciello Group.
 
-My name is Billy Gregory. I am the Director of Training for The Paciello Group.
+*[Billy]:* My name is Billy Gregory. I am the Director of Training for The Paciello Group.
 
-[Dennis]: And what we've decided to do today is basically to share stories of our interactions with our meetups. I run the meetup in Chicago, Illinois in the US ...
+*[Dennis]:* And what we've decided to do today is basically to share stories of our interactions with our meetups. I run the meetup in Chicago, Illinois in the US ...
 
-[Billy]: ... and I am one of the two co-organizers for a11yTO out of Toronto, Canada.
+*[Billy]:* ... and I am one of the two co-organizers for a11yTO out of Toronto, Canada.
 
-We do have a deck. We have an URL for this deck. The URL is g o o dot g l forward slash eight seven capital H lowercase n lowercase w uppercase V. This will be repeated at the end of the presentation. I will say this is not going to be a content-heavy presentation deck.It's more going to be myself and and Billy sharing stories of our experience running meetups.
+*[Dennis]:* We do have a deck. We have an URL for this deck. The URL is g o o dot g l forward slash eight seven capital H lowercase n lowercase w uppercase V. This will be repeated at the end of the presentation. I will say this is not going to be a content-heavy presentation deck.It's more going to be myself and and Billy sharing stories of our experience running meetups.
 
 ## What are Meetups?
 So first off, what are meetups? Does everyone know what a meetup is?
 
-[Billy]: I'd say almost every hand in this room went up when we asked them if they were in one, so ...
+*[Billy]:* I'd say almost every hand in this room went up when we asked them if they were in one, so ...
 
-[Dennis]: Well ...
+*[Dennis]:* Well ...
 
-[Laughter]
+*[Laughter]*
 
-[Dennis]: Depending on the meetup ... I don't know, they drink beer. But, I looked up this definition and it's funny, because I tried to find this definition, I could not find ... I figured Wikipedia, but I couldn't find it. A planned event where like-minded people meet and typically chat over cocktails ... So right there, that concerned me. Who has cocktails? Beer, yes. Whiskey, yes. Cocktails I'm not sure. And listen to a guest speaker. I think that differs from ... I know how I run Chicago. Billy, how would you describe yours?
+*[Dennis]:* Depending on the meetup ... I don't know, they drink beer. But, I looked up this definition and it's funny, because I tried to find this definition, I could not find ... I figured Wikipedia, but I couldn't find it. A planned event where like-minded people meet and typically chat over cocktails ... So right there, that concerned me. Who has cocktails? Beer, yes. Whiskey, yes. Cocktails I'm not sure. And listen to a guest speaker. I think that differs from ... I know how I run Chicago. Billy, how would you describe yours?
 
-[Billy]: Yeah, we definitely don't run it like an episode of Mad Men. So I don't think we have cocktails. But we definitely have the guest speakers. we try to keep a lot of communication and make it more of an event, as opposed to just listening to one person. We want people to interact and mix with each other. We definitely want to have a very strong, social aspect to it.
+*[Billy]:* Yeah, we definitely don't run it like an episode of Mad Men. So I don't think we have cocktails. But we definitely have the guest speakers. we try to keep a lot of communication and make it more of an event, as opposed to just listening to one person. We want people to interact and mix with each other. We definitely want to have a very strong, social aspect to it.
 
-[Dennis]: And it's funny because I think we've tried one social event and we had two people show up, which is why I haven't had great experience with the social aspects of meetups. But I tend to be very awareness and training focused. So I tend to do more presentation style. But I'm trying to bend with that, to mix it up, to keep it fresh. We'll cover that topic a little bit later on in this presentation.
+*[Dennis]:* And it's funny because I think we've tried one social event and we had two people show up, which is why I haven't had great experience with the social aspects of meetups. But I tend to be very awareness and training focused. So I tend to do more presentation style. But I'm trying to bend with that, to mix it up, to keep it fresh. We'll cover that topic a little bit later on in this presentation.
 
 ## Where are they?
 So where are they today? Today, in North America, there are ... I got to look at my notes, 31 known meetups, accessibility meetups. I say "known" because I'm finding about ...  finding out about new meetups every day. I just found out about one in Oslo yesterday. How many people here are members of North American meetups? Raise your hands. Okay, how about International? Oslo, yes! But I mean, there are meetups, accessibility meetups all over the globe. I mean we have them in India, we have them in Australia, even in New Zealand, although it's not as active as that might have thought. The oldest ... now this is going to get controversial.
 
 [Laughter]
 
-[Dennis]: The oldest accessibility meetup is the Sydney accessibility meetup, which was founded in 2010. The controversy because I've been told I'm wrong within the last two days. But for now I'm going with that. The youngest is one that was just started last month in Dublin, Ireland. The largest, I am proud to say, is the one in Chicago, Illinois, and the smallest, again, just starting last month, is the one in Dublin. The average size for accessibility meetups tends to be about 480 people. Did you have anything to add to that?
+*[Dennis]:* The oldest accessibility meetup is the Sydney accessibility meetup, which was founded in 2010. The controversy because I've been told I'm wrong within the last two days. But for now I'm going with that. The youngest is one that was just started last month in Dublin, Ireland. The largest, I am proud to say, is the one in Chicago, Illinois, and the smallest, again, just starting last month, is the one in Dublin. The average size for accessibility meetups tends to be about 480 people. Did you have anything to add to that?
 
-[Billy]: No ... I didn't know you had past Toronto, so we'll see how long you stay the largest.
+*[Billy]:* No ... I didn't know you had past Toronto, so we'll see how long you stay the largest.
 
 [Laughter]
 
-[Dennis]: Okay, can I say, there is a competitive aspect to this. There's a reason ... it's not just for ego
+*[Dennis]:* Okay, can I say, there is a competitive aspect to this. There's a reason ... it's not just for ego
 and stuff like that. It's actually the larger we get, the more attractive we are to sponsors, which means we can have ... offer richer meetups and events.
 
-[Billy]: Absolutely.
+*[Billy]:* Absolutely.
 
 So, my question to you ... you didn't actually create or start the Toronto meetup, but how did you get started with it?
 
-[Billy]: So I just ... I didn't create it, Jennison Asuncion actually created the Toronto Accessibility meetup with George Zamfir. I was present at sort of the first meetup, and I was sort of hovering around them like a little fan boy for the first half dozen or so. I actually helped them find the first perfect meetup location, so I've sort of been indirectly involved with their organization since Day One. But I started to stumble into a GAAD event and it was actually the first a11yTO meetup, corresponding to the first ever Global Accessibility Awareness Day. I guess Jennison was just in the launching stuff kind of mood.
+*[Billy]:* So I just ... I didn't create it, Jennison Asuncion actually created the Toronto Accessibility meetup with George Zamfir. I was present at sort of the first meetup, and I was sort of hovering around them like a little fan boy for the first half dozen or so. I actually helped them find the first perfect meetup location, so I've sort of been indirectly involved with their organization since Day One. But I started to stumble into a GAAD event and it was actually the first a11yTO meetup, corresponding to the first ever Global Accessibility Awareness Day. I guess Jennison was just in the launching stuff kind of mood.
 
-[Dennis]: As he does.
+*[Dennis]:* As he does.
 
-[Billy]: Yeah, so he'd launched both of them on the same day. I was there. And then when Jennison quit Canada, I took over for him. But just it back up a little bit about one oldest meetup, we should single out John Croston in the room, who actually ran one of the first accessibility camps and meetup groups in the Washington DC area, so ... John is actually like the Godfather of all of our groups.
+*[Billy]:* Yeah, so he'd launched both of them on the same day. I was there. And then when Jennison quit Canada, I took over for him. 
 
-[John]: Thank you, sir.
+But just it back up a little bit about one oldest meetup, we should single out John Croston in the room, who actually ran one of the first accessibility camps and meetup groups in the Washington DC area, so ... John is actually like the Godfather of all of our groups.
 
-[Billy]: Proper credit.
+*[John]:* Thank you, sir.
 
-[Dennis]: The only reason why I did not announce him as being the oldest is because he didn't respond to the survey I sent out just before the event. And of course, I have no memory whatsoever.
+*[Billy]:* Proper credit.
+
+*[Dennis]:* The only reason why I did not announce him as being the oldest is because he didn't respond to the survey I sent out just before the event. And of course, I have no memory whatsoever.
 
 So, I started the Chicago meetup out of pure selfishness. At the time, four years ago, I was working for a major airline located in the Chicago area who flies the friendly skies ... say no more. And of course, with airlines, we needed ... we were mandated by the Department of Transportation to be accessible within three years. So I wanted to latch on. I actually wanted to move into UX from front-end development, and I saw that as my bridge. Since then, of course, I've decided to stay in the bridge, because I like that more than anything else. But, I looked around for six months for an accessibility meetup in the Chicago area. And since I couldn't find any, as they say, create it yourself. So, on the day after Christmas, in a shopping outlet mall, while my wife was shopping, I'm in the car, creating the Chicago Meetup on meetup.com. And sort of the rest is history. Been loving it ever since.
 
 ## How to start a meetup?
 So, how to start and grow an accessibility meetup. I say the first thing you need to do is just do it. If you have no accessibility meetup in your local area, create one. I mean I'm not going to promote meetup.com and they're a great platform, there's other ways to do it. I know John has used Eventbrite. Do it how ever works for you. The advice that we're giving, hopefully I'm not speaking for you, but the advice you're giving has worked for us, and we want to share with everyone, but you'll find that in your area, in your locale, different things work. For instance, in Sydney Australia, they have their meetups in the morning, before work, and that works great for them. I never would have thought of it, but as I learn more about them, that's interesting. The one thing, and John can attest to this, you should be up here ... is that you're going to need help.
 
-[John]: Yes.
+*[John]:* Yes.
 
-[Billy]: You need a team.
+*[Billy]:* You need a team.
 
-[Dennis]: You need a team. You can't do it alone. I did it alone for almost three years and it was a lot of hard work. And I desperately looked for assistance to help based on their areas of strength. I brought on someone who's strong with social media. Now they handle all the social media stuff. I handled ... brought on someone who handles events, who does very well with events. This morning, I introduced a new co-organizer, who's going to bring a wealth of richness to our meetup. So, you just have to have help and it's okay. In fact it engages your membership.
+*[Dennis]:* You need a team. You can't do it alone. I did it alone for almost three years and it was a lot of hard work. And I desperately looked for assistance to help based on their areas of strength. I brought on someone who's strong with social media. Now they handle all the social media stuff. I handled ... brought on someone who handles events, who does very well with events. This morning, I introduced a new co-organizer, who's going to bring a wealth of richness to our meetup. So, you just have to have help and it's okay. In fact it engages your membership.
 
-[Billy]: Absolutely that was something we acknowledged pretty early on once we took off. We had this sort of revolving door of co-orgs at a11yTO. One, because people move on. It's impossible to think that somebody can start a meetup and stay with it forever. It's an unrealistic expectation that anyone can donate that much of their life for that long. Because these do take a lot of time. I would estimate I'd probably spend a couple of thousand man-hours a year of my own time, on my own dime, organizing these events. So we added a number of people to our team a while back and actually, now that we have our conference in Toronto as well, which is under a11yTO, Oscar and I, who are the two co-orgs, have actually stopped or stepped back from organizing the monthly events. We hand that over to Lisa Folkerson and Nell Chitty of Toronto and they're doing a fantastic job. They've introduced a whole bunch of ... sort of networking kind of games to keep things fresh.
+*[Billy]:* Absolutely that was something we acknowledged pretty early on once we took off. We had this sort of revolving door of co-orgs at a11yTO. One, because people move on. It's impossible to think that somebody can start a meetup and stay with it forever. It's an unrealistic expectation that anyone can donate that much of their life for that long. Because these do take a lot of time. I would estimate I'd probably spend a couple of thousand man-hours a year of my own time, on my own dime, organizing these events. So we added a number of people to our team a while back and actually, now that we have our conference in Toronto as well, which is under a11yTO, Oscar and I, who are the two co-orgs, have actually stopped or stepped back from organizing the monthly events. We hand that over to Lisa Folkerson and Nell Chitty of Toronto and they're doing a fantastic job. They've introduced a whole bunch of ... sort of networking kind of games to keep things fresh.
 
 Like they did accessibility speed dating at one of our events. So it's just like speed networking. So basically every minute or two you would move on to a new person, it's just a way to sort of make the group interact with each other. So, you know, just keeping things fresh. I think we have a game of accessibility "Never have I ever" coming up. Which I mean you can think of the things that you had never seen or whatever when looking at it terribly inaccessible website. So we always try to find new ways of getting the ... forcing the members to interact with each other.
 
-[Dennis]: How many organizers do you need ... to help out? It just depends. I think if you have one it's better than none. We found that on average most meetups have about three total organizers, And I think that, obviously that works. There's some that have seven and there's several that only have one. And I would just say that if you only have one ...
+*[Dennis]:* How many organizers do you need ... to help out? It just depends. I think if you have one it's better than none. We found that on average most meetups have about three total organizers, And I think that, obviously that works. There's some that have seven and there's several that only have one. And I would just say that if you only have one ...
 
-[John]: Get help.
+*[John]:* Get help.
 
-[Dennis]: Get Help. Get that support. How have you gotten the word out about the Toronto meetup?
+*[Dennis]:* Get Help. Get that support. How have you gotten the word out about the Toronto meetup?
 
-[Billy]: I think we're pretty lucky in Toronto in that we have a very rich community. There's a lot of developers there and the camp definitely helps get word out about the meetups. And we're just we sort of have this built-in interest in the city. So I mean, we spam a lot on Twitter. We're very, you know, active on social media. We're not afraid to pay that extra $10 to boost a Facebook post or whatever we need to do to get more people out. But we also try to keep the events fresh enough that it brings new people all the time and we're lucky in that we have our core set of regulars that come out all the time, and then we have ... we always see new faces. So about 50% of every meetup is new people, which is pretty awesome. Hopefully they come back.
+*[Billy]:* I think we're pretty lucky in Toronto in that we have a very rich community. There's a lot of developers there and the camp definitely helps get word out about the meetups. And we're just we sort of have this built-in interest in the city. So I mean, we spam a lot on Twitter. We're very, you know, active on social media. We're not afraid to pay that extra $10 to boost a Facebook post or whatever we need to do to get more people out. But we also try to keep the events fresh enough that it brings new people all the time and we're lucky in that we have our core set of regulars that come out all the time, and then we have ... we always see new faces. So about 50% of every meetup is new people, which is pretty awesome. Hopefully they come back.
 
-[Dennis Lembrée]: You mentioned Twitter. I just wanted to say, if your active on Twitter and you have an accessibility meetup or you're looking for one, WebAxe has an access meetup list, a Twiiter list. So, it has a bunch of accessibility meetup twitters on the list. So, if you want to check that out, or let me know if you want to be on that list.
+*[Dennis Lembrée]:* You mentioned Twitter. I just wanted to say, if your active on Twitter and you have an accessibility meetup or you're looking for one, WebAxe has an access meetup list, a Twiiter list. So, it has a bunch of accessibility meetup twitters on the list. So, if you want to check that out, or let me know if you want to be on that list.
 
-[Billy]: Cool. So for those who couldn't hear Dennis, he said on the WebAxe dot com? Dot org?
+*[Billy]:* Cool. So for those who couldn't hear Dennis, he said on the WebAxe dot com? Dot org?
 
-[Dennis Lembrée]: Well, on Twitter.
+*[Dennis Lembrée]:* Well, on Twitter.
 
-[Billy]: Oh, on Twitter. So Twitter. Follow him, he's got a list of accessibility meetup groups, so you can look there or you can ...
+*[Billy]:* Oh, on Twitter. So Twitter. Follow him, he's got a list of accessibility meetup groups, so you can look there or you can ...
 
-[Dennis]: I'm going to selfishly ask you about ... recently on Twitter, you started adding these graphics.
+*[Dennis]:* I'm going to selfishly ask you about ... recently on Twitter, you started adding these graphics.
 
-[Billy]: Yeah ...
+*[Billy]:* Yeah ...
 
-[Dennis]: They're very eye catching and I think that's one of the benefits. Can you just tell a little story about ... the insight as to why you went in that direction?
+*[Dennis]:* They're very eye catching and I think that's one of the benefits. Can you just tell a little story about ... the insight as to why you went in that direction?
 
-[Billy]: We added a wonderfully talented woman named Nell Chitty to our team. And the first thing she did was say "your social media sucks! I want to do this." So she just started adding all of these graphics, just to make things pop out a little bit. It actually started around the time we did conference, because we needed to sell tickets, in order to afford it. So she started adding all these little graphics and then we just went with it. We were like, you had just take over social media and do what you need to do, this is fantastic. So that's worked out well. Now I think she actually just released like a little, and actual little video, I think for one of our last meetups. So she's, yeah, she's just doing all kinds of great stuff.
+*[Billy]:* We added a wonderfully talented woman named Nell Chitty to our team. And the first thing she did was say "your social media sucks! I want to do this." So she just started adding all of these graphics, just to make things pop out a little bit. It actually started around the time we did conference, because we needed to sell tickets, in order to afford it. So she started adding all these little graphics and then we just went with it. We were like, you had just take over social media and do what you need to do, this is fantastic. So that's worked out well. Now I think she actually just released like a little, and actual little video, I think for one of our last meetups. So she's, yeah, she's just doing all kinds of great stuff.
 
-[Dennis]: We started ... I'm a Twitterhead, always have been, as long as I've been doing web stuff. And I was doing the social media for the first couple years. I think for me it was more about frequency than quality. Which is why I have someone taking over it now. But basically I use Twitter for everything, for promotion, for awareness, as well as building our membership. I have used, shamelessly, Twitter Advanced Search, to follow, from the meetup account, as many digital professionals in Chicago as I can find. And what I have found is a third of those follow us back, which means now they're getting our promotional tweets and other tweets, and maybe third to a half of those actually joining our meetup. So social media, for us, has been very helpful. Now since that has started, I would say now word-of-mouth is really picking up. I mean people who attend are now telling their co-workers and now I see those co-workers attending the next meetup.
+*[Dennis]:* We started ... I'm a Twitterhead, always have been, as long as I've been doing web stuff. And I was doing the social media for the first couple years. I think for me it was more about frequency than quality. Which is why I have someone taking over it now. But basically I use Twitter for everything, for promotion, for awareness, as well as building our membership. I have used, shamelessly, Twitter Advanced Search, to follow, from the meetup account, as many digital professionals in Chicago as I can find. And what I have found is a third of those follow us back, which means now they're getting our promotional tweets and other tweets, and maybe third to a half of those actually joining our meetup. So social media, for us, has been very helpful. Now since that has started, I would say now word-of-mouth is really picking up. I mean people who attend are now telling their co-workers and now I see those co-workers attending the next meetup.
 
-[Billy]: It's great to see things grow organically like that. But yet don't ... the best thing you could probably be is shameless when it comes to promoting and growing and looking for new ways to you know build your following.
+*[Billy]:* It's great to see things grow organically like that. But yet don't ... the best thing you could probably be is shameless when it comes to promoting and growing and looking for new ways to you know build your following.
 
-[Dennis]: If you think of it, we're all passionate about accessibility. So just evangelize it and have as many other people in your community, meetup community evangelize for you as well.
+*[Dennis]:* If you think of it, we're all passionate about accessibility. So just evangelize it and have as many other people in your community, meetup community evangelize for you as well.
 
 ## Venues
 
-[Billy]: This is always a fun one.
+*[Billy]:* This is always a fun one.
 
-[Dennis]: Venues, Billy ...
+*[Dennis]:* Venues, Billy ...
 
-[Billy]: Remember what I said, be shameless? Be Shameless. Like if you meet somebody, like when I'm not when I'm at events and I'm meeting people for the first time, I'm like, hey, what brings you out and where you work, how big is the office, have you ever thought about hosting one of these, here's my card, let's go, you know. But honestly, you just ask and that's the easiest way to do it. Everybody that comes out, we put out emails all the time, little tweets, but we actually just ask people face-to-face, where do you work? Would you be interested in hosting something like this? We've got a couple of folks that offer us sort of a standing invite too, but we try to move around as much as possible, just to keep things fresh. It's also a little easier to get people out when your in different areas of the city, because its not always easy to get somebody out across town at 5pm or 6pm. So we try to move from one end of the city as much as we can.
+*[Billy]:* Remember what I said, be shameless? Be Shameless. Like if you meet somebody, like when I'm not when I'm at events and I'm meeting people for the first time, I'm like, hey, what brings you out and where you work, how big is the office, have you ever thought about hosting one of these, here's my card, let's go, you know. But honestly, you just ask and that's the easiest way to do it. Everybody that comes out, we put out emails all the time, little tweets, but we actually just ask people face-to-face, where do you work? Would you be interested in hosting something like this? We've got a couple of folks that offer us sort of a standing invite too, but we try to move around as much as possible, just to keep things fresh. It's also a little easier to get people out when your in different areas of the city, because its not always easy to get somebody out across town at 5pm or 6pm. So we try to move from one end of the city as much as we can.
 
-[Dennis]: In Chicago, we started in a bar ... which was fun, except for when we wanted to do any sort of talk or presentation, you couldn't hear. Which is, obviously ... which success criteria is that again? Audio Contrast, I don't know ...
+*[Dennis]:* In Chicago, we started in a bar ... which was fun, except for when we wanted to do any sort of talk or presentation, you couldn't hear. Which is, obviously ... which success criteria is that again? Audio Contrast, I don't know ...
 
 [Laughter]
 
-[Billy]: Did he just invent a new success criteria?
+*[Billy]:* Did he just invent a new success criteria?
 
-[Dennis]: But luckily enough, after the second event at the bar, we had someone from Razorfish, who said "Hey, I can put you in our conference room, after hours." And, basically, the rest is history after that. We've worked with various groups, individuals and not ... So, one thing I would say is ... even though it's slightly dealing with the devil, sometimes, as you might look at it, look for a recruitment firm. They love to have their talent, UX, developers, and stuff, come in to their organization if they have the facilities, they would be more than happy to host your event. Now, there's pros and cons ... they're going to want to sell ... so you will have to manage that, maybe, depending on the recruitment firm. But that's one way to sort of "get in," if you're having problems.
+*[Dennis]:* But luckily enough, after the second event at the bar, we had someone from Razorfish, who said "Hey, I can put you in our conference room, after hours." And, basically, the rest is history after that. We've worked with various groups, individuals and not ... So, one thing I would say is ... even though it's slightly dealing with the devil, sometimes, as you might look at it, look for a recruitment firm. They love to have their talent, UX, developers, and stuff, come in to their organization if they have the facilities, they would be more than happy to host your event. Now, there's pros and cons ... they're going to want to sell ... so you will have to manage that, maybe, depending on the recruitment firm. But that's one way to sort of "get in," if you're having problems.
 
-[Billy]: Schools, dev shops, those little bootcamp ... we have an organization in Toronto called Hacker U.
+*[Billy]:* Schools, dev shops, those little bootcamp ... we have an organization in Toronto called Hacker U.
 
 253
 00:19:01,660 --> 00:19:06,100
