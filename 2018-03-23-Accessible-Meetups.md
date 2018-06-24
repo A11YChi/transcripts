@@ -222,8 +222,6 @@ If you're interested in sponsorship opportunities ...
 
 **[Dennis]:** Shameless plug
 
-414
-00:30:42,900 --> 00:30:46,720
 **[Billy]:** I'm more than happy to discuss sponsorship with any of you. Except you.
 
 **[Laughter]**
@@ -264,525 +262,86 @@ We have 5 more minutes. So ... I'm sorry, one more question, and then we have to
 
 **[Laughter]**
 
-**[Billy]:** I sent four emails since I've been up here. Just checking in. How's your day? You know ...
+**[Billy]:** I sent four emails since I've been up here. Just checking in. How's your day? You know ... You miss me? No, usually we use it just for announcing events, or, we use social media a lot. Like, social media, we'll just tweet things that we find interesting, or retweet things. As far as announcing meetups, we try to keep that to just one or two. A lot of the time, before wait-list only or something, we might send out another email, just saying, "hey, if you can't make it now, maybe you should think about changing your RSVPs, so somebody else can get your spot." It's kind of a ... not so secret, secret in Toronto that, if the event's full, just show up, because we don't take attendance, we don't check anyone off, and there's always more than enough no-shows that you can sneak in.
 
-464
-00:34:21,940 --> 00:34:22,620
-You miss me?
+**[John Croston III]:** As long as you get by security.
 
-465
-00:34:22,620 --> 00:34:29,180
-No, usually we use it just for announcing events, or, we use social media a lot.
+**[Billy]:** We have no security.
 
-466
-00:34:29,180 --> 00:34:32,900
-Like, social media, we'll just tweet things that we find interesting, or retweet things.
+**[John Croston III];** ... we need four forms ...
 
-467
-00:34:32,900 --> 00:34:37,020
-As far as announcing meetups, we try to keep that to just one or two.
+**[Billy]:** Well this isn't your talk, John.
 
-468
-00:34:37,500 --> 00:34:41,500
-A lot of the time, before wait-list only or something, we might send out another email,
+**[Laughter]**
 
-469
-00:34:41,500 --> 00:34:45,860
-just saying, "hey, if you can't make it now, maybe you should think about changing your RSVPs,
+**[Dennis]:** But to that point, in Chicago, most of the venues that we use, require building security. So we have a two-day lead time for cutoffs. So anyone that says, "Hey, I just noticed ..." I have to say, I'm sorry. I mean, if you can get through building security, that's on you.
 
-470
-00:34:45,860 --> 00:34:47,860
-so somebody else can get your spot."
+**[Billy]:** Challenge accepted!
 
-471
-00:34:47,860 --> 00:34:49,300
-It's kind of a ...
+**[Dennis]:** But guess what ... people have done it. Oh ... need to talk about building security.
 
-472
-00:34:50,060 --> 00:34:56,320
-not so secret, secret in Toronto that, if the event's full, just show up, because we don't take attendance,
-
-473
-00:34:56,780 --> 00:35:02,040
-we don't check anyone off, and there's always more than enough no-shows that you can sneak in.
-
-474
-00:35:02,980 --> 00:35:04,800
-[John Croston III] As long as you get by security.
-
-475
-00:35:04,800 --> 00:35:06,040
-[Billy]: We have no security.
-
-476
-00:35:06,040 --> 00:35:07,740
-[John Croston III] ... we need four forms ...
-
-477
-00:35:07,740 --> 00:35:09,060
-[Billy]: Well this isn't your talk, John.
-
-478
-00:35:09,060 --> 00:35:11,440
-[Laughter]
-
-479
-00:35:11,440 --> 00:35:17,080
-[Dennis]: But to that point, in Chicago, most of the venues that we use, require building security.
-
-480
-00:35:17,080 --> 00:35:20,480
-So we have a two-day lead time for cutoffs.
-
-481
-00:35:20,820 --> 00:35:23,480
-So anyone that says, "Hey, I just noticed ..."
-
-482
-00:35:24,020 --> 00:35:28,440
-I have to say, I'm sorry. I mean, if you can get through building security, that's on you.
-
-483
-00:35:28,440 --> 00:35:30,240
-[Billy]: Challenge accepted!
-
-484
-00:35:30,240 --> 00:35:35,740
-[Dennis]: But guess what ... people have done it. Oh ... need to talk about building security.
-
-485
-00:35:35,820 --> 00:35:37,340
 We need to move forward ...
 
-486
-00:35:37,340 --> 00:35:38,880
-To Stream or Not to Stream
-
-487
-00:35:38,880 --> 00:35:41,020
-Billy, that is the question.
-
-488
-00:35:41,560 --> 00:35:45,320
-[Billy]: We do not stream. We've dabbled with it.
-
-489
-00:35:45,320 --> 00:35:56,940
-We've had minimal success. And we just don't have the technology at hand to do it in a reliable way.
-
-490
-00:35:56,940 --> 00:36:01,560
-We do have live captioning for all of our events. So if you're there, you can follow captions.
-
-491
-00:36:01,560 --> 00:36:07,380
-But we tend to steer away from sharing the content outside of the event.
-
-492
-00:36:07,380 --> 00:36:10,180
-So there are sort of special one off events and then they're just gone.
-
-493
-00:36:10,180 --> 00:36:13,040
-So we never made the decision not to stream.
-
-494
-00:36:13,300 --> 00:36:16,280
-[Dennis]: We live stream almost all of our events.
-
-495
-00:36:17,480 --> 00:36:24,340
-And of course, the question at each time, when we only get 30, 40 percent attendance is ...
-
-496
-00:36:24,740 --> 00:36:27,020
-is it the stream that's doing it?
-
-497
-00:36:27,020 --> 00:36:34,700
-I actually ran a test recently with an accessibility clinic format, where there was no live stream.
-
-498
-00:36:34,700 --> 00:36:35,960
-And no recording.
-
-499
-00:36:36,380 --> 00:36:39,600
-And it did not impact attendance at all.
-
-500
-00:36:39,600 --> 00:36:41,120
-So I was like, "Ok, cool."
-
-501
-00:36:42,020 --> 00:36:45,100
-I tend to want to live stream because I want to create awareness.
-
-502
-00:36:45,880 --> 00:36:50,100
-I mean, some of our sponsorship has been due to, getting that word out.
-
-503
-00:36:50,100 --> 00:36:52,240
-So, I don't wish to hurt that.
-
-504
-00:36:52,240 --> 00:37:00,660
-I do know that a lot of other accessibility organizers feel that it can cannibalize their in-person attendance
-
-505
-00:37:00,660 --> 00:37:05,160
-as well as they want that face-to-face recognition.
-
-506
-00:37:05,160 --> 00:37:10,400
-So it really just depends on your scenario, what you like to do.
-
-507
-00:37:10,400 --> 00:37:13,800
-Live captioning and American Sign Language
-
-508
-00:37:13,800 --> 00:37:14,780
-[Billy]: Yes.
-
-509
-00:37:15,900 --> 00:37:19,260
-If you are running an inclusive event, you need this. It's the bottom line.
-
-510
-00:37:19,260 --> 00:37:25,240
-ASL, we have on request. If somebody says I need this, we'll have it.
-
-511
-00:37:25,240 --> 00:37:29,040
-We try to find discreet ways of asking, if somebody needs it.
-
-512
-00:37:29,040 --> 00:37:36,940
-At our Camps and at our Conference, it's just there. We don't ask anybody if they need it, it's just there.
-
-513
-00:37:36,940 --> 00:37:41,680
-And live captioning is without a doubt, 100 percent always going to be there.
-
-514
-00:37:41,680 --> 00:37:44,840
-Because you can't have an inclusive event if it's not inclusive.
-
-515
-00:37:46,220 --> 00:37:51,180
-[Dennis]: Same here, if I couldn't offer live captioning I probably wouldn't live stream that event.
-
-516
-00:37:52,940 --> 00:38:02,260
-For special events, especially for those where participants would be hard of hearing or deaf,
-
-517
-00:38:02,260 --> 00:38:06,780
-we do have sign language interpreters there.
-
-518
-00:38:07,280 --> 00:38:12,280
-Again, its all about budget, it's all making sure you can cover it with your sponsorships.
-
-519
-00:38:12,280 --> 00:38:14,280
-Keeping it fresh.
-
-520
-00:38:14,280 --> 00:38:18,280
-I think I already mentioned how I'm looking into it. Anything you'd like to add to that?
-
-521
-00:38:18,640 --> 00:38:22,140
-[Billy]: Yeah, so one interesting challenge we had was somebody said,
-
-522
-00:38:22,140 --> 00:38:25,840
-and I'm tipping my hat here, so this is just between us and Twitter, ok?
-
-523
-00:38:27,920 --> 00:38:30,820
-We're introducing something new in Toronto coming up.
-
-524
-00:38:30,820 --> 00:38:35,460
-Because we had a bunch of business folks, we call them the train crowd,
-
-525
-00:38:35,460 --> 00:38:40,960
-that basically have to get out of the city at 5 o'clock, 6 o'clock
-
-526
-00:38:40,960 --> 00:38:43,840
-They've got kids, they've got families, they can't stick around for a meetup.
-
-527
-00:38:44,500 --> 00:38:49,340
-So, we had somebody suggest, "well, why can't you do something during the day?"
-
-528
-00:38:50,000 --> 00:38:56,660
-So we are introducing something that is geared more towards corporate clients or people who can't get out,
-
-529
-00:38:56,660 --> 00:38:59,220
-and we are introducing what we are going to be calling the lunch meet.
-
-530
-00:39:00,560 --> 00:39:03,220
-I think it's a very funny name. Oskar Westin came up with that.
-
-531
-00:39:03,220 --> 00:39:08,720
-But a11yTO is going to start running lunch hour meetups at organizations, and we're going to stream those
-
-532
-00:39:08,720 --> 00:39:14,140
-for everybody else who can't make it. So that's something we're going to be doing probably in May.
-
-533
-00:39:15,060 --> 00:39:17,480
-[Dennis]: Ok, hold on. I gotta write that down.
-
-534
-00:39:17,480 --> 00:39:19,260
-[Billy]: Don't worry, I'll schedule it. don't worry.
-
-535
-00:39:19,360 --> 00:39:20,680
-[Dennis]: That's fantastic.
-
-536
-00:39:21,940 --> 00:39:26,680
-I can't really add anything to that. I told you, we're looking at speed dating formats.
-
-537
-00:39:27,500 --> 00:39:32,140
-It's basically as ideas come about. The speed dating format came from Twitter.
-
-538
-00:39:32,140 --> 00:39:38,380
-[Billy]: I think it came from the guy beside you. Doesn't that sound familiar?
-
-539
-00:39:38,380 --> 00:39:42,320
-[Dennis faux whispering to Billy]
-
-540
-00:39:42,880 --> 00:39:43,820
-[Dennis]: Attendance
-
-541
-00:39:43,820 --> 00:39:46,440
-I think we, I mean, it's just a pain point.
-
-542
-00:39:47,800 --> 00:39:53,420
-Oversell. I used to work for an airline. It works. Fill up planes, fill up your meetup.
-
-543
-00:39:54,460 --> 00:39:58,580
-This is hard to see because it's not actually meant as information,
-
-544
-00:39:58,580 --> 00:40:03,660
-but this was a meetup that Marcy Sutton presented at.
-
-545
-00:40:03,660 --> 00:40:06,640
-We had one hundred twenty seven RSVPs.
-
-546
-00:40:07,440 --> 00:40:09,440
-We had thirty three people show up.
-
-547
-00:40:10,060 --> 00:40:11,240
-And that's normal.
-
-548
-00:40:11,240 --> 00:40:15,160
-[Billy]: Yeah, that's not uncommon to have ... fifty percent drop off is normal.
-
-549
-00:40:15,540 --> 00:40:23,980
-And, it's not uncommon to have a butt ton of people say, yeah I want to come out and then have a handful.
-
-550
-00:40:23,980 --> 00:40:25,340
-I mean, life happens, right?
-
-551
-00:40:25,400 --> 00:40:27,080
-It's at night, anything can happen.
-
-552
-00:40:27,080 --> 00:40:30,140
-You might be stuck late at work. You might have a problem with your children.
-
-553
-00:40:30,140 --> 00:40:35,800
-You might just say ... [indecipherable] ... oh, it's my hair, sorry.
-
-554
-00:40:37,020 --> 00:40:42,400
-[Dennis]: We're actually over, but you got time for one story, and I have time for one story.
-
-555
-00:40:43,340 --> 00:40:46,800
-[Billy]: Geez, why don't you do your story first, I have too many stories.
-
-556
-00:40:47,720 --> 00:40:51,140
-[Dennis]: As ... starting with the ...
-
-557
-00:40:51,140 --> 00:40:55,620
-meetup events, I've always looked for them to be as accessible as possible.
-
-558
-00:40:55,880 --> 00:41:03,860
-In doing so, if you are more able bodied than others, you're going to make mistakes.
-
-559
-00:41:03,860 --> 00:41:05,860
-And you'll learn from those mistakes.
-
-560
-00:41:06,360 --> 00:41:13,660
-We had events where I dimmed the lights, so this way, the screen could be seen better.
-
-561
-00:41:14,380 --> 00:41:18,200
-Unfortunately, the individuals who were hard of hearing or deaf
-
-562
-00:41:18,200 --> 00:41:21,080
-could not read lips when we did not have captions.
-
-563
-00:41:23,080 --> 00:41:27,420
-That was a great bit of information. But I felt awful.
-
-564
-00:41:28,460 --> 00:41:36,100
-Same thing happened for one of our events, we had a live stream going, we went over, I shut down the stream,
-
-565
-00:41:36,100 --> 00:41:39,180
-the individual next to me was going "hey, what happened to the stream?"
-
-566
-00:41:39,180 --> 00:41:42,260
-He was looking at live captions. I said ah, crap.
-
-567
-00:41:42,260 --> 00:41:45,100
-So it took me about five more minutes to get it connected.
-
-568
-00:41:45,140 --> 00:41:45,940
+## To Stream or Not to Stream
+**[Dennis]:** To Stream or Not to Stream. Billy, that is the question.
+
+**[Billy]:** We do not stream. We've dabbled with it. We've had minimal success. And we just don't have the technology at hand to do it in a reliable way. We do have live captioning for all of our events. So if you're there, you can follow captions. But we tend to steer away from sharing the content outside of the event. So there are sort of special one off events and then they're just gone. So we never made the decision not to stream.
+
+**[Dennis]:** We live stream almost all of our events. And of course, the question at each time, when we only get 30, 40 percent attendance is ... is it the stream that's doing it? I actually ran a test recently with an accessibility clinic format, where there was no live stream. And no recording. And it did not impact attendance at all. So I was like, "Ok, cool." I tend to want to live stream because I want to create awareness. I mean, some of our sponsorship has been due to, getting that word out. So, I don't wish to hurt that. I do know that a lot of other accessibility organizers feel that it can cannibalize their in-person attendance as well as they want that face-to-face recognition. So it really just depends on your scenario, what you like to do.
+
+## Live captioning and ASL
+**[Dennis]:** Live captioning and American Sign Language
+
+**[Billy]:** Yes. If you are running an inclusive event, you need this. It's the bottom line. ASL, we have on request. If somebody says I need this, we'll have it. We try to find discreet ways of asking, if somebody needs it. At our Camps and at our Conference, it's just there. We don't ask anybody if they need it, it's just there. And live captioning is without a doubt, 100 percent always going to be there. Because you can't have an inclusive event if it's not inclusive.
+
+**[Dennis]:** Same here, if I couldn't offer live captioning I probably wouldn't live stream that event. For special events, especially for those where participants would be hard of hearing or deaf, we do have sign language interpreters there. Again, its all about budget, it's all making sure you can cover it with your sponsorships.
+
+## Keeping it fresh
+**[Dennis]:** Keeping it fresh. I think I already mentioned how I'm looking into it. Anything you'd like to add to that?
+
+**[Billy]:** Yeah, so one interesting challenge we had was somebody said, and I'm tipping my hat here, so this is just between us and Twitter, ok? We're introducing something new in Toronto coming up. Because we had a bunch of business folks, we call them the train crowd, that basically have to get out of the city at 5 o'clock, 6 o'clock. They've got kids, they've got families, they can't stick around for a meetup. So, we had somebody suggest, "well, why can't you do something during the day?" So we are introducing something that is geared more towards corporate clients or people who can't get out, and we are introducing what we are going to be calling the lunch meet. I think it's a very funny name. Oskar Westin came up with that. But a11yTO is going to start running lunch hour meetups at organizations, and we're going to stream those for everybody else who can't make it. So that's something we're going to be doing probably in May.
+
+**[Dennis]:** Ok, hold on. I gotta write that down.
+
+**[Billy]:** Don't worry, I'll schedule it. don't worry.
+
+**[Dennis]:** That's fantastic.
+
+I can't really add anything to that. I told you, we're looking at speed dating formats. It's basically as ideas come about. The speed dating format came from Twitter.
+
+**Billy]:** I think it came from the guy beside you. Doesn't that sound familiar?
+
+**[Dennis faux whispering to Billy]**
+
+## Attendance
+**[Dennis]:** Attendance
+
+I think we, I mean, it's just a pain point. Oversell. I used to work for an airline. It works. Fill up planes, fill up your meetup. This is hard to see because it's not actually meant as information, but this was a meetup that Marcy Sutton presented at. We had one hundred twenty seven RSVPs. We had thirty three people show up. And that's normal.
+
+**[Billy]:** Yeah, that's not uncommon to have ... fifty percent drop off is normal. And, it's not uncommon to have a butt ton of people say, yeah I want to come out and then have a handful. I mean, life happens, right? It's at night, anything can happen. You might be stuck late at work. You might have a problem with your children. You might just say ... [indecipherable] ... oh, it's my hair, sorry.
+
+## Stories
+**[Dennis]:** We're actually over, but you got time for one story, and I have time for one story.
+
+**[Billy]:** Geez, why don't you do your story first, I have too many stories.
+
+**[Dennis]:** As ... starting with the ... meetup events, I've always looked for them to be as accessible as possible. In doing so, if you are more able bodied than others, you're going to make mistakes. And you'll learn from those mistakes. We had events where I dimmed the lights, so this way, the screen could be seen better. Unfortunately, the individuals who were hard of hearing or deaf could not read lips when we did not have captions. That was a great bit of information. But I felt awful.
+
+Same thing happened for one of our events, we had a live stream going, we went over, I shut down the stream, the individual next to me was going "hey, what happened to the stream?" He was looking at live captions. I said ah, crap. So it took me about five more minutes to get it connected.
+
 Anything?
 
-569
-00:41:46,440 --> 00:41:49,300
-[Billy]: I've definitely had the same pain points you've had.
+**[Billy]:** I've definitely had the same pain points you've had. But I want to build off this. I think ... one of the fun things you can do with these events is to look for others ways to engage the community. So, find another thing that might tie in to your overall message, and find a new, fun way to present it.
 
-570
-00:41:49,300 --> 00:41:50,240
-But I want to build off this.
+We had a professional wrestler at ... I'm mixing my worlds here now ... but we had a professional wrestler at our last camp, who had been bullied all his life, because he is a little person. And he found that by putting on a mask and being a wrestler, it was his way of combating basically his disability. So he came and did a little talk about that, and then the best part was, he put Jennison Asuncion on his shoulders and did ten squats.
 
-571
-00:41:50,240 --> 00:41:51,120
-I think ...
+**[Laughter]**
 
-572
-00:41:51,660 --> 00:41:56,760
-one of the fun things you can do with these events is to look for others ways to engage the community.
+**[Billy]:** That was fun. Oh and then he threw him down to the ground and pinned him. Jennison is no longer the champion of accessibility, It's a young man named Kid Canuck from Toronto, Ontario.
 
-573
-00:41:56,760 --> 00:42:04,560
-So, find another thing that might tie in to your overall message, and find a new, fun way to present it.
+## Resources
+**[Dennis]:** Just before we wrap up, if you jotted down the URL for this deck, we have a few resources. One is a list of accessibility and inclusive design meetup groups, which is regularly maintained by an individual in Detroit Michigan, so you might want to check that one out. I recently did an accessibility meetup survey for organizers. So basically a lot of the same information that we shared today is there in this one page report. And then the last three are documents that my meetup has created as far as a venues checklist for accessibility, accessible presentations guide for presenters, how to create accessible presentations, how to ensure you're repeating the questions, things like that, and then social media, basically how to create accessible tweets and such.
 
-574
-00:42:04,820 --> 00:42:10,460
-We had a professional wrestler at ... I'm mixing my worlds here now ...
-
-575
-00:42:10,460 --> 00:42:15,820
-but we had a professional wrestler at our last camp, who had been bullied all his life, because he is a little person.
-
-576
-00:42:16,320 --> 00:42:19,280
-And he found that by putting on a mask and being a wrestler,
-
-577
-00:42:19,280 --> 00:42:23,020
-it was his way of combating basically his disability.
-
-578
-00:42:23,540 --> 00:42:27,140
-So he came and did a little talk about that, and then the best part was,
-
-579
-00:42:27,140 --> 00:42:30,200
-he put Jennison Asuncion on his shoulders and did ten squats.
-
-580
-00:42:30,200 --> 00:42:32,200
-[Laughter]
-
-581
-00:42:32,200 --> 00:42:36,280
-[Billy]: That was fun. Oh and then he threw him down to the ground and pinned him.
-
-582
-00:42:36,520 --> 00:42:41,660
-Jennison is no longer the champion of accessibility, It's a young man named Kid Canuck from Toronto, Ontario.
-
-583
-00:42:43,880 --> 00:42:51,400
-[Dennis]: Just before we wrap up, if you jotted down the URL for this deck, we have a few resources.
-
-584
-00:42:51,400 --> 00:42:56,320
-One is a list of accessibility and inclusive design meetup groups,
-
-585
-00:42:56,320 --> 00:43:03,800
-which is regularly maintained by an individual in Detroit Michigan, so you might want to check that one out.
-
-586
-00:43:03,800 --> 00:43:08,540
-I recently did an accessibility meetup survey for organizers.
-
-587
-00:43:08,540 --> 00:43:15,340
-So basically a lot of the same information that we shared today is there in this one page report.
-
-588
-00:43:15,340 --> 00:43:22,520
-And then the last three are documents that my meetup has created as far as
-
-589
-00:43:22,520 --> 00:43:29,200
-a venues checklist for accessibility, accessible presentations guide for presenters,
-
-590
-00:43:29,560 --> 00:43:35,760
-how to create accessible presentations, how to ensure you're repeating the questions, things like that,
-
-591
-00:43:35,760 --> 00:43:42,720
-and then social media, basically how to create accessible tweets and such.
-
-592
-00:43:43,260 --> 00:43:46,700
 With that said, we thank you for attending.
 
-593
-00:43:46,720 --> 00:43:52,460
-[Applause]
-
+**[Applause]**
