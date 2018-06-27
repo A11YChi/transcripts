@@ -36,7 +36,6 @@ So this is the example I came up with. So this is using form field validation. S
 
 Okay, before I answer that form field, here's the scenario. You're working for a small business. They use this CAPTCHA because they were receiving a lot of spam. The web developer they used to have, they left, the site's been ignored for a year. You have another developer come in and they say we're starting to get spam. They figured this out, change it. So what does the developer do? Let's say before it said eight plus two. So it expects ten. They changed it, two plus two, but they forgot to change the actual validation. So now, I answer it properly. Ah, shoot. I'm on the wrong one. I apologize. I told you I'm going to mess myself up. Thank you very much. This again is why I have Seth here to watch me.
 
-00:08:55.780 --> 00:09:00.360
 So, let's try this, and thank goodness I don't have to type anymore. So what is two plus two? Remember, it used to be eight plus two. But now we changed it to two plus two. But we forgot to change the actual value in the JavaScript. So when I go to tab off ... Ah! I'm still typing in the wrong spot, hold on. This is a great example. I feel like I'm using a Microsoft product. Okay, so now when I tab, you see nothing's happening and the reason why is using onblur. If the onblur doesn't validate, it won't let me off. I'm trapped and I literally ... so you think okay, I can do shift-tab. I can't leave this form field. This is a keyboard trap.
 
 We don't see many of them out in the wild anymore, but... I'm sorry? Phone numbers ...
