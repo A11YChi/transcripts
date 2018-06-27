@@ -114,869 +114,122 @@ So a skip link is literally just a typically, by default, it's hidden before the
 
 Page Title.
 
-00:27:33.280 --> 00:27:41.960
-Guess how many pages on the Internet as of this morning have the page title of "untitled document?"
+Guess how many pages on the Internet as of this morning have the page title of "untitled document?" It would seem that way... According to Google, twelve million, five hundred thousand pages. I don't know about you but untitled document is not all that descriptive. I can't think of a page that would benefit from that page title. So basically, provide a good descriptive page title.
 
-00:27:47.020 --> 00:27:48.600
-It would seem that way...
+Now, for anyone here who also does SEO, "Hello." If you want to be found, then you probably have pretty good page titles. Obviously not untitled document or new page, good ones would be basically a description of the theme of the page. Create an account. Semantic structure. And then of course it could be the site name or whatever.
 
-00:27:49.020 --> 00:27:52.720
-According to Google, twelve million, five hundred thousand pages.
-
-00:27:53.660 --> 00:27:58.800
-I don't know about you but untitled document is not all that descriptive.
-
-00:27:58.800 --> 00:28:02.760
-I can't think of a page that would benefit from that page title.
-
-00:28:02.760 --> 00:28:06.340
-So basically, provide a good descriptive page title.
-
-00:28:06.340 --> 00:28:09.820
-Now, for anyone here who also does SEO,
-
-00:28:10.100 --> 00:28:15.380
-"Hello." If you want to be found, then you probably have pretty good page titles.
-
-00:28:17.460 --> 00:28:20.280
-Obviously not untitled document or new page,
-
-00:28:20.280 --> 00:28:23.080
-good ones would be basically
-
-00:28:23.080 --> 00:28:25.080
-a description of the theme of the page.
-
-00:28:25.940 --> 00:28:27.020
-Create an account.
-
-00:28:27.840 --> 00:28:29.140
-Semantic structure.
-
-00:28:29.560 --> 00:28:32.260
-And then of course it could be the site name or whatever.
-
-00:28:34.280 --> 00:28:35.340
 Focus order.
 
-00:28:35.340 --> 00:28:45.640
-If a web page can be navigated sequentially and the navigation sequences affect meaning or operation,
+If a web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves the meaning and operability. Just so you know, WCAG is written this way. And after five o'clock, I cannot pronounce half of these words in sequence. So ... So, if you come to this web page, you have four form fields; first name, last name, email and phone. What order would you expect the focus order to be? So first name, last name, it sounds mixed whether it be email or phone. So let's see how that works out. So first name, right? Ah, oh ... phone ... that's not good. That's not what I expected. Last name ... doesn't seem right. Email ... The problem here  ... you find out all my email addresses here ... there we go ... The problem here is that someone has used a tabindex attribute of a positive number. I have done this ... in 1998, I did this. I haven't done it since because whenever you use positive tabindex, you have to manually maintain that for the rest of your life. I don't know about you but I want to do as little work as possible. So if the business or the website owner decides that they want to add a field and they want to move this over here and put that over there, do you really want to go through all 137 form fields and change  the tabindex? No, never use a positive tabindex. Always use either zero ... having a tab index of zero and once again, this is only for elements that don't already get focus by default. So if it's not a link, if it's not a form field, then you would do this. Okay, tabindex equals zero puts it in the order in which it appears in the DOM, in the code order. Okay, so if you want something moved up, move the code for that up. If you have tabindex equals negative one it's ready. It's not focusable already, but when you have a script, you can then turn that on with the script, and then you can access it via the keyboard. Avoid using tabindex 1 plus Anything, any positive number. There's an article here that goes well deep into this excerpted from "Using the tabindex attribute" by Leonie Watson, who we saw the quote earlier in this presentation.
 
-00:28:45.640 --> 00:28:52.080
-focusable components receive focus in an order that preserves the meaning and operability.
-
-00:28:53.480 --> 00:28:56.020
-Just so you know, WCAG is written this way.
-
-00:28:57.280 --> 00:29:02.300
-And after five o'clock, I cannot pronounce half of these words in sequence. So ...
-
-00:29:05.020 --> 00:29:06.600
-So, if you come to this web page,
-
-00:29:06.600 --> 00:29:08.320
-you have four form fields;
-
-00:29:08.320 --> 00:29:11.260
-first name, last name, email and phone.
-
-00:29:11.260 --> 00:29:15.180
-What order would you expect the focus order to be?
-
-00:29:23.480 --> 00:29:28.200
-So first name, last name, it sounds mixed whether it be email or phone.
-
-00:29:30.120 --> 00:29:32.120
-So let's see how that works out.
-
-00:29:33.300 --> 00:29:34.760
-So first name, right?
-
-00:29:35.920 --> 00:29:38.800
-Ah, oh ... phone ... that's not good.
-
-00:29:38.900 --> 00:29:40.460
-That's not what I expected.
-
-00:29:41.040 --> 00:29:44.040
-Last name ... doesn't seem right.
-
-00:29:44.040 --> 00:29:44.760
-Email ...
-
-00:29:45.140 --> 00:29:46.640
-The problem here ...
-
-00:29:49.240 --> 00:29:51.240
-... you find out all my email addresses here ...
-
-00:29:52.460 --> 00:29:53.420
-... there we go ...
-
-00:29:53.540 --> 00:29:56.360
-The problem here is that someone has used
-
-00:29:57.200 --> 00:30:00.400
-a tabindex attribute of a positive number.
-
-00:30:02.820 --> 00:30:07.100
-I have done this ... in 1998, I did this.
-
-00:30:07.920 --> 00:30:12.260
-I haven't done it since because whenever you use positive tabindex,
-
-00:30:13.100 --> 00:30:16.540
-you have to manually maintain that for the rest of your life.
-
-00:30:17.660 --> 00:30:20.920
-I don't know about you but I want to do as little work as possible.
-
-00:30:20.920 --> 00:30:26.980
-So if the business or the website owner decides that they want to add a field
-
-00:30:26.980 --> 00:30:30.040
-and they want to move this over here and put that over there,
-
-00:30:30.320 --> 00:30:36.660
-do you really want to go through all 137 form fields and change  the tabindex?
-
-00:30:37.600 --> 00:30:42.500
-No, never use a positive tabindex.
-
-00:30:42.720 --> 00:30:46.140
-Always use either zero ...
-
-00:30:47.340 --> 00:30:48.820
-having a tab index of zero
-
-00:30:48.820 --> 00:30:54.340
-and once again, this is only for elements that don't already get focus by default.
-
-00:30:54.380 --> 00:30:59.000
-So if it's not a link, if it's not a form field, then you would do this.
-
-00:30:59.880 --> 00:31:02.620
-Okay, tabindex equals zero
-
-00:31:03.940 --> 00:31:08.340
-puts it in the order in which it appears in the DOM, in the code order.
-
-00:31:09.460 --> 00:31:11.620
-Okay, so if you want something moved up,
-
-00:31:11.620 --> 00:31:14.600
-move the code for that up.
-
-00:31:16.020 --> 00:31:20.160
-If you have tabindex equals negative one
-
-00:31:20.500 --> 00:31:21.320
-it's ready .
-
-00:31:21.320 --> 00:31:24.280
-It's not focusable already,
-
-00:31:24.640 --> 00:31:26.380
-but when you have a script,
-
-00:31:27.800 --> 00:31:30.260
-you can then turn that on with the script,
-
-00:31:30.260 --> 00:31:32.560
-and then you can access it via the keyboard.
-
-00:31:34.440 --> 00:31:38.080
-Avoid using tabindex 1 plus
-
-00:31:38.080 --> 00:31:40.080
-Anything, any positive number.
-
-00:31:40.300 --> 00:31:44.840
-There's a article here that goes well deep into this
-
-00:31:45.260 --> 00:31:49.660
-excerpted from "Using the tabindex attribute" by Leonie Watson,
-
-00:31:50.040 --> 00:31:52.920
-who we saw the quote earlier in this presentation.
-
-00:31:54.880 --> 00:31:56.120
 Link purpose.
 
-00:31:56.160 --> 00:31:58.420
-I love this one. I'll tell you right now ...
+I love this one. I'll tell you right now ... in anything that I touch and anything I do, I require Triple A on this. This is AA. You'll see why I say AAA. The purpose of each link can be determined from the link text alone or ... here's where I have a problem ... from the link text together with its programmically determined link context except where the purpose of the link would be ambiguous to the users in general. So, basically, this allows for surrounding text to make that link text unique. Anyone who uses a screen reader, most folks who use a screen reader have the ability to look at all the links on a page, and those links are called out by the link text. Many sites that you visit, that list would be "learn more," "buy now," "book now." Things like that. Click here. Oh yeah, I'm shivering from that. So, definitely make your link text descriptive on its own. That is AAA. This is AA. Go the extra mile and do it right.
 
-00:32:00.000 --> 00:32:02.300
-in anything that I touch and anything I do,
+So, I'm going to give you an example here ... to see the context for the link is not provided in one of the following ways ... in the same sentence, paragraph, list item, or table cells the link ...  or in the preceding heading or via suitable ARIA properties such as aria-label or aria-labelledby, then the user will not be able to find out where the link is going with any ease. If the user must leave the link to search for the context, the context is not programmically determined link tech context and is and this is not considered accessible. I go the next route. So and this will give you an example of this. So on the screen, we have three add tiles, let's say. We have, some of them have headings, I guess all of them have headings. So we have one that says "Small Business Big Savings." And then the text is "Save up to 30% off base rates with Avis for Business." And it's difficult to see here, but the call-to-action button says "Enroll Today." We have another one for AARP ... "Welcome AARP Members." "Learn more about our exclusive offers and savings for AARP members." The link says "View Details." This last one, "SUV's as low as $29." "Maximize your drive." The link text, "Learn More."
 
-00:32:02.300 --> 00:32:05.180
-I require Triple A on this.
+So again, screenreader users have a way to show a list of the links. So if you were to look at the list of links ... and if you couldn't see those ads, what do you think the list of links would be? Enroll today. Enroll today for what? View Details Details of what? Learn more. About what? So, you see where that link text is very important and very valuable. Now, it doesn't mean that you have to ruin your designs. It doesn't mean that you have to turn into Wikipedia or Craigslist or you know really text-heavy. You could do things like adding, what we call screen reader text. So you can still have your link, your details, And then, you have a span with the class of visuallyhidden. Our CSS class that basically visually hides the text. And then you can have "about AARP membership" and then close span, close anchor. So a screen reader is going to see "View details about AARP membership." Isn't that much richer? Now yes, ideally, that would be there for both screen reader users and visually. But if you can't get buy off on that ... at least do this.
 
-00:32:05.300 --> 00:32:08.880
-This is AA. You'll see why I say AAA.
+Anyone here have a Wordpress site? Okay, we've got a few. You know the ... in a blog list, you got the headline, you got the excerpt and then you have, like, read more or whatever. There's now techniques where you can grab ... the article and just the through a screen reader text add it to the read more about and then the name of the article.
 
-00:32:09.260 --> 00:32:14.940
-The purpose of each link can be determined from the link text alone or
-
-00:32:14.940 --> 00:32:16.580
-... here's where I have a problem ...
-
-00:32:17.220 --> 00:32:22.120
-from the link text together with its programmically determined link context
-
-00:32:22.500 --> 00:32:27.580
-except where the purpose of the link would be ambiguous to the users in general.
-
-00:32:28.000 --> 00:32:31.120
-So, basically, this allows for surrounding text
-
-00:32:32.700 --> 00:32:35.120
-to make that link text unique.
-
-00:32:37.420 --> 00:32:39.140
-Anyone who uses a screen reader,
-
-00:32:40.100 --> 00:32:45.520
-most folks who use a screen reader have the ability to look at all the links on a page.
-
-00:32:46.180 --> 00:32:49.080
-and those links are called out by the link text.
-
-00:32:50.960 --> 00:32:56.280
-Many sites that you visit, that list would be "learn more," "buy now," "book now."
-
-00:32:58.900 --> 00:32:59.900
-Things like that.
-
-00:33:00.480 --> 00:33:01.940
-Click here.
-
-00:33:05.540 --> 00:33:07.540
-Oh yeah, I'm shivering from that.
-
-00:33:08.540 --> 00:33:13.240
-So, definitely make your link text descriptive on its own.
-
-00:33:13.240 --> 00:33:18.800
-That is AAA. This is AA. Go the extra mile and do it right..
-
-00:33:18.800 --> 00:33:21.260
-So, I'm going to give you an example here ...
-
-00:33:21.640 --> 00:33:25.700
-...  to see the context for the link is not provided in one of the following ways ...
-
-00:33:25.700 --> 00:33:29.260
-in the same sentence, paragraph, list item, or table cells the link ...
-
-00:33:30.180 --> 00:33:36.700
-...  or in the preceding heading or via suitable ARIA properties such as aria-label or aria-labelledby,
-
-00:33:36.920 --> 00:33:42.040
-then the user will not be able to find out where the link is going with any ease.
-
-00:33:42.320 --> 00:33:45.580
-If the user must leave the link to search for the context,
-
-00:33:45.580 --> 00:33:53.700
-the context is not programmically determined link tech context and is and this is not considered accessible.
-
-00:33:54.080 --> 00:33:56.540
-I go the next route.
-
-00:33:56.540 --> 00:33:59.280
-So and this will give you an example of this.
-
-00:33:59.280 --> 00:34:04.280
-So on the screen, we have three add tiles, let's say.
-
-00:34:04.280 --> 00:34:08.400
-We have, some of them have headings, I guess all of them have headings.
-
-00:34:08.880 --> 00:34:11.600
-So we have one that says "Small Business Big Savings."
-
-00:34:12.000 --> 00:34:17.160
-And then the text is "Save up to 30% off base rates with Avis for Business."
-
-00:34:17.800 --> 00:34:23.260
-And it's difficult to see here, but the call-to-action button says "Enroll Today."
-
-00:34:24.000 --> 00:34:28.000
-We have another one for AARP ... "Welcome AARP Members."
-
-00:34:28.300 --> 00:34:33.620
-"Learn more about our exclusive offers and savings for AARP members."
-
-00:34:34.600 --> 00:34:36.600
-The link says "View Details."
-
-00:34:37.800 --> 00:34:41.000
-This last one, "SUV's as low as $29."
-
-00:34:41.400 --> 00:34:42.940
-"Maximize your drive."
-
-00:34:43.520 --> 00:34:45.520
-The link text, "Learn More."
-
-00:34:46.560 --> 00:34:50.840
-So again, screenreader users have a way to show a list of the links.
-
-00:34:52.740 --> 00:34:54.940
-So if you were to look at the list of links ...
-
-00:34:56.060 --> 00:34:59.460
-... and if you couldn't see those ads,
-
-00:34:59.960 --> 00:35:02.800
-what do you think the list of links would be?
-
-00:35:05.660 --> 00:35:06.860
-Enroll today.
-
-00:35:08.380 --> 00:35:09.680
-Enroll today for what?
-
-00:35:12.400 --> 00:35:13.460
-View Details
-
-00:35:15.240 --> 00:35:16.720
-Details of what?
-
-00:35:17.920 --> 00:35:18.800
-Learn more.
-
-00:35:19.740 --> 00:35:20.820
-About what?
-
-00:35:21.400 --> 00:35:26.000
-So, you see where that link text is very important and very valuable.
-
-00:35:26.000 --> 00:35:30.300
-Now, it doesn't mean that you have to ruin your designs.
-
-00:35:31.000 --> 00:35:37.940
-It doesn't mean that you have to turn into Wikipedia or Craigslist or you know really text-heavy.
-
-00:35:39.380 --> 00:35:43.140
-You could do things like adding, what we call screen reader text.
-
-00:35:43.940 --> 00:35:46.160
-So you can still have your link, your details,
-
-00:35:47.020 --> 00:35:51.200
-And then, you have a span with the class of visuallyhidden.
-
-00:35:51.200 --> 00:35:55.660
-Our CSS class that basically visually hides the text.
-
-00:35:56.620 --> 00:35:59.720
-And then you can have "about AARP membership"
-
-00:36:00.660 --> 00:36:02.320
-and then close span, close anchor.
-
-00:36:02.320 --> 00:36:06.980
-So a screen reader is going to see "View details about AARP membership."
-
-00:36:08.320 --> 00:36:09.900
-Isn't that much richer?
-
-00:36:09.900 --> 00:36:16.180
-Now yes, ideally, that would be there for both screen reader users and visually.
-
-00:36:17.100 --> 00:36:19.100
-But if you can't get buy off on that ...
-
-00:36:19.820 --> 00:36:21.160
-at least do this.
-
-00:36:22.040 --> 00:36:24.140
-Anyone here have a Wordpress site?
-
-00:36:25.640 --> 00:36:26.520
-Okay, we've got a few.
-
-00:36:26.780 --> 00:36:29.820
-You know the ... in a blog list,
-
-00:36:29.820 --> 00:36:34.120
-you got the headline, you got the excerpt and then you have, like, read more or whatever.
-
-00:36:34.760 --> 00:36:36.980
-There's now techniques where you can grab ...
-
-00:36:37.760 --> 00:36:44.460
-the article and just the through a screen reader text add it to the read more about
-
-00:36:44.460 --> 00:36:46.460
-and then the name of the article.
-
-00:36:48.800 --> 00:36:49.760
 Multiple Ways.
 
-00:36:49.760 --> 00:36:54.300
-More than one way is available to locate a web page within a set of web pages,
+More than one way is available to locate a web page within a set of web pages, except where the web pages is the result that doesn't oh, the web page singular, sorry, is the result of, or a step in, a process. This is my favorite site for multiple ways to get to information. This is Wikipedia. This is a Wikipedia page for the only Batman that matters by the way, Adam West. There's links here to everything that's on the page. There's links here to everywhere related content, relatable content. There's multiple ways to get to all this information. This, I view, is a fine example of multiple ways to get the content.
 
-00:36:54.660 --> 00:36:57.280
-except where the web pages is the result
-
-00:36:57.880 --> 00:36:58.600
-that doesn't
-
-00:36:59.080 --> 00:37:04.120
-oh, the web page singular, sorry, is the result of, or a step in, a process.
-
-00:37:05.000 --> 00:37:08.880
-This is my favorite site for multiple ways to get to information.
-
-00:37:09.840 --> 00:37:11.840
-This is Wikipedia.
-
-00:37:12.540 --> 00:37:20.460
-This is a Wikipedia page for the only Batman that matters by the way, Adam West.
-
-00:37:20.620 --> 00:37:24.540
-There's links here to everything that's on the page.
-
-00:37:24.540 --> 00:37:31.020
-There's links here to everywhere related content, relatable content.
-
-00:37:31.440 --> 00:37:34.180
-There's multiple ways to get to all this information.
-
-00:37:34.380 --> 00:37:39.820
-This, I view, is a fine example of multiple ways to get the content.
-
-00:37:42.280 --> 00:37:43.240
 Headings and Labels.
 
-00:37:43.240 --> 00:37:46.100
-Headings and labels describe topic or purpose.
+Headings and labels describe topic or purpose. Ensure pages with groups of contents have headings. This is a little lenient on AA. It's more explicit in AAA. I think, where it makes sense, I think all pages with a lot of content should have that content chunked, and have headings for each of those groups of content. So in here, you have an h1, the page heading, of rental cars. h2 would be economy cars. Another h2 might be compact cars. Only one h1 to a page. I know HTML5 allows for multiple, don't do that. That can actually confuse folks. Stick to one h1 per page and then have all the rest of the headings on a page be subheadings to that. Labels. The same thing. Provide a label for any interactive component that makes the components purpose clear. Here we have first name, and many screen readers are going to read that asterisk as star ... "first name star." I've always wanted to do this talk sounding like George Carlin.I haven't worked that one up yet. Talk to me next year. You can sit there and have the meaning of this star, required once again, screen reader text required, and then you can hide it from the screen reader with aria-hidden. You can ... I mean it's a little extra work,  but it makes for a much cleaner, richer experience for all. I really have to admit, I can't remember why I put this out there. It's about labels. I can't remember my point so I'm just going to have to bypass that one.
 
-00:37:48.200 --> 00:37:51.660
-Ensure pages with groups of contents have headings.
-
-00:37:53.740 --> 00:37:59.040
-This is a little lenient on AA. It's more explicit in AAA.
-
-00:37:59.520 --> 00:38:06.700
-I think, where it makes sense, I think all pages with a lot of content should have that content chunked,
-
-00:38:06.700 --> 00:38:09.820
-and have headings for each of those groups of content.
-
-00:38:10.400 --> 00:38:14.940
-So in here, you have an h1, the page heading, of rental cars.
-
-00:38:14.940 --> 00:38:16.780
-h2 would be economy cars.
-
-00:38:16.780 --> 00:38:18.900
-Another h2 might be compact cars.
-
-00:38:19.440 --> 00:38:22.780
-Only one h1 to a page.
-
-00:38:23.480 --> 00:38:29.120
-I know HTML5 allows for multiple, especially if you have articles or sections, ...
-
-00:38:30.400 --> 00:38:33.280
-don't do that. That can actually confuse folks.
-
-00:38:34.160 --> 00:38:41.920
-Stick to one h1 per page and then have all the rest of the headings on a page be subheadings to that.
-
-00:38:44.080 --> 00:38:44.940
-Labels.
-
-00:38:44.940 --> 00:38:50.860
-The same thing. Provide a label for any interactive component that makes the components purpose clear.
-
-00:38:51.200 --> 00:38:59.660
-Here we have first name, and many screen readers are going to read that asterisk as star ... "first name star."
-
-00:39:02.820 --> 00:39:07.180
-I've always wanted to do this talk sounding like George Carlin.
-
-00:39:07.420 --> 00:39:10.520
-I haven't worked that one up yet. Talk to me next year.
-
-00:39:13.760 --> 00:39:14.660
-You can sit there
-
-00:39:14.660 --> 00:39:17.760
-and have the meaning of this star, required
-
-00:39:17.760 --> 00:39:20.920
-once again, screen reader text required,
-
-00:39:20.920 --> 00:39:23.980
-and then you can hide it from the screen reader
-
-00:39:23.980 --> 00:39:25.020
-with aria-hidden.
-
-00:39:26.240 --> 00:39:32.420
-You can ... I mean it's a little extra work,  but it makes for a much cleaner, richer experience for all.
-
-00:39:33.640 --> 00:39:35.040
-I really have to admit,
-
-00:39:35.040 --> 00:39:37.200
-I can't remember why I put this out there.
-
-00:39:39.380 --> 00:39:40.640
-It's about labels.
-
-00:39:40.860 --> 00:39:44.240
-I can't remember my point so I'm just going to have to bypass that one.
-
-00:39:45.840 --> 00:39:46.820
 Focus visible.
 
-00:39:46.820 --> 00:39:50.880
-Okay, raise your hands if you're primarily a designer.
+Okay, raise your hands if you're primarily a designer. Don't be afraid ... Okay, we've got about three. How many of you have removed the focus indication around links and form fields? I need to talk to you afterwards.
 
-00:39:52.660 --> 00:39:53.500
-Don't be afraid ...
-
-00:39:54.880 --> 00:39:56.400
-Okay, we've got about three.
-
-00:39:56.640 --> 00:40:02.900
-How many of you have removed the focus indication around links and form fields?
-
-00:40:06.340 --> 00:40:08.340
-I need to talk to you afterwards.
-
-00:40:09.780 --> 00:40:10.820
 Don't do that.
 
-00:40:13.380 --> 00:40:14.980
-Here's why you shouldn't do it.
+Here's why you shouldn't do it. If you go to the site outlinenone dot com, it'll explain all the reasons why you should not remove the outline to links and form fields. I'm going to pray that this last video will play. This is Marcy Sutton. This is really when I got started with accessibility and when I saw that being working with an airline website, I was blown away and I showed this to everyone I could. She does a screen reader demo here, trying to navigate the brand-new Virgin America web site
+that had just been redesigned, was getting a lot of press, it's so great so stylish and as you hopefully will see, completely inaccessible.
 
-00:40:14.980 --> 00:40:27.640
-If you go to the site outlinenone dot com, it'll explain all the reasons why you should not remove the outline
-
-00:40:28.040 --> 00:40:30.040
-to links and form fields.
-
-00:40:32.780 --> 00:40:36.780
-I'm going to pray that this last video will play.
-
-00:40:37.080 --> 00:40:38.860
-This is Marcy Sutton.
-
-00:40:39.180 --> 00:40:44.140
-This is really when I got started with accessibility and when I saw that being
-
-00:40:44.660 --> 00:40:49.480
-working with an airline website, I was blown away and I showed this to everyone I could.
-
-00:40:50.880 --> 00:40:57.300
-She does a screen reader demo here, trying to navigate the brand-new Virgin America web site
-
-00:40:57.300 --> 00:41:02.580
-that had just been redesigned, was getting a lot of press, it's so great so stylish
-
-00:41:04.160 --> 00:41:08.060
-and as you hopefully will see, completely inaccessible.
-
-00:41:09.000 --> 00:41:14.300
 [video - screen reader announcing]
 
-00:41:14.300 --> 00:41:16.640
-[video - Marcy Sutton]: "It's skipping before and after the calendar,
+**[video - Marcy Sutton]:** "It's skipping before and after the calendar, and I can't figure out how I am going to book these dates."
 
-00:41:16.640 --> 00:41:20.060
-and I can't figure out how I am going to book these dates."
+**[Dennis]:** Actually, I'm going to go ... I'm going to skip backwards again, because actually this went too far in advance.
 
-00:41:20.600 --> 00:41:21.840
-[Dennis]: Actually, I'm going to go ...
-
-00:41:21.840 --> 00:41:27.360
-I'm going to skip backwards again, because actually this went too far in advance.
-
-00:41:27.920 --> 00:41:33.320
 [video - screen reader announcing]: "Book link, tab"
 
-00:41:33.320 --> 00:41:36.160
-[video - Marcy Sutton]: "I don't see where I am on the screen. I can't really tell."
+**[video - Marcy Sutton]:** "I don't see where I am on the screen. I can't really tell."
 
-00:41:36.160 --> 00:41:37.620
 [video - screen reader announcing]: "tab, tab, tab"
 
-00:41:37.620 --> 00:41:39.460
-[video - Marcy Sutton]: "I'm just tabbing.
+**[video - Marcy Sutton]:** "I'm just tabbing."
 
-00:41:39.460 --> 00:41:42.260
-[video - screen reader announcing]: "sign out link tab"
+[video - screen reader announcing]: "sign out link tab san francisco link"
 
-00:41:42.900 --> 00:41:44.320
-"san francisco link"
+**[video - Marcy Sutton]:** "Oh, ok, I see that"
 
-00:41:44.320 --> 00:41:45.640
-[video - Marcy Sutton]: "Oh, ok, I see that"
-
-00:41:45.640 --> 00:41:51.280
 [video - screen reader announcing]: "tab, san francisco link"
 
-00:41:51.960 --> 00:41:56.400
-[video - Marcy Sutton]: "Ok, I guess I'm departing from somewhere. I don't now what I'm trying to book."
+**[video - Marcy Sutton]:** "Ok, I guess I'm departing from somewhere. I don't now what I'm trying to book."
 
-00:41:56.680 --> 00:42:00.640
 [video - screen reader announcing]: "tab, los angeles ca ... link"
 
-00:42:01.680 --> 00:42:04.800
-[video - Marcy Sutton]: "Ok, I guess I'll just leave from los angeles, that's not very convenient."
+**[video - Marcy Sutton]:** "Ok, I guess I'll just leave from los angeles, that's not very convenient. I don't know how to use this website if I can't see it."
 
-00:42:04.800 --> 00:42:07.720
-"I don't know how to use this website if I can't see it."
-
-00:42:07.720 --> 00:42:09.720
 [video - screen reader announcing]: "tab, tab, tab "
 
-00:42:09.720 --> 00:42:12.280
-[video - Marcy Sutton]: "Now, it just kicked me all the way back to the top, even though ..."
+**[video - Marcy Sutton]:** "Now, it just kicked me all the way back to the top, even though ..."
 
-00:42:12.280 --> 00:42:13.880
 [video - screen reader announcing]
 
-00:42:14.060 --> 00:42:16.520
-[video - Marcy Sutton]: "even though I should be on the screen. Oh ..."
+**[video - Marcy Sutton]:** "even though I should be on the screen. Oh ..."
 
-00:42:16.520 --> 00:42:17.820
 [video - screen reader announcing]
 
-00:42:17.820 --> 00:42:20.140
-[video - Marcy Sutton]: "There was an alert there, I don't know if you caught that,"
+**[video - Marcy Sutton]:** "There was an alert there, I don't know if you caught that, but, at the top of the screen, when something happened, I made a selection, and there was a big banner at the top, that said, 'hey, you made a selection. But it didn't alert me. If I'm not a visual user, I have no idea that occurred. So now, I''m further down on the page. This is part of the user experience that is very visual. But I have no idea where I am in this purchase flow."
 
-00:42:20.140 --> 00:42:22.740
-"but, at the top of the screen, when something happened,"
-
-00:42:22.740 --> 00:42:26.560
-"I made a selection, and there was a big banner at the top, that said, 'hey, you made a selection."
-
-00:42:27.140 --> 00:42:31.080
-"But it didn't alert me. If I'm not a visual user, I have no idea that occurred."
-
-00:42:32.780 --> 00:42:37.360
-"So now, I''m further down on the page. This is part of the user experience that is very visual."
-
-00:42:37.800 --> 00:42:40.080
-"But I have no idea where I am in this purchase flow."
-
-00:42:41.120 --> 00:42:44.260
 [video - screen reader announcing]
 
-00:42:44.260 --> 00:42:47.240
-[video - Marcy Sutton]: "I don't see Fort Lauderdale ..."
+**[video - Marcy Sutton]:** "I don't see Fort Lauderdale ..."
 
-00:42:48.020 --> 00:42:53.180
 [video - screen reader announcing]: "new york tab san francisco tab all cities link tab"
 
-00:42:53.580 --> 00:42:56.080
-[video - Marcy Sutton]: "That's not what I'm trying to find. Frustrating."
+**[video - Marcy Sutton]:** "That's not what I'm trying to find. Frustrating."
 
-00:42:56.700 --> 00:42:59.480
 [video - screen reader announcing]
 
-00:43:00.160 --> 00:43:03.040
-[video - Marcy Sutton]: "Ok, I must be related to the numbers down below."
+**[video - Marcy Sutton]:** "Ok, I must be related to the numbers down below."
 
-00:43:04.080 --> 00:43:14.020
 [video - screen reader announcing]
 
-00:43:14.020 --> 00:43:16.480
-[video - Marcy Sutton]: "I still don't really know ..."
+**[video - Marcy Sutton]:** "I still don't really know ..."
 
-00:43:16.920 --> 00:43:21.460
 [video - screen reader announcing]
 
-00:43:21.460 --> 00:43:23.460
-[video - Marcy Sutton]: "So, another alert, didn't hear it."
+**[video - Marcy Sutton]:** "So, another alert, didn't hear it."
 
-00:43:23.460 --> 00:43:26.400
 [video - screen reader announcing]
 
-00:43:26.400 --> 00:43:28.020
-[video - Marcy Sutton]: "Now, I'm on the calendar selection."
+**[video - Marcy Sutton]:** "Now, I'm on the calendar selection."
 
-00:43:28.020 --> 00:43:32.420
 [video - screen reader announcing]
 
-00:43:32.720 --> 00:43:35.360
-[video - Marcy Sutton]: "I'm skipping, before and after the calendar,"
+**[video - Marcy Sutton]:** "I'm skipping, before and after the calendar, and I can't figure out how I am going to book these dates. So, not only have I picked ... "
 
-00:43:35.560 --> 00:43:39.180
-"and I can't figure out how I am going to book these dates."
+**[Dennis]:** Oh, Gee, I've lost everything now. Hello ... Isn't it great when you realize that you don't now how to use a computer? Ok, hold on ... I shall get us there ... we're actually not ... far to go now, as the saying goes. This is crazy. Ah, there we go. Good. One second. I don't now why I lost that. Normally, when I have these presentations, the screen just goes black, and I have no idea how to get it back. This time, I just lost my entire presentation, a whole browser. Ok, so, you've seen all that, you've done all that, let's get to where we were.
 
-00:43:39.180 --> 00:43:41.180
-"So, not only have I picked ... "
+So as you see, with the focus indication, you see how important if you don't have it, how ... you know ... you're not going to be able to safely navigate a web page unless you can see where you are, if you're using a keyboard. So ... I think I spoke almost slow enough. Okay, so here's a real example. So we have different focusable elements. We have link text, we have our infamous right arrow, a graphical button. We have a form field and we have sign up. Now if I'm tabbing, you can see that the focus indication is blatant. Now yes, I'll admit you probably will never make it this "contrasty" on a site that you're doing, but you want to be able to tell at any time where you are. What you want to be careful of is if you don't have ... like this is all nice, black background. Or on a typical website, you would have a white background and maybe you'd have black text and such. That's fine. But what if you have a colorful website? What's going to happen to your focus indication? There you go. Can you see it? How about now? I could do an eye chart thing right now. Better ... or worse?
 
-00:43:42.440 --> 00:43:44.440
-[Dennis]: Oh, Gee, I've lost everything now.
+So, these are things ... so in this case ... you know last time we talked about color contrast, and we're primarily talking about text.
 
-00:43:48.180 --> 00:43:49.560
-Hello...
-
-00:43:55.420 --> 00:44:00.140
-Isn't it great when you realize that you don't now how to use a computer?
-
-00:44:04.640 --> 00:44:11.840
-Ok, hold on ... I shall get us there ... we're actually not ... far to go now, as the saying goes.
-
-00:44:13.840 --> 00:44:15.840
-This is crazy. Ah, there we go. Good.
-
-00:44:17.480 --> 00:44:19.060
-One second.
-
-00:44:25.020 --> 00:44:26.020
-I don't now why I lost that.
-
-00:44:26.020 --> 00:44:31.120
-Normally, when I have these presentations, the screen just goes black, and I have no idea how to get it back.
-
-00:44:31.420 --> 00:44:33.420
-This time, I just lost my
-
-00:44:34.460 --> 00:44:38.080
-entire presentation, a whole browser.
-
-00:44:39.640 --> 00:44:42.460
-Ok, so, you've seen all that, you've done all that,
-
-00:44:42.840 --> 00:44:44.980
-let's get to where we were.
-
-00:44:45.500 --> 00:44:48.880
-So as you see, with the focus indication, you see how important
-
-00:44:49.620 --> 00:44:57.620
-if you don't have it, how ... you know ... you're not going to be able to safely navigate a web page
-
-00:44:57.620 --> 00:45:01.740
-unless you can see where you are, if you're using a keyboard.
-
-00:45:02.300 --> 00:45:07.340
-So ... I think I spoke almost slow enough.
-
-00:45:07.340 --> 00:45:09.380
-Okay, so here's a real example.
-
-00:45:09.380 --> 00:45:12.420
-So we have different focusable elements.
-
-00:45:12.420 --> 00:45:19.240
-We have link text, we have our infamous right arrow, a graphical button.
-
-00:45:19.580 --> 00:45:22.360
-We have a form field and we have sign up.
-
-00:45:23.200 --> 00:45:31.180
-Now if I'm tabbing, you can see that the focus indication is blatant.
-
-00:45:31.180 --> 00:45:38.620
-Now yes, I'll admit you probably will never make it this "contrasty" on a site that you're doing,
-
-00:45:38.620 --> 00:45:43.180
-but you want to be able to tell at any time where you are.
-
-00:45:43.940 --> 00:45:48.320
-What you want to be careful of is if you don't have ...
-
-00:45:48.320 --> 00:45:50.540
-like this is all nice, black background.
-
-00:45:50.860 --> 00:45:55.980
-Or on a typical website, you would have a white background and maybe you'd have black text and such.
-
-00:45:57.260 --> 00:46:00.520
-That's fine. But what if you have a colorful website?
-
-00:46:01.780 --> 00:46:03.780
-What's going to happen to your focus indication?
-
-00:46:07.920 --> 00:46:09.920
-There you go. Can you see it?
-
-00:46:11.420 --> 00:46:12.460
-How about now?
-
-00:46:13.660 --> 00:46:15.300
-I could do an eye chart thing right now.
-
-00:46:15.580 --> 00:46:17.460
-Better ... or worse?
-
-00:46:20.840 --> 00:46:22.680
-So, these are things ...
-
-00:46:22.680 --> 00:46:26.420
-so in this case ... you know last time we talked about color contrast,
-
-00:46:26.420 --> 00:46:28.420
-and we're primarily talking about text.
-
-00:46:28.940 --> 00:46:30.340
 Text communicates.
 
-00:46:31.100 --> 00:46:34.360
-In this case, focus indication communicates.
+In this case, focus indication communicates. So in this case, I would say you need to make sure you have proper color contrast. Okay, other items under this are location, information about the users location within the set of web pages is available.
 
-00:46:35.040 --> 00:46:39.420
-So in this case, I would say you need to make sure you have proper color contrast.
-
-00:46:40.600 --> 00:46:45.620
-Okay, other items under this are location,
-
-00:46:45.620 --> 00:46:48.540
-information about the users location within the set of
-
-00:46:48.860 --> 00:46:50.400
-web pages is available.
-
-00:46:51.640 --> 00:46:52.660
 Breadcrumbs.
 
-00:46:53.500 --> 00:46:55.440
 You know where in the site that you are.
 
-00:46:56.420 --> 00:46:58.500
-Okay, link purpose.
-
-00:46:58.500 --> 00:47:00.260
-This is what I was talking about before.
-
-00:47:00.260 --> 00:47:01.420
-This is a AAA.
-
-00:47:01.780 --> 00:47:03.900
-I believe that the link purpose should be
-
-00:47:03.900 --> 00:47:05.340
-solely within the link text.
-
-00:47:05.880 --> 00:47:07.480
-That's me saying that.
-
-00:47:07.720 --> 00:47:11.140
-I believe in quality, so in this case,
-
-00:47:11.880 --> 00:47:14.400
-it's not required for AA compliance,
-
-00:47:14.900 --> 00:47:17.520
-but I would say here, go the extra mile.
-
-00:47:17.520 --> 00:47:19.100
-Your users will appreciate it.
-
-00:47:20.720 --> 00:47:22.060
-And then, section headings.
+Okay, link purpose. This is what I was talking about before. This is a AAA. I believe that the link purpose should be solely within the link text. That's me saying that. I believe in quality, so in this case, it's not required for AA compliance, but I would say here, go the extra mile. Your users will appreciate it. And then, section headings.
 
 00:47:22.060 --> 00:47:24.520
 Again, you know, just make sure
