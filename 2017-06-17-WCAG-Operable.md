@@ -4,295 +4,33 @@
 
 **[Dennis]:** This is tonight's topic.
 
-So, we have four main principles or I'll just say guidelines within the principle of operable.
+So, we have four main principles or I'll just say guidelines within the principle of operable. Keyboard accessible, enough time,  seizures and navigable.
 
-00:00:21.460 --> 00:00:26.000
-Keyboard accessible, enough time,  seizures and navigable.
+So the first is keyboard accessibility. Basically make all functionality on a web page available to the keyboard. Okay, so everyone thinks. okay well that happens by default, right? Well, hopefully, I'll prove that wrong.
 
-00:00:26.820 --> 00:00:29.460
-So the first is keyboard accessibility.
+There's two main things that are focusable by default. Links ... and that's only if they have the href attribute. I cannot tell you how many times I run across links that have "onclick" but no "href." You can't get to this via keyboard if you don't have "href." Form fields. Custom form fields, they're all the rage. I work for a major airline headquartered in Chicago, and we love to make radio buttons look like boxes. It's custom fields, okay. Whenever you make a custom field not using the default capabilities of that element so you have to bake it in and I hope to show that to you as an example here.
 
-00:00:29.860 --> 00:00:34.840
-Basically make all functionality on a web page available to the keyboard.
+So, let's take the example of links. So you have this arrow graphic. This arrow graphic could be to a slideshow carousel, it could be to a linear type presentation. But here's the code for it. What about this code makes this not keyboard accessible? Anyone have any ideas? So there's two lines and actually let me read that out. By the way, two meetups ago, I was hugely impressed by Marcy Sutton, who basically provided alternative text for everything you saw on the screen. I was like, oh my gawd. I aspire to be like her. So the code here says bracket image onmousedown equals next page parenthesis, so a function. And then src equals image forward slash next dash arrow dot png and then alt equals go to next page. So, what about this is not accessible? Yes?
 
-00:00:35.340 --> 00:00:39.500
-Okay, so everyone thinks. okay well that happens by default, right?
-
-00:00:41.580 --> 00:00:43.960
-Well, hopefully, I'll prove that wrong.
-
-00:00:44.320 --> 00:00:48.040
-There's two main things that are focusable by default.
-
-00:00:48.680 --> 00:00:53.720
-Links ... and that's only if they have the href attribute.
-
-00:00:54.680 --> 00:01:00.200
-I cannot tell you how many times I run across links that have "onclick" but no "href."
-
-00:01:01.120 --> 00:01:04.960
-You can't get to this via keyboard if you don't have "href."
-
-00:01:06.160 --> 00:01:07.240
-Form fields.
-
-00:01:07.700 --> 00:01:10.040
-Custom form fields, they're all the rage.
-
-00:01:11.020 --> 00:01:15.760
-I work for a major airline headquartered in Chicago,
-
-00:01:16.220 --> 00:01:18.800
-and we love to make radio buttons look like boxes.
-
-00:01:21.060 --> 00:01:23.180
-It's custom fields, okay.
-
-00:01:23.560 --> 00:01:31.000
-Whenever you make a custom field not using the default capabilities of that element
-
-00:01:31.000 --> 00:01:36.000
-so you have to bake it in and I hope to show that to you as an example here.
-
-00:01:37.060 --> 00:01:39.960
-So, let's take the example of links.
-
-00:01:40.140 --> 00:01:43.520
-So you have this arrow graphic.
-
-00:01:43.880 --> 00:01:49.240
-This arrow graphic could be to a slideshow carousel,
-
-00:01:49.240 --> 00:01:52.660
-it could be to a linear type presentation.
-
-00:01:54.140 --> 00:01:56.180
-But here's the code for it.
-
-00:01:56.380 --> 00:01:58.840
-What about this code
-
-00:01:59.980 --> 00:02:02.060
-makes this not keyboard accessible?
-
-00:02:02.060 --> 00:02:03.620
-Anyone have any ideas?
-
-00:02:09.000 --> 00:02:12.560
-So there's two lines and actually let me read that out.
-
-00:02:12.860 --> 00:02:18.880
-By the way, two meetups ago, I was hugely impressed by Marcy Sutton,
-
-00:02:19.140 --> 00:02:23.240
-who basically provided alternative text for everything you saw on the screen.
-
-00:02:23.760 --> 00:02:26.400
-I was like, oh my gawd.
-
-00:02:26.400 --> 00:02:28.040
-I aspire to be like her.
-
-00:02:28.480 --> 00:02:31.180
-So the code here says
-
-00:02:31.440 --> 00:02:35.280
-bracket image onmousedown equals
-
-00:02:35.720 --> 00:02:39.460
-next page parenthesis, so a function.
-
-00:02:39.860 --> 00:02:43.460
-And then src equals image forward slash
-
-00:02:43.460 --> 00:02:46.040
-next dash arrow dot png
-
-00:02:46.640 --> 00:02:48.800
-and then alt equals go to next page.
-
-00:02:49.360 --> 00:02:51.800
-So, what about this is not accessible?
-
-00:02:52.640 --> 00:02:53.180
-Yes?
-
-00:02:53.360 --> 00:02:56.620
 [Indecipherable]
 
-00:02:57.500 --> 00:02:59.760
-There's no anchor tag, okay.
+There's no anchor tag, okay. But, wouldn't this take care of it? "href" is missing. So what will happen if the href is missing? You can't reach it. So if you're tabbing through, you can't actually reach this particular element. What else about it is makes it not keyboard accessible? Yes?
 
-00:03:02.400 --> 00:03:04.400
-But, wouldn't this take care of it?
-
-00:03:05.980 --> 00:03:09.880
-"href" is missing. So what will happen if the href is missing?
-
-00:03:12.800 --> 00:03:14.220
-You can't reach it.
-
-00:03:14.220 --> 00:03:17.420
-So if you're tabbing through, you can't actually reach this particular element.
-
-00:03:17.420 --> 00:03:21.580
-What else about it is makes it not keyboard accessible?
-
-00:03:22.880 --> 00:03:23.460
-Yes?
-
-00:03:23.460 --> 00:03:26.680
 [Attendee]: If you're using a screen reader, the screen reader [indecipherable] like that.
 
-00:03:27.120 --> 00:03:30.420
-[Dennis]: Ok, that is very helpful.
+[Dennis]: Ok, that is very helpful. Anything else? Anyone else have any insight into what makes this really bad? Going once ... going twice ... I'm sorry? It is not clickable via keyboard, exactly. So, to the point, there's no "href" so you can't actually reach it via keyboard. If you hit tab, you hit all the links and all the form fields, you would never reach this. So, we can do this, we can add onkeydown equals next page the same function. So now. at least the keyboard can act on it. It could trigger the event. But what's still wrong?
 
-00:03:30.700 --> 00:03:31.700
-Anything else?
-
-00:03:31.700 --> 00:03:37.760
-Anyone else have any insight into what makes this really bad?
-
-00:03:39.340 --> 00:03:42.260
-Going once ... going twice ...
-
-00:03:42.700 --> 00:03:43.420
-I'm sorry?
-
-00:03:44.960 --> 00:03:46.860
-It is not clickable via keyboard, exactly.
-
-00:03:46.860 --> 00:03:51.320
-So, to the point, there's no "href" so you can't actually reach it via keyboard.
-
-00:03:51.320 --> 00:03:56.700
-If you hit tab, you hit all the links and all the form fields, you would never reach this.
-
-00:03:59.240 --> 00:04:02.380
-So, we can do this, we can add
-
-00:04:02.380 --> 00:04:06.780
-onkeydown equals next page the same function.
-
-00:04:07.760 --> 00:04:11.120
-So now. at least the keyboard can act on it.
-
-00:04:11.120 --> 00:04:12.760
-It could trigger the event.
-
-00:04:13.960 --> 00:04:15.140
-But what's still wrong?
-
-00:04:15.580 --> 00:04:16.480
 [Attendee]: Focus.
 
-00:04:16.860 --> 00:04:19.040
-[Dennis]: Focus. You can't reach it via keyboard.
+[Dennis]: Focus. You can't reach it via keyboard. Sort of the same problems, right? We can trigger the event if we could get there, right?
 
-00:04:20.560 --> 00:04:22.440
-Sort of the same problems, right?
-
-00:04:22.440 --> 00:04:26.620
-We can trigger the event if we could get there, right?
-
-00:04:26.940 --> 00:04:30.280
 [Attendee]: [Indecipherable]
 
-00:04:30.540 --> 00:04:34.560
-[Dennis]: Well, that's ... you have to be able to focus on it before you can actually trigger the event.
+[Dennis]: Well, that's ... you have to be able to focus on it before you can actually trigger the event. So we could do this ... we can add a tabindex equals zero. Now you can reach it via keyboard. Now, therefore you could trigger the event, right? Well, actually no. Because, this is an image. If you're reaching it via screen reader, it's going to say image. Okay, what do I do with an image? I don't act on an image, so I'm going to be confused. So now we got to add role equals link so we could tell it, okay, not only can you reach it,this is a link and you can ... when you press the key down, you can trigger this function. That's a lot of work, isn't it? When actually, if you just did this ... which is a href equals next dash page dot html image src equals arrow dot PNG alt equals go to next page.
 
-00:04:35.440 --> 00:04:36.760
-So we could do this ...
+So you might be saying, "okay, but we're trying to do..." let's say if this was the form field, "but we're trying to do custom field, we're trying to do something different." That's fine. But realize, you're going to have to make sure that the event is triggered by keyboard. You going to have to make sure that you can reach it by keyboard, and you're going to have to make sure that the screen reader knows, assistive technology knows that this is a link. This could have been a div and it's the same thing. So there's quite a bit of baking that you have to do to make that work.
 
-00:04:36.760 --> 00:04:38.900
-we can add a tabindex equals zero.
-
-00:04:39.980 --> 00:04:41.780
-Now you can reach it via keyboard.
-
-00:04:42.980 --> 00:04:47.140
-now, therefore you could trigger the event, right?
-
-00:04:48.120 --> 00:04:49.540
-Well, actually no.
-
-00:04:49.540 --> 00:04:51.540
-Because, this is an image.
-
-00:04:52.460 --> 00:04:55.280
-If you're reaching it via screen reader, it's going to say image.
-
-00:04:56.440 --> 00:04:58.020
-Okay, what do I do with an image?
-
-00:04:58.840 --> 00:05:01.620
-I don't act on an image, so I'm going to be confused.
-
-00:05:02.980 --> 00:05:04.980
-So now we got to add row equals link
-
-00:05:05.540 --> 00:05:06.720
-so we could tell it,
-
-00:05:07.100 --> 00:05:09.740
-okay, not only can you reach it,
-
-00:05:09.740 --> 00:05:10.820
-this is a link
-
-00:05:11.920 --> 00:05:15.080
-and you can ... when you press the key down,
-
-00:05:16.000 --> 00:05:17.700
-you can trigger this function.
-
-00:05:18.540 --> 00:05:20.320
-That's a lot of work, isn't it?
-
-00:05:21.580 --> 00:05:23.580
-When actually, if you just did this ...
-
-00:05:24.880 --> 00:05:28.960
-which is a href equals next dash page dot html
-
-00:05:29.320 --> 00:05:33.820
-image src equals arrow dot PNG
-
-00:05:34.140 --> 00:05:36.160
-alt equals go to next page.
-
-00:05:37.560 --> 00:05:40.280
-So you might be saying, "okay, but we're trying to do..."
-
-00:05:40.280 --> 00:05:45.740
-let's say if this was the form field, "but we're trying to do custom field, we're trying to do something different."
-
-00:05:46.500 --> 00:05:47.620
-That's fine.
-
-00:05:48.940 --> 00:05:55.060
-But realize, you're going to have to make sure that the event is triggered by keyboard.
-
-00:05:55.720 --> 00:05:58.260
-You going to have to make sure that you can reach it by keyboard.
-
-00:05:58.980 --> 00:06:05.380
-and you're going to have to make sure that the screen reader knows, assistive technology knows that this is a link.
-
-00:06:05.380 --> 00:06:08.840
-This could have been a div and it's the same thing.
-
-00:06:09.700 --> 00:06:15.220
-So there's quite a bit of baking that you have to do to make that work.
-
-00:06:15.580 --> 00:06:18.160
-Next one is No Keyboard Trap.
-
-00:06:18.580 --> 00:06:20.260
-Now I'll be honest,
-
-00:06:20.260 --> 00:06:22.920
-you're going to have to work with me.
+Next one is No Keyboard Trap. Now I'll be honest, you're going to have to work with me.
 
 00:06:22.920 --> 00:06:24.920
 We're trying to picture this scenario because,
