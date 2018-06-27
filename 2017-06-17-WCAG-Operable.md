@@ -12,306 +12,63 @@ There's two main things that are focusable by default. Links ... and that's only
 
 So, let's take the example of links. So you have this arrow graphic. This arrow graphic could be to a slideshow carousel, it could be to a linear type presentation. But here's the code for it. What about this code makes this not keyboard accessible? Anyone have any ideas? So there's two lines and actually let me read that out. By the way, two meetups ago, I was hugely impressed by Marcy Sutton, who basically provided alternative text for everything you saw on the screen. I was like, oh my gawd. I aspire to be like her. So the code here says bracket image onmousedown equals next page parenthesis, so a function. And then src equals image forward slash next dash arrow dot png and then alt equals go to next page. So, what about this is not accessible? Yes?
 
-[Indecipherable]
+**[Indecipherable]**
 
 There's no anchor tag, okay. But, wouldn't this take care of it? "href" is missing. So what will happen if the href is missing? You can't reach it. So if you're tabbing through, you can't actually reach this particular element. What else about it is makes it not keyboard accessible? Yes?
 
-[Attendee]: If you're using a screen reader, the screen reader [indecipherable] like that.
+**[Attendee]:** If you're using a screen reader, the screen reader [indecipherable] like that.
 
-[Dennis]: Ok, that is very helpful. Anything else? Anyone else have any insight into what makes this really bad? Going once ... going twice ... I'm sorry? It is not clickable via keyboard, exactly. So, to the point, there's no "href" so you can't actually reach it via keyboard. If you hit tab, you hit all the links and all the form fields, you would never reach this. So, we can do this, we can add onkeydown equals next page the same function. So now. at least the keyboard can act on it. It could trigger the event. But what's still wrong?
+**[Dennis]:** Ok, that is very helpful. Anything else? Anyone else have any insight into what makes this really bad? Going once ... going twice ... I'm sorry? It is not clickable via keyboard, exactly. So, to the point, there's no "href" so you can't actually reach it via keyboard. If you hit tab, you hit all the links and all the form fields, you would never reach this. So, we can do this, we can add onkeydown equals next page the same function. So now. at least the keyboard can act on it. It could trigger the event. But what's still wrong?
 
-[Attendee]: Focus.
+**[Attendee]:** Focus.
 
-[Dennis]: Focus. You can't reach it via keyboard. Sort of the same problems, right? We can trigger the event if we could get there, right?
+**[Dennis]:** Focus. You can't reach it via keyboard. Sort of the same problems, right? We can trigger the event if we could get there, right?
 
-[Attendee]: [Indecipherable]
+**[Attendee]:** [Indecipherable]
 
-[Dennis]: Well, that's ... you have to be able to focus on it before you can actually trigger the event. So we could do this ... we can add a tabindex equals zero. Now you can reach it via keyboard. Now, therefore you could trigger the event, right? Well, actually no. Because, this is an image. If you're reaching it via screen reader, it's going to say image. Okay, what do I do with an image? I don't act on an image, so I'm going to be confused. So now we got to add role equals link so we could tell it, okay, not only can you reach it,this is a link and you can ... when you press the key down, you can trigger this function. That's a lot of work, isn't it? When actually, if you just did this ... which is a href equals next dash page dot html image src equals arrow dot PNG alt equals go to next page.
+**[Dennis]:** Well, that's ... you have to be able to focus on it before you can actually trigger the event. So we could do this ... we can add a tabindex equals zero. Now you can reach it via keyboard. Now, therefore you could trigger the event, right? Well, actually no. Because, this is an image. If you're reaching it via screen reader, it's going to say image. Okay, what do I do with an image? I don't act on an image, so I'm going to be confused. So now we got to add role equals link so we could tell it, okay, not only can you reach it,this is a link and you can ... when you press the key down, you can trigger this function. That's a lot of work, isn't it? When actually, if you just did this ... which is a href equals next dash page dot html image src equals arrow dot PNG alt equals go to next page.
 
 So you might be saying, "okay, but we're trying to do..." let's say if this was the form field, "but we're trying to do custom field, we're trying to do something different." That's fine. But realize, you're going to have to make sure that the event is triggered by keyboard. You going to have to make sure that you can reach it by keyboard, and you're going to have to make sure that the screen reader knows, assistive technology knows that this is a link. This could have been a div and it's the same thing. So there's quite a bit of baking that you have to do to make that work.
 
-Next one is No Keyboard Trap. Now I'll be honest, you're going to have to work with me.
+Next one is No Keyboard Trap. Now I'll be honest, you're going to have to work with me. We're trying to picture this scenario because, I spent two days trying to come up with something that I've seen in the wild and to be honest, I have not seen anything that ... I think this is something that maybe we would have seen five, ten years ago from bad JavaScript coders ... doing validation. So basically, if the keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface, and if it requires more than unmodified arrow or tab keys or other standard exit methods, the user is advised of the method for moving focus away.
 
-00:06:22.920 --> 00:06:24.920
-We're trying to picture this scenario because,
+So this is the example I came up with. So this is using form field validation. So if you think of it, there was a period of time where we would, you know, once you moved off of a form field, they would check the validation. If it doesn't match, it would show an error message, right? So let's go ahead and put in ... I'm going to put in user name. Let's see here  ... messing up here left and right. Okay, let's put in a key ... password here. And now we have sort of a poor man's CAPTCHA. Basically, it's a text CAPTCHA, what is two plus two? 
 
-00:06:25.440 --> 00:06:30.640
-I spent two days trying to come up with something that I've seen in the wild and to be honest,
-
-00:06:30.640 --> 00:06:32.640
-I have not seen anything that ...
-
-00:06:33.440 --> 00:06:39.840
-I think this is something that maybe we would have seen five, ten years ago from bad JavaScript coders ...
-
-00:06:40.720 --> 00:06:42.460
-doing validation.
-
-00:06:42.720 --> 00:06:49.800
-So basically, if the keyboard focus can be moved to a component of the page using a keyboard interface,
-
-00:06:50.240 --> 00:06:56.200
-then focus can be moved away from that component using only a keyboard interface,
-
-00:06:56.200 --> 00:07:03.500
-and if it requires more than unmodified arrow or tab keys or other standard exit methods,
-
-00:07:03.500 --> 00:07:07.880
-the user is advised of the method for moving focus away.
-
-00:07:09.480 --> 00:07:11.480
-So this is the example I came up with.
-
-00:07:12.620 --> 00:07:15.220
-So this is using form field validation.
-
-00:07:15.220 --> 00:07:18.980
-So if you think of it, there was a period of time
-
-00:07:18.980 --> 00:07:20.300
-where we would, you know,
-
-00:07:20.300 --> 00:07:22.180
-once you moved off of a form field,
-
-00:07:22.180 --> 00:07:23.720
-they would check the validation.
-
-00:07:23.720 --> 00:07:27.660
-If it doesn't match, it would show an error message, right?
-
-00:07:28.220 --> 00:07:30.220
-So let's go ahead and put in ...
-
-00:07:31.300 --> 00:07:33.300
-I'm going to put in user name.
-
-00:07:35.240 --> 00:07:36.660
-Let's see here ...
-
-00:07:37.920 --> 00:07:39.980
-... messing up here left and right.
-
-00:07:43.460 --> 00:07:47.860
-Okay, let's put in a key ... password here.
-
-00:07:48.260 --> 00:07:51.980
-And now we have sort of a poor man's CAPTCHA.
-
-00:07:52.320 --> 00:07:55.000
-Basically, it's a text CAPTCHA, what is two plus two?
-
-00:07:56.080 --> 00:08:00.060
-Okay, before I answer that form field, here's the scenario.
-
-00:08:02.380 --> 00:08:04.580
-You're working for a small business.
-
-00:08:05.100 --> 00:08:08.600
-They use this CAPTCHA because they were receiving a lot of spam.
-
-00:08:09.940 --> 00:08:16.220
-The web developer they used to have, they left, the site's been ignored for a year.
-
-00:08:17.140 --> 00:08:21.000
-You have another developer come in and they say we're starting to get spam.
-
-00:08:21.000 --> 00:08:22.840
-They figured this out, change it.
-
-00:08:22.840 --> 00:08:25.040
-So what does the developer do?
-
-00:08:25.480 --> 00:08:29.880
-Let's say before it said eight plus two. So it expects ten.
-
-00:08:31.280 --> 00:08:36.900
-They changed it, two plus two, but they forgot to change the actual validation.
-
-00:08:38.180 --> 00:08:40.180
-So now, I answer it properly.
-
-00:08:42.660 --> 00:08:44.560
-Ah, shoot. I'm on the wrong one.
-
-00:08:44.560 --> 00:08:45.580
-I apologize.
-
-00:08:45.660 --> 00:08:47.660
-I told you I'm going to mess myself up.
-
-00:08:49.360 --> 00:08:50.620
-Thank you very much.
-
-00:08:51.380 --> 00:08:54.160
-This again is why I have Seth here to watch me.
+Okay, before I answer that form field, here's the scenario. You're working for a small business. They use this CAPTCHA because they were receiving a lot of spam. The web developer they used to have, they left, the site's been ignored for a year. You have another developer come in and they say we're starting to get spam. They figured this out, change it. So what does the developer do? Let's say before it said eight plus two. So it expects ten. They changed it, two plus two, but they forgot to change the actual validation. So now, I answer it properly. Ah, shoot. I'm on the wrong one. I apologize. I told you I'm going to mess myself up. Thank you very much. This again is why I have Seth here to watch me.
 
 00:08:55.780 --> 00:09:00.360
-So, let's try this, and thank goodness I don't have to type anymore.
+So, let's try this, and thank goodness I don't have to type anymore. So what is two plus two? Remember, it used to be eight plus two. But now we changed it to two plus two. But we forgot to change the actual value in the JavaScript. So when I go to tab off ... Ah! I'm still typing in the wrong spot, hold on. This is a great example. I feel like I'm using a Microsoft product. Okay, so now when I tab, you see nothing's happening and the reason why is using onblur. If the onblur doesn't validate, it won't let me off. I'm trapped and I literally ... so you think okay, I can do shift-tab. I can't leave this form field. This is a keyboard trap.
 
-00:09:01.340 --> 00:09:04.280
-So what is two plus two?
+We don't see many of them out in the wild anymore, but... I'm sorry? Phone numbers ...
 
-00:09:04.280 --> 00:09:06.620
-Remember, it used to be eight plus two.
+**[Seth]:** When you have three fields with your phone number, there's a lot of instances where it pushes you to the next field, and you hit the Delete key and it pushes you ... that's an example that's commonly still used.
 
-00:09:07.600 --> 00:09:09.180
-But now we changed it to two plus two.
+**[Dennis]:** Okay. Yes ...
 
-00:09:09.620 --> 00:09:13.280
-But we forgot to change the actual value in the JavaScript.
+**[Attendee]:** If you want to go to a site that has lots of traps, go to LinkedIn.
 
-00:09:13.840 --> 00:09:15.840
-So when I go to tab off ...
+**[Dennis]:** Linkedin, oh my gawd.
 
-00:09:17.380 --> 00:09:20.400
-Ah! I'm still typing in the wrong spot, hold on.
+**[Attendee]:** Go to the search function? You don't work for LinkedIn do you?
 
-00:09:22.040 --> 00:09:25.200
-This is a great example. I feel like I'm using a Microsoft product.
+**[Dennis]:** I'll have to let Jennison know ...
 
-00:09:26.440 --> 00:09:33.380
-Okay, so now when I tab, you see nothing's happening and the reason why is using onblur.
+**[Attendee]:** You go to the search function, it keeps all the things you've ever searched for, sometimes, in the virtual view with JAWs or NVDA, you will get stuck there.
 
-00:09:33.640 --> 00:09:36.100
-If the onblur doesn't validate, it won't let me off.
+**[Dennis]:** Oh my goodness.
 
-00:09:36.100 --> 00:09:40.340
-I'm trapped and I literally ... so you think okay, I can do shift-tab.
+**[Attendee]:** [Indecipherable]
 
-00:09:41.240 --> 00:09:42.920
-I can't leave this form field.
+**[Dennis]:** Wow. Well, so they are still out in the wild. I wish I would have contacted you when I was trying to do this research. I would have came up with a better example. Yes ... And actually, I'll tell you what, because I just thought of this. I can't ... many people can't hear you. I know the folks on the screen can hear you so ... without ripping everything out. There you go, thank you.
 
-00:09:43.920 --> 00:09:45.360
-This is a keyboard trap.
+**[Attendee]:** [indecipherable] ... navigation exercises, I founded that, the hamburger menu, when it says collapsed ... sometimes when you go into it, you can't get out. And I don't know that's just my lack of experience yet. I'm still learning the shortcuts ... [Indecipherable]
 
-00:09:45.780 --> 00:09:49.020
-We don't see many of them out in the wild anymore, but...
+**[Dennis]:** Yeah, exactly.
 
-00:09:50.060 --> 00:09:51.380
-I'm sorry?
-
-00:09:51.880 --> 00:09:52.760
-Phone numbers ...
-
-00:09:52.760 --> 00:09:55.620
-[Seth]: When you have three fields with your phone number,
-
-00:09:55.620 --> 00:10:01.020
-there's a lot of instances where it pushes you to the next field, and you hit the Delete key and it pushes you ...
-
-00:10:02.000 --> 00:10:04.260
-that's an example that's commonly still used.
-
-00:10:04.440 --> 00:10:05.400
-[Dennis]: Okay.
-
-00:10:05.780 --> 00:10:06.740
-Yes ...
-
-00:10:08.400 --> 00:10:12.600
-[Attendee]: If you want to go to a site that has lots of traps, go to LinkedIn.
-
-00:10:12.600 --> 00:10:13.760
-[Dennis]: Linkedin, oh my gawd.
-
-00:10:13.760 --> 00:10:15.760
-[Attendee]: Go to the search function? You don't work for LinkedIn do you?
-
-00:10:17.460 --> 00:10:19.040
-[Dennis]: I'll have to let Jennison know ...
-
-00:10:20.160 --> 00:10:23.800
-[Attendee]: You go to the search function, it keeps all the things you've ever searched for,
-
-00:10:24.380 --> 00:10:29.780
-sometimes, in the virtual view with JAWs or NVDA, you will get stuck there.
-
-00:10:30.040 --> 00:10:31.360
-[Dennis]: Oh my goodness.
-
-00:10:31.960 --> 00:10:35.600
-[Attendee]: [Indecipherable]
-
-00:10:35.940 --> 00:10:39.760
-[Dennis]: Wow. Well, so they are still out in the wild.
-
-00:10:39.760 --> 00:10:44.120
-I wish I would have contacted you when I was trying to do this research.
-
-00:10:44.120 --> 00:10:46.400
-I would have came up with a better example.
-
-00:10:46.440 --> 00:10:46.940
-Yes ...
-
-00:10:49.280 --> 00:10:51.460
-And actually, I'll tell you what, because I just thought of this.
-
-00:10:51.580 --> 00:10:57.480
-I can't ... many people can't hear you. I know the folks on the screen can hear you so ...
-
-00:10:58.140 --> 00:11:01.140
-without ripping everything out.
-
-00:11:02.300 --> 00:11:04.120
-There you go, thank you.
-
-00:11:04.340 --> 00:11:11.260
-[Attendee]: [indecipherable] ...
-
-00:11:11.840 --> 00:11:16.700
-... navigation exercises, I founded that, the hamburger menu, when it says collapsed ...
-
-00:11:16.700 --> 00:11:19.340
-sometimes when you go into it, you can't get out.
-
-00:11:19.880 --> 00:11:24.480
-And I don't know that's just my lack of experience yet. I'm still learning the shortcuts ...
-
-00:11:24.480 --> 00:12:00.000
 [Indecipherable]
 
-00:12:00.120 --> 00:12:01.760
-[Dennis]: Yeah, exactly.
+**[Dennis]:** Oh yeah. I can't tell you how many people I said, "yes, you also have to include Escape." The last one under keyboard accessibility is actually a AAA, and once again WCAG is divided amongst A, AA, and AAA. The baseline standard tends to be AA. So this is a AAA. Typically you can get this maybe on a page, a few pages. Having a whole site be AAA complaint, very difficult, almost impossible. But in this case, no exception. Keyboard has to be able to do everything without requiring specific timings for individual keystrokes and such. So, let's see here ...
 
-00:12:01.920 --> 00:12:10.200
-[Indecipherable]
-
-00:12:11.160 --> 00:12:15.680
-[Dennis]: Oh yeah. I can't tell you how many people I said, "yes, you also have to include Escape."
-
-00:12:17.340 --> 00:12:21.760
-The last one under keyboard accessibility is actually a AAA,
-
-00:12:22.260 --> 00:12:26.880
-and once again WCAG is divided amongst A, AA, and AAA.
-
-00:12:27.040 --> 00:12:30.940
-The baseline standard tends to be AA.
-
-00:12:30.940 --> 00:12:32.840
-So this is a AAA.
-
-00:12:32.840 --> 00:12:35.800
-Typically you can get this maybe on a page, a few pages.
-
-00:12:37.380 --> 00:12:42.100
-Having a whole site be AAA complaint, very difficult, almost impossible.
-
-00:12:42.500 --> 00:12:46.180
-But in this case, no exception.
-
-00:12:46.600 --> 00:12:48.580
-Keyboard has to be able to do everything
-
-00:12:48.700 --> 00:12:54.120
-without requiring specific timings for individual keystrokes and such.
-
-00:12:55.020 --> 00:12:57.860
-So, let's see here ...
-
-00:13:01.260 --> 00:13:03.260
 Okay, enough time.
 
 00:13:04.340 --> 00:13:05.820
