@@ -229,293 +229,62 @@ Breadcrumbs.
 
 You know where in the site that you are.
 
-Okay, link purpose. This is what I was talking about before. This is a AAA. I believe that the link purpose should be solely within the link text. That's me saying that. I believe in quality, so in this case, it's not required for AA compliance, but I would say here, go the extra mile. Your users will appreciate it. And then, section headings.
+Okay, link purpose. This is what I was talking about before. This is a AAA. I believe that the link purpose should be solely within the link text. That's me saying that. I believe in quality, so in this case, it's not required for AA compliance, but I would say here, go the extra mile. Your users will appreciate it. And then, section headings. Again, you know, just make sure if you have groups of content on your pages, make sure you have headings for each one of those groupings.
 
-00:47:22.060 --> 00:47:24.520
-Again, you know, just make sure
-
-00:47:24.520 --> 00:47:26.400
-if you have groups of content on your pages,
-
-00:47:26.400 --> 00:47:27.920
-make sure you have headings
-
-00:47:27.920 --> 00:47:29.260
-for each one of those groupings.
-
-00:47:30.000 --> 00:47:32.400
 Ok, WCAG 2.1 ...
 
-00:47:32.580 --> 00:47:34.580
 So, okay, go ahead, I'm sorry ...
 
-00:47:35.380 --> 00:47:47.880
-[Attendee]: [Indecipherable]
+**[Attendee]:** [Indecipherable]
 
-00:47:48.060 --> 00:47:50.600
-[Dennis]: I don't know.
+**[Dennis]:** I don't know. There's actually a book called ... WCAG 2.0 Made Easy. And that's for a reason. It's actually, obviously, fewer pages than the hundred, I'm sorry, one thousand I think was ninety, pages of WCAG. To be honest, when you get to, you know, when you first read WCAG, when you read something like that, you're like, "okay, what are you talking about?" In WCAG , they typically have a link nearby that says, "Understanding." This particular, 2.4 Navigable. Read that. That's going to go into a lot of detail, but it's going to be slightly more everyday English. So again, with Operable, there's only one success criteria in 2.1 and that's Interruptions. So in 2.0, Interruptions is actually, I believe, a AAA. Here, they're saying AA. So if you want to be the baseline you have to have an easily available mechanism to postpone or suppress interruptions and changes in content unless they are initiated by the user or involve an emergency. I'll let you think about that for the next year or so, and the reason why I say a year or so is because WCAG 2.1 won't probably be fully supported for a few years. But, as you can imagine with something like this, it takes probably a few years of planning to think about how you're going to address this. 
 
-00:47:51.740 --> 00:47:53.420
-There's actually a book called ...
+So with that said, are there any questions on WCAG 2.0 Operable?
 
-00:47:54.440 --> 00:47:57.820
-WCAG 2.0 Made Easy.
-
-00:47:58.660 --> 00:48:00.500
-And that's for a reason.
-
-00:48:00.700 --> 00:48:02.840
-It's actually, obviously,
-
-00:48:03.540 --> 00:48:09.500
-fewer pages than the hundred, I'm sorry, one thousand I think was ninety, pages of WCAG.
-
-00:48:11.060 --> 00:48:15.200
-To be honest, when you get to, you know, when you first read WCAG,
-
-00:48:16.260 --> 00:48:20.000
-when you read something like that, you're like, "okay, what are you talking about?"
-
-00:48:20.920 --> 00:48:25.160
-In WCAG , they typically have a link nearby that says, "Understanding."
-
-00:48:25.940 --> 00:48:28.380
-This particular, 2.4 Navigable.
-
-00:48:28.780 --> 00:48:36.360
-Read that. That's going to go into a lot of detail, but it's going to be slightly more everyday English.
-
-00:48:41.220 --> 00:48:48.540
-So again, with Operable, there's only one success criteria in 2.1 and that's Interruptions.
-
-00:48:49.660 --> 00:48:55.360
-So in 2.0, Interruptions is actually, I believe, a AAA.
-
-00:48:56.140 --> 00:48:57.880
-Here, they're saying AA.
-
-00:48:57.880 --> 00:49:03.920
-So if you want to be the baseline you have to have an easily available mechanism
-
-00:49:03.920 --> 00:49:08.600
-to postpone or suppress interruptions and changes in content
-
-00:49:08.600 --> 00:49:13.280
-unless they are initiated by the user or involve an emergency.
-
-00:49:14.740 --> 00:49:19.240
-I'll let you think about that for the next year or so,
-
-00:49:19.240 --> 00:49:27.160
-and the reason why I say a year or so is because WCAG 2.1 won't probably be fully supported for a few years.
-
-00:49:27.680 --> 00:49:31.840
-But, as you can imagine with something like this, it takes probably a few years of planning
-
-00:49:31.840 --> 00:49:33.840
-to think about how you're going to address this.
-
-00:49:35.220 --> 00:49:36.740
-So with that said,
-
-00:49:37.820 --> 00:49:41.280
-are there any questions on WCAG 2.0 Operable?
-
-00:49:42.420 --> 00:49:47.700
 Yes. Ah, hold on ... I gotta get you plugged in.
 
-00:49:50.380 --> 00:49:54.840
-[Attendee]: There's only one h1 per page even if it's HTML5.
+**[Attendee]:** There's only one h1 per page even if it's HTML5. Here's the issue I'm facing and I'm not sure what to do about it. Iframes. When you bring a page into an iframe, the page that is being entered into will already have an h1. But the page that is brought in will have its own h1.
 
-00:49:55.640 --> 00:49:59.500
-Here's the issue I'm facing and I'm not sure what to do about it.
+**[Dennis]:** So will the host page's h1 and then the addition of the iframe pages h1 cause a problem?
 
-00:50:00.340 --> 00:50:01.400
-Iframes.
+**[Attendee]:** That is the question.
 
-00:50:03.220 --> 00:50:14.300
-When you bring a page into an iframe, the page that is being entered into will already have an h1.
+**[Dennis]:** No.
 
-00:50:14.720 --> 00:50:21.580
-But the page that is brought in will have its own h1.
+**[Attendee]:** Yay!
 
-00:50:23.060 --> 00:50:30.100
-[Dennis]: So will the host page's h1 and then the addition of the iframe pages h1 cause a problem?
+**[Dennis]:** I just made her happy!
 
-00:50:30.100 --> 00:50:31.320
-[Attendee]: That is the question.
+**[Attendee]:** You did! You cannot imagine the hundreds and thousands of pages you just saved the lives of.
 
-00:50:31.320 --> 00:50:32.000
-[Dennis]: No.
+**[Dennis]:** Wow, I'm not going into work tomorrow. I feel special. I am not aware that that is an issue because that would just ... for lack of a better way to say it, that would be insane to require. I mean you can't. How are you gonna ... any paid ... that would mean that you can't use iframes.
 
-00:50:32.580 --> 00:50:33.520
-[Attendee]: Yay!
+**[Attendee]:** So this my question, can you use an iframe and be accessible?
 
-00:50:33.520 --> 00:50:35.720
-[Dennis]: I just made her happy!
+**[Dennis]:** You can use an iframe. The only thing I'll say is, you can use an iframe, but make sure it has a title attribute that describes what the content in the iframe is.
 
-00:50:35.720 --> 00:50:42.220
-[Attendee]: You did! You cannot imagine the hundreds and thousands of pages you just saved the lives of.
+**[Attendee]:** We actually are currently implementing, I'll speak up, iframes from third-party providers, but those third-party provider, systems [indecipherable] ...  so we have a lot of included registration forms, ... forms, but their systems are accessible inherently. So when we include them as a iframe, the only thing we have to do, like Dennis said, is title the frame. 
 
-00:50:44.960 --> 00:50:47.980
-[Dennis]: Wow, I'm not going into work tomorrow. I feel special.
+**[Attendee]:** Thank you. The context is, I am a learning management system administrator. And our learning management system is coming up with a new mobile-friendly design where our content pages are brought into their ... as iframe. And I have to trust them, and I actually object to that, but they do have a general ... this is the page content. But, it's a learning management system, so it's not going to know. It has to be agnostic to the content, however ... it has access to the page title that we give it, so it uses that. So, they can do it, but what I didn't know is whether the screen readers would choke.
 
-00:50:53.360 --> 00:50:57.160
-I am not aware that that is an issue because
+**[Dennis]:** Yeah, no. They won't choke.
 
-00:50:57.540 --> 00:51:00.300
-that would just ...
-
-00:51:05.000 --> 00:51:08.240
-for lack of a better way to say it, that would be insane to require.
-
-00:51:09.340 --> 00:51:10.880
-I mean you can't. How are you gonna ...
-
-00:51:11.320 --> 00:51:13.700
-any paid ... that would mean that you can't use iframes.
-
-00:51:14.920 --> 00:51:18.400
-[Attendee]: So this my question, can you use an iframe and be accessible?
-
-00:51:18.400 --> 00:51:19.920
-[Dennis]: You can use an iframe,
-
-00:51:19.920 --> 00:51:22.300
-The only thing I'll say is, you can use an iframe,
-
-00:51:22.300 --> 00:51:29.300
-but make sure it has a title attribute that describes what the content in the iframe is.
-
-00:51:29.680 --> 00:51:38.280
-[Attendee]: We actually are currently implementing, I'll speak up, iframes from third-party providers,
-
-00:51:38.280 --> 00:51:46.980
-but those third-party provider, systems [indecipherable] ...  so we have a lot of included
-
-00:51:47.620 --> 00:51:54.260
-registration forms, ... forms, but their systems are accessible inherently.
-
-00:51:55.120 --> 00:52:01.180
-So when we include them as a iframe, the only thing we have to do, like Dennis said, is title the frame.
-
-00:52:02.960 --> 00:52:09.860
-[Attendee]: Thank you. The context is, I am a learning management system administrator.
-
-00:52:10.260 --> 00:52:18.260
-And our learning management system is coming up with a new mobile-friendly design
-
-00:52:18.520 --> 00:52:25.180
-where our content pages are brought into their ... as iframe.
-
-00:52:25.320 --> 00:52:35.760
-And I have to trust them, and I actually object to that, but they do have a general ... this is the page content.
-
-00:52:36.080 --> 00:52:44.260
-But, it's a learning management system, so it's not going to know.
-
-00:52:44.600 --> 00:52:47.460
-It has to be agnostic to the content, however ...
-
-00:52:48.060 --> 00:52:55.700
-it has access to the page title that we give it, so it uses that.
-
-00:52:56.620 --> 00:53:02.980
-So, they can do it, but what I didn't know is whether the screen readers would choke.
-
-00:53:03.780 --> 00:53:05.680
-[Dennis]: Yeah, no. They won't choke.
-
-00:53:06.000 --> 00:53:09.920
 I'm sorry, yes, you had a question?
 
-00:53:10.240 --> 00:53:15.220
-[Attendee]: There's all these systems that ... [indecipherable] ...
+**[Attendee]:** There's all these systems that ... [indecipherable] ... like object embeds are probably what you are referring to? Those generally don't have problems. Again, it's the system that drives all that code, those things have to ... so like, take the old days, like the YouTube player. You'd use an object embed, and it would basically put it into a Flash player. Well, Flash itself isn't accessible, but the object embed is. So it's whatever is getting put into the page needs to be accessible. So, if I said my website is sethkane.com, which, doesn't exist, is accessible, but Dennis put an iframe on his website, and it was including my website, it would still be accessible, because mine is inherently accessible. So it's whatever renders into the DOM, the Document Object Model, as long as that is accessible, how its being delivered is irrelevant. That make sense?
 
-00:53:15.220 --> 00:53:20.080
-like object embeds are probably what you are referring to? Those generally don't have problems.
+**[Attendee]:** [Indecipherable]
 
-00:53:20.780 --> 00:53:25.860
-Again, it's the system that drives all that code, those things have to ...
+**[Attendee]:** Well we also, say, like in our instance right now, we make decisions based on accessible-ready ... Like, if we're ... a booking appointment provider, for one of our clients,
 
-00:53:25.860 --> 00:53:28.420
-so like, take the old days, like the YouTube player.
-
-00:53:29.240 --> 00:53:32.660
-You'd use an object embed, and it would basically put it into a Flash player.
-
-00:53:33.360 --> 00:53:37.300
-Well, Flash itself isn't accessible, but the object embed is.
-
-00:53:38.140 --> 00:53:41.580
-So it's whatever is getting put into the page needs to be accessible.
-
-00:53:41.580 --> 00:53:47.700
-So, if I said my website is sethkane.com, which, doesn't exist, is accessible,
-
-00:53:48.080 --> 00:53:53.940
-but Dennis put an iframe on his website, and it was including my website,
-
-00:53:54.380 --> 00:53:57.700
-it would still be accessible, because mine is inherently accessible.
-
-00:53:58.800 --> 00:54:06.140
-So it's whatever renders into the DOM, the Document Object Model, as long as that is accessible,
-
-00:54:06.560 --> 00:54:11.560
-how its being delivered is irrelevant. That make sense?
-
-00:54:12.060 --> 00:54:18.760
-[Attendee]: [Indecipherable]
-
-00:54:18.880 --> 00:54:26.960
-[Attendee]: Well we also, say, like in our instance right now, we make decisions based on accessible-ready ...
-
-00:54:27.620 --> 00:54:33.260
-Like, if we're ... a booking appointment provider, for one of our clients,
-
-00:54:33.260 --> 00:54:44.440
 [Indecipherable]
 
-00:54:45.600 --> 00:54:49.820
-[Dennis]: And just so you know, on an eCommerce website like ours,
+**[Dennis]:** And just so you know, on an eCommerce website like ours, we have third-party ads. None of them are displayed via iframe, but they are either displayed from Javascript or some other means, We require, since they are being presented on our domain, we require those to be AA compliant. Color contrast, alt text, everything.
 
-00:54:49.820 --> 00:54:51.920
-we have third-party ads.
-
-00:54:53.420 --> 00:55:01.080
-None of them are displayed via iframe, but they are either displayed from Javascript or some other means,
-
-00:55:01.460 --> 00:55:09.840
-We require, since they are being presented on our domain, we require those to be AA compliant.
-
-00:55:10.060 --> 00:55:13.060
-Color contrast, alt text, everything.
-
-00:55:14.240 --> 00:55:16.720
 I'm sorry, you had a question?
 
-00:55:16.720 --> 00:55:21.880
-[Attendee]: Is there a reason people have to use iframes at all? They just reck havoc with the screen reader.
+**[Attendee]:** Is there a reason people have to use iframes at all? They just reck havoc with the screen reader.
 
-00:55:21.880 --> 00:55:27.060
 [Indecipherable]
 
-00:55:27.060 --> 00:55:31.020
-... and I have to figure out a way to skip past the ad to go where the article continues.
-
-00:55:31.020 --> 00:55:38.680
-I know, JAWs has a ... I don't remember the command, but there is a mechanism in JAWs that you can say
-
-00:55:39.040 --> 00:55:42.400
-strip out all frames, and you can read the page, and it will just hide them.
-
-00:55:43.720 --> 00:55:45.720
-I don't think NVDA can do that ...
-
-00:55:46.660 --> 00:55:51.820
-... I don't know what Voiceover, if you could do it with that, but certainly can with JAWs, I hate frames.
-
-00:55:52.820 --> 00:55:55.260
-They are a hell for screen readers.
-
+... and I have to figure out a way to skip past the ad to go where the article continues. I know, JAWs has a ... I don't remember the command, but there is a mechanism in JAWs that you can say strip out all frames, and you can read the page, and it will just hide them. I don't think NVDA can do that ... I don't know what Voiceover, if you could do it with that, but certainly can with JAWs, I hate frames. They are a hell for screen readers.
