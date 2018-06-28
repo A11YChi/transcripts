@@ -136,28 +136,16 @@ The crew , motionless, eyes fixed on their faces.
 
 **[Commercial Audio Description]:** He glances at the gum pack.
 
-424
-00:34:57,240 --> 00:34:59,240
 **[Fish singing]:** _"Galileo Galileo Figaro Magnifico."_
 
-425
-00:34:59,240 --> 00:35:00,480
 **[Commercial Audio Description]:** All the pets sign along. A bearded dragon, a cat, a canary...
 
-427
-00:35:03,560 --> 00:35:05,200
 **[Singing]:** _Mama mia mama mia_
 
-428
-00:35:05,200 --> 00:35:10,940
 **[Commercial Audio Description]:** A spotted fish, a skull and baby birds. Not in sync with the beat, young man surveys the animal chorus, smiles and thrusts his arms into the air.
 
-430
-00:35:13,840 --> 00:35:15,420
 **[Young man singing solo]:** _"For me!"_
 
-431
-00:35:15,420 --> 00:35:19,320
 **[Commercial Audio Description]:** The old man looks up, the fish swim away. The young man smiles.
 
 **[Martin]** Alright now, I'm going to play that again for the sighted audience.
