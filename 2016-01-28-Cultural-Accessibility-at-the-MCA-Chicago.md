@@ -253,12 +253,8 @@ Any other questions?
 
 **[Anna]:** Once approved.
 
-407
-00:35:43,220 --> 00:35:45,140
 **[Susan]:** Once approved
 
-408
-00:35:45,140 --> 00:35:46,700
 **[Anna]:** Which is why we'll let you in.
 
 [Laughter]
@@ -317,85 +313,27 @@ Any other questions?
 
 **[Susan]:** I spoke at an event at the Goodman Theater this fall that was hosted by ADA 25 it was a cultural accessibility summit and one of the other speakers was a blind lady and I read a description of a work we had installed at the time of a hot air balloon that was all blown up you could go inside of it.
 
-487
-00:43:15,000 --> 00:43:16,080
-[Sina] That's my favorite.
+**[Sina]:** That's my favorite.
 
-488
-00:43:16,080 --> 00:43:23,560
-[Susan] It's a great great description and she, at the end of the summit, she was on the stage
+**[Susan]:** It's a great great description and she, at the end of the summit, she was on the stage doing some closing remarks and she said, you know, and somebody asked her this question what do you do with your time, it seemed a little weird but, and she gave a beautiful, beautiful answer about all the things that she does, but then she said you know, I don't go to museums very much because I don't really feel a warm welcome but I have to say after hearing that description of that hot air balloon I'm going to the MCA. I thought wow, we just totally won the day. And she did come actually, she came and was escorted through the hot air balloon by one of our guest services staff, the whole nine yards.
 
-489
-00:43:23,560 --> 00:43:27,040
-doing some closing remarks and she said, you know, and somebody asked her this question
+**[Sina]:**  Any other questions, comments?
 
-490
-00:43:27,040 --> 00:43:34,560
-what do you do with your time, it seemed a little weird but, and she gave a beautiful, beautiful answer
+**[Nikki]:** I have a question, so it sounds like Coyote is proprietary to MCA.
 
-491
-00:43:34,560 --> 00:43:41,540
-about all the things that she does, but then she said you know, I don't go to museums very much because
+**[Susan]:** No.
 
-492
-00:43:41,540 --> 00:43:47,980
-I don't really feel a warm welcome but I have to say after hearing that description of that hot air balloon
+**[Sina]:** Just, just for right now. The plan is totally to, let's agree on license, let's throw it on to GitHub, the whole thing, yeah.
 
-493
-00:43:47,980 --> 00:43:56,500
-I'm going to the MCA. I thought wow, we just totally won the day. And she did come actually,
+**[Nikki]:** So then the next question, what other applications do you see this on?
 
-494
-00:43:56,500 --> 00:44:03,460
-she came and was escorted through the hot air balloon by one of our guest services staff, the whole nine yards.
+**[Susan]:** For Coyote itself, or for the descriptions? Yeah, we have lots of ideas. First and foremost, Sina is going to divorce us as our consultant if we don't find a way to make them available within the gallery space. So that basically somebody who wants to ...
 
-495
-00:44:06,620 --> 00:44:08,740
-[Sina] Any other questions, comments?
+**[Sina]:** who wants to come here physically
 
-496
-00:44:09,660 --> 00:44:14,260
-[Nikki] I have a question, so it sounds like Coyote is proprietary to MCA.
+**[Susan]:** Like that's so easy to do ... they will be very useful in gallery...
 
-497
-00:44:14,260 --> 00:44:14,760
-[Susan] No.
-
-498
-00:44:14,760 --> 00:44:21,780
-[Sina] Just, just for right now. The plan is totally to, let's agree on license, let's throw it on to GitHub,
-
-499
-00:44:21,780 --> 00:44:23,840
-the whole thing, yeah.
-
-500
-00:44:23,840 --> 00:44:28,180
-[Nikki] So then the next question, what other applications do you see this on?
-
-501
-00:44:28,180 --> 00:44:35,240
-[Susan] For Coyote itself, or for the descriptions? Yeah, we have lots of ideas.
-
-502
-00:44:35,240 --> 00:44:42,340
-First and foremost, Sina is going to divorce us as our consultant if we don't find a way to make them available
-
-503
-00:44:42,340 --> 00:44:47,900
-within the gallery space. So that basically somebody who wants to ...
-
-504
-00:44:47,900 --> 00:44:49,640
-[Sina] who wants to come here physically
-
-505
-00:44:49,640 --> 00:45:00,580
-[Susan] Like that's so easy to do ... they will be very useful in gallery...
-
-506
-00:45:00,580 --> 00:45:02,780
-[Nikki] They already have like the headsets.
+**[Nikki]:** They already have like the headsets.
 
 507
 00:45:02,780 --> 00:45:05,000
