@@ -193,665 +193,129 @@ This painting, a realistic portrait, depicts a young African-American woman in a
 
 **[Sina]:** Right, right.
 
-322
-00:28:46,180 --> 00:28:58,480
-[Susan] We were talking earlier, just to pile onto the training note, and this is not specific to Coyote,
+**[Susan]:** We were talking earlier, just to pile onto the training note, and this is not specific to Coyote, in fact this is not about Coyote at all, we were talking to somebody from the park service about the nature of Sina's consultancy with us, and why it had worked, and I think it was kind of worth repeating what we said to him, because he was asking a lot ... and we were remembering that the very first deliverable for Sina when we hired him was to engage with our developers, who actually had not had any accessibility training, and he trained them. Then was available to them, and it was a very important part of our being able to a.) make the site accessible but b.) integrate Coyote with the site. All of that is not perfect or done yet, but making available the knowledge so it wasn't hard ...
 
-323
-00:28:58,480 --> 00:29:02,780
-in fact this is not about Coyote at all, we were talking to somebody from the park service
+**[Sina]:** And the other advantage of that, there's an emergent effect that happens there which is that those developers don't only develop for the MCA, it's not an in-house team and so what happens is that on future projects, I already know for a fact that they've written some little helper libraries for themselves, a little JavaScript things that they used to do all the time that they now do differently because, why not, it looks the same, it happens to be way more accessible there's cool things like that, things they are integrating into their workflow, like automatically checking for a few accessibility things here and there, that they're applying to other projects and, it goes even further than that because, institutions like the MCA, there's several others clients that do this as well, if you start living the ... and by the way, this one library that you are using is open source you've already solved this problem, because you had to for you, giving back and publishing that back into the community helps everyone else who is now using that thing, sometimes knowingly and sometimes unknowingly. They'll just say "I use blah blah blah video player" or whatever and they don't even realize "Oh, the buttons are now tab-able for somebody who can see perfectly fine but ... [audience cough] ...  because they can't move a mouse, I think that's a neat contribution that comes out of work like this.
 
-324
-00:29:02,780 --> 00:29:11,020
-about the nature of Sina's consultancy with us, and why it had worked, and I think it was kind of worth repeating
-
-325
-00:29:11,020 --> 00:29:18,620
-what we said to him, because he was asking a lot ... and we were remembering that the very first deliverable
-
-326
-00:29:18,620 --> 00:29:26,780
-for Sina when we hired him was to engage with our developers, who actually had not had any
-
-327
-00:29:26,780 --> 00:29:35,580
-accessibility training, and he trained them. Then was available to them, and it was a very important part of our
-
-328
-00:29:35,580 --> 00:29:41,400
-being able to a.) make the site accessible but b.) integrate Coyote with the site.
-
-329
-00:29:41,400 --> 00:29:53,580
-All of that is not perfect or done yet, but making available the knowledge so it wasn't hard ...
-
-330
-00:29:54,780 --> 00:29:58,200
-[Sina] And the other advantage of that, there's an emergent effect that happens there
-
-331
-00:29:58,200 --> 00:30:02,200
-which is that those developers don't only develop for the MCA, it's not an in-house team
-
-332
-00:30:02,200 --> 00:30:07,500
-and so what happens is that on future projects, I already know for a fact that they've written
-
-333
-00:30:07,500 --> 00:30:13,400
-some little helper libraries for themselves, a little JavaScript things that they used to do all the time
-
-334
-00:30:13,400 --> 00:30:18,320
-that they now do differently because, why not, it looks the same, it happens to be way more accessible
-
-335
-00:30:18,320 --> 00:30:21,760
-there's cool things like that, things they are integrating into their workflow, like
-
-336
-00:30:21,760 --> 00:30:28,000
-automatically checking for a few accessibility things here and there, that they're applying to other projects
-
-337
-00:30:28,000 --> 00:30:34,480
-and, it goes even further than that because, institutions like the MCA, there's several others clients that do this
-
-338
-00:30:34,480 --> 00:30:39,100
-as well, if you start living the ... and by the way, this one library that you are using is open source
-
-339
-00:30:39,100 --> 00:30:44,540
-you've already solved this problem, because you had to for you, giving back and publishing that back
-
-340
-00:30:44,540 --> 00:30:50,080
-into the community helps everyone else who is now using that thing, sometimes knowingly
-
-341
-00:30:50,080 --> 00:30:55,020
-and sometimes unknowingly. They'll just say "I use blah blah blah video player" or whatever
-
-342
-00:30:55,020 --> 00:31:00,160
-and they don't even realize "Oh, the buttons are now tab-able for somebody who can see perfectly fine
-
-343
-00:31:00,160 --> 00:31:05,720
-but ... [audience cough] ...  because they can't move a mouse, I think that's a neat contribution
-
-344
-00:31:05,720 --> 00:31:07,880
-that comes out of work like this.
-
-345
-00:31:07,880 --> 00:31:09,700
 Any other questions?
 
-346
-00:31:10,460 --> 00:31:15,600
-[Jen] This is Jen. Could you back up a couple of steps in time and tell us a little more about the origin story
+**[Jen]:** This is Jen. Could you back up a couple of steps in time and tell us a little more about the origin story of this effort? I'm so curious about ...
 
-347
-00:31:15,600 --> 00:31:17,800
-of this effort? I'm so curious about ...
+**[Susan]:** So it's actually ...
 
-348
-00:31:17,800 --> 00:31:19,480
-[Susan] So it's actually ...
+**[Sina]:** I call it, you always get to tell this one.
 
-349
-00:31:19,480 --> 00:31:21,980
-[Sina] I call it, you always get to tell this one.
-
-350
-00:31:21,980 --> 00:31:23,980
 [Laughter]
 
-351
-00:31:23,980 --> 00:31:27,700
-[Susan] April. I mean the origin story is not backed up that much.
+**[Susan]:** April. I mean the origin story is not backed up that much.
 
-352
-00:31:27,700 --> 00:31:30,980
-[Anna] You want to mention when we first met Sina?
+**[Anna]:** You want to mention when we first met Sina?
 
-353
-00:31:30,980 --> 00:31:36,320
-[Sina] Well, so, I remember it very clearly. I actually where I was, how I was holding my thumb.
+**[Sina]:** Well, so, I remember it very clearly. I actually where I was, how I was holding my thumb. Which is weird, but ...
 
-354
-00:31:36,320 --> 00:31:37,580
-Which is weird, but ...
-
-355
-00:31:37,580 --> 00:31:39,200
 [Laughter]
 
-356
-00:31:39,200 --> 00:31:43,380
-[Sina] I also actually remember because I was heavily excite and threw it across the room. Um ...
+**[Sina]:** I also actually remember because I was heavily excite and threw it across the room. Um ...
 
-357
-00:31:43,380 --> 00:31:44,400
 [Laughter]
 
-358
-00:31:44,400 --> 00:31:51,320
-[Sina] Yeah, it was great. But basically we were talking about images, and I remember actually being
+**[Sina]:** Yeah, it was great. But basically we were talking about images, and I remember actually being
 
-359
-00:31:51,320 --> 00:31:51,880
 [cough]
 
-360
-00:31:51,880 --> 00:31:56,420
-[Sina] on Susan's part, which was I was a little reluctant. I said, ok guys, here's the deal,
+**[Sina]:** on Susan's part, which was I was a little reluctant. I said, ok guys, here's the deal, I'm going to lay this out for you.
 
-361
-00:31:56,420 --> 00:31:58,020
-I'm going to lay this out for you.
+**[Susan]:** Oh yes.
 
-362
-00:31:58,020 --> 00:31:59,160
-[Susan] Oh yes.
+**[Sina]:** What you are saying, because Susan was very much doing her usual, which is like, forget bare minimums, and even average, we're going to be like, what's after triple A, let's be quad
 
-363
-00:31:59,160 --> 00:32:04,560
-[Sina] What you are saying, because Susan was very much doing her usual, which is like,
-
-364
-00:32:04,560 --> 00:32:11,640
-forget bare minimums, and even average, we're going to be like, what's after triple A, let's be quad
-
-365
-00:32:11,640 --> 00:32:15,440
 [Laughter]
 
-366
-00:32:15,440 --> 00:32:17,720
-[Anna] Guys, guys, guys, think about scope.
+**[Anna]:** Guys, guys, guys, think about scope.
 
-367
-00:32:17,720 --> 00:32:18,960
 [Laughter]
 
-368
-00:32:18,960 --> 00:32:19,940
-[Anna] Deadlines
+**[Anna]:** Deadlines
 
-369
-00:32:19,940 --> 00:32:20,740
 [Laughter]
 
-370
-00:32:20,740 --> 00:32:25,020
-[Sina] So, describe every image in there. They're like "yeah, totally."
+**[Sina]:** So, describe every image in there. They're like "yeah, totally." I'm not going to do it right now, it might take five years. Yeah, why not. Let's commit. So then there was a pause where I go ... are you sure? And they're very affirmative about that. So then the next step is how, how do we do that, and that's kind of where Coyote started coming up because you know I was pointing out to them, every museum has their own objects collection management system and TMS and all these other things and what do you want to do about storing all of these descriptions, and that's where we started that deep thinking thing which I really appreciate about MCA, we immediately started going to, what about other languages what about the multiplicity of voices as Anna calls it, where it's this idea of having different descriptions per image, so that's where Coyote kind of came about as a not only a workflow tool but a repository, if you will, to hold these different kinds of descriptions in a programmatically accessible way so that the website could draw from it.
 
-371
-00:32:25,020 --> 00:32:29,040
-I'm not going to do it right now, it might take five years. Yeah, why not. Let's commit.
+**[Susan]:** And we egg each other on, which is, sometimes a problem. So immediately as we began to think about a repository we sought as a research tool,  on top of everything else, this is an emergent practice and there are a lot of different ways that you formalize a practice, but one of them is just a bunch of people sitting around talking and saying shouldn't you describe the skin color of a subject in a painting? But the other is, really taking a big dataset, which we began to see, we can collect and especially aggregate with other people's data and study and analyze and so that's a part of the project we haven't talked about but that we absolutely see in the future and maybe we won't do that work maybe somebody else will come along and grab our datasets and do work on it, or maybe we'll look at some pieces and others will look at other pieces but it was important to us almost immediately to think about rigorous method for storing and organizing information so that they can be studied by someone, hopefully us.
 
-372
-00:32:29,040 --> 00:32:35,580
-So then there was a pause where I go ... are you sure? And they're very affirmative about that.
+**[Anna]:** And actually that is another factor of the workflows helps the commitment I think of the ... all these people, everyone can see each other's descriptions in the software so you're not like out alone, in the dark, trying to describe like "oh, I'm afraid, oh I think I might be" you can look at how other people are describing to get a little courage, of like "oh, ok, so-and-so did it that way that's interesting, I'd do it this way" and you can add to each others, so there is this, still this community basis to the way this data is collected.
 
-373
-00:32:35,580 --> 00:32:40,840
-So then the next step is how, how do we do that, and that's kind of where Coyote started coming up
+**[Susan]:** I don't think we have actually said that it is our intention that the software to be available to anybody.
 
-374
-00:32:40,840 --> 00:32:43,700
-because you know I was pointing out to them, every museum has their own
+**[Sina]:** Yes.
 
-375
-00:32:43,700 --> 00:32:49,760
-objects collection management system and TMS and all these other things and what do you want to do about
+**[Susan]:** and that we're not really ready for it to be fully deposited, but that we're happy for you to be in touch with us if you have a thought to using it at some point, but also we can give you a login so you can take a look, so you can poke around a bit and sort of see what it looks like. I mean it does actually work, it pulls images needing descriptions from our site and it pushes descriptions back out, I mean basics.
 
-376
-00:32:49,760 --> 00:32:53,640
-storing all of these descriptions, and that's where we started that deep thinking thing
-
-377
-00:32:53,640 --> 00:32:58,100
-which I really appreciate about MCA, we immediately started going to, what about other languages
-
-378
-00:32:58,100 --> 00:33:03,260
-what about the multiplicity of voices as Anna calls it, where it's this idea of having
-
-379
-00:33:03,260 --> 00:33:09,180
-different descriptions per image, so that's where Coyote kind of came about as a not only a workflow tool but a
-
-380
-00:33:09,180 --> 00:33:16,720
-repository, if you will, to hold these different kinds of descriptions in a programmatically accessible way
-
-381
-00:33:16,720 --> 00:33:19,460
-so that the website could draw from it.
-
-382
-00:33:19,460 --> 00:33:24,760
-[Susan] And we egg each other on, which is, sometimes a problem. So immediately as we began to think about
-
-383
-00:33:24,760 --> 00:33:31,460
-a repository we sought as a research tool,  on top of everything else, this is an emergent practice
-
-384
-00:33:31,460 --> 00:33:40,260
-and there are a lot of different ways that you formalize a practice, but one of them is just a bunch of people
-
-385
-00:33:40,260 --> 00:33:45,900
-sitting around talking and saying shouldn't you describe the skin color of a subject in a painting?
-
-386
-00:33:45,900 --> 00:33:51,840
-But the other is, really taking a big dataset, which we began to see, we can collect and especially
-
-387
-00:33:51,840 --> 00:34:01,300
-aggregate with other people's data and study and analyze and so that's a part of the project
-
-388
-00:34:01,300 --> 00:34:06,780
-we haven't talked about but that we absolutely see in the future and maybe we won't do that work
-
-389
-00:34:06,780 --> 00:34:12,420
-maybe somebody else will come along and grab our datasets and do work on it, or maybe
-
-390
-00:34:12,420 --> 00:34:19,980
-we'll look at some pieces and others will look at other pieces but it was important to us almost immediately
-
-391
-00:34:19,980 --> 00:34:26,380
-to think about rigorous method for storing and organizing information so that they can be studied
-
-392
-00:34:26,380 --> 00:34:28,600
-by someone, hopefully us.
-
-393
-00:34:28,600 --> 00:34:34,020
-[Anna] And actually that is another factor of the workflows helps the commitment
-
-394
-00:34:34,020 --> 00:34:39,700
-I think of the ... all these people, everyone can see each other's descriptions in the software
-
-395
-00:34:39,700 --> 00:34:47,620
-so you're not like out alone, in the dark, trying to describe like "oh, I'm afraid, oh I think I might be"
-
-396
-00:34:47,620 --> 00:34:52,940
-you can look at how other people are describing to get a little courage, of like "oh, ok, so-and-so did it that way
-
-397
-00:34:52,940 --> 00:34:58,600
-that's interesting, I'd do it this way" and you can add to each others, so there is this,
-
-398
-00:34:58,600 --> 00:35:02,360
-still this community basis to the way this data is collected.
-
-399
-00:35:02,360 --> 00:35:08,220
-[Susan] I don't think we have actually said that it is our intention that the software to be available to anybody.
-
-400
-00:35:08,220 --> 00:35:08,740
-[Sina] Yes.
-
-401
-00:35:08,740 --> 00:35:17,600
-[Susan] and that we're not really ready for it to be fully deposited, but that we're happy
-
-402
-00:35:17,600 --> 00:35:23,800
-for you to be in touch with us if you have a thought to using it at some point, but also
-
-403
-00:35:23,800 --> 00:35:30,600
-we can give you a login so you can take a look, so you can poke around a bit
-
-404
-00:35:30,600 --> 00:35:39,460
-and sort of see what it looks like. I mean it does actually work, it pulls images needing descriptions from our site
-
-405
-00:35:39,460 --> 00:35:42,240
-and it pushes descriptions back out, I mean basics.
-
-406
-00:35:42,240 --> 00:35:43,220
-[Anna] Once approved.
+**[Anna]:** Once approved.
 
 407
 00:35:43,220 --> 00:35:45,140
-[Susan] Once approved
+**[Susan]:** Once approved
 
 408
 00:35:45,140 --> 00:35:46,700
-[Anna] Which is why we'll let you in.
+**[Anna]:** Which is why we'll let you in.
 
-409
-00:35:46,700 --> 00:35:48,780
 [Laughter]
 
-410
-00:35:48,780 --> 00:35:52,200
-[Susan] Yes, you can't put anything you want in there. But I'm never going to get around to it.
+**[Susan]:** Yes, you can't put anything you want in there. But I'm never going to get around to it.
 
-411
-00:35:52,200 --> 00:35:54,760
 [Laughter]
 
-412
-00:35:54,760 --> 00:35:57,160
-[Elizabeth] So can we describe one if we wanted to?
+**[Elizabeth]:** So can we describe one if we wanted to?
 
-413
-00:35:57,160 --> 00:36:01,900
-[Susan] Absolutely, please do. Absolutely. As a matter of fact, if you think you might start describing
-
-414
-00:36:01,900 --> 00:36:03,320
-we'll give you your own login.
-
-415
-00:36:03,320 --> 00:36:05,300
+**[Susan]:** Absolutely, please do. Absolutely. As a matter of fact, if you think you might start describing we'll give you your own login.
+ 
 [Laughter]
 
-416
-00:36:05,300 --> 00:36:13,500
-[Sina] Absolutely. And if you're interested in doing that, and again, terms and conditions and so forth,
+**[Sina]:** Absolutely. And if you're interested in doing that, and again, terms and conditions and so forth, but in the mean time, if you are interested in that at all, even if it's only one, please get in touch with us.
 
-417
-00:36:13,500 --> 00:36:22,520
-but in the mean time, if you are interested in that at all, even if it's only one, please get in touch with us.
+**[Elizabeth]:** Well, considering I started my college career as, in painting and print making, so I'm particularly interested. And I really want to see the painting...
 
-418
-00:36:22,520 --> 00:36:27,100
-[Elizabeth] Well, considering I started my college career as, in painting and print making,
+**[Susan]:** I guess we should
 
-419
-00:36:27,100 --> 00:36:32,940
-so I'm particularly interested. And I really want to see the painting...
+**[Elizabeth]:** I have a visual image in my head, and I want to see if I'm right. [Elizabeth] Kind of what I pictured...
 
-420
-00:36:32,940 --> 00:36:34,620
-[Susan] I guess we should
+**[Anna]:** It's really great with the lights.
 
-421
-00:36:34,620 --> 00:36:39,780
-[Elizabeth] I have a visual image in my head, and I want to see if I'm right.
+**[Susan]:** Terrible, terrible. It's actually ... if you come back anytime soon, it's in our lobby right now. It is a painting by Kerry James Marshall, the great Chicago painter, who's retrospective will run until April just a plug there, well, because...
 
-422
-00:36:46,860 --> 00:36:49,640
-[Elizabeth] Kind of what I pictured...
-
-423
-00:36:50,340 --> 00:36:54,140
-[Anna] It's really great with the lights.
-
-424
-00:36:54,140 --> 00:37:01,180
-[Susan] Terrible, terrible. It's actually ... if you come back anytime soon, it's in our lobby right now.
-
-425
-00:37:01,180 --> 00:37:10,760
-It is a painting by Kerry James Marshall, the great Chicago painter, who's retrospective will run until April
-
-426
-00:37:10,760 --> 00:37:13,160
-just a plug there, well, because...
-
-427
-00:37:13,160 --> 00:37:15,040
 [Laughter]
 
-428
-00:37:15,040 --> 00:37:22,920
-[Susan] And the show is organized by us, but it's going on to the Met, and to the Los Angeles Museum of Art
+**[Susan]:** And the show is organized by us, but it's going on to the Met, and to the Los Angeles Museum of Art
 
-429
-00:37:27,560 --> 00:37:31,400
-[Anna] I have friends from all over coming to see it here.
+**[Anna]:** I have friends from all over coming to see it here.
 
-430
-00:37:31,400 --> 00:37:40,520
-[Susan] And to see it here because Terry has been very involved in ... This is interesting because
+**[Susan]:** And to see it here because Terry has been very involved in ... This is interesting because his paintings which are representational, not realistic, but representational are also very very complex and politically motivated in many ways, or at least, ethically motivated on a lot of ways and there's a lot here that is not in the visuals. And we are not trying to do all of that but it is very difficult to discipline yourself, to not talk about the question of, the representation of black people in art. Because it is all there in what he has put on the canvas. But you know, blind people actually have access to all that scholarly research, they just don't have access to ... the colors are orange, and brown and yeah. The composition is this, so ... we're not trying to do everything with it.
 
-431
-00:37:40,520 --> 00:37:50,260
-his paintings which are representational, not realistic, but representational are also very very complex
+**[Anna]:** It's funny, reading the description ...
 
-432
-00:37:50,260 --> 00:37:58,600
-and politically motivated in many ways, or at least, ethically motivated on a lot of ways
+**[Susan]:** Is that the one I would have written?
 
-433
-00:37:58,600 --> 00:38:05,200
-and there's a lot here that is not in the visuals. And we are not trying to do all of that
+**[Anna]:** It's not the one I would have written, but it's also interesting how, reading it again and again, now I'm sort of seeing the hints at various meanings, given the description, that I didn't ... yeah like, this description had ... I sort of like wow, you really managed to leave out all of those political information. I'm like, oh yeah, she isn't strictly following, strictly ... I was like nice choice of words.
 
-434
-00:38:05,200 --> 00:38:10,500
-but it is very difficult to discipline yourself, to not talk about the question of,
-
-435
-00:38:10,500 --> 00:38:18,120
-the representation of black people in art. Because it is all there in what he has put on the canvas.
-
-436
-00:38:18,120 --> 00:38:25,680
-But you know, blind people actually have access to all that scholarly research, they just don't have access to ...
-
-437
-00:38:25,680 --> 00:38:33,920
-the colors are orange, and brown and yeah. The composition is this, so ...
-
-438
-00:38:33,920 --> 00:38:37,380
-we're not trying to do everything with it.
-
-439
-00:38:37,380 --> 00:38:41,880
-[Anna] It's funny, reading the description ...
-
-440
-00:38:41,880 --> 00:38:43,840
-[Susan] Is that the one I would have written?
-
-441
-00:38:43,840 --> 00:38:48,840
-[Anna] It's not the one I would have written, but it's also interesting how, reading it again and again,
-
-442
-00:38:48,840 --> 00:38:55,300
-now I'm sort of seeing the hints at various meanings, given the description, that I didn't ...
-
-443
-00:38:55,300 --> 00:38:59,420
-yeah like, this description had ... I sort of like wow, you really managed to leave out all of those
-
-444
-00:38:59,420 --> 00:39:06,580
-political information. I'm like, oh yeah, she isn't strictly following, strictly ... I was like nice choice of words.
-
-445
-00:39:06,580 --> 00:39:07,980
 [Laughter]
 
-446
-00:39:07,980 --> 00:39:15,400
-[Elizabeth] And just ... the things that ... the descriptions match the painting in some way
+**[Elizabeth]:** And just ... the things that ... the descriptions match the painting in some way I guess ... how would I say this, I don't know, it was just "paint by numbers," the voice, the tone of the description matches the painting. When she said paint by numbers, and then when you started with African-American, I mean those two things stood out to me immediately saying "ok, there is something going on there" but there was no over political statement or anything like that, that means something.
 
-447
-00:39:15,400 --> 00:39:23,680
-I guess ... how would I say this, I don't know, it was just "paint by numbers," the voice, the tone of the description
+**[Susan]:** There's much more to these than people expect from visual description as we've been taught it should be and I think this is the thing that surprised us that not only could that be done, but also we could live with it, but Sina didn't say that's not how it should be all bolded, all clinical using these kind of words, you have to describe it in this order, we were all a little surprised in our first trainings that there weren't more rules, that it didn't need to be more structured, that this could be a service in some way or another, and Sina challenged us to think about how we wanted these descriptions to express our values and not some abstract idea or standard. I'm not sure that there might be other appreciable people out in the accessibility community who would say "Woa, this is way too wild west for me." Right?
 
-448
-00:39:23,680 --> 00:39:29,020
-matches the painting. When she said paint by numbers, and then when you started with African-American,
+**[Sina]:** For sure. Especially with art, I think the immediate ... I talked with several folks about this project without mentioning things like that, just to gauge opinions over drinks like that. And basically, a lot of it is immediate dismissal, not because of the value. I think the value proposition is really quick. "Oh yeah, totally. I totally agree that an art museums content should be described." Et cetera. But, they come back to you with is well, "Oh, art is so subjective, so why bother?" You've been in accessibility for twenty years, Come on!
 
-449
-00:39:29,020 --> 00:39:34,080
-I mean those two things stood out to me immediately saying "ok, there is something going on there"
-
-450
-00:39:34,080 --> 00:39:39,300
-but there was no over political statement or anything like that, that means something.
-
-451
-00:39:39,300 --> 00:39:48,160
-[Susan] There's much more to these than people expect from visual description as we've been taught
-
-452
-00:39:48,160 --> 00:39:55,480
-it should be and I think this is the thing that surprised us that not only could that be done,
-
-453
-00:39:55,480 --> 00:40:02,520
-but also we could live with it, but Sina didn't say that's not how it should be all bolded, all clinical
-
-454
-00:40:02,520 --> 00:40:08,400
-using these kind of words, you have to describe it in this order, we were all a little surprised in our first trainings
-
-455
-00:40:08,400 --> 00:40:15,580
-that there weren't more rules, that it didn't need to be more structured, that this could be
-
-456
-00:40:15,580 --> 00:40:22,160
-a service in some way or another, and Sina challenged us to think about how we wanted these descriptions
-
-457
-00:40:22,160 --> 00:40:32,100
-to express our values and not some abstract idea or standard. I'm not sure that there
-
-458
-00:40:32,100 --> 00:40:35,760
-might be other appreciable people out in the accessibility community who would say
-
-459
-00:40:35,760 --> 00:40:40,060
-"Woa, this is way too wild west for me." Right?
-
-460
-00:40:40,060 --> 00:40:47,080
-[Sina] For sure. Especially with art, I think the immediate ... I talked with several folks about this project without
-
-461
-00:40:47,080 --> 00:40:51,520
-mentioning things like that, just to gauge opinions over drinks like that.
-
-462
-00:40:51,520 --> 00:40:59,620
-And basically, a lot of it is immediate dismissal, not because of the value. I think the value proposition
-
-463
-00:40:59,620 --> 00:41:05,300
-is really quick. "Oh yeah, totally. I totally agree that an art museums content should be described." Et cetera.
-
-464
-00:41:05,300 --> 00:41:11,920
-But, they come back to you with is well, "Oh, art is so subjective, so why bother?"
-
-465
-00:41:11,920 --> 00:41:14,920
-You've been in accessibility for twenty years, Come on!
-
-466
-00:41:14,920 --> 00:41:17,080
 [Laughter]
 
-467
-00:41:17,080 --> 00:41:26,800
-[Sina] And that's the reaction that is not happening here. Past the fast forward and past the why bother
+**[Sina]:** And that's the reaction that is not happening here. Past the fast forward and past the why bother into the how, and it turns out that the how involves an incredible amount of richness that you don't usually get with ... you know you can write scripts basically to describe, mathematical diagrams right, it's very straightforward
 
-468
-00:41:26,800 --> 00:41:36,120
-into the how, and it turns out that the how involves an incredible amount of richness that you don't usually get
+**[Susan]:** You can actually write scripts to describe many representable paintings.
 
-469
-00:41:36,120 --> 00:41:41,040
-with ... you know you can write scripts basically to describe, mathematical diagrams right,
+**[Sina]:** Absolutely, you can describe the subject, a little of the form and color, and there's rules for this. But the thing is that then you lose a lot. And the other real thing is that why bother looking at the MCA's description, and I think there is a lot to be said for ... You know one of my pet peeves is, actually it came up earlier today, and it's something that comes up a lot which is "Well, blind people don't go to art museums anyways" and that's true ... who's problem is that? And you should work on that. As opposed to blind people don't go to art museums anyway, let's move on to the next thing. Right? So I'm trying to get that to be a thing and I think it involves the other side as well. I think that as I talk to more of my friends who are blind or my friends who have other disabilities getting them to realize that just because museums haven't been accessible in the past traditionally and, you know, I can say that, that doesn't mean they have to be going forward.
 
-470
-00:41:41,040 --> 00:41:42,160
-it's very straightforward
-
-471
-00:41:42,160 --> 00:41:45,820
-[Susan] You can actually write scripts to describe many representable paintings.
-
-472
-00:41:45,820 --> 00:41:51,440
-[Sina] Absolutely, you can describe the subject, a little of the form and color, and there's rules for this.
-
-473
-00:41:51,440 --> 00:41:59,440
-But the thing is that then you lose a lot. And the other real thing is that why bother
-
-474
-00:41:59,440 --> 00:42:04,720
-looking at the MCA's description, and I think there is a lot to be said for ...
-
-475
-00:42:04,720 --> 00:42:10,300
-You know one of my pet peeves is, actually it came up earlier today, and it's something that comes up a lot
-
-476
-00:42:10,300 --> 00:42:13,820
-which is "Well, blind people don't go to art museums anyways" and that's true ...
-
-477
-00:42:13,820 --> 00:42:17,780
-who's problem is that? And you should work on that.
-
-478
-00:42:17,780 --> 00:42:22,960
-As opposed to blind people don't go to art museums anyway, let's move on to the next thing. Right?
-
-479
-00:42:22,960 --> 00:42:31,440
-So I'm trying to get that to be a thing and I think it involves the other side as well.
-
-480
-00:42:31,440 --> 00:42:37,240
-I think that as I talk to more of my friends who are blind or my friends who have other disabilities
-
-481
-00:42:37,240 --> 00:42:41,640
-getting them to realize that just because museums haven't been accessible in the past traditionally
-
-482
-00:42:41,640 --> 00:42:47,160
-and, you know, I can say that, that doesn't mean they have to be going forward.
-
-483
-00:42:47,160 --> 00:42:56,940
-[Susan] I spoke at an event at the Goodman Theater this fall that was hosted by ADA 25
-
-484
-00:42:56,940 --> 00:43:04,700
-it was a cultural accessibility summit and one of the other speakers was a blind lady
-
-485
-00:43:04,700 --> 00:43:13,740
-and I read a description of a work we had installed at the time of a hot air balloon that was all blown up
-
-486
-00:43:13,740 --> 00:43:15,000
-you could go inside of it.
+**[Susan]:** I spoke at an event at the Goodman Theater this fall that was hosted by ADA 25 it was a cultural accessibility summit and one of the other speakers was a blind lady and I read a description of a work we had installed at the time of a hot air balloon that was all blown up you could go inside of it.
 
 487
 00:43:15,000 --> 00:43:16,080
