@@ -335,905 +335,105 @@ Any other questions?
 
 **[Nikki]:** They already have like the headsets.
 
-507
-00:45:02,780 --> 00:45:05,000
-[Susan] Well, everyone walks around with that
+**[Susan]:** Well, everyone walks around with that
 
-508
-00:45:05,000 --> 00:45:09,500
-[Sina] With their phone, right?
+**[Sina]:** With their phone, right?
 
-509
-00:45:09,500 --> 00:45:18,600
-[Susan] What I'd love to see is a whole sort of culture of those descriptions being available in Chicago
+**[Susan]:** What I'd love to see is a whole sort of culture of those descriptions being available in Chicago so that people can expect, it's expectation that causes, that grows on our audiences so if you know that, you go to a place and they're going to have descriptions, you'll look for them. But, we are, I think there's just times when where done with them and some of it not by us. So our goal would be to make these descriptions available for folks to use ... if you are a teacher if you are a researcher, you know, whatever.
 
-510
-00:45:18,600 --> 00:45:26,220
-so that people can expect, it's expectation that causes, that grows on our audiences
+**[Sina]:** One of our colleagues in Baltimore invited some art history students, the traditional training. Susan was talking about ... the professor send a couple of students ... this is, if you guys have been following the weather, Baltimore had this insane blizzard, they had fifteen people scheduled to come from the art history class, five of them still came, during all the snow and everything. And they showed up and they spent a little bit of time receiving very similar training, not anywhere near as much as done here, and they went through and described a couple of images and they did some surveys, how did you find this experience, would you come again, would you tell a friend ... positive across the board. But, then the professor wrote back to our colleague and said, the next day, the next week or something like that, she took them to another thing, another museum or it was an art thing where they were trying to do critical analysis of art and every single one of them, at different points in time, actually independently brought up description as one of the things that they thought about during that experience, even though it wasn't an accessibility thing or anything along those lines. And the reason why I'm telling this story is because Im really into I don't know if you are familiar with Randy Pausch and The Last Lecture but one of the concepts he has in there is the head fake. And so confirmation bias is a beautiful tool if you're trying to manipulate people into thinking "Oh my god, this is the most delicious pizza" but it's also an awesome tool if you just have twenty people come up and say "hey, are these accessibly described?" and eventually, humans start behaving as "wow, these should totally be accessibly described," and it works way better than thou shalt, or you must do this thing, it almost changes the framework of thinking about things into wait, why isn't it. Like whenever you want somebody to do some thing, don't ask them "can this be done?" ask them "how can this be done." You've already taken no off the table. You should start from there. So that's one of the "strategicals" I have for it. But then you can name it ... Twitter, crowdsourcing, muple, indoor navigation, delivery of images across institutions, descriptions that actually do embody multiplicity and voices, integration with Wikipedia bots, I mean this is like, muti-lingual, look how specific descriptions on demand for different services, if you guys are familiar with the Be My Eyes app for example, right. So you turn it on, you can either signup as a describer or somebody who wants things described, there's so many things like that you can start delivering accessibility and therefore inclusive design as a service, that helps everybody that I see. The software is just, to me, technology is just a tool, I'm into technology, my background is computer science, but still, it's just a way for getting stuff done. It's just a really cool way to add that multiplication factor that force augmentation factor. But, don't know if that answered your question.
 
-511
-00:45:26,220 --> 00:45:33,120
-so if you know that, you go to a place and they're going to have descriptions, you'll look for them.
+**[Audience]:** No, definitely, thank you.
 
-512
-00:45:33,120 --> 00:45:40,320
-But, we are, I think there's just times when where done with them and some of it not by us.
+**[Audience member]:** I have a question. So, since you developed the software, can you talk a little bit about the accessibility of it? How it rates with the website? And how does that division work?
 
-513
-00:45:40,320 --> 00:45:48,760
-So our goal would be to make these descriptions available for folks to use ... if you are a teacher
+**[Sina]:** So, is your background development? Like technology?
 
-514
-00:45:48,760 --> 00:45:55,620
-if you are a researcher, you know, whatever.
+**[Audience member]:** Well, I'm somewhere between that. I'm not a developer but I have a technical background.
 
-515
-00:45:55,620 --> 00:46:02,580
-[Sina] One of our colleagues in Baltimore invited some art history students, the traditional training.
+**[Sina]:** So I'll give you an overview, then I'm happy to talk to you offline about it. But basically, it's a web application, it's written in Ruby on Rails,  it has a JSON API, it's a RESTful API that can be pulled to and pushed to. It's able to maintain state across instances, of course, it's backed by a database, and it pulls from the MCA's content management system. So it gets updates from a dictionary, it goes through and says I don't know about this meaning id. That's an un-described image, and then it just puts that into the workflow and says, this should be described, and then that becomes an entity of the system. So now, that entity gets all of these descriptions. And then, on the reverse side, on the flip side, the web site can go, oh, I have an image here. I'm going to programatically I'm going to store the alt text for it, I'm going to ask it for it, I'm going to ask Coyote for it, and that's really important because if you think about it, that can change. Susan might approve another description. Or Anna might go ahead and say, we gotta spell check, we have a spelling thing here, we gotta fix that. And so, you want to make sure that's done dynamically, you're not just storing it as a file, as a description. As far as the accessibility of the software, it's an interesting question, because you're asking, is the software used primarily to describe undescribed definitions, by definition, is that accessible? We tried really hard to make that the case. Appropriate use of ARIA where possible, WCAG 2 double A was the standard they're buttons, not links styled as buttons, table navigation where tables are actually useful, not because it's easy to layout things that way, proper use of headings and ARIA live regions for announcing pop-ups and things like that so the whole nine yards as far as all that goes. I use the system myself and I'm obviously a screen reader user and I can use it just fine.
 
-516
-00:46:02,580 --> 00:46:06,300
-Susan was talking about ... the professor send a couple of students ... this is,
+**[Audience member]:** Great, thanks.
 
-517
-00:46:06,300 --> 00:46:11,780
-if you guys have been following the weather, Baltimore had this insane blizzard, they had fifteen people
+**[Sina]:** But for other disabilities as well, we don't want to make it just for blind people.
 
-518
-00:46:11,780 --> 00:46:16,980
-scheduled to come from the art history class, five of them still came, during all the snow and everything
+**[Susan]:** Although we want Sina to describe images...
 
-519
-00:46:16,980 --> 00:46:22,120
-And they showed up and they spent a little bit of time receiving very similar training,
+**[Sina]:** Yeah, that's a different problem.
 
-520
-00:46:22,120 --> 00:46:26,620
-not anywhere near as much as done here, and they went through and described a couple of images
-
-521
-00:46:26,620 --> 00:46:33,540
-and they did some surveys, how did you find this experience, would you come again,
-
-522
-00:46:33,540 --> 00:46:39,300
-would you tell a friend ... positive across the board. But, then the professor wrote back to our colleague
-
-523
-00:46:39,300 --> 00:46:46,820
-and said, the next day, the next week or something like that, she took them to another thing,
-
-524
-00:46:46,820 --> 00:46:53,760
-another museum or it was an art thing where they were trying to do critical analysis of art
-
-525
-00:46:53,760 --> 00:47:01,180
-and every single one of them, at different points in time, actually independently brought up description
-
-526
-00:47:01,180 --> 00:47:07,400
-as one of the things that they thought about during that experience, even though it wasn't an accessibility thing
-
-527
-00:47:07,400 --> 00:47:12,360
-or anything along those lines. And the reason why I'm telling this story is because Im really into
-
-528
-00:47:12,360 --> 00:47:16,860
-I don't know if you are familiar with Randy Pausch and The Last Lecture but one of the concepts
-
-529
-00:47:16,860 --> 00:47:21,800
-he has in there is the head fake. And so confirmation bias is a beautiful tool if you're trying to
-
-530
-00:47:21,800 --> 00:47:25,600
-manipulate people into thinking "Oh my god, this is the most delicious pizza"
-
-531
-00:47:25,600 --> 00:47:30,520
-but it's also an awesome tool if you just have twenty people come up and say
-
-532
-00:47:30,520 --> 00:47:34,760
-"hey, are these accessibly described?" and eventually, humans start behaving as
-
-533
-00:47:34,760 --> 00:47:38,340
-"wow, these should totally be accessibly described," and it works way better than
-
-534
-00:47:38,340 --> 00:47:45,440
-thou shalt, or you must do this thing, it almost changes the framework of thinking about things into
-
-535
-00:47:45,440 --> 00:47:51,000
-wait, why isn't it. Like whenever you want somebody to do some thing, don't ask them "can this be done?"
-
-536
-00:47:51,000 --> 00:47:55,760
-ask them "how can this be done." You've already taken no off the table. You should start from there.
-
-537
-00:47:55,760 --> 00:48:02,560
-So that's one of the "strategicals" I have for it. But then you can name it ... Twitter, crowdsourcing, muple,
-
-538
-00:48:02,560 --> 00:48:09,100
-indoor navigation, delivery of images across institutions, descriptions that actually do embody
-
-539
-00:48:09,100 --> 00:48:15,260
-multiplicity and voices, integration with Wikipedia bots, I mean this is like, muti-lingual, look how specific
-
-540
-00:48:15,260 --> 00:48:21,120
-descriptions on demand for different services, if you guys are familiar with the Be My Eyes app
-
-541
-00:48:21,120 --> 00:48:24,760
-for example, right. So you turn it on, you can either signup as a describer or
-
-542
-00:48:24,760 --> 00:48:31,360
-somebody who wants things described, there's so many things like that you can start delivering accessibility
-
-543
-00:48:31,360 --> 00:48:38,820
-and therefore inclusive design as a service, that helps everybody that I see. The software is just,
-
-544
-00:48:38,820 --> 00:48:43,400
-to me, technology is just a tool, I'm into technology, my background is computer science, but still,
-
-545
-00:48:43,400 --> 00:48:50,240
-it's just a way for getting stuff done. It's just a really cool way to add that multiplication factor
-
-546
-00:48:50,240 --> 00:48:53,100
-that force augmentation factor. But, don't know if that answered your question.
-
-547
-00:48:53,100 --> 00:48:54,420
-[Audience] No, definitely, thank you.
-
-548
-00:48:55,600 --> 00:49:02,400
-[Audience member] I have a question. So, since you developed the software, can you talk a little bit about
-
-549
-00:49:02,400 --> 00:49:09,680
-the accessibility of it? How it rates with the website? And how does that division work?
-
-550
-00:49:09,680 --> 00:49:15,340
-[Sina] So, is your background development? Like technology?
-
-551
-00:49:15,340 --> 00:49:21,380
-[Audience member] Well, I'm somewhere between that. I'm not a developer but I have a technical background.
-
-552
-00:49:21,380 --> 00:49:26,420
-[Sina] So I'll give you an overview, then I'm happy to talk to you offline about it. But basically,
-
-553
-00:49:26,420 --> 00:49:31,460
-it's a web application, it's written in Ruby on Rails,  it has a JSON API, it's a RESTful API that can be
-
-554
-00:49:31,460 --> 00:49:38,320
-pulled to and pushed to. It's able to maintain state across instances, of course, it's backed by a database,
-
-555
-00:49:38,320 --> 00:49:43,160
-and it pulls from the MCA's content management system. So it gets updates from a dictionary,
-
-556
-00:49:43,160 --> 00:49:47,880
-it goes through and says I don't know about this meaning id. That's an un-described image,
-
-557
-00:49:47,880 --> 00:49:53,140
-and then it just puts that into the workflow and says, this should be described, and then that becomes an entity
-
-558
-00:49:53,140 --> 00:49:59,560
-of the system. So now, that entity gets all of these descriptions. And then, on the reverse side,
-
-559
-00:49:59,560 --> 00:50:04,960
-on the flip side, the web site can go, oh, I have an image here. I'm going to programatically
-
-560
-00:50:04,960 --> 00:50:10,560
-I'm going to store the alt text for it, I'm going to ask it for it, I'm going to ask Coyote for it,
-
-561
-00:50:10,560 --> 00:50:16,560
-and that's really important because if you think about it, that can change. Susan might approve
-
-562
-00:50:16,560 --> 00:50:21,240
-another description. Or Anna might go ahead and say, we gotta spell check, we have a spelling thing here,
-
-563
-00:50:21,240 --> 00:50:27,920
-we gotta fix that. And so, you want to make sure that's done dynamically, you're not just storing it as a file,
-
-564
-00:50:27,920 --> 00:50:32,120
-as a description. As far as the accessibility of the software, it's an interesting question,
-
-565
-00:50:32,120 --> 00:50:37,360
-because you're asking, is the software used primarily to describe undescribed definitions,
-
-566
-00:50:37,360 --> 00:50:42,140
-by definition, is that accessible? We tried really hard to make that the case.
-
-567
-00:50:42,140 --> 00:50:47,280
-Appropriate use of ARIA where possible, WCAG 2 double A was the standard
-
-568
-00:50:47,280 --> 00:50:52,180
-they're buttons, not links styled as buttons, table navigation where tables are actually useful,
-
-569
-00:50:52,180 --> 00:50:59,020
-not because it's easy to layout things that way, proper use of headings and ARIA live regions for
-
-570
-00:50:59,020 --> 00:51:03,580
-announcing pop-ups and things like that so the whole nine yards as far as all that goes.
-
-571
-00:51:03,580 --> 00:51:08,880
-I use the system myself and I'm obviously a screen reader user and I can use it just fine.
-
-572
-00:51:08,880 --> 00:51:10,760
-[Audience member] Great, thanks.
-
-573
-00:51:10,760 --> 00:51:13,680
-[Sina] But for other disabilities as well, we don't want to make it just for blind people.
-
-574
-00:51:13,680 --> 00:51:16,920
-[Susan] Although we want Sina to describe images...
-
-575
-00:51:16,920 --> 00:51:18,960
-[Sina] Yeah, that's a different problem.
-
-576
-00:51:18,960 --> 00:51:22,960
 [Laughter]
 
-577
-00:51:23,440 --> 00:51:25,360
-[Sina] Any other questions?
+**[Sina]:** Any other questions?
 
-578
-00:51:26,760 --> 00:51:33,180
-[Renee] Does the MCA have tactile versions of images?
+**[Renee]:** Does the MCA have tactile versions of images?
 
-579
-00:51:33,180 --> 00:51:38,820
-[Susan] Of works ... so tactile ...
+**[Susan]:** Of works ... so tactile ...
 
-580
-00:51:38,820 --> 00:51:41,700
-[Renee] I mean here obviously, not on the web.
+**[Renee]:** I mean here obviously, not on the web.
 
-581
-00:51:41,700 --> 00:51:57,320
-[Susan] Yes, no, of works in the collection. We don't have any. It's not something ... we would really love to be ...
+**[Susan]:** Yes, no, of works in the collection. We don't have any. It's not something ... we would really love to be ... an institution that has accessibility programs of all sorts, touch is a tricky one, and I have to say I'm not so inclined to love tactile reproduction, but I'd love to have touch stores for example I think that works, it's easy enough ... magnificent touch stores, something that is really uncomfortable for our registration team. They're pretty conservative and ... like many small museums, we don't have a huge security staff to manage and an understanding of what can be touched, what can't so they take a really conservative approach to touching anything ...
 
-582
-00:51:57,320 --> 00:52:11,060
-an institution that has accessibility programs of all sorts, touch is a tricky one, and I have to say
+**[Anna]:** Except I realized the plaza project, which ...
 
-583
-00:52:11,060 --> 00:52:19,900
-I'm not so inclined to love tactile reproduction, but I'd love to have touch stores for example
+**[Susan]:** Oh yes.
 
-584
-00:52:19,900 --> 00:52:28,080
-I think that works, it's easy enough ... magnificent touch stores, something that is really uncomfortable
+**[Anna]:** It's like the one thing that can be touched.
 
-585
-00:52:28,080 --> 00:52:35,780
-for our registration team. They're pretty conservative and ... like many small museums,
+**[Susan]:** That and actually I think one of the interesting things that are happening in Chicago is there's some really good tours for the blind that are architecture focused, and I'd really like to see us have a touch tour, based on the architecture in this building, which is an important architectural space.
 
-586
-00:52:35,780 --> 00:52:42,140
-we don't have a huge security staff to manage and an understanding of what can be touched, what can't
+**[Sina]:** I also think that there's other aspects here. So when we talk about replicas, especially tactile there's a resolution problem there. When we are talking about the swirling of colors, it's really easy to ... No problem, here's what you do, you take the colors and you map them to different textures, and then you take those different textures and you use elevation and et cetera, but it turns out that through neuroscience and other things, we actually know a little bit about how much the fingertip can feel and things like that and it's not as easy as mapping those things. A lot of times with tactile graphics, my experience not only as a user but also as somebody with a background with this stuff, you'll get a tactile graphic, and it will look and I use that word visibly, and it will look gorgeous. Seriously, it's a work for art. I mean, some of these tactile graphics are incredible. The line spacing is really good and you can see it and wow, this is awesome. And if you then give that to someone who's blind, you should do this in a controlled setting ... you realize that the information content is kind of not there they may get some general appearances and things like that, but its because those spacings are appropriate for vision they are not appropriate for tactile. So what you actual want to really do is a tactile replica correctly and it is doable, I don't want to say its not. I was in Pittsburg at the Andy Warhol Museum and they have a tactual replica of the Soup Can, the most iconic Andy Warhol. It's really cool. It's really easy to tell that that is a Campbell Soup Can. It's like three feet high and pretty close to scale. They have another one that he did which is a side profile of, I think it's a few people I don't remember, it might just be a woman in a car, and it's an old style car from like the 1920's or what not maybe the 40's, and it's this side view, it's very elongated, that was a lot harder to tell what is going on, until it's pointed out to you, and again, it's having to do with the Campbell Soup Can it's a lot of empty space, it really gives you that ability to move around and use appropriate perception appropriately, so I don't want to make it sound like an impossible problem, because I've got some friends who do some amazing things with 3-D printing and tactile graphics and things like that. But, it's hard. It's a hard problem.
 
-587
-00:52:42,140 --> 00:52:46,620
-so they take a really conservative approach to touching anything ...
+**[Jen]:** It's Jen again. How did you get buy in and funding to do this?
 
-588
-00:52:46,620 --> 00:52:50,140
-[Anna] Except I realized the plaza project, which ...
+**[Susan]:** Ah, we didn't.
 
-589
-00:52:50,140 --> 00:52:51,200
-[Susan] Oh yes.
-
-590
-00:52:51,200 --> 00:52:53,480
-[Anna] It's like the one thing that can be touched.
-
-591
-00:52:53,480 --> 00:52:57,000
-[Susan] That and actually I think one of the interesting things that are happening in Chicago is
-
-592
-00:52:57,000 --> 00:53:02,080
-there's some really good tours for the blind that are architecture focused, and I'd really like to see us
-
-593
-00:53:02,080 --> 00:53:07,360
-have a touch tour, based on the architecture in this building, which is an important architectural space.
-
-594
-00:53:07,360 --> 00:53:12,040
-[Sina] I also think that there's other aspects here. So when we talk about replicas, especially tactile
-
-595
-00:53:12,040 --> 00:53:19,760
-there's a resolution problem there. When we are talking about the swirling of colors, it's really easy to ...
-
-596
-00:53:19,760 --> 00:53:23,780
-No problem, here's what you do, you take the colors and you map them to different textures, and then you
-
-597
-00:53:23,780 --> 00:53:28,980
-take those different textures and you use elevation and et cetera, but it turns out that through neuroscience
-
-598
-00:53:28,980 --> 00:53:34,620
-and other things, we actually know a little bit about how much the fingertip can feel and things like that
-
-599
-00:53:34,620 --> 00:53:41,340
-and it's not as easy as mapping those things. A lot of times with tactile graphics, my experience not only
-
-600
-00:53:41,340 --> 00:53:49,880
-as a user but also as somebody with a background with this stuff, you'll get a tactile graphic, and it will look
-
-601
-00:53:49,880 --> 00:53:54,400
-and I use that word visibly, and it will look gorgeous. Seriously, its a work for art. I mean,
-
-602
-00:53:54,400 --> 00:54:00,620
-some of these tactile graphics are incredible. The line spacing is really good and you can see it and
-
-603
-00:54:00,620 --> 00:54:06,460
-wow, this is awesome. And if you then give that to someone who's blind, you should do this
-
-604
-00:54:06,460 --> 00:54:11,980
-in a controlled setting ... you realize that the information content is kind of not there
-
-605
-00:54:11,980 --> 00:54:19,280
-they may get some general appearances and things like that, but its because those spacings are appropriate for vision
-
-606
-00:54:19,280 --> 00:54:23,500
-they are not appropriate for tactile. So what you actual want to really do is a tactile replica correctly
-
-607
-00:54:23,500 --> 00:54:28,220
-and it is doable, I don't want to say its not. I was in Pittsburg at the Andy Warhol Museum
-
-608
-00:54:28,220 --> 00:54:32,660
-and they have a tactual replica of the Soup Can, the most iconic Andy Warhol.
-
-609
-00:54:32,660 --> 00:54:39,000
-It's really cool. It's really easy to tell that that is a Campbell Soup Can. It's like three feet high
-
-610
-00:54:39,000 --> 00:54:45,820
-and pretty close to scale. They have another one that he did which is a side profile of, I think it's a few people
-
-611
-00:54:45,820 --> 00:54:52,400
-I don't remember, it might just be a woman in a car, and it's an old style car from like the 1920's or what not
-
-612
-00:54:52,400 --> 00:54:59,060
-maybe the 40's, and it's this side view, it's very elongated, that was a lot harder to tell
-
-613
-00:54:59,060 --> 00:55:06,240
-what is going on, until it's pointed out to you, and again, it's having to do with the Campbell Soup Can
-
-614
-00:55:06,240 --> 00:55:11,460
-it's a lot of empty space, it really gives you that ability to move around and use appropriate perception
-
-615
-00:55:11,460 --> 00:55:15,340
-appropriately, so I don't want to make it sound like an impossible problem, because I've got some friends
-
-616
-00:55:15,340 --> 00:55:20,300
-who do some amazing things with 3-D printing and tactile graphics and things like that.
-
-617
-00:55:20,300 --> 00:55:25,460
-But, it's hard. It's a hard problem.
-
-618
-00:55:28,200 --> 00:55:32,360
-[Jen] It's Jen again. How did you get buy in and funding to do this?
-
-619
-00:55:32,360 --> 00:55:33,960
-[Susan] Ah, we didn't.
-
-620
-00:55:33,960 --> 00:55:39,960
 [Laughter]
 
-621
-00:55:41,140 --> 00:55:49,820
-[Susan] So my philosophy is that, well one of my philosophies is that you should ...
+**[Susan]:** So my philosophy is that, well one of my philosophies is that you should ... if you say something enough times, it becomes a truth. So, Anna and I started saying around the museum "Hey, we're really leading the community in being about accessibility." "This is an institution that is committed to accessibility." A, when Sina was talking about the house that you are building and how much more expensive it is to build the addition, it's also much easier when you are building the house to swallow the cost of that extra room, you don't absolutely notice the big numbers, so we were just building a website and so we just frankly, um, "did you just, Dennis, yeah", nobody noticed that there was accessibility funding ... 
 
-622
-00:55:49,820 --> 00:55:56,580
-if you say something enough times, it becomes a truth. So, Anna and I started saying around the museum
+**[Anna]L** It was a line in the budget for the website.
 
-623
-00:55:56,580 --> 00:56:02,700
-"Hey, we're really leading the community in being about accessibility."
+**[Susan]:** And all, yeah, technology, right? But in terms of this institution's commitment to accessibility in the digital space, honestly, we said it a lot of times and now other people say it to. And I just think that works for me virtually every time, except for my husband, but ... no ...
 
-624
-00:56:02,700 --> 00:56:06,860
-"This is an institution that is committed to accessibility."
-
-625
-00:56:06,860 --> 00:56:14,280
-A, when Sina was talking about the house that you are building and how much more expensive it is
-
-626
-00:56:14,280 --> 00:56:19,500
-to build the addition, it's also much easier when you are building the house to swallow the cost
-
-627
-00:56:19,500 --> 00:56:25,260
-of that extra room, you don't absolutely notice the big numbers, so we were just building a website
-
-628
-00:56:25,260 --> 00:56:32,860
-and so we just frankly, um, "did you just, Dennis, yeah", nobody noticed that there was accessibility funding ...
-
-629
-00:56:32,860 --> 00:56:36,960
-[Anna] It was a line in the budget for the website.
-
-630
-00:56:36,960 --> 00:56:46,420
-[Susan] And all, yeah, technology, right? But in terms of this institution's commitment to accessibility
-
-631
-00:56:46,420 --> 00:56:52,180
-in the digital space, honestly, we said it a lot of times and now other people say it to.
-
-632
-00:56:52,180 --> 00:56:58,460
-And I just think that works for me virtually every time, except for my husband, but ... no ...
-
-633
-00:56:58,460 --> 00:56:59,880
 [Laughter]
 
-634
-00:56:59,880 --> 00:57:03,420
-[Sina] You're going to egg me for saying this, but you just laid out the Donald Trump model of accessibility.
+**[Sina]:** You're going to egg me for saying this, but you just laid out the Donald Trump model of accessibility. Oh No! [Laughter]
 
-635
-00:57:03,420 --> 00:57:07,320
-Oh No! [Laughter]
+**[Susan]:** Wait, that's not true ... well ... yeah.
 
-636
-00:57:07,320 --> 00:57:09,860
-[Susan] Wait, that's not true ... well ... yeah.
+**[Anna]:** No, he's just copying her.
 
-637
-00:57:09,860 --> 00:57:11,700
-[Anna] No, he's just copying her.
-
-638
-00:57:11,700 --> 00:57:14,320
 [Laughter]
 
-639
-00:57:14,320 --> 00:57:18,900
-[Susan] I think it's really really tough because, we were saying earlier, you know, you can't say the word
+**[Susan]:** I think it's really really tough because, we were saying earlier, you know, you can't say the word people have all of these biases against, you just have to start trying stuff.
 
-640
-00:57:18,900 --> 00:57:25,900
-people have all of these biases against, you just have to start trying stuff.
+**[Sina]:** You know, Tim Cook has a quote, the CEO of Apple, right. He has this thing where, he was at a stockholder meeting and one of their larger institutional investors, had millions of shares of Apple stock, was giving him a really hard time about data centers and green energy and all of this other stuff and he keeps hounding the guy, and Tim finally, for those of you who know, he's a very quiet, soft-spoken, very calm individual, doesn't lose his cool ever, and he finally gets mad at the guy and is like "Look, if you don't like it, feel free to exist the stock." But he also says "When we do stuff like that, green energy or accessibility, we do it because it is the right thing to do, and I don't consider the bloody return on investment." Now, the reason that I bring it up is, it's awesome. It's like Yay! Fortune 500 company definitely doing some awesome stuff and doing it for the right reasons but here's the reality. The actual reality, the business reality for Apple is that they made money off of accessibility and surely invested hundreds of thousands, probably by now they've invested millions actually in accessibility. They've made tends of millions off of that, from education to a lot of other initiatives. Even their kiosk ... in fact, the kiosk that museums use is an accessibility feature. And they use it for different reasons, but it's fantastic for children with autism and other users with autism. It's one of those things where, if you take a multitude of these kinds of social engineering, everything else, and then also realize that accessibility doesn't have to be phrased as a cost center, you can get very far, and I've seen that now be successful at several different museums, several different start-ups, one venture fund, a couple of larger corporations and then universities are a lot easier universities have that mandate, so for them, that's not so much of an issue, but all those over ones that I listed, that model seems to work.
 
-641
-00:57:25,900 --> 00:57:30,980
-[Sina] You know, Tim Cook has a quote, the CEO of Apple, right. He has this thing where,
+**[Susan]:** And actually, I have no doubt that the position that we've taken on accessibility that we will ... it won't be a cost center for us in the traditional sense, there's funding to be had for the work that we're doing we're 100% positive. But making that argument, think before you start, is a whole lot harder than making that argument when you started a little. And I mean honestly, as much as we've done, I feel we're started a little, but just enough, to continue to realize that, funding and that sort of value to reputation all of that good stuff that non-profits like.
 
-642
-00:57:30,980 --> 00:57:40,380
-he was at a stockholder meeting and one of their larger institutional investors, had millions of shares
+**[Anna]:** It's possible that its becoming quite hip. It's so cool right now. I was talking to a friend about description and she got so excited. She's a choreographer, filmmaker and she said "I've been doing description!" And I said "What do you mean?" She was living in Berlin and took some workshop with a dancer and they were doing description as choreography and that lead her to take a description course. So she took a course in live description, and now it's like crazy it's now like everywhere. I had another friend do a performance, she's an artist out in San Diego and it turned out she was doing these description-based performances and not even realizing that there was this whole other world, and now she's super excited to get certified to do description for video. And it's weird that it's become this very hip thing that actually makes it so much easier to move things forward.
 
-643
-00:57:40,380 --> 00:57:47,880
-of Apple stock, was giving him a really hard time about data centers and green energy and all of this other stuff
+**[Susan]:** Hip for artists but also hip for funders. I was saying in a meeting earlier, that ADA 25 was a lot in terms of awareness and for funders, I think that sort of changes everything. We, of course, are caring something that is inherently sexy, art, with something that is now trendy, accessibility, so we get a little bit of a heads up, we're not trying to make a gas company, an oil company website accessible. So it helps us with the funding. But I actually don't think there's that much of a difference. A willingness for people to put something into this.
 
-644
-00:57:47,880 --> 00:57:53,740
-and he keeps hounding the guy, and Tim finally, for those of you who know, he's a very quiet,
+**[Nikki]:** I have a question. It is trendy, right. And it's cool and I think there are a lot of people, and there's a huge community here in Chicago. Have you guys thought at all about engaging with that network of people at all, just to see if they could contribute to doing the descriptions.
 
-645
-00:57:53,740 --> 00:58:00,340
-soft-spoken, very calm individual, doesn't lose his cool ever, and he finally gets mad at the guy and is like
+**[Susan]:** We absolutely have. We want to have a tool that's finished before we ... no, but we think about it a lot. Which communities would be interested and how would we engage with them. I said something super insensitive at the very beginning of the process which is "I wonder of deaf people would be interested in helping us describe." And today, somebody who is a representative of the deaf community came up to me and said "We'd really like to help you describe."
 
-646
-00:58:00,340 --> 00:58:07,380
-"Look, if you don't like it, feel free to exist the stock." But he also says "When we do stuff like that,
-
-647
-00:58:07,380 --> 00:58:13,000
-green energy or accessibility, we do it because it is the right thing to do, and I don't consider the bloody return
-
-648
-00:58:13,000 --> 00:58:17,360
-on investment." Now, the reason that I bring it up is, it's awesome. It's like Yay!
-
-649
-00:58:17,360 --> 00:58:22,920
-Fortune 500 company definitely doing some awesome stuff and doing it for the right reasons
-
-650
-00:58:22,920 --> 00:58:29,140
-but here's the reality. The actual reality, the business reality for Apple is that they made money
-
-651
-00:58:29,140 --> 00:58:33,080
-off of accessibility and surely invested hundreds of thousands, probably by now they've invested
-
-652
-00:58:33,080 --> 00:58:37,600
-millions actually in accessibility. They've made tends of millions off of that, from education
-
-653
-00:58:37,600 --> 00:58:45,520
-to a lot of other initiatives. Even their kiosk ... in fact, the kiosk that museums use is an accessibility feature.
-
-654
-00:58:45,520 --> 00:58:52,340
-And they use it for different reasons, but it's fantastic for children with autism and other users with autism.
-
-655
-00:58:52,340 --> 00:59:00,680
-It's one of those things where, if you take a multitude of these kinds of social engineering, everything else,
-
-656
-00:59:00,680 --> 00:59:06,520
-and then also realize that accessibility doesn't have to be phrased as a cost center,
-
-657
-00:59:06,520 --> 00:59:12,480
-you can get very far, and I've seen that now be successful at several different museums,
-
-658
-00:59:12,480 --> 00:59:19,540
-several different start-ups, one venture fund, a couple of larger corporations and then universities are a lot easier
-
-659
-00:59:19,540 --> 00:59:25,000
-universities have that mandate, so for them, that's not so much of an issue,
-
-660
-00:59:25,000 --> 00:59:28,080
-but all those over ones that I listed, that model seems to work.
-
-661
-00:59:28,080 --> 00:59:36,140
-[Susan] And actually, I have no doubt that the position that we've taken on accessibility that we will ...
-
-662
-00:59:36,140 --> 00:59:42,760
-it won't be a cost center for us in the traditional sense, there's funding to be had for the work that we're doing
-
-663
-00:59:42,760 --> 00:59:52,580
-we're 100% positive. But making that argument, think before you start, is a whole lot harder than
-
-664
-00:59:52,580 --> 00:59:57,480
-making that argument when you started a little. And I mean honestly, as much as we've done,
-
-665
-00:59:57,480 --> 01:00:08,000
-I feel we're started a little, but just enough, to continue to realize that, funding and that sort of value to reputation
-
-666
-01:00:08,000 --> 01:00:13,140
-all of that good stuff that non-profits like.
-
-667
-01:00:13,140 --> 01:00:18,180
-[Anna] It's possible that its becoming quite hip. It's so cool right now.
-
-668
-01:00:18,180 --> 01:00:23,980
-I was talking to a friend about description and she got so excited. She's a choreographer, filmmaker
-
-669
-01:00:23,980 --> 01:00:27,720
-and she said "I've been doing description!" And I said "What do you mean?"
-
-670
-01:00:27,720 --> 01:00:33,380
-She was living in Berlin and took some workshop with a dancer and they were doing description as choreography
-
-671
-01:00:33,380 --> 01:00:41,680
-and that lead her to take a description course. So she took a course in live description, and now it's like crazy
-
-672
-01:00:41,680 --> 01:00:47,880
-it's now like everywhere. I had another friend do a performance, she's an artist out in San Diego
-
-673
-01:00:47,880 --> 01:00:53,260
-and it turned out she was doing these description-based performances and not even realizing that there was this
-
-674
-01:00:53,260 --> 01:00:59,860
-whole other world, and now she's super excited to get certified to do description for video.
-
-675
-01:00:59,860 --> 01:01:06,740
-And it's weird that it's become this very hip thing that actually makes it so much easier
-
-676
-01:01:06,740 --> 01:01:07,940
-to move things forward.
-
-677
-01:01:07,940 --> 01:01:11,640
-[Susan] Hip for artists but also hip for funders. I was saying in a meeting earlier,
-
-678
-01:01:11,640 --> 01:01:22,460
-that ADA 25 was a lot in terms of awareness and for funders, I think that sort of changes everything.
-
-679
-01:01:22,460 --> 01:01:29,220
-We, of course, are caring something that is inherently sexy, art, with something that is now trendy,
-
-680
-01:01:29,220 --> 01:01:38,140
-accessibility, so we get a little bit of a heads up, we're not trying to make a gas company, an oil company
-
-681
-01:01:38,140 --> 01:01:46,500
-website accessible. So it helps us with the funding. But I actually don't think there's that much of a difference.
-
-682
-01:01:46,500 --> 01:01:50,560
-A willingness for people to put something into this.
-
-683
-01:01:52,160 --> 01:01:57,720
-[Nikki] I have a question. It is trendy, right. And it's cool and I think there are a lot of people,
-
-684
-01:01:57,720 --> 01:02:04,920
-and there's a huge community here in Chicago. Have you guys thought at all about engaging
-
-685
-01:02:04,920 --> 01:02:10,680
-with that network of people at all, just to see if they could contribute to doing the descriptions.
-
-686
-01:02:10,680 --> 01:02:18,860
-[Susan] We absolutely have. We want to have a tool that's finished before we ...
-
-687
-01:02:18,860 --> 01:02:24,840
-... no, but we think about it a lot. Which communities would be interested and
-
-688
-01:02:24,840 --> 01:02:31,160
-how would we engage with them. I said something super insensitive at the very beginning of the process
-
-689
-01:02:31,160 --> 01:02:35,300
-which is "I wonder of deaf people would be interested in helping us describe."
-
-690
-01:02:35,300 --> 01:02:38,520
-And today, somebody who is a representative of the deaf community came up to me and said
-
-691
-01:02:38,520 --> 01:02:42,600
-"We'd really like to help you describe."
-
-692
-01:02:42,600 --> 01:02:45,480
 [Laughter]
 
-693
-01:02:45,480 --> 01:02:54,360
-[Susan] But, you know, we have been in conversation with the poetry foundation, about that community
+**[Susan]:** But, you know, we have been in conversation with the poetry foundation, about that community I do think that this museum has a really, really important relationship with local artists that we'd love to tap but also arts professionals; teachers and the like. There's really so many possibilities for us. We just ... we want people to feel as fulfilled in participating as our staff do. I think that you don't want to let folks down. So I think we are ... we're moving more slowly than we would want to, but really with the best of intentions.
 
-694
-01:02:54,360 --> 01:03:02,500
-I do think that this museum has a really, really important relationship with local artists that we'd love to tap
+**[Anna]:** It would be so easy to just share with everyone and then have it sort of just flop out. Like something that everyone forgot about. So we're being be very, very careful about, is it ready for this.
 
-695
-01:03:02,500 --> 01:03:09,880
-but also arts professionals; teachers and the like. There's really so many possibilities for us.
+**[Susan]:** Actually, to be fair, the kinds of next partners that we're looking for are actually folks like you who can begin to build your own networks of users and share experiences at a higher level so that we can parse those and understand as a group how this works. Because we can't manage a sort of ever expanding circle of describers. The logical thing will be for us to in a node in the network that you belong to. That's probably why we were excited that Dennis asked us to talk to you guys.
 
-696
-01:03:09,880 --> 01:03:20,160
-We just ... we want people to feel as fulfilled in participating as our staff do.
+**[Nikki]:** Given that it is a non-profit, right, and part of the community, how do you see this giving back to the community? Are there local groups in the accessibility community who you think would ... be excited to partake in the site? They may not even know that ... this is a feature.
 
-697
-01:03:20,160 --> 01:03:27,560
-I think that you don't want to let folks down. So I think we are ... we're moving more slowly than
+**[Sina]:** Part of that is intentional. It's sort of the slow release model, working everything out. The other thing I'm coming to is inclusive design, making sure it's available for everyone before we make even more noise about it, because at least it's something that I feel is really strong here which is this idea that, accessibility is great, and everybody associates me for example with accessibility but it's not what I ... it's a side effect for me. If you do inclusive design and usability correctly, you get accessibility as a side effect. And you can go to a lot of boring talks that talk about that topic for two hours. But the core tenant of it is actually, really true; it's not just something that people say, it is true. And so, I think the way it gives back is ... to me, there are a couple of problems that come to mind. Obvious user benefit, being about to appreciate, art, content in general that was unavailable to you before. And then there is participation. So, going to a museum, while blind, and with someone else who can see it's just like, yeah, it's totally doable, I've done it before. Several times. But it's not exactly in my top ...
 
-698
-01:03:27,560 --> 01:03:33,160
-we would want to, but really with the best of intentions.
+Right, but then there is the participation of the other end that Susan and I were talking about curators ... and realizing that the museum is actually part of the community and really wanting to give in that sense, and then I think its allowing folks to be participatory in the process of making the rest of the content, or world, or whatever, accessible. Right, or accessible to them. And that's a big thing for me; involving end users. So not only having then read descriptions, but you could imagine later on almost a Reddit-style, voting interface. Where you vote up or down descriptions. Because ... [overlapping talking] ... So it's things like that that I think, this is groundwork, it is early days as Susan says, but, I think your question is incredibly important, because it contributes back in a lot of different ways, it's not just that thing you do for one disability group.
 
-699
-01:03:33,160 --> 01:03:38,680
-[Anna] It would be so easy to just share with everyone and then have it sort of just flop out.
-
-700
-01:03:38,680 --> 01:03:44,600
-Like something that everyone forgot about. So we're being be very, very careful about,
-
-701
-01:03:44,600 --> 01:03:47,500
-is it ready for this.
-
-702
-01:03:47,500 --> 01:03:52,840
-[Susan] Actually, to be fair, the kinds of next partners that we're looking for are actually folks like you
-
-703
-01:03:52,840 --> 01:03:59,500
-who can begin to build your own networks of users and share experiences at a higher level
-
-704
-01:03:59,500 --> 01:04:03,860
-so that we can parse those and understand as a group how this works.
-
-705
-01:04:03,860 --> 01:04:08,420
-Because we can't manage a sort of ever expanding circle of describers.
-
-706
-01:04:08,420 --> 01:04:13,980
-The logical thing will be for us to in a node in the network that you belong to.
-
-707
-01:04:13,980 --> 01:04:20,260
-That's probably why we were excited that Dennis asked us to talk to you guys.
-
-708
-01:04:24,720 --> 01:04:27,620
-[Nikki] Given that it is a non-profit, right, and part of the community,
-
-709
-01:04:27,620 --> 01:04:36,020
-how do you see this giving back to the community? Are there local groups in the accessibility community
-
-710
-01:04:36,020 --> 01:04:46,500
-who you think would ... be excited to partake in the site? They may not even know that ... this is a feature.
-
-711
-01:04:46,500 --> 01:04:52,940
-[Sina] Part of that is intentional. It's sort of the slow release model, working everything out.
-
-712
-01:04:52,940 --> 01:04:56,660
-The other thing I'm coming to is inclusive design, making sure it's available for everyone
-
-713
-01:04:56,660 --> 01:05:03,240
-before we make even more noise about it, because at least it's something that I feel is really strong here
-
-714
-01:05:03,240 --> 01:05:09,440
-which is this idea that, accessibility is great, and everybody associates me for example with accessibility
-
-715
-01:05:09,440 --> 01:05:16,600
-but it's not what I ... it's a side effect for me. If you do inclusive design and usability correctly,
-
-716
-01:05:16,600 --> 01:05:22,480
-you get accessibility as a side effect. And you can go to a lot of boring talks that talk about that topic
-
-717
-01:05:22,480 --> 01:05:28,540
-for two hours. But the core tenant of it is actually, really true; it's not just something that people say,
-
-718
-01:05:28,540 --> 01:05:36,620
-it is true. And so, I think the way it gives back is ... to me, there are a couple of problems that come to mind.
-
-719
-01:05:36,620 --> 01:05:45,540
-Obvious user benefit, being about to appreciate, art, content in general that was unavailable to you before.
-
-720
-01:05:45,540 --> 01:05:53,040
-And then there is participation. So, going to a museum, while blind, and with someone else who can see
-
-721
-01:05:53,040 --> 01:06:02,960
-it's just like, yeah, it's totally doable, I've done it before. Several times. But it's not exactly in my top ...
-
-722
-01:06:02,960 --> 01:06:07,760
-Right, but then there is the participation of the other end that Susan and I were talking about
-
-723
-01:06:07,760 --> 01:06:15,740
-curators ... and realizing that the museum is actually part of the community and really wanting to give
-
-724
-01:06:15,740 --> 01:06:23,000
-in that sense, and then I think its allowing folks to be participatory in the process
-
-725
-01:06:23,000 --> 01:06:29,720
-of making the rest of the content, or world, or whatever, accessible. Right, or accessible to them.
-
-726
-01:06:29,720 --> 01:06:36,720
-And that's a big thing for me; involving end users. So not only having then read descriptions, but
-
-727
-01:06:36,720 --> 01:06:44,340
-you could imagine later on almost a Reddit-style, voting interface. Where you vote up or down descriptions.
-
-728
-01:06:44,340 --> 01:06:55,720
-Because ... [overlapping talking] ... So it's things like that that I think, this is groundwork, it is early days
-
-729
-01:06:55,720 --> 01:07:01,880
-as Susan says, but, I think your question is incredibly important, because it contributes back
-
-730
-01:07:01,880 --> 01:07:05,620
-in a lot of different ways, it's not just that thing you do for one disability group.
-
-731
-01:07:05,620 --> 01:07:10,560
-[Susan] I actually want to answer it in a different way, because I complete agree with what Sina says.
+**[Susan]:** I actually want to answer it in a different way, because I complete agree with what Sina says.
 
 732
 01:07:10,560 --> 01:07:17,600
