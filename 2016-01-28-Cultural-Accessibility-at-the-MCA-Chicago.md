@@ -433,839 +433,140 @@ Any other questions?
 
 Right, but then there is the participation of the other end that Susan and I were talking about curators ... and realizing that the museum is actually part of the community and really wanting to give in that sense, and then I think its allowing folks to be participatory in the process of making the rest of the content, or world, or whatever, accessible. Right, or accessible to them. And that's a big thing for me; involving end users. So not only having then read descriptions, but you could imagine later on almost a Reddit-style, voting interface. Where you vote up or down descriptions. Because ... [overlapping talking] ... So it's things like that that I think, this is groundwork, it is early days as Susan says, but, I think your question is incredibly important, because it contributes back in a lot of different ways, it's not just that thing you do for one disability group.
 
-**[Susan]:** I actually want to answer it in a different way, because I complete agree with what Sina says.
+**[Susan]:** I actually want to answer it in a different way, because I complete agree with what Sina says. There's another thing for me that I think about a lot, which is that even if a blind person never reads one of our descriptions, but knows that they're there, and that the project was initiated because we wanted to support people who have a vision impairment, we're sending a message to the community of the blind and vision impaired, folks that, we see them as creative beings I'm sorry this is very touchy, feely ... you're not just, as we sometimes say, ... we actually honor your potential to do creative work and to be a person in our community of creators. Which I think is something that museums haven't been doing. If we put that message to the world, independent of whether or not you actually use our descriptions, that's super important. And that's, I know that sounds very abstract, but I think it will begin to get out there in the world. You can be an artist. We believe in you.
 
-732
-01:07:10,560 --> 01:07:17,600
-There's another thing for me that I think about a lot, which is that even if a blind person
+**[Anna]:** It's absolute and, the work Sina and I were doing on the letter that we need to write together this week to YouTube and Vimeo about the support for multiple audio tracks because right now, the way those interfaces work, whether it's a different language community or its an audio description needed community, they're going to be on an entirely separate conversation thread. Their conversation is set aside and not valued in the core, typically English-speaking able to whatever, engage maybe through closed-captions or whatever it is, but it's a limited scope that that video functions in so you have all these versions of the video, you know, and like "Oh, I"m looking for the one with the Spanish subtitles, so I can send it to my buddy." And there's a whole other conversation happening over there.
 
-733
-01:07:17,600 --> 01:07:28,320
-never reads one of our descriptions, but knows that they're there, and that the project was initiated because
+**[Sina]:** And actually that reminded me. This kind of work does actually have one other strategic advantage. It has a name but I have totally forgotten it. One important one that came up when Anna was saying is that it does a very good job of highlighting barriers to folks who do want to do the right thing. We spend a lot of time in the accessibility community, sometimes commiserating, complaining about, motivating and conjoiling during our day jobs about folks to get into accessibility and so forth I can't tell you the number of discussions I've had ... I like going into a room with developers and be like, accessibility, yeah, you guys totally are thinking this meeting is going to suck.
 
-734
-01:07:28,320 --> 01:07:35,640
-we wanted to support people who have a vision impairment, we're sending a message
-
-735
-01:07:35,640 --> 01:07:45,700
-to the community of the blind and vision impaired, folks that, we see them as creative beings
-
-736
-01:07:45,700 --> 01:08:00,700
-I'm sorry this is very touchy, feely ... you're not just, as we sometimes say, ... we actually honor your potential to
-
-737
-01:08:00,700 --> 01:08:06,820
-do creative work and to be a person in our community of creators. Which I think is something that
-
-738
-01:08:06,820 --> 01:08:13,840
-museums haven't been doing. If we put that message to the world, independent of whether or not you actually
-
-739
-01:08:13,840 --> 01:08:21,480
-use our descriptions, that's super important. And that's, I know that sounds very abstract, but
-
-740
-01:08:21,480 --> 01:08:29,060
-I think it will begin to get out there in the world. You can be an artist. We believe in you.
-
-741
-01:08:31,300 --> 01:08:39,880
-[Anna] It's absolute and, the work Sina and I were doing on the letter that we need to write together this week
-
-742
-01:08:39,880 --> 01:08:45,040
-to YouTube and Vimeo about the support for multiple audio tracks because right now,
-
-743
-01:08:45,040 --> 01:08:53,320
-the way those interfaces work, whether it's a different language community or its an audio description
-
-744
-01:08:53,320 --> 01:08:57,760
-needed community, they're going to be on an entirely separate conversation thread.
-
-745
-01:08:57,760 --> 01:09:05,660
-Their conversation is set aside and not valued in the core, typically English-speaking
-
-746
-01:09:05,660 --> 01:09:14,200
-able to whatever, engage maybe through closed-captions or whatever it is, but it's a limited scope
-
-747
-01:09:14,200 --> 01:09:17,580
-that that video functions in so you have all these versions of the video, you know, and like
-
-748
-01:09:17,580 --> 01:09:20,800
-"Oh, I"m looking for the one with the Spanish subtitles, so I can send it to my buddy."
-
-749
-01:09:20,800 --> 01:09:24,460
-and there's a whole other conversation happening over there.
-
-750
-01:09:24,460 --> 01:09:28,700
-[Sina] And actually that reminded me. This kind of work does actually have one other strategic advantage.
-
-751
-01:09:28,700 --> 01:09:33,620
-It has a name but I have totally forgotten it. One important one that came up when Anna was saying
-
-752
-01:09:33,620 --> 01:09:41,820
-is that it does a very good job of highlighting barriers to folks who do want to do the right thing.
-
-753
-01:09:41,820 --> 01:09:47,280
-We spend a lot of time in the accessibility community, sometimes commiserating, complaining about,
-
-754
-01:09:47,280 --> 01:09:52,120
-motivating and conjoiling during our day jobs about folks to get into accessibility and so forth
-
-755
-01:09:52,120 --> 01:09:59,640
-I can't tell you the number of discussions I've had ... I like going into a room with developers
-
-756
-01:09:59,640 --> 01:10:05,660
-and be like, accessibility, yeah, you guys totally are thinking this meeting is going to suck.
-
-757
-01:10:05,660 --> 01:10:07,680
 [Laughter]
 
-758
-01:10:07,680 --> 01:10:11,640
-[Sina] Let's just get it out there, and by the end of it, just getting them super passionate about it.
+**[Sina]:** Let's just get it out there, and by the end of it, just getting them super passionate about it. Here's the part that's really bad. Then they go off and they'll send me an email, like, so, totally stoked, went home to try to do this thing, hacking on it on my own time, okay. Hacking on it on my own time. Sina, where do I put the audio description track on YouTube? Ok, so here's the deal ... You Tube mumble mumble mumble, and like that's really frustrating. So this kind of work, highlighting those kind of obstacles and doing something about it, is really important.
 
-759
-01:10:11,640 --> 01:10:19,760
-Here's the part that's really bad. Then they go off and they'll send me an email, like, so, totally stoked,
+**[Anna]:** And it spins out into everything else we do. Like there's this moment where we're having issues with the PDF viewer and uploading PDFs, and suddenly I was like, we're uploading all of these PDFs, oh yeah, we'll just upload them all. Oh my god, our PDFs, they're not accessible.
 
-760
-01:10:19,760 --> 01:10:25,280
-went home to try to do this thing, hacking on it on my own time, okay. Hacking on it on my own time
-
-761
-01:10:25,280 --> 01:10:30,780
-Sina, where do I put the audio description track on YouTube? Ok, so here's the deal ...
-
-762
-01:10:30,780 --> 01:10:35,960
-You Tube mumble mumble mumble, and like that's really frustrating. So this kind of work,
-
-763
-01:10:35,960 --> 01:10:42,680
-highlighting those kind of obstacles and doing something about it, is really important.
-
-764
-01:10:43,500 --> 01:10:50,960
-[Anna] And it spins out into everything else we do. Like there's this moment where we're having issues with
-
-765
-01:10:50,960 --> 01:10:58,700
-the PDF viewer and uploading PDFs, and suddenly I was like, we're uploading all of these PDFs,
-
-766
-01:10:58,700 --> 01:11:04,520
-oh yeah, we'll just upload them all. 
-Oh my god, our PDFs, they're not accessible.
-
-767
-01:11:04,520 --> 01:11:06,220
 [Laughter]
 
-768
-01:11:06,220 --> 01:11:09,940
-[Anna] So I called Sina and said "Sina, Help!"
+**[Anna]:** So I called Sina and said "Sina, Help!"
 
-769
-01:11:09,940 --> 01:11:11,540
-[Susan] Tomorrow's PDF training.
+**[Susan]:** Tomorrow's PDF training.
 
-770
-01:11:11,540 --> 01:11:13,540
-[Sina] Yeah, tomorrow is PDF accessibility training.
+**[Sina]:** Yeah, tomorrow is PDF accessibility training.
 
-771
-01:11:13,540 --> 01:11:15,980
 [Laughter]
 
-772
-01:11:15,980 --> 01:11:19,380
-[Renee] How do you get an accessible PDF from a Mac?
+**[Renee]:** How do you get an accessible PDF from a Mac?
 
-773
-01:11:19,380 --> 01:11:21,560
-[Susan] You should come to training tomorrow.
+**[Susan]:** You should come to training tomorrow.
 
-774
-01:11:21,560 --> 01:11:23,760
 [Laughter]
 
-775
-01:11:23,760 --> 01:11:28,640
-[Sina] The answer is, if you are using InDesign, we've got it about 95% done already
+**[Sina]:** The answer is, if you are using InDesign, we've got it about 95% done already because a lot of those things can be done in InDesign, and you can then export it and the beautiful part about that is the classic problem that you are probably very familiar with which is, some people will make PDFs and they'll go in and make it accessible, they'll use Acrobat and things like that, they're going to make it accessible. Then, somebody comes in and says, guys, the table of contents is wrong, and now you've lost all of those accessibility changes, so the fact here is that in fact, I don't think we're going to cover any Adobe Acrobat stuff tomorrow all of the accessibility stuff we're going to do is going to be done at the content authoring level. So if these guys want to go in, they feel totally comfortable making content level changes because the accessibility lives with the document.
 
-776
-01:11:28,640 --> 01:11:34,200
-because a lot of those things can be done in InDesign, and you can then export it
+**[Susan]:** I can see the client look at that calendar, uhhhh.
 
-777
-01:11:34,200 --> 01:11:37,840
-and the beautiful part about that is the classic problem that you are probably very familiar with
+**[Anna]:** I reminded them, they were like yeah yeah yeah...
 
-778
-01:11:37,840 --> 01:11:42,840
-which is, some people will make PDFs and they'll go in and make it accessible, they'll use Acrobat
+**[Susan]:** So I was like, Sina, if you can make them come to that meeting ...
 
-779
-01:11:42,840 --> 01:11:47,280
-and things like that, they're going to make it accessible. Then, somebody comes in and says, guys,
+**[Anna]:** Actually, a good consultant, just to give a pitch for Sina, I mean the first conversation I had with our lead developer, of the website, after his first phone call with Sina, he was like, "it's going to be really intense," but he had this little smile, like it's going to be really ... I'm going to learn a lot like he was really excited about it and that energy and the excitement of ... when we sent them this huge task list after our WCAG evaluation, they were like really into it.
 
-780
-01:11:47,280 --> 01:11:53,660
-the table of contents is wrong, and now you've lost all of those accessibility changes, so the fact here is that
+**[Sina]:** Yeah, that was really weird, actually.
 
-781
-01:11:53,660 --> 01:11:56,780
-in fact, I don't think we're going to cover any Adobe Acrobat stuff tomorrow
-
-782
-01:11:56,780 --> 01:12:01,500
-all of the accessibility stuff we're going to do is going to be done at the content authoring level.
-
-783
-01:12:01,500 --> 01:12:05,900
-So if these guys want to go in, they feel totally comfortable making content level changes
-
-784
-01:12:05,900 --> 01:12:10,320
-because the accessibility lives with the document.
-
-785
-01:12:10,320 --> 01:12:15,260
-[Susan] I can see the client look at that calendar, uhhhh.
-
-786
-01:12:15,260 --> 01:12:18,540
-[Anna] I reminded them, they were like yeah yeah yeah...
-
-787
-01:12:18,540 --> 01:12:23,200
-[Susan] So I was like, Sina, if you can make them come to that meeting ...
-
-788
-01:12:23,200 --> 01:12:28,100
-[Anna] Actually, a good consultant, just to give a pitch for Sina, I mean the first conversation I had
-
-789
-01:12:28,100 --> 01:12:35,120
-with our lead developer, of the website, after his first phone call with Sina, he was like,
-
-790
-01:12:35,120 --> 01:12:42,740
-"it's going to be really intense," but he had this little smile, like it's going to be really ... I'm going to learn a lot
-
-791
-01:12:42,740 --> 01:12:48,800
-like he was really excited about it and that energy and the excitement of ...
-
-792
-01:12:48,800 --> 01:12:56,120
-when we sent them this huge task list after our WCAG evaluation, they were like really into it.
-
-793
-01:12:56,120 --> 01:12:59,480
-[Sina] Yeah, that was really weird, actually.
-
-794
-01:12:59,480 --> 01:13:00,800
 [Laughter]
 
-795
-01:13:00,800 --> 01:13:06,580
-[Elizabeth] I've had that experience with developers, they are into it, you don't have to sell the developers because
+**[Elizabeth]:** I've had that experience with developers, they are into it, you don't have to sell the developers because it is a problem to solve and they love that.
 
-796
-01:13:06,580 --> 01:13:10,740
-it is a problem to solve and they love that.
+**[Sina]:** And you shouldn't go in, I think what happens sometimes in accessibility is ...
 
-797
-01:13:10,740 --> 01:13:15,040
-[Sina] And you shouldn't go in, I think what happens sometimes in accessibility is ...
+**[Susan]:** Those are developers, we're talking tomorrow to our designers.
 
-798
-01:13:15,040 --> 01:13:17,460
-[Susan] Those are developers, we're talking tomorrow to our designers.
-
-799
-01:13:17,460 --> 01:13:19,860
 [Laughter]
 
-800
-01:13:19,860 --> 01:13:26,020
-[Sina] But you don't want to go in and call their baby ugly, right? And the answer is let's do things a different way.
+**[Sina]:** But you don't want to go in and call their baby ugly, right? And the answer is let's do things a different way. In design, I have a buddy of mine who uses the analogy of, for designers, when you think about accessibility, they get way more ... they struggle way more with it, in my opinion, than developers do. And to me, I like to tell them, this is from a friend of mine, actually who is going to be leading the PDF accessibility training session, he says, to designers, think of it as working in a different medium and if you are telling me that you can't be just as creative in clay that you can be in blown glass or what not you know, that's not the case. You're going to do all of these amazing things in a different medium and accessibility just ensures that those foundations are really usable by more people. So, there's just different ways I think of talking to different audiences or being a sociopath as I like to call it.
 
-801
-01:13:26,020 --> 01:13:31,180
-In design, I have a buddy of mine who uses the analogy of, for designers, when you think about accessibility,
-
-802
-01:13:31,180 --> 01:13:36,080
-they get way more ... they struggle way more with it, in my opinion, than developers do.
-
-803
-01:13:36,080 --> 01:13:40,480
-And to me, I like to tell them, this is from a friend of mine, actually who is going to be
-
-804
-01:13:40,480 --> 01:13:46,220
-leading the PDF accessibility training session, he says, to designers, think of it as working in a different medium
-
-805
-01:13:46,220 --> 01:13:52,140
-and if you are telling me that you can't be just as creative in clay that you can be in blown glass or what not
-
-806
-01:13:52,140 --> 01:13:56,560
-you know, that's not the case. You're going to do all of these amazing things in a different medium
-
-807
-01:13:56,560 --> 01:14:01,420
-and accessibility just ensures that those foundations are really usable by more people.
-
-808
-01:14:01,420 --> 01:14:04,880
-So, there's just different ways I think of talking to different audiences
-
-809
-01:14:04,880 --> 01:14:07,740
-or being a sociopath as I like to call it.
-
-810
-01:14:07,740 --> 01:14:09,500
 [Laughter]
 
-811
-01:14:09,500 --> 01:14:11,320
-[Anna] I was crossing my fingers this whole time ...
-
-812
-01:14:11,320 --> 01:14:15,880
-[Elizabeth] It was interesting you said, calling your baby ugly. I am a UX researcher
-
-813
-01:14:15,880 --> 01:14:21,480
-so my job is to basically tell people that their baby is ugly. In a nice way.
-
-814
-01:14:21,480 --> 01:14:24,480
-[Susan] Oh, so you should see Coyote, so ...
-
-815
-01:14:24,480 --> 01:14:31,620
-[Renee] I have a ... when I first started hearing your presentation, coming from High Ed.,
-
-816
-01:14:31,620 --> 01:14:38,840
-I'm thinking of, how to help all students get through an art history class.
-
-817
-01:14:38,840 --> 01:14:51,360
-Okay, so, I wasn't thinking of it necessarily as a pleasant experience. You're taking about going to a
-
-818
-01:14:51,360 --> 01:15:02,160
-museum with a sighted person then. It's not what you do for fun, but if you have to learn stuff.
-
-819
-01:15:02,160 --> 01:15:08,100
-So that's how I started thinking about this, but now I'm thinking of ...
-
-820
-01:15:08,100 --> 01:15:13,180
-you are aiming for these descriptions to be their own works of art.
-
-821
-01:15:13,180 --> 01:15:13,800
-[Susan] Yes.
-
-822
-01:15:13,800 --> 01:15:17,980
-[Renee] Not art history, but their own works of art, and I think that's cool.
-
-823
-01:15:17,980 --> 01:15:26,340
-[Susan] Thank you. We didn't know that that would happen and so that is a great surprise with this project.
-
-824
-01:15:26,340 --> 01:15:28,960
-[Sina] Dennis, how are we doing on time?
-
-825
-01:15:28,960 --> 01:15:34,900
-[Dennis] Well, I was going to ask you. Because you guys have had an unbelievably long day.
-
-826
-01:15:34,900 --> 01:15:43,580
-So, when you guys are ready to raise the white flag, let us know, but did you have a question earlier?
-
-827
-01:15:44,160 --> 01:15:51,320
-I'm sorry ... I'm sorry, I'm awful with names.
-
-828
-01:15:52,540 --> 01:16:00,280
-[May] I'm glad that you actually said that you're incorporating other ... you know, the general population
-
-829
-01:16:00,280 --> 01:16:05,100
-not just for screen readers, because most times, when people think of accessibility,
-
-830
-01:16:05,100 --> 01:16:14,560
-if it meets screen reader needs, then it is accessible. Not true. I actually had a discussion slash argument
-
-831
-01:16:14,560 --> 01:16:19,080
-with a former president of the National Federation of the Blind and that was his concept;
-
-832
-01:16:19,080 --> 01:16:25,800
-if you can interact with it with a screen reader, then it's fully accessible. Not true.
-
-833
-01:16:25,800 --> 01:16:32,380
-So they miss a lot of things, so I'd like to know what other accessibility features or functions that you
-
-834
-01:16:32,380 --> 01:16:36,800
-incorporated into the website, beyond the descriptions and ... ?
-
-835
-01:16:36,800 --> 01:16:46,020
-[Sina] Yeah, so two things. The first is that if you look at WCAG, there's four foundational principles there.
-
-836
-01:16:46,020 --> 01:16:48,840
-Perceivable, Operable, Understandable and Robust.
-
-837
-01:16:48,840 --> 01:16:56,700
-The P.O.U.R. principles. And there are a lot of different groups or users that you can encompass
-
-838
-01:16:56,700 --> 01:17:01,880
-with a lot of the things there. So for example, color contrast is very important, low vision is
-
-839
-01:17:01,880 --> 01:17:07,840
-an incredibly large population. Keyboard ability, for those who can't use a mouse. So I'm not talking
-
-840
-01:17:07,840 --> 01:17:12,860
-screen readers here, just regular keyboard ability, and intelligent keyboard
-
-841
-01:17:12,860 --> 01:17:17,360
-It doesn't just mean that you can tab to everything, because we have, what, ten thousand?
-
-842
-01:17:17,360 --> 01:17:21,940
-Is that right?  Ten thousand images. Sometimes there are page, there's pagination in the system,
-
-843
-01:17:21,940 --> 01:17:26,200
-sometimes you might have a thousand links on a page or something like that. So intelligent keyboard ability
-
-844
-01:17:26,200 --> 01:17:33,660
-really thinking about that process. With respect to cognitive, we've done a little bit of work on the back end,
-
-845
-01:17:33,660 --> 01:17:40,460
-with respect to just ... the amount of words on the screen. Something we're struggling a little bit is,
-
-846
-01:17:40,460 --> 01:17:46,880
-do we truncate and then do we have "more" buttons? There's empathetical use cases there, right?
-
-847
-01:17:46,880 --> 01:17:53,020
-Or at least traditionally ... use cases. For example, if you have a "more" button, what do you do for blind users?
-
-848
-01:17:53,020 --> 01:17:55,860
-And there are a couple of tricks. I'm not going to bore you with the details.
-
-849
-01:17:55,860 --> 01:18:02,420
-But, there are things you can do to make it easier for narrow vision, narrow field of view,
-
-850
-01:18:02,420 --> 01:18:08,580
-for low vision, also, folks who are on, cognitive impairment spectrum, where you might want
-
-851
-01:18:08,580 --> 01:18:13,680
-less text on the screen, but then also not to force more keyboard strokes, not only for the sighted keyboard user,
-
-852
-01:18:13,680 --> 01:18:20,880
-but also for the blind user. Let's see here, what else. We've done a little bit of thinking around
-
-853
-01:18:20,880 --> 01:18:29,040
-this idea that if you are a ... keyboard, but mainly I'm thinking of switch users
-
-854
-01:18:29,040 --> 01:18:34,240
-so, things like skip to content links but also scroll back up, so jump links in the middle of the page,
-
-855
-01:18:34,240 --> 01:18:39,860
-especially with pagination, something that I've been struggling with a little bit, because it's a hard one.
-
-856
-01:18:39,860 --> 01:18:44,660
-Again, going back to this idea of having it be just as good for keyboard users,
-
-857
-01:18:44,660 --> 01:18:50,080
-just a good for screen reader users. The way I tend to look at it is, it's an ever increasing net
-
-858
-01:18:50,080 --> 01:18:53,740
-I think I was saying this earlier today, it's an ever increasing net. The tricky thing is,
-
-859
-01:18:53,740 --> 01:18:58,740
-every time you want to add, fail forward. 
-Failing, awesome. Iterating, great.
-
-860
-01:18:58,740 --> 01:19:05,260
-Fail forward. But, make sure that when you do that, you do a check, you circle back and you say
-
-861
-01:19:05,260 --> 01:19:10,180
-"Did we do something that took away from another user group that we were doing really well with
-
-862
-01:19:10,180 --> 01:19:16,300
-and that doesn't always mean just aligning with WCAG. WCAG is awesome, and a lot of people that worked on it.
-
-863
-01:19:16,300 --> 01:19:23,120
-I've gone out preaching it and using it all the time. But it's not the end all, be all.
-
-864
-01:19:23,120 --> 01:19:28,520
-There's plenty of great principles, sometimes that are encapsulated there that you can also take advantage of.
-
-865
-01:19:28,520 --> 01:19:30,640
-Does that answer your question?
-
-866
-01:19:30,640 --> 01:19:37,260
-[May] Um, yes, follow-up comment. Because you can actually take away from one challenge
-
-867
-01:19:37,260 --> 01:19:42,340
-by trying to address another. So, color contrast is something that you mentioned which actually
-
-868
-01:19:42,340 --> 01:19:47,500
-is a challenge for a lot of people, because they don't use enough contrast. And so therefore you can't distinguish
-
-869
-01:19:47,500 --> 01:19:53,400
-foreground from background, text from the background. However, then some people take it to the extreme
-
-870
-01:19:53,400 --> 01:19:59,420
-they say, we'll just make it pure black text on pure white background. Now you've lost a lot of people
-
-871
-01:19:59,420 --> 01:20:09,760
-that have certain cognitive challenges such as dyslexia. In that aspect, people just decide
-
-872
-01:20:09,760 --> 01:20:13,960
-ok, we'll make it the maximum. Well now you've made it more challenging for another group.
-
-873
-01:20:13,960 --> 01:20:20,840
-[Sina] So, I think we've been pretty lucky here not to have ... so I'm very well acquainted with the polarizing
-
-874
-01:20:20,840 --> 01:20:23,820
-scenario that you are laying out, because I've had to deal with that a lot.
-
-875
-01:20:23,820 --> 01:20:29,980
-It's the "Oh wow, this is going to be great. Let's just totally go to the black and white."
-
-876
-01:20:29,980 --> 01:20:35,120
-"That's what we are going to do. Fine. We're going to have no..." We're lucky here not to have that sort of
-
-877
-01:20:35,120 --> 01:20:40,260
-attitude about things. But I kind of want to address your overall point. Often times,
-
-878
-01:20:40,260 --> 01:20:45,740
-and this is totally, I'm not stating this as a well, researched principle. But it's my opinion,
-
-879
-01:20:45,740 --> 01:20:53,800
-so take it for what it's worth. The answer to a cross roads of multiple usability features,
-
-880
-01:20:53,800 --> 01:21:00,840
-in which one is orthogonal to the other, is sometimes resolved at least by offering the user
-
-881
-01:21:00,840 --> 01:21:06,540
-customizability that is stateful. And so what that means is that if you have a website in which
-
-882
-01:21:06,540 --> 01:21:13,400
-the color contrast can be monochromatic or color and let's just, for the sake of argument say 4.5:1.
-
-883
-01:21:13,400 --> 01:21:20,240
-It's just not that hard to actually make the few lines of CSS change and store them a radio button choice.
-
-884
-01:21:20,240 --> 01:21:25,780
-That get stored for that user as a cookie. And, those are the kinds of things that, I feel,
-
-885
-01:21:25,780 --> 01:21:29,440
-address some of those kind of things and take it out of the realm of "Oh, this is impossible"
-
-886
-01:21:29,440 --> 01:21:37,740
-into, customizability, some basic usability, then the ability to always, if you have that choice,
-
-887
-01:21:37,740 --> 01:21:43,540
-giving the user, this goes back to the seven principles of universal design, giving the user a way, a very easy way
-
-888
-01:21:43,540 --> 01:21:47,840
-of returning back to the original starting point. So if they don't like that thing,
-
-889
-01:21:47,840 --> 01:21:52,840
-or maybe, one day they need it to be black and white, but another day, a lot of folks with vision impairment
-
-890
-01:21:52,840 --> 01:21:57,540
-will tell you, their vision is not constant from day to day. Sometimes they, I have some friends who
-
-891
-01:21:57,540 --> 01:22:01,900
-use a screen reader only for some days. And on other days, they use large type. And that's ok.
-
-892
-01:22:01,900 --> 01:22:08,380
-So, having those choices be user modifiable I feel is an important way of solving that problem.
-
-893
-01:22:08,380 --> 01:22:11,080
-Or at least, a stab at solving the problem.
-
-894
-01:22:11,080 --> 01:22:16,060
-[Susan] We have a ton of users, if anyone has actually looked at our site, who would love to be able to
-
-895
-01:22:16,060 --> 01:22:17,380
-customize by turning off the grid.
-
-896
-01:22:17,380 --> 01:22:18,180
-[Sina] Yes.
-
-897
-01:22:18,180 --> 01:22:22,920
-[Susan] And, someday we'll convince our developer.
-
-898
-01:22:22,920 --> 01:22:31,800
-[Anna] And actually, that tees up a second side to this, we're operating within a design that was already created
-
-899
-01:22:31,800 --> 01:22:33,600
-[Dennis] That sounds familiar.
-
-900
-01:22:33,600 --> 01:22:35,940
+**[Anna]:** I was crossing my fingers this whole time ...
+
+**[Elizabeth]:** It was interesting you said, calling your baby ugly. I am a UX researcher so my job is to basically tell people that their baby is ugly. In a nice way.
+
+**[Susan]:** Oh, so you should see Coyote, so ...
+
+**[Renee]:** I have a ... when I first started hearing your presentation, coming from High Ed., I'm thinking of, how to help all students get through an art history class. Okay, so, I wasn't thinking of it necessarily as a pleasant experience. You're taking about going to a museum with a sighted person then. It's not what you do for fun, but if you have to learn stuff. So that's how I started thinking about this, but now I'm thinking of ... you are aiming for these descriptions to be their own works of art.
+
+**[Susan]:** Yes.
+
+**[Renee]:** Not art history, but their own works of art, and I think that's cool.
+
+**[Susan]:** Thank you. We didn't know that that would happen and so that is a great surprise with this project.
+
+**[Sina]:** Dennis, how are we doing on time?
+
+**[Dennis]:** Well, I was going to ask you. Because you guys have had an unbelievably long day. So, when you guys are ready to raise the white flag, let us know, but did you have a question earlier? I'm sorry ... I'm sorry, I'm awful with names.
+
+**[May]:** I'm glad that you actually said that you're incorporating other ... you know, the general population not just for screen readers, because most times, when people think of accessibility, if it meets screen reader needs, then it is accessible. Not true. I actually had a discussion slash argument with a former president of the National Federation of the Blind and that was his concept; if you can interact with it with a screen reader, then it's fully accessible. Not true. So they miss a lot of things, so I'd like to know what other accessibility features or functions that you incorporated into the website, beyond the descriptions and ... ?
+
+**[Sina]:** Yeah, so two things. The first is that if you look at WCAG, there's four foundational principles there. Perceivable, Operable, Understandable and Robust. The P.O.U.R. principles. And there are a lot of different groups or users that you can encompass with a lot of the things there. So for example, color contrast is very important, low vision is an incredibly large population. Keyboard ability, for those who can't use a mouse. So I'm not talking screen readers here, just regular keyboard ability, and intelligent keyboard. It doesn't just mean that you can tab to everything, because we have, what, ten thousand? Is that right?  Ten thousand images. Sometimes there are page, there's pagination in the system, sometimes you might have a thousand links on a page or something like that. So intelligent keyboard ability really thinking about that process. With respect to cognitive, we've done a little bit of work on the back end, with respect to just ... the amount of words on the screen. Something we're struggling a little bit is, do we truncate and then do we have "more" buttons? There's empathetical use cases there, right? Or at least traditionally ... use cases. For example, if you have a "more" button, what do you do for blind users? And there are a couple of tricks. I'm not going to bore you with the details. But, there are things you can do to make it easier for narrow vision, narrow field of view, for low vision, also, folks who are on, cognitive impairment spectrum, where you might want less text on the screen, but then also not to force more keyboard strokes, not only for the sighted keyboard user, but also for the blind user. Let's see here, what else. We've done a little bit of thinking around this idea that if you are a ... keyboard, but mainly I'm thinking of switch users so, things like skip to content links but also scroll back up, so jump links in the middle of the page, especially with pagination, something that I've been struggling with a little bit, because it's a hard one. Again, going back to this idea of having it be just as good for keyboard users, just a good for screen reader users. The way I tend to look at it is, it's an ever increasing net I think I was saying this earlier today, it's an ever increasing net. The tricky thing is, every time you want to add, fail forward. 
+Failing, awesome. Iterating, great. Fail forward. But, make sure that when you do that, you do a check, you circle back and you say "Did we do something that took away from another user group that we were doing really well with and that doesn't always mean just aligning with WCAG. WCAG is awesome, and a lot of people that worked on it. I've gone out preaching it and using it all the time. But it's not the end all, be all. There's plenty of great principles, sometimes that are encapsulated there that you can also take advantage of. Does that answer your question?
+
+**[May]:** Um, yes, follow-up comment. Because you can actually take away from one challenge by trying to address another. So, color contrast is something that you mentioned which actually is a challenge for a lot of people, because they don't use enough contrast. And so therefore you can't distinguish foreground from background, text from the background. However, then some people take it to the extreme they say, we'll just make it pure black text on pure white background. Now you've lost a lot of people that have certain cognitive challenges such as dyslexia. In that aspect, people just decide ok, we'll make it the maximum. Well now you've made it more challenging for another group.
+
+**[Sina]:** So, I think we've been pretty lucky here not to have ... so I'm very well acquainted with the polarizing scenario that you are laying out, because I've had to deal with that a lot. It's the "Oh wow, this is going to be great. Let's just totally go to the black and white." "That's what we are going to do. Fine. We're going to have no..." We're lucky here not to have that sort of attitude about things. But I kind of want to address your overall point. Often times, and this is totally, I'm not stating this as a well, researched principle. But it's my opinion, so take it for what it's worth. The answer to a cross roads of multiple usability features, in which one is orthogonal to the other, is sometimes resolved at least by offering the user customizability that is stateful. And so what that means is that if you have a website in which the color contrast can be monochromatic or color and let's just, for the sake of argument say 4.5:1. It's just not that hard to actually make the few lines of CSS change and store them a radio button choice. That get stored for that user as a cookie. And, those are the kinds of things that, I feel, address some of those kind of things and take it out of the realm of "Oh, this is impossible" into, customizability, some basic usability, then the ability to always, if you have that choice, giving the user, this goes back to the seven principles of universal design, giving the user a way, a very easy way of returning back to the original starting point. So if they don't like that thing, or maybe, one day they need it to be black and white, but another day, a lot of folks with vision impairment will tell you, their vision is not constant from day to day. Sometimes they, I have some friends who use a screen reader only for some days. And on other days, they use large type. And that's ok. So, having those choices be user modifiable I feel is an important way of solving that problem. Or at least, a stab at solving the problem.
+
+**[Susan]:** We have a ton of users, if anyone has actually looked at our site, who would love to be able to customize by turning off the grid.
+
+**[Sina]:** Yes.
+
+**[Susan]:** And, someday we'll convince our developer.
+
+**[Anna]:** And actually, that tees up a second side to this, we're operating within a design that was already created
+
+**[Dennis]:** That sounds familiar.
+
 [Laughter]
 
-901
-01:22:35,940 --> 01:22:37,760
-[Anna] So there were ...
+**[Anna]:** So there were ...
 
-902
-01:22:37,760 --> 01:22:41,700
-[Susan] But it really, really, rather aggressive ...
+**[Susan]:** But it really, really, rather aggressive ...
 
-903
-01:22:41,700 --> 01:22:48,440
-[Anna] Very rigid, very rigid, and so that was one of the things, I remember Susan saying in the beginning was
+**[Anna]:** Very rigid, very rigid, and so that was one of the things, I remember Susan saying in the beginning was if we're going to carry this, we have to go even beyond, because this site looks the way it does and is going to look the way it does, and our font is the way it is and ...
 
-904
-01:22:48,440 --> 01:22:57,920
-if we're going to carry this, we have to go even beyond, because this site looks the way it does
-
-905
-01:22:57,920 --> 01:23:04,280
-and is going to look the way it does, and our font is the way it is and ...
-
-906
-01:23:04,280 --> 01:23:05,620
 [Laughter]
 
-907
-01:23:05,620 --> 01:23:08,280
-[Sina] There were certain things that were invariable. You always have those in projects.
+**[Sina]:** There were certain things that were invariable. You always have those in projects. And that's just the reality, but again I feel customization can help that after the fact.
 
-908
-01:23:08,280 --> 01:23:15,020
-And that's just the reality, but again I feel customization can help that after the fact.
+**[Susan]:** But, just the work that our developers have done, and our designer had done, our developer, designer team, have made them more sensitive, even to the front-facing.
 
-909
-01:23:15,020 --> 01:23:20,560
-[Susan] But, just the work that our developers have done, and our designer had done,
+**[Sina]:** Agreed.
 
-910
-01:23:20,560 --> 01:23:29,200
-our developer, designer team, have made them more sensitive, even to the front-facing
+**[Susan]:** design aspects.
 
-911
-01:23:29,200 --> 01:23:29,920
-[Sina] Agreed.
+**[Elizabeth]:** Have you done any usability testing with people yet?
 
-912
-01:23:29,920 --> 01:23:31,880
-[Susan] design aspects.
+**[Sina]:** Yes. So, low vision, cognitive, keyboard-only but sighted, fully blind, I think I'm missing two ... hard of hearing with captions and there are a couple other things, there's not too much sound other than the video contents, those were somewhat straight forward I'm missing one.
 
-913
-01:23:31,880 --> 01:23:36,240
-[Elizabeth] Have you done any usability testing with people yet?
+**[Susan]:** ...
 
-914
-01:23:36,240 --> 01:23:45,280
-[Sina] Yes. So, low vision, cognitive, keyboard-only but sighted, fully blind, I think I'm missing two ...
+**[Sina]:** And along the WCAG functional criteria docs was the overall basis for that with a few usability things thrown in. And that was ... oh, cross-functional, that is what I was missing so, we had folks, evaluate this website, I'm going to totally misplace this, a few different states in the United States, Ireland, London, some folks up in Toronto, Vancouver, um ... it's been a really long day, and a couple of other places as well, and that helps a lot as well because you'll pick up on some things where accessibility and internationalization come into play and those are things to be aware of. Even if it's simple things, like having to display time and making sure that is marked up correctly to the browser, to display it, this is a time field, this is a date field, other things like that, that have back end implications as well.
 
-915
-01:23:45,280 --> 01:23:48,860
-hard of hearing with captions and there are a couple other things, there's not too much sound
+**[Elizabeth]:** Ok, thank you.
 
-916
-01:23:48,860 --> 01:23:52,560
-other than the video contents, those were somewhat straight forward
+**[Dennis]:** Well, I'm going to be the mean one and say, that is ...
 
-917
-01:23:52,560 --> 01:23:54,220
-I'm missing one
+**[Sina]:** You're so mean.
 
-918
-01:23:54,220 --> 01:23:55,680
-[Susan] ...
+**[Dennis]:** ... yeah, I know. Well, that's the worst thing I've been called today, so ... I want to thank Susan, Sina and Anna for their time today and for sharing their experiences with the website. I think they all deserve a big round of applause.
 
-919
-01:23:55,680 --> 01:24:02,260
-[Sina] And along the WCAG functional criteria docs was the overall basis for that
-
-920
-01:24:02,260 --> 01:24:07,700
-with a few usability things thrown in. And that was ... oh, cross-functional, that is what I was missing
-
-921
-01:24:07,700 --> 01:24:13,820
-so, we had folks, evaluate this website, I'm going to totally misplace this, a few different states
-
-922
-01:24:13,820 --> 01:24:21,860
-in the United States, Ireland, London, some folks up in Toronto, Vancouver, um ...
-
-923
-01:24:21,860 --> 01:24:30,640
-... it's been a really long day, and a couple of other places as well, and that helps a lot as well because
-
-924
-01:24:30,640 --> 01:24:36,920
-you'll pick up on some things where accessibility and internationalization come into play
-
-925
-01:24:36,920 --> 01:24:44,700
-and those are things to be aware of. Even if it's simple things, like having to display time and
-
-926
-01:24:44,700 --> 01:24:50,720
-making sure that is marked up correctly to the browser, to display it, this is a time field, this is a date field,
-
-927
-01:24:50,720 --> 01:24:54,140
-other things like that, that have back end implications as well.
-
-928
-01:24:54,140 --> 01:24:55,840
-[Elizabeth] Ok, thank you.
-
-929
-01:24:55,840 --> 01:24:59,640
-[Dennis] Well, I'm going to be the mean one and say, that is ...
-
-930
-01:24:59,640 --> 01:25:00,580
-[Sina] You're so mean.
-
-931
-01:25:00,580 --> 01:25:04,220
-[Dennis] ... yeah, I know. Well, that's the worst thing I've been called today, so ...
-
-932
-01:25:04,220 --> 01:25:12,620
-I want to thank Susan, Sina and Anna for their time today and for sharing their experiences with
-
-933
-01:25:12,620 --> 01:25:14,760
-the website. I think they all deserve a big round of applause.
-
-934
-01:25:14,760 --> 01:25:18,240
 [Applause]
 
-935
-01:25:18,240 --> 01:25:24,900
-[Dennis] Thank you so very much. The only thing I will add to this, which is totally unrelated to this is
-
-936
-01:25:24,900 --> 01:25:30,600
-when you get home or whenever you feel like it, please go back to the meetup site for this, please rate it
-
-937
-01:25:30,600 --> 01:25:35,940
-and please provide feedback, you know, was this helpful, was it not, was it missing something.
+**[Dennis]:** Thank you so very much. The only thing I will add to this, which is totally unrelated to this is when you get home or whenever you feel like it, please go back to the meetup site for this, please rate it and please provide feedback, you know, was this helpful, was it not, was it missing something.
 
 **[Susan]:** Well, don't rate us if it wasn't helpful.
 
 **[Laughter]**
 
-More from the meetup side rather than the content side. Thank you so very much.
+**[Susan]:** More from the meetup side rather than the content side. Thank you so very much.
 
 **[Susan, Sina & Anna]:** Thank you.
 
