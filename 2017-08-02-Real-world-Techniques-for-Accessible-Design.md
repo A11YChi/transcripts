@@ -80,677 +80,105 @@ Let's see, so everything I've looked at so far has been an A or a double A issue
 
 [Laughter]
 
-**[Joe]:** Well I ... so that brings me through some of the typical findings that were a part of this case study that I thought you might be interested in. They're a lot more than this, but I want to stay within our time amount and just talk about the reporting process. And, first of all, just to mention that the time tracking for this project for my work in doing an accessible review of this existing project had me spending close to 50% of the time running the test with the keyboard and with the screen reader to work through the software user interface and an additional 10% ahead of time to analyze the system to see if the tools that I'm using are going to be appropriate for that. And so, that makes up a large amount of time, which, in my examination of how I've spent time on accessible reviews versus reviewing user interface designs for other aspects, it takes about 20 to 30 percent more time to be able to work with the screen reader and the keyboard access, in addition to the normal testing and vetting we might do for quality assurance of our products. So, I just wanted to throw that metric out just as an example. But then, and also in terms of the reporting, there's the issue of the handoff to the client, and despite the fact that accessible design has been a thing for a long time now, I would still say that the large majority of digital products and services are paying a great attention to this particular area. And so, when people decide to get involved with it, often the people in charge of our client's work may have differing levels of experience in terms of accessible design issues. And so, I always have to consider that when I'm talking about the results. So, if you're talking about whether a button should have been blue or orange, that's pretty straightforward to most people in design, but when you maybe get into a discussion of any of the things that we've just looked at, you know, takes some understanding of what accessible design is all about. So that's an issue and but then maybe even more difficult is being able to present the findings to people that haven't been involved in the accessibility review, so that they can make the adjustments. So maybe in-house designers that were handing off a report to and remember, keyboard-only access I think is important, screenreader understanding is important. So what I do is, I use a product like Camtasia to record every session that I do with the keyboard and with the screen reader. An external camera and I'm able to capture each of my sessions as I do the review. And so, that's available so that anybody can look at those go through those videos and be able to identify what the issue was, where it occurred and match that up to the reports, which I mentioned earlier, so those same sample use case scenario documents that I use for are working through the software, then become the place where I embed the information about the various findings. And I also try to do that in a way that can be searched programmatically, so all of the findings are in this Word document are given their own style. So findings have their own style, you can search on those, to be able to identify those separate from all the other information in the document. They also have a check mark, which can be programmatically determined
+**[Joe]:** Well I ... so that brings me through some of the typical findings that were a part of this case study that I thought you might be interested in. They're a lot more than this, but I want to stay within our time amount and just talk about the reporting process. And, first of all, just to mention that the time tracking for this project for my work in doing an accessible review of this existing project had me spending close to 50% of the time running the test with the keyboard and with the screen reader to work through the software user interface and an additional 10% ahead of time to analyze the system to see if the tools that I'm using are going to be appropriate for that. And so, that makes up a large amount of time, which, in my examination of how I've spent time on accessible reviews versus reviewing user interface designs for other aspects, it takes about 20 to 30 percent more time to be able to work with the screen reader and the keyboard access, in addition to the normal testing and vetting we might do for quality assurance of our products. So, I just wanted to throw that metric out just as an example. But then, and also in terms of the reporting, there's the issue of the handoff to the client, and despite the fact that accessible design has been a thing for a long time now, I would still say that the large majority of digital products and services are paying a great attention to this particular area. And so, when people decide to get involved with it, often the people in charge of our client's work may have differing levels of experience in terms of accessible design issues. And so, I always have to consider that when I'm talking about the results. So, if you're talking about whether a button should have been blue or orange, that's pretty straightforward to most people in design, but when you maybe get into a discussion of any of the things that we've just looked at, you know, takes some understanding of what accessible design is all about. So that's an issue and but then maybe even more difficult is being able to present the findings to people that haven't been involved in the accessibility review, so that they can make the adjustments. So maybe in-house designers that were handing off a report to and remember, keyboard-only access I think is important, screenreader understanding is important. So what I do is, I use a product like Camtasia to record every session that I do with the keyboard and with the screen reader. An external camera and I'm able to capture each of my sessions as I do the review. And so, that's available so that anybody can look at those go through those videos and be able to identify what the issue was, where it occurred and match that up to the reports, which I mentioned earlier, so those same sample use case scenario documents that I use for are working through the software, then become the place where I embed the information about the various findings. And I also try to do that in a way that can be searched programmatically, so all of the findings are in this Word document are given their own style. So findings have their own style, you can search on those, to be able to identify those separate from all the other information in the document. They also have a check mark, which can be programmatically determined and also have a color associated to that particular item. And then additional notes, I also use Word styles, give notes a different style, precede each note with the Word note and so that information can also be programmatically determined. But then, this becomes the document that goes to the client, along with the repository of the videos. And of course those videos can be closed captioned with a service like rev.com.
 
-0:46:16.380,0:46:22.920
-and also have a color associated to that particular item.
+So a couple of final notes, I mentioned Wave reports and there are limitations to using that tool. But it's really meant as a way to evangelize what is possible in terms of identifying issues with software. But Wave only works with web content that is on a public facing server. So if it's a subscription-based or it's behind a security firewall, Wave can't access that. This was a subscription-based product, but there wasn't a security issue about the privacy of the software service. And so what we were able to do was, within the subscription firewall, save copies of all the web-based pages, along with their HTML CSS and JavaScript components etc., and then post that on to a public-facing server and then run the web report, the Wave reports off of that content. But for people where there is a privacy issue related to the content, then a tool like this isn't something that you'd be able to use.
 
-0:46:23.200,0:46:29.500
-And then additional notes, I also use Word styles, give notes a different style,
+Last thing I want to mention is, I just to take aways, which I've mentioned a couple of times, that I think it's important to gain keyboard only and screen reader skills, think about using scripts and video recordings to supplement the work that you do in the reporting, and one of the things I didn't mention separately is just building a library of solutions. So we try to keep building that up and a lot of things crop up repeatedly on projects, so it's good to remember what happened. We have a code sample, so that you can make things easier going forward. And, yeah and just keep trying to do better as we move forward. And the last thing I want to mention, just getting back to testing, using participants with various physical challenges, the employment rate of people with various challenges in a lot of cases is extremely low compared to the general population. And so, what you'll find is that, you know, gathering together a team of people that you can rely on to be able to be good testers for your accessible designs is also something that just provides a valuable employment opportunity for people. And so, we've had really good success building relationships with people that we can rely on to help us with different parts of the final testing.
 
-0:46:29.900,0:46:36.720
-precede each note with the Word note and so that information can also be programmatically determined.
+Alright, so, that kind of wraps things up. Again I want to thank VeriCite for allowing me to talk freely about this stuff. I work on this stuff all the time and so feel free to connect up with me, you know, afterward about that. I can send you that document version that I have available and so and ...
 
-0:46:38.160,0:46:43.480
-But then, this becomes the document that goes to the client,
-
-0:46:43.740,0:46:47.080
-along with the repository of the videos.
-
-0:46:48.840,0:46:55.540
-And of course those videos can be closed captioned with a service like rev.com.
-
-0:46:57.520,0:46:59.520
-So a couple of final notes,
-
-0:46:59.520,0:47:06.040
-I mentioned Wave reports and there are limitations to using that tool.
-
-0:47:06.040,0:47:15.400
-But it's really meant as a way to evangelize what is possible in terms of identifying issues with software.
-
-0:47:16.320,0:47:22.000
-But Wave only works with web content that is on a public facing server.
-
-0:47:23.460,0:47:30.260
-So if it's a subscription-based or it's behind a security firewall, Wave can't access that.
-
-0:47:30.520,0:47:42.120
-This was a subscription-based product, but there wasn't a security issue about the privacy of the software service.
-
-0:47:42.120,0:47:47.800
-And so what we were able to do was, within the subscription firewall,
-
-0:47:47.800,0:47:58.920
-save copies of all the web-based pages, along with their HTML CSS and JavaScript components etc.,
-
-0:47:58.920,0:48:07.220
-and then post that on to a public-facing server and then run the web report, the Wave reports off of that content.
-
-0:48:08.320,0:48:12.540
-But for people where there is a privacy issue related to the content,
-
-0:48:12.780,0:48:16.360
-then a tool like this isn't something that you'd be able to use.
-
-0:48:17.740,0:48:26.720
-Last thing I want to mention is, I just to take aways, which I've mentioned a couple of times,
-
-0:48:26.720,0:48:32.020
-that I think it's important to gain keyboard only and screen reader skills,
-
-0:48:32.020,0:48:40.200
-think about using scripts and video recordings to supplement the work that you do in the reporting,
-
-0:48:42.320,0:48:49.000
-and one of the things I didn't mention separately is just building a library of solutions.
-
-0:48:49.960,0:48:55.960
-So we try to keep building that up and a lot of things crop up repeatedly on projects,
-
-0:48:55.960,0:48:58.900
-so it's good to remember what happened.
-
-0:48:58.900,0:49:03.840
-We have a code sample, so that you can make things easier going forward.
-
-0:49:03.880,0:49:10.600
-And, yeah and just keep trying to do better as we move forward.
-
-0:49:11.780,0:49:23.320
-And the last thing I want to mention, just getting back to testing, using participants with various physical challenges,
-
-0:49:23.320,0:49:29.860
-the employment rate of people with various challenges
-
-0:49:30.740,0:49:35.800
-in a lot of cases is extremely low compared to the general population.
-
-0:49:35.800,0:49:44.760
-And so, what you'll find is that, you know, gathering together a team of people
-
-0:49:44.760,0:49:50.000
-that you can rely on to be able to be good testers for your accessible designs
-
-0:49:50.200,0:49:57.840
-is also something that just provides a valuable employment opportunity for people.
-
-0:49:57.840,0:50:05.720
-And so, we've had really good success building relationships with people that we can rely on
-
-0:50:05.720,0:50:09.300
-to help us with different parts of the final testing.
-
-0:50:10.980,0:50:15.120
-Alright, so, that kind of wraps things up.
-
-0:50:15.120,0:50:19.480
-Again I want to thank VeriCite for allowing me to talk freely about this stuff.
-
-0:50:19.720,0:50:27.560
-I work on this stuff all the time and so feel free to connect up with me, you know, afterward about that.
-
-0:50:27.560,0:50:33.760
-I can send you that document version that I have available and so and ...
-
-0:50:33.760,0:50:35.700
 [blip blip blip sound]
 
-0:50:35.700,0:50:37.480
-[Joe]: ... there I am right at the end of it.
+**[Joe]:** ... there I am right at the end of it. And the other last thing I wanted to mention is that I'm also the program manager for Blinks Convey UX Conference. So it's a our local Seattle UX conference and I'm taking proposals for sessions for 2018. So if you're interested in making a visit to Seattle, definitely get in touch. And I definitely love to look at what you have in mind so ...
 
-0:50:37.480,0:50:45.860
-And the other last thing I wanted to mention is that I'm also the program manager for Blinks Convey UX Conference.
-
-0:50:45.860,0:50:53.880
-So it's a our local Seattle UX conference and I'm taking proposals for sessions for 2018.
-
-0:50:53.880,0:50:58.700
-So if you're interested in making a visit to Seattle, definitely get in touch.
-
-0:50:58.700,0:51:04.580
-And I definitely love to look at what you have in mind so ...
-
-0:51:05.620,0:51:13.480
 [Applause]
 
-0:51:13.480,0:51:15.160
-[Dennis]: Question for Joe?
+**[Dennis]:** Question for Joe?
 
-0:51:15.160,0:51:16.340
-[Joe]: Or generally?
+**[Joe]:** Or generally?
 
-0:51:18.280,0:51:24.180
-[Attendee]: Do you find the screen readers to be consistent across the different ones?
+**[Attendee]:** Do you find the screen readers to be consistent across the different ones? Do you have to design specifically for the certain brand or the certain predominant player in that space?
 
-0:51:24.220,0:51:32.660
-Do you have to design specifically for the certain brand or the certain predominant player in that space?
+**[Joe]:** It's a good question. I think the question it partly is, you know, what's going to be appropriate for your particular project. So in this project, I felt that using the NVDA freeware that's available was acceptable. But I have a colleague of our accessible meetup in Seattle, working for Wells Fargo, where her team regularly uses every screen reader, they check, do cross browser compatibility, they have a whole list of various tools and issues that they test for. And so I guess the short answer is, it depends. By not trying to trivialize it, it's just that in some cases I think like in this situation, that using something like NVDA can identify a good amount of the potential issues.
 
-0:51:32.660,0:51:34.500
-[Joe]: It's a good question.
+**[Attendee]:** Thank you.
 
-0:51:34.500,0:51:42.720
-I think the question it partly is, you know, what's going to be appropriate for your particular project.
+**[Dennis]:** I need my workout.
 
-0:51:42.720,0:51:52.700
-So in this project, I felt that using the NVDA freeware that's available was acceptable.
+**[Attendee]:** So you were mentioning you doing more, sort of heuristics. So, what is the determining ...  [indecipherable] ... when do you determine, you know what, I need to have three or four people looking at this, through different devices, do you start saying "Hey ... we need to start looking at this on mobile,  and then when you sort of consolidate those ideas and say Hey ... this is where we might need an expert walkthrough, where we bring in somebody who is either visually, cognitive or perhaps audio on challenges. Just give me the sense of, what are those tipping points? Because right now, you're ... what I assume is that pie chart you shared was basically your effort. But, you know, UX professionals usually want ... [Indecipherable]. You know, just to get a sense of the global issues and then to zero in on those expert reviews.
 
-0:51:52.940,0:52:00.180
-But I have a colleague of our accessible meetup in Seattle, working for Wells Fargo,
+**[Joe]:** So, for example, at Blink, everything there is done collaboratively. And there are several people that are involved in the process. But it really does come down to, you know, every project having ... talking about exactly the things that you talked about, which then come up with the things such as the compliance level which then also loops in the client. For example, in this case, one of the questions we had was to identify what contractually is an issue. And that can vary from project to project. And ... but one of the more practical issues that is a challenge for me as so many that ... that is really interested and cares about this issue is that, for every client like VeriCite that has chosen to build this into the design and research of their product, that's only a fraction of the work that's being done out there. And so, a lot of the work that we've been doing over the last few years is just trying to be able to have a conversation with clients that haven't been doing accessible design, to make them understand that there are really good reasons to add in the 20 or 30% realistic costs over what they're doing already for designing research to be able to effectively provide these techniques.
 
-0:52:00.440,0:52:09.560
-where her team regularly uses every screen reader, they check, do cross browser compatibility,
+**[Attendee]:** I have a two part question. The first question is the reason that you're saying about, you wanted to ... you only test on the front-facing website ... [indecipherable] ... where ... [indecipherable] ... And, the second part of the question is, [indecipherable] ...
 
-0:52:09.840,0:52:16.660
-they have a whole list of various tools and issues that they test for.
+**[Joe]:** So on that first part, in terms of mobile, one of the things that we found that just a strong hardware issue is just the level to which people who are blind have embraced the iPhone specifically over other devices, specifically because of Voiceover. In those cases, for mobile first, mobile only, then the iPhone in fact becomes a device that's the most important device to be able to test for. And so, in that case, it's a matter of being able to have facilities available and to be able to do the interviewing and capturing things with video as part of the testing process, and then, naturally, I'm not sure that the design of the ... I don't want to say that it's harder to design for mobile, because in many ways, designing mobile first simplifies things across the board. And so, I think that's one of the things that you notice is just you're coming from a simpler base point, where then you have less problems as you scale. And then your second part of your question was related to the relationship between deaf and blinder, or?
 
-0:52:16.980,0:52:22.560
-And so I guess the short answer is, it depends.
-
-0:52:22.560,0:52:28.180
-By not trying to trivialize it, it's just that in some cases I think like in this situation,
-
-0:52:28.720,0:52:39.100
-that using something like NVDA can identify a good amount of the potential issues.
-
-0:52:39.960,0:52:41.600
-[Attendee]: Thank you.
-
-0:52:42.780,0:52:44.780
-[Dennis]: I need my workout.
-
-0:52:46.000,0:52:50.180
-[Attendee]: So you were mentioning you doing more, sort of heuristics.
-
-0:52:50.180,0:52:57.980
-So, what is the determining ...  [indecipherable] ... when do you determine, you know what, I need to have
-
-0:52:58.740,0:53:04.080
-three or four people looking at this, through different devices, do you start saying "Hey ...
-
-0:53:04.960,0:53:10.380
-we need to start looking at this on mobile,  and then when you sort of consolidate those ideas and say Hey ...
-
-0:53:10.980,0:53:13.100
-this is where we might need an expert walkthrough,
-
-0:53:13.380,0:53:18.780
-where we bring in somebody who is either visually, cognitive or perhaps audio
-
-0:53:19.360,0:53:24.060
-on challenges. Just give me the sense of, what are those tipping points?
-
-0:53:24.300,0:53:28.580
-Because right now, you're ... what I assume is that pie chart you shared was basically your effort.
-
-0:53:29.220,0:53:38.460
-But, you know, UX professionals usually want ... [Indecipherable].
-
-0:53:39.340,0:53:43.900
-You know, just to get a sense of the global issues and then to zero in on those expert reviews.
-
-0:53:45.140,0:53:52.080
-[Joe]: So, for example, at Blink, everything there is done collaboratively.
-
-0:53:52.220,0:53:55.600
-And there are several people that are involved in the process.
-
-0:53:55.980,0:54:00.980
-But it really does come down to, you know, every project having ...
-
-0:54:01.680,0:54:04.720
-talking about exactly the things that you talked about,
-
-0:54:04.800,0:54:11.640
-which then come up with the things such as the compliance level which then also loops in the client.
-
-0:54:12.800,0:54:19.940
-For example, in this case, one of the questions we had was to identify what contractually is an issue.
-
-0:54:20.080,0:54:22.300
-And that can vary from project to project.
-
-0:54:24.480,0:54:31.940
-And ... but one of the more practical issues that is a challenge for me as so many that ...
-
-0:54:32.480,0:54:37.200
-... that is really interested and cares about this issue is that,
-
-0:54:38.260,0:54:45.820
-for every client like VeriCite that has chosen to build this into the design and research of their product,
-
-0:54:46.620,0:54:53.260
-that's only a fraction of the work that's being done out there.
-
-0:54:53.260,0:55:01.500
-And so, a lot of the work that we've been doing over the last few years is just trying to be able to
-
-0:55:01.760,0:55:06.420
-have a conversation with clients that haven't been doing accessible design,
-
-0:55:06.640,0:55:15.160
-to make them understand that there are really good reasons to add in the 20 or 30% realistic costs
-
-0:55:15.160,0:55:23.700
-over what they're doing already for designing research to be able to effectively provide these techniques.
-
-0:55:25.340,0:55:28.600
-[Attendee]: I have a two part question.
-
-0:55:29.900,0:55:34.000
-The first question is the reason that you're saying about, you wanted to ...
-
-0:55:34.000,0:55:38.980
-you only test on the front-facing website ... [indecipherable] ...
-
-0:55:39.160,0:55:43.840
-where ... [indecipherable] ...
-
-0:55:44.160,0:55:50.400
-And, the second part of the question is, [indecipherable] ...
-
-0:55:52.040,0:55:57.180
-[Joe]: So on that first part, in terms of mobile,
-
-0:55:57.180,0:56:07.600
-one of the things that we found that just a strong hardware issue
-
-0:56:07.600,0:56:19.120
-is just the level to which people who are blind have embraced the iPhone specifically over other devices,
-
-0:56:19.120,0:56:22.820
-specifically because of Voiceover.
-
-0:56:23.720,0:56:33.640
-In those cases, for mobile first, mobile only, then the iPhone in fact becomes a device
-
-0:56:33.640,0:56:38.740
-that's the most important device to be able to test for.
-
-0:56:38.740,0:56:49.340
-And so, in that case, it's a matter of being able to have facilities available
-
-0:56:49.340,0:57:00.580
-and to be able to do the interviewing and capturing things with video as part of the testing process,
-
-0:57:00.580,0:57:08.000
-and then, naturally, I'm not sure that the design of the ...
-
-0:57:14.160,0:57:20.920
-I don't want to say that it's harder to design for mobile, because in many ways,
-
-0:57:20.920,0:57:27.640
-designing mobile first simplifies things across the board.
-
-0:57:27.640,0:57:39.220
-And so, I think that's one of the things that you notice is just you're coming from a simpler base point,
-
-0:57:40.440,0:57:43.180
-where then you have less problems as you scale.
-
-0:57:43.780,0:57:50.940
-And then your second part of your question was related to the relationship between deaf and blinder, or?
-
-0:57:51.000,0:58:05.120
-[Attendee]: [Indecipherable]
+**[Attendee]:** [Indecipherable]
 
 0:58:07.500,0:58:15.500
-[Joe]: So, you're certainly being able to make sure that there are
+**[Joe]:** So, you're certainly being able to make sure that there are text equivalents for anything that's audio related, which is a big ... that might be very soon or maybe right now is ... could be the biggest non-compliance issue, is just not having a suitable closed caption alternative. But, I also really believe in having available for videos a transcript version and that's something that some people don't like, it's like an extra link and it's an extra document and it's extra part of the process. But I think a transcript can be really useful. But that closed captions is the biggest part and a lot of organizations will just rely on, let's say, YouTube to be able to do the captions. But anybody that really cares about that notices that the fidelity tends to be very low and it doesn't like meet my professional quality and so you know we would use a professional caption for that. Yes, go ahead ...
 
-0:58:15.820,0:58:21.440
-text equivalents for anything that's audio related,
+**[Attendee]:** ... was that, I read an article Dennis, I think it's one of the articles you shared. And it talked about YouTube, the auto caption, it's only three or four percent off. Then it literally, it is not comprehendible. So, somebody who's deaf, they will not be able to understand whats there. So, keep in mind of that. Don't worry, three or four percent. Well guess what ... that three or four percent means they can't understand what's being described. Now I don't have any idea why companies don't use transcripts, you know, because, I have a cognitive disability, I'm dyslexic, and I love transcripts, because that's my notes. So I don't understand why companies shy away from it, an extra link? You know, I don't understand ... sorry ...
 
-0:58:21.640,0:58:30.920
-which is a big ... that might be very soon or maybe right now is ... could be the biggest
+**[Joe]:** No, no ...
 
-0:58:32.300,0:58:41.920
-non-compliance issue, is just not having a suitable closed caption alternative.
+**[Attendee]:** Because to me, it's such minimal amount of extra work to just help so many people.
 
-0:58:42.180,0:58:50.780
-But, I also really believe in having available for videos
+**[Joe]:** Yeah, like, I'm old, so I like ... I do old things, like start with a  script for a lot of videos that I'm involved in, and so, the script becomes a transcript, becomes your closed captions, and in your ahead of the game. But that's not the way that a lot of that content is developed today. Yes ...
 
-0:58:51.160,0:58:59.280
-a transcript version and that's something that some people don't like, it's like an extra link
+**[Attendee]:** You had mentioned that you had to adjust the report of your finding for the understanding of your client. I'm wondering is there a website or some sort of resource, a Nielsen Norman, the reports specifically on the various communities that need accessibility? Can you point us to a great resource for that?
 
-0:58:59.840,0:59:03.180
-and it's an extra document and it's extra part of the process.
+**[Joe]:** I don't have a specific resource, but are you meaning like examples of ways to communicate?
 
-0:59:03.640,0:59:09.760
-But I think a transcript can be really useful.
+**[Attendee]:** So, like, I'm arguing against using color used to differentiate selections, select UI. And when I'm advocating for that, the people who are all about the minimal viable product are like, we'll worry about that later. I just need the means to say, "hey look, this is ... color acuity represents this segment of the population, this many people are not going to see this. To kind of hold their feet to the fire.
 
-0:59:09.980,0:59:18.960
-But that closed captions is the biggest part and a lot of organizations will just rely on,
+**[Joe]:** Yeah, I don't have something like that, but you're getting at the core that which is like actually and run some projects like maybe someone who's involved in initiating accessibility in your organization is interested in how is this helping with conversion, how is this helping with supporting us generally, how's this helping us legally, but like on this VeriCite project, when I got into the report discussion with the client, the person involved there was the head of the dev team, who was totally on board with this entire project in its entirety. But what that person wanted from me was a bug list. What's the issues, how do I find them, because we want to fix start fixing them right away. And so, it was a completely different kind of conversation. That person wasn't necessarily interested in those issues about conversion and things, but just like how do I fix that, and so that was what I was alluding to is, just may need a different approach to talk about that.
 
-0:59:18.960,0:59:25.640
-let's say, YouTube to be able to do the captions.
-
-0:59:25.640,0:59:32.880
-But anybody that really cares about that notices that the fidelity tends to be very low
-
-0:59:32.880,0:59:44.340
-and it doesn't like meet my professional quality and so you know we would use a professional caption for that.
-
-0:59:44.840,0:59:46.380
-Yes, go ahead ...
-
-0:59:46.380,0:59:51.260
-[Attendee]: ... was that, I read an article Dennis, I think it's one of the articles you shared.
-
-0:59:51.260,0:59:56.640
-And it talked about YouTube, the auto caption, it's only three or four percent off.
-
-0:59:57.200,0:59:59.140
-Then it literally, it is not comprehendible.
-
-1:00:00.000,1:00:04.280
-So, somebody who's deaf, they will not be able to understand whats there.
-
-1:00:04.280,1:00:07.580
-So, keep in mind of that. Don't worry, three or four percent. Well guess what ...
-
-1:00:07.580,1:00:11.620
-that three or four percent means they can't understand what's being described.
-
-1:00:12.080,1:00:15.380
-Now I don't have any idea why companies don't use transcripts,
-
-1:00:15.380,1:00:19.080
-you know, because, I have a cognitive disability, I'm dyslexic,
-
-1:00:19.880,1:00:22.940
-and I love transcripts, because that's my notes.
-
-1:00:23.300,1:00:28.160
-So I don't understand why companies shy away from it, an extra link?
-
-1:00:28.960,1:00:31.160
-You know, I don't understand ... sorry ...
-
-1:00:31.200,1:00:32.280
-[Joe]: No, no ...
-
-1:00:32.280,1:00:36.580
-[Attendee]: Because to me, it's such minimal amount of extra work to just help so many people.
-
-1:00:37.280,1:00:46.420
-[Joe]: Yeah, like, I'm old, so I like ... I do old things, like start with a  script for a lot of videos that I'm involved in,
-
-1:00:46.420,1:00:55.120
-and so, the script becomes a transcript, becomes your closed captions, and in your ahead of the game.
-
-1:00:55.120,1:00:59.500
-But that's not the way that a lot of that content is developed today.
-
-1:00:59.920,1:01:01.640
-Yes ...
-
-1:01:03.080,1:01:12.440
-[Attendee]: You had mentioned that you had to adjust the report of your finding for the understanding of your client.
-
-1:01:12.440,1:01:22.500
-I'm wondering is there a website or some sort of resource, a Nielsen Norman, the reports specifically on
-
-1:01:23.400,1:01:30.280
-the various communities that need accessibility? Can you point us to a great resource for that?
-
-1:01:30.720,1:01:39.040
-[Joe]: I don't have a specific resource, but are you meaning like examples of ways to communicate?
-
-1:01:39.040,1:01:47.160
-[Attendee]: So, like, I'm arguing against using color used to differentiate selections, select UI.
-
-1:01:47.720,1:01:53.940
-And when I'm advocating for that, the people who are all about the minimal viable product are like,
-
-1:01:54.580,1:01:56.020
-we'll worry about that later.
-
-1:01:56.020,1:02:04.460
-I just need the means to say, "hey look, this is ... color acuity represents this segment of the population,
-
-1:02:04.460,1:02:09.860
-this many people are not going to see this. To kind of hold their feet to the fire.
-
-1:02:09.960,1:02:15.180
-[Joe]: Yeah, I don't have something like that, but you're getting at the core that which is like
-
-1:02:16.080,1:02:28.020
-actually and run some projects like maybe someone who's involved in initiating accessibility in your organization
-
-1:02:28.020,1:02:35.920
-is interested in how is this helping with conversion, how is this helping with supporting us generally,
-
-1:02:35.920,1:02:45.140
-how's this helping us legally, but like on this VeriCite project, when I got into the report discussion
-
-1:02:45.140,1:02:49.260
-with the client, the person involved there was the head of the dev team,
-
-1:02:50.060,1:02:54.580
-who was totally on board with this entire project in its entirety.
-
-1:02:54.880,1:02:58.660
-But what that person wanted from me was a bug list.
-
-1:03:00.920,1:03:06.000
-What's the issues, how do I find them, because we want to fix start fixing them right away.
-
-1:03:06.780,1:03:10.640
-And so, it was a completely different kind of conversation.
-
-1:03:10.780,1:03:15.720
-That person wasn't necessarily interested in those issues about conversion and things,
-
-1:03:15.720,1:03:21.980
-but just like how do I fix that, and so that was what I was alluding to is, just may need a different approach
-
-1:03:22.980,1:03:24.200
-to talk about that.
-
-1:03:25.380,1:03:27.000
 How are we doing on time, are we doing alright?
 
-1:03:27.000,1:03:28.740
-[Dennis]: Two last questions.
+**[Dennis]:** Two last questions.
 
-1:03:28.740,1:03:36.880
-[Attendee]: Well, actually ... about the captions, with the videos,
+**[Attendee]:** Well, actually ... about the captions, with the videos, I'm also like you. And so I went around before there were voices on the computer and so I find that the transcripts are absolutely fantastic. It allows me with a screen reader to skim through, get what I want, and get and be done with it, but also ... I use braille a lot ... [indecipherable]
 
-1:03:37.460,1:03:42.200
-I'm also like you. And so I went around before there were voices on the computer
+**[Dennis]:** And the final question ...
 
-1:03:43.000,1:03:49.120
-and so I find that the transcripts are absolutely fantastic.
+**[Attendee]:** You mentioned early on that the VeriCite university had a blind educator, that really provided context to this. If you did not have that situation, would you have had any trouble in expenditures to pull out accessibility for faculty staff versus student facing interfaces? That's something I run into a lot, if it's student facing, I can sell it. If it's faculty staff, I can't, I work in higher ed too.
 
-1:03:49.520,1:03:56.020
-It allows me with a screen reader to skim through, get what I want, and get and be done with it,
+**[Joe]:** Yeah, I think that you bring up an interesting point. In a couple things related to that is that I actually like, although that my colleague, I actually never discussed VeriCite with that colleague, but I'm always trying to meet as many people as I can in every community that there is and just be able to appreciate everybody's particular challenges and I happen to know, you know, recognize from other things that that instructor has those kind of challenges. But in this particular case, on this is the kind of issue where most ... the attention was really just about the experience of the user in this case, which predominantly was the instructor, but also was the student and so in a way to the nature of this software kind of meant that the instructor was represented, but I felt like just from teaching generally, I recognize what you're saying about student body generally having kind of the priority in terms of how we work things out.
 
-1:03:56.240,1:04:14.600
-but also ... I use braille a lot ... [indecipherable]
+**[Dennis]:** I lied ... one last question ...
 
-1:04:15.580,1:04:17.380
-[Dennis]: And the final question ...
+**[Attendee]:** So, it's kind of like a two part question.
 
-1:04:20.000,1:04:31.040
-[Attendee]: You mentioned early on that the VeriCite university had a blind educator,
-
-1:04:31.480,1:04:35.660
-that really provided context to this.
-
-1:04:36.740,1:04:46.960
-If you did not have that situation, would you have had any trouble in expenditures to pull out accessibility
-
-1:04:46.960,1:04:52.280
-for faculty staff versus student facing interfaces?
-
-1:04:52.280,1:04:57.300
-That's something I run into a lot, if it's student facing, I can sell it.
-
-1:04:57.740,1:05:01.320
-If it's faculty staff, I can't, I work in higher ed too.
-
-1:05:02.740,1:05:06.760
-[Joe]: Yeah, I think that you bring up an interesting point.
-
-1:05:06.760,1:05:09.780
-In a couple things related to that is that
-
-1:05:10.520,1:05:18.040
-I actually like, although that my colleague, I actually never discussed VeriCite with that colleague,
-
-1:05:18.040,1:05:24.280
-but I'm always trying to meet as many people as I can in every community that there is
-
-1:05:24.280,1:05:29.920
-and just be able to appreciate everybody's particular challenges
-
-1:05:29.920,1:05:39.560
-and I happen to know, you know, recognize from other things that that instructor has those kind of challenges.
-
-1:05:39.900,1:05:47.360
-But in this particular case, on this is the kind of issue where
-
-1:05:49.680,1:06:03.940
-most ... the attention was really just about the experience of the user in this case,
-
-1:06:03.940,1:06:14.500
-which predominantly was the instructor, but also was the student and so in a way to the nature of this software
-
-1:06:14.500,1:06:22.860
-kind of meant that the instructor was represented, but I felt like just from teaching generally,
-
-1:06:22.860,1:06:30.460
-I recognize what you're saying about student body generally having kind of the priority
-
-1:06:30.480,1:06:33.920
-in terms of how we work things out.
-
-1:06:34.680,1:06:37.380
-[Dennis]: I lied ... one last question ...
-
-1:06:37.380,1:06:39.840
-[Attendee]: So, it's kind of like a two part question.
-
-1:06:40.340,1:06:42.440
 [Laughter]
 
-1:06:42.440,1:06:44.340
-[Joe]: Uh oh ...
+**[Joe]:** Uh oh ...
 
-1:06:44.340,1:06:48.460
-[Attendee]: It's automation and doing automated testing.
+**[Attendee]:** It's automation and doing automated testing. What's the best way to approach automated testing? We already have developers who ... [indecipherable] ... but how do we roll accessibility into those tests? That's part one. Part two is, at what point does automation ... [indecipherable].
 
-1:06:49.100,1:06:56.320
-What's the best way to approach automated testing? We already have developers who ... [indecipherable] ...
+**[Joe]:** So, first of all, I'm probably not to person to answer that you know in the best possible way, except that, we've asked actively discussed what automated testing means within Blink's consulting organization. Most of what we do is more qualitative, because that's just the nature of our practice. But, it's recognized in the research design and dev for products projects that are worked on generally that automated testing is here and it's a big deal. And in fact, there's automated testing specifically for accessibility issues, but we haven't gotten there, where I have any you know, anything I can tell you a good answer for that and possibly we have people here that might but I don't.
 
-1:06:56.320,1:06:58.780
-but how do we roll accessibility into those tests?
+**[Dennis]:** One thing I will say is, right now, I'm captioning Marcy Sutton's presentation, tow or three times ago, on automated testing on our YouTube channel. And with that, thank you very much everyone for sticking around. Hope to see you next time.
 
-1:06:59.240,1:07:00.540
-That's part one.
-
-1:07:00.980,1:07:09.560
-Part two is, at what point does automation ... [indecipherable].
-
-1:07:12.160,1:07:19.140
-[Joe]: So, first of all, I'm probably not to person to answer that you know in the best possible way,
-
-1:07:19.140,1:07:24.560
-except that, we've asked actively discussed what automated testing means
-
-1:07:24.560,1:07:27.720
-within Blink's consulting organization.
-
-1:07:27.980,1:07:34.940
-Most of what we do is more qualitative, because that's just the nature of our practice.
-
-1:07:34.940,1:07:42.880
-But, it's recognized in the research design and dev for products projects that are worked on generally
-
-1:07:42.880,1:07:47.060
-that automated testing is here and it's a big deal.
-
-1:07:47.060,1:07:51.920
-And in fact, there's automated testing specifically for accessibility issues,
-
-1:07:52.300,1:07:58.440
-but we haven't gotten there, where I have any you know, anything I can tell you a good answer for that
-
-1:07:58.440,1:08:02.220
-and possibly we have people here that might but I don't.
-
-1:08:02.700,1:08:11.820
-[Dennis]: One thing I will say is, right now, I'm captioning Marcy Sutton's presentation, tow or three times ago,
-
-1:08:12.520,1:08:16.960
-on automated testing on our YouTube channel.
-
-1:08:17.500,1:08:24.300
-And with that, thank you very much everyone for sticking around. Hope to see you next time.
-
-1:08:24.320,1:08:26.220
 [Applause]
 
-1:08:30.120,1:08:33.240
-Thanks to our presenter Joe Welinske.
+**[Dennis]:** Thanks to our presenter Joe Welinske.
 
-1:08:37.360,1:08:41.900
 Thanks to our co-host, the and UX Chicago Meetup.
 
-1:08:42.520,1:08:48.940
-Visit them at meetup dit com forward slash and UXCHI
+Visit them at meetup dot com forward slash and UXCHI
 
-1:08:53.020,1:08:55.960
-Thanks to our venue host, Capital One.
+Thanks to our venue host, Capital One. What's in your wallet?
 
-1:08:56.320,1:08:57.880
-What's in your wallet?
+Captions were provided by Alternative Communication Services. Visit them at ACSCaptions dot com
 
-1:09:03.120,1:09:07.840
-Captions were provided by Alternative Communication Services.
+Captions were sponsored by McDonald's. We're loving it!
 
-1:09:08.320,1:09:11.900
-Visit them at ACSCaptions dot com
+Thanks to our sponsor, Sticker Giant, for all the meetup stickers. Visit them at Sticker Giant dot com.
 
-1:09:12.820,1:09:15.800
-Captions were sponsored by McDonald's.
+Thanks to Rosenfeld Media for their discount for our members. Get 20% off really great books using code a11ychi.
 
-1:09:16.200,1:09:17.560
-We're loving it!
+Join the accessibility slack. To subscribe, go to web dash a11y dot herukuapp dot com. After subscribing, to join in the discussion, visit web dash a11y dot slack dot com
 
-1:09:22.000,1:09:27.440
-Thanks to our sponsor, Sticker Giant, for all the meetup stickers.
-
-1:09:27.680,1:09:30.920
-Visit them at Sticker Giant dot com.
-
-1:09:36.600,1:09:41.540
-Thanks to Rosenfeld Media for their discount for our members.
-
-1:09:41.800,1:09:48.160
-Get 20% off really great books using code a11ychi.
-
-1:09:51.840,1:09:54.000
-Join the accessibility slack.
-
-1:09:54.000,1:10:02.140
-To subscribe, go to web dash a11y dot herukuapp dot com.
-
-1:10:03.160,1:10:11.960
-After subscribing, to join in the discussion, visit web dash a11y dot slack dot com
-
-1:10:17.220,1:10:23.740
-This recording was produced by the Chicago Digital Accessibility & Inclusive Design Meetup.
-
-1:10:24.360,1:10:32.320
-Visit us online at meetup dot com forward slash a11ychi
-
-1:10:33.200,1:10:40.640
-Visit us on Twitter at twitter dot come forward slash a11ychi
-
-1:10:41.680,1:10:51.880
-Visit us on Facebook at facebook dot com forward slash groups forward slash a11ychi
-
-1:10:53.260,1:11:04.900
-Visit our YouTube channel at goo dot gl forward slash GfcU9A
-
+This recording was produced by the Chicago Digital Accessibility & Inclusive Design Meetup. Visit us online at meetup dot com forward slash a11ychi Visit us on Twitter at twitter dot come forward slash a11ychi Visit us on Facebook at facebook dot com forward slash groups forward slash a11ychi Visit our YouTube channel at goo dot gl forward slash GfcU9A
