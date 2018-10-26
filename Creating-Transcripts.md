@@ -20,6 +20,9 @@ Headings are marked up usng hash or pound signs.
 * Six hashs is the fifth level sub-heading, or an H6 in HTML.
 Again, many transcripts do not have headings. Some do, as it makes sense. Remember that hedings assist individuals using assistive technology like screen readers how information is grouped, and provides a method of navigation.
 
+## Paragraphs
+Captions come in lines of text. As part of formatting, you will need to combine these lines of text into intuitive sentences and paragraphs. As you do it, it should just make sense.
+
 ### Who's Speaking?
 You will need to watch the recording as you transcribe, to know who is speaking. In most cases, the captions provide this identifier. When a new person starts speaking, their identity needs to be called out. The individual's name is wrapped inside brackets "[]" with a colon and bolded (two asterisks on either side of the bolded text). Example:
 
