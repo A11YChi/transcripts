@@ -21,7 +21,7 @@ Headings are marked up usng hash or pound signs.
 Again, many transcripts do not have headings. Some do, as it makes sense. Remember that hedings assist individuals using assistive technology like screen readers how information is grouped, and provides a method of navigation.
 
 ### Who's Speaking?
-You will need to watch the recording as you transcribe, to know who is speaking. When a new person starts speaking, their identity needs to be called out. The individual's name is wrapped inside brackets "[]" with a colon and bolded (two asterisks on either side of the bolded text). Example:
+You will need to watch the recording as you transcribe, to know who is speaking. In most cases, the captions provide this identifier. When a new person starts speaking, their identity needs to be called out. The individual's name is wrapped inside brackets "[]" with a colon and bolded (two asterisks on either side of the bolded text). Example:
 
 **[Susan]:** Yeah
 
