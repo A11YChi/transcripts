@@ -32,13 +32,13 @@ You will need to watch the recording as you transcribe, to know who is speaking.
 By the way, and especially during Q&A sessions, you might not know who's speaking. That is complete understandable. Simply list them as "Attendee."
 
 ### Non-Spoken Sound
-When ever there is non-spoken sound that relates to the presentation and that supports the transcribed text, such as laughter, applause, maybe music playing, this is presented in a simialr manner as when a new speaker is speaking.
+When ever there is non-spoken sound that relates to the presentation and that supports the transcribed text, such as laughter, applause, maybe music playing, this is presented in a similar manner as when a new speaker is speaking.
 
-**[Laughter]:**
+**[Laughter]**
 
-**[Applause]:**
+**[Applause]**
 
-**[Music Playing]:**
+**[Music Playing]**
 
 ## Example Conversion from Caption Format to Transcription Format
 A caption file format includes the timings for syncing up with the video. As you format the caption text, you will remove these timing, as they are not needed. 
