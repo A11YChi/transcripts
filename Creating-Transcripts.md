@@ -1,7 +1,7 @@
 # How to Create Transcript from Captions
 ## What are We Doing Here
 
-The Chicago Digial Accessibility & Inclusive Design Meetup live streams most of their meetup events. Those recordings are then edited, then posted on their [YouTube Channel](https://www.youtube.com/c/chicagodigitalaccessibilityinclusivedesign). These videos are then sync'd with their captions. Finally, the caption files are formatted here for human and assistive technology consumption.
+The Chicago Digial Accessibility & Inclusive Design Meetup live streams most of their meetup events. Those recordings are edited, then posted on their [YouTube Channel](https://www.youtube.com/c/chicagodigitalaccessibilityinclusivedesign). These videos are then sync'd with their captions. Finally, the caption files are formatted here for human and assistive technology consumption.
 
 As the captions are finished for videos, they are placed in this GitHub repository, awaiting formatting into readible text in a markup called Markdown. You can find a [simple guide to Markdown here](https://guides.github.com/features/mastering-markdown/).
 
