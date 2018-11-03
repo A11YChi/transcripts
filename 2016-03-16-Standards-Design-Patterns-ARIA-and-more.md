@@ -64,15 +64,13 @@ So let's look at some , you know, some more examples. So what I want to do here 
 
 **[Dennis]:** well, yeah, unfortunately I think it's looping on to itself
 
-270
-00:24:18,060 --> 00:24:21,100
 **[Seth]:** Yeah,  that's a issue with Hangout. Ok. Well now you see my notes but that's ok ...
 
 **[Dennis]:** Those are not shared, your site notes.
 
 **[Seth]:** right
 
-**[Dennis] Oh here they are but not ...
+**[Dennis]** Oh here they are but not ...
 
 **[Seth]:** Right. Ok, so basically this is ... according to the W3C, at the bottom here I linked to it and this particular, you know, example is with, you know, tooltips so a tooltip is like if you hover on something you get a real dialog of sorts, so a popup that displays a description for an element when the user passes over or rests on the element, supplements to a normal tooltip, blah blah blah ... but here's the key, right, so the triggering element to which the tooltip is attached link should never actually lose input or focus. So accordingly to the W3C for a tooltip there's a rule to be followed. Right? And the next one is if the tooltip is invoked when the trigger element gets focused then it should be dismissed when it no longer has focus. So those are things that user experienced people need to know and developers need to know when their actually like saying hey, this is what it is that I'm going to represent, so, let me try and switch here.
 
@@ -125,1169 +123,110 @@ Let's go to ... this one is okay. So this is pickadate, so I found a different p
 
 **[Seth]:** So, I'm ... if you guys want to see some really good accessibility, like, I just started really nit-picking this site, it's very good, and it's getting even better, and I didn't realize there was a standard or a date timeline for all the airlines. And now it makes perfect sense to me. Why this is so good. Because I would have expected this to be bad. But, so date picker. So you get this cool thing, it's awesome, it shows me two months at a time and I can go forward, I can go back with a mouse and it shows me really, visually how awesome this this is. If I use it with a mouse, I mean a keyboard ... I'll get into the bottom section of this in a little bit. But, I can actually, if I can remember, I don't remember the controls. So there, I'm going. So I can go forward, I can go down, I can actually go month to month if I click there, right. All of these kind of things. This is impressive. Ok, and there are actually, if we reviewed those design patterns, according to ARIA all of those, or most of them are pretty available. The other thing that I will highlight at the bottom, is really impressive. So let me explain this quickly, and then I'll get into it in more detail.
 
-Notice how when I use my mouse, you don't see that bottom. But when I use my keyboard, I do.
+Notice how when I use my mouse, you don't see that bottom. But when I use my keyboard, I do. That's awesome and I'll explain why in a little bit. Ok, so let me go back to this guy. 
 
-452
-00:39:00,200 --> 00:39:02,860
-That's awesome and I'll explain why in a little bit.
-
-453
-00:39:03,000 --> 00:39:05,080
-Ok, so let me go back to this guy.
-
-454
-00:39:36,980 --> 00:39:40,620
 I don't have much more. I do not have much more.
 
-455
-00:39:46,220 --> 00:39:50,420
-Ok, so, we couldn't find the specs, so now let's talk about ARIA.
+Ok, so, we couldn't find the specs, so now let's talk about ARIA. Right, so this is like the technical thing that some of you may or may not be aware of. ARIA is the Accessible Rich Internet Applications suite, defines a way to make web content and web applications more accessible to people with disabilities. It especially helps with the dynamic content and advance users, interface controls, development with AJAX, HTML, JavaScript and related technologies. So this is basically like a secondary language to what we do, that helps code talk to assistive technologies, and assistive technologies to talk to code. So all of those design patterns basically got augmented and got enhanced with ARIA. So, understanding some basics, this is a little more technical, so let me know if you have any questions.
 
-456
-00:39:50,420 --> 00:39:56,720
-Right, so this is like the technical thing that some of you may or may not be aware of.
+Sight and mobility-impaired users must be able to quickly access a list of landmarks for a web page that they use. So basically think of it like a table of contents, so we want to define using landmarks. Code, on the page, that tells a user with various disabilities that there's a navigation, there's a side navigation, there's a search, there's content, you want to be explicit so they can, you know, go to those areas with ease. Remember those examples with tabbing tabbing tabbing tabbing, and trying to get to something? This prevents that because they can use assistive technology to access shortcuts to skip the navigation, we've all heard that, right?
 
-457
-00:39:56,960 --> 00:40:02,700
-ARIA is the Accessible Rich Internet Applications suite, defines a way to make web content
+Skip to navigation when you first tab? This eliminates that. You don't have to add some extra visual and contextual, you can just basically add some code and they automatically add this glorious table of contents. Roles. So, once you get landmarks, then you might want to specify each particular thing.
 
-458
-00:40:02,700 --> 00:40:08,440
-and web applications more accessible to people with disabilities. It especially helps with the dynamic content
+What is this? So like, it's a banner, right? It's a main section, it's a navigation. It's a search. Imagine you trying to execute a specific task, and there's a lot of content on that page. This is a way for you to quickly access something without question of what it is. And this is something that really is very foundational. This takes a developer no effort whatsoever to implement. It just takes him to do it. But there's no advanced learnings. Just understanding what is available and going from there.
 
-459
-00:40:08,440 --> 00:40:15,100
-and advance users, interface controls, development with AJAX, HTML, JavaScript and related technologies.
+And then we get into a little more advanced stuff. So States and Properties. And this is where ARIA kicks in. So this is, prior to ARIA, there was no consistent, bidirectional, cross-browser implementation between assistive technologies and applications to communicate. So like for instance, take my on off switch, right? I can click it or I can tab it, bit there was no way for a custom built switch to communicate with an assistive technology. Because there's that no standard, right? We are losing the communication gap. So ARIA allows us to do things like expanded or checked or selected or labelledby, there's a lot of that. So like take a toggle, right. Open, close. Well, it is expanded. Or it is not expanded. It's checked, or it's not checked.
 
-460
-00:40:15,100 --> 00:40:19,840
-So this is basically like a secondary language
-to what we do, that helps
+We can build very creative experiences and visual designs now, and use ARIA to bridge the communication gap between those technologies. There's so much to go into that I couldn't do it here. But to give you an example of where it can be applied is like, so take ARIA for content strategists. One of the common things they always complain about is "click here" or "explore" or, they want to be very simple and plain in their nomenclature of buttons in particular. So, they can add contextual elements that are not visually there, but are to the assistive technologies using labelledby or describedby. Or they can actually announce what's actually happened.
 
-461
-00:40:21,140 --> 00:40:25,840
-code talk to assistive technologies, 
-and assistive technologies to talk to code.
+So, it's hard to see, but in the case of Southwest, when I actually focus in to the box this black area here is what the screen reader is actually reading. Ok, so it's reading, content selected, date depart, date depart and formats mm dd valid dates for March fourth and November fourth, keyboard instructions up down arrow access the widget shift right, I mean like, imagine coming to this for the very first time and not having that instruction there would be no way for you to know how to use that unless you were following the design pattern to spec. Which we've all clearly noticed it's very hard to do. So, content strategists can add contextual information to help for accessibility. So this is an example of where you can go the extra mile if the people are thinking about the intent. 
 
-462
-00:40:26,200 --> 00:40:33,120
-So all of those design patterns basically got augmented and got enhanced with ARIA.
+Another one is for UX folks. So, Apple is a great example. They kill it when is comes to accessibility. So, what I'm doing is I'm using the search box, using the keyboard. And the things that I've noticed is, they're using ARIA autocomplete to tell the user that while you start typing your search phrase, that basically a list of things are autocompleting so, you'll see it's giving me hints. It's telling me that that's actually happening. ARIA has popup. It told me that its popping up with a new feature or so fourth. So these are the things that the developers can implement without any question. But it's the user experience people, to go back to that intent, how do I want them to use it? How do I want them to interact with it? If they don't tell the developer that the developers won't necessarily know what ARIA to actually use, okay?
 
-463
-00:40:33,780 --> 00:40:40,260
-So, understanding some basics, this is a little more technical, so let me know if you have any questions.
+This is for the geeks in the room. The bad news for you front-end web developers is, for you to do this right, developers not only need to utilize the appropriate ARIA roles, states and properties, they also have to leverage and use JavaScript to help manage the constant flux of content, interactions and states. Some of the things to think about while leveraging all the JavaScript are that sites using JavaScript typically will be fully accessible. There's been a lot of data to show that people, even with people with assistive technologies they don't disable JavaScript anymore. So all of the screen readers and other assistive technologies are being incorporated with JavaScript enabled, through ARIA and following those specs and standards. Ensure that your scripts are both mouse and keyboard enabled. A typical one is you'll use a click handler. Well, a click handler isn't focus, right? It's not keyboard. It's click. Things like that. You have to actually think about all the extra JavaScript that you'll have to work with especially, I think I heard someone talk about Ember. You know, like if you're talking about single page application that is constantly changing in its state, This is going to be a lot of work. Leverage dependent and independant event triggers.
 
-464
-00:40:40,260 --> 00:40:43,280
-Sight and mobility-impaired users must be able to
+This is relatively new actually, or at least I thought is was. You can track if it's a click or keyboard event. So go back to that Southwest example. They didn't show the additional help at the bottom if I used my mouse. But if I used my keyboard, it added actual content and context to the screen. So they're using independent and dependent triggers to differentiate between mouse and keyboard. So they're going the extra mile, with that type of philosophy. Managing focus and refocus, so like, a good example is, we always thinking about going somewhere, but if they close it or if they do a negative action, does it take them back to where they were. Like one thing I often find is like, when I use a table of contents if I click the table of contents, and I get sent down to the bottom of the page, but what happens when I want to get back? There's no way back. You have to tab shift all the way through every single link to get back. There should be potentially a way to track where you came from and where you might want to go back. Things like that.
 
-465
-00:40:43,920 --> 00:40:47,540
-quickly access a list of landmarks
-for a web page that they use.
+And then the biggest one is for you developers, read and follow the design patterns. I cannot emphasize that enough. There are, there's so much but that really the only way to make the assistive technologies to be able to communicate to the browser is through the standards. Some don't follow them, some do but at least we can go with the baseline. So, here's an example of all of the design patterns that are already specified. Accordions, alert boxes, dialogs, autocomplete, buttons, checkboxes, comboboxes, date pickers, modals, drag and drop, grid, I mean, I'm guessing there might be a small percentage of user experiences out there that comes up wth something brand new. But you can't, I would be surprised if you can't correlate it back to this.
 
-466
-00:40:47,540 --> 00:40:53,060
-So basically think of it like a table of contents, so we want to define using landmarks.
+So like, take an accordion. Oh, not an accordion, a carousel. There's no carousel in this. So let's think about it, break it apart. Buttons, content, links. Each little piece of the carousel can be broken up into a standard. And that's really where you want to focus on both, I would say if you are a UX person, this is a great place to start building that next best experience but following the standard. Take the turnstyle door, right? If you follow these, it'll be more easy to recognize, know how it works, you won't be pushing it, you won't be bouncing it because it's going to slow or whatever may be, and then from a developers point of view, this is the place where you really need to make sure, because if you don't follow these at least the majority of the way through, screen readers in particular won't be accessible. 
 
-467
-00:40:54,020 --> 00:41:00,580
-Code, on the page, that tells a user with various disabilities that there's a navigation,
+And that concludes the presentation. Thank you.
 
-468
-00:41:01,120 --> 00:41:07,900
-there's a side navigation, there's a search, there's content, you want to be explicit so they can, you know,
+**[Applause]**
 
-469
-00:41:07,900 --> 00:41:12,140
-go to those areas with ease. Remember those examples with tabbing tabbing tabbing tabbing,
+**[Dennis]:** Any questions...
 
-470
-00:41:12,140 --> 00:41:17,320
-and trying to get to something? This prevents that because they can use assistive technology to
+**[Steve]:** So, how does this impact mobile phones?
 
-471
-00:41:17,320 --> 00:41:21,200
-access shortcuts to skip the navigation,
-we've all heard that, right?
+**[Seth]:** So, it impacts nearly one to one. If you are talking about native application, so like your Facebook app, there's a lot more nuance and a lot more spec out there that hasn't been defined. But I would say that if you are talking mobile web, so like responsive design, like, screen readers on mobile phones are following the same standards as desktops are. And the design pattern, if you think about the analogy of roads or outlooks or whatever, it's the same thing, right, a switch is a switch, a carousel is a carousel, whether it is in a native app or in a web page, it's the same intuitive thing. The only thing that is different is how you interact with it. So if you're able-bodied, you might use swipe, right? For something, or touch, or tap. If you're not, you use a screen reader that basically has to intuitively, you know, communicate to whatever it is that it wants to do, and what it should be doing. So, if you have an iPhone, try your VoiceOver on it. It's awesome. It does it very well. And you'll find that the sites or the apps that are following most of the patterns are the ones you can actually use. So I would say that in most cases, it's a one to one.
 
-472
-00:41:21,560 --> 00:41:24,940
-Skip to navigation when you first tab?
-This eliminates that.
+**[Steve]:** Great. And then the second question, most of these things are JavaScript?
 
-473
-00:41:25,420 --> 00:41:31,760
-You don't have to add some extra visual and contextual, you can just basically add some code
+**[Seth]:** No, so, most, so the screen where I had landmarks, roles and then states and properties, landmarks and roles are pure HTML. They are just straight-up HTML. There are no ifs, ands or buts. The state changing, when you need to interact with it on a dynamic element so, does everybody understand what stateless or state means? It means that it is either ... like static or it can be a constant across ... if it doesn't have a state, that it can change, you have to track that through JavaScript. So there are instances of sites out there that don't really leverage a lot of dynamically changing components and elements that you can make purely accessible, which is some basic ARIA tags, roles and landmarks.
 
-474
-00:41:31,760 --> 00:41:35,840
-and they automatically add this glorious
-table of contents.
+**[Attendee]:** I have a question
 
-475
-00:41:36,580 --> 00:41:44,180
-Roles. So, once you get landmarks, then you might want to specify each particular thing.
+**[Seth]:** Sure.
 
-476
-00:41:44,320 --> 00:41:52,460
-What is this? So like, it's a banner, right? It's a main section, it's a navigation. It's a search.
+**[Attendee]:** So I read somewhere where ARIA was ... and a lot of the default HTML5 elements and landmarks actually have the ARIA ...  within them.
 
-477
-00:41:52,460 --> 00:41:59,500
-Imagine you trying to execute a specific task, and there's a lot of content on that page.
+**[Seth]:** Correct.
 
-478
-00:42:00,440 --> 00:42:06,120
-This is a way for you to quickly access something without question of what it is.
+**[Attendee]:** So would it be better to just try to ...I don't know, not be so redundant ...
 
-479
-00:42:06,560 --> 00:42:10,860
-And this is something that really is very foundational.
-
-480
-00:42:10,860 --> 00:42:17,100
-This takes a developer no effort whatsoever to implement. It just takes him to do it.
-
-481
-00:42:17,100 --> 00:42:22,340
-But there's no advanced learnings. Just understanding what is available and going from there.
-
-482
-00:42:22,340 --> 00:42:25,180
-And then we get into a little more advanced stuff.
-
-483
-00:42:25,440 --> 00:42:27,200
-So States and Properties.
-
-484
-00:42:27,200 --> 00:42:29,720
-And this is where ARIA kicks in.
-
-485
-00:42:30,380 --> 00:42:35,920
-So this is, prior to ARIA, there was no consistent, bidirectional, cross-browser implementation between
-
-486
-00:42:35,920 --> 00:42:40,140
-assistive technologies and applications to communicate.
-
-487
-00:42:40,280 --> 00:42:44,260
-So like for instance, take my on off switch, right?
-
-488
-00:42:44,960 --> 00:42:52,660
-I can click it or I can tab it, bit there was no way for a custom built switch
-
-489
-00:42:52,660 --> 00:42:55,580
-to communicate with an assistive technology.
-
-490
-00:42:56,320 --> 00:43:01,120
-Because there's that no standard, right? We are losing the communication gap.
-
-491
-00:43:01,560 --> 00:43:08,520
-So ARIA allows us to do things like expanded or checked or selected or labelledby, there's a lot of that.
-
-492
-00:43:08,840 --> 00:43:14,100
-So like take a toggle, right. Open, close. Well, it is expanded. Or it is not expanded.
-
-493
-00:43:15,200 --> 00:43:17,260
-It's checked, or it's not checked.
-
-494
-00:43:17,540 --> 00:43:23,680
-We can build very creative experiences and visual designs now, and use ARIA
-
-495
-00:43:23,680 --> 00:43:27,200
-to bridge the communication gap between those technologies.
-
-496
-00:43:27,680 --> 00:43:33,540
-There's so much to go into that I couldn't do it here. But to give you an example of
-
-497
-00:43:33,540 --> 00:43:38,200
-where it can be applied is like, so take ARIA for content strategists.
-
-498
-00:43:40,180 --> 00:43:47,800
-One of the common things they always complain about is "click here" or "explore" or, they want to be
-
-499
-00:43:47,800 --> 00:43:52,780
-very simple and plain in their nomenclature of buttons in particular.
-
-500
-00:43:53,480 --> 00:44:02,480
-So, they can add contextual elements that are not visually there, but are to the assistive technologies
-
-501
-00:44:02,480 --> 00:44:08,400
-using labelledby or describedby. Or they can actually announce what's actually happened.
-
-502
-00:44:08,400 --> 00:44:16,480
-So, it's hard to see, but in the case of Southwest, when I actually focus in to the box
-
-503
-00:44:16,480 --> 00:44:20,640
-this black area here is what the screen reader is actually reading.
-
-504
-00:44:21,280 --> 00:44:28,660
-Ok, so it's reading, content selected, date depart, date depart and formats mm dd
-
-505
-00:44:28,920 --> 00:44:34,140
-valid dates for March fourth and November fourth, keyboard instructions up down arrow
-
-506
-00:44:34,140 --> 00:44:39,380
-access the widget shift right, I mean like, imagine coming to this for the very first time
-
-507
-00:44:39,380 --> 00:44:41,320
-and not having that instruction
-
-508
-00:44:41,920 --> 00:44:48,460
-There would be no way for you to know how to use that unless you were following the design pattern to spec.
-
-509
-00:44:48,460 --> 00:44:51,500
-Which we've all clearly noticed it's very hard to do.
-
-510
-00:44:51,500 --> 00:44:57,480
-So, content strategists can add contextual information to help for accessibility.
-
-511
-00:44:58,560 --> 00:45:04,740
-So this is an example of where you can go the extra mile if the people are thinking about the intent.
-
-512
-00:45:05,120 --> 00:45:12,640
-Another one is for UX folks. So, Apple is a great example. They kill it when is comes to accessibility.
-
-513
-00:45:12,660 --> 00:45:17,100
-So, what I'm doing is I'm using the search box,
-using the keyboard.
-
-514
-00:45:17,100 --> 00:45:22,180
-And the things that I've noticed is, they're using ARIA autocomplete
-
-515
-00:45:22,180 --> 00:45:27,900
-to tell the user that while you start typing your search phrase, that basically a list of things are autocompleting
-
-516
-00:45:27,900 --> 00:45:33,700
-so, you'll see it's giving me hints. It's telling me that
-that's actually happening.
-
-517
-00:45:34,400 --> 00:45:40,680
-ARIA has popup. It told me that its popping up with a new feature or so fourth.
-
-518
-00:45:40,680 --> 00:45:45,120
-So these are the things that the developers can implement without any question.
-
-519
-00:45:45,480 --> 00:45:53,160
-But it's the user experience people, to go back to that intent, how do I want them to use it?
-
-520
-00:45:53,160 --> 00:45:57,280
-How do I want them to interact with it? If they don't tell the developer that
-
-521
-00:45:57,280 --> 00:46:03,540
-the developers won't necessarily know what ARIA to actually use, okay?
-
-522
-00:46:05,480 --> 00:46:07,840
-This is for the geeks in the room.
-
-523
-00:46:07,840 --> 00:46:13,640
-The bad news for you front-end web developers is, for you to do this right,
-
-524
-00:46:13,640 --> 00:46:18,000
-developers not only need to utilize the appropriate ARIA roles, states and properties,
-
-525
-00:46:18,000 --> 00:46:23,620
-they also have to leverage and use JavaScript to help manage the constant flux of
-
-526
-00:46:23,620 --> 00:46:26,280
-content, interactions and states.
-
-527
-00:46:26,280 --> 00:46:30,740
-Some of the things to think about while leveraging all the JavaScript are
-
-528
-00:46:31,020 --> 00:46:35,260
-that sites using JavaScript typically will be fully accessible.
-
-529
-00:46:35,260 --> 00:46:39,780
-There's been a lot of data to show that people, even with people with assistive technologies
-
-530
-00:46:39,780 --> 00:46:41,420
-they don't disable JavaScript anymore.
-
-531
-00:46:41,860 --> 00:46:46,200
-So all of the screen readers and other assistive technologies are being incorporated
-
-532
-00:46:46,200 --> 00:46:50,420
-with JavaScript enabled, through ARIA and following those specs and standards.
-
-533
-00:46:50,740 --> 00:46:57,420
-Ensure that your scripts are both mouse and keyboard enabled. A typical one is
-
-534
-00:46:57,920 --> 00:47:04,880
-you'll use a click handler. Well, a click handler isn't focus, right? It's not keyboard. It's click. Things like that.
-
-535
-00:47:04,880 --> 00:47:10,040
-You have to actually think about all the extra JavaScript that you'll have to work with
-
-536
-00:47:10,040 --> 00:47:12,660
-especially, I think I heard someone talk about Ember.
-
-537
-00:47:12,660 --> 00:47:19,820
-You know, like if you're talking about single page application that is constantly changing in its state,
-
-538
-00:47:20,820 --> 00:47:23,720
-This is going to be a lot of work.
-
-539
-00:47:24,180 --> 00:47:27,660
-Leverage dependent and independant event triggers.
-
-540
-00:47:27,980 --> 00:47:31,880
-This is relatively new actually, 
-or at least I thought is was.
-
-541
-00:47:31,880 --> 00:47:36,580
-You can track if it's a click or keyboard event
-
-542
-00:47:36,580 --> 00:47:38,640
-So go back to that Southwest example.
-
-543
-00:47:39,200 --> 00:47:44,880
-They didn't show the additional help at the bottom if I used my mouse.
-
-544
-00:47:45,540 --> 00:47:51,820
-But if I used my keyboard, it added actual content and context to the screen.
-
-545
-00:47:52,060 --> 00:47:59,000
-So they're using independent and dependent triggers to differentiate between mouse and keyboard.
-
-546
-00:47:59,000 --> 00:48:02,580
-So they're going the extra mile,
-with that type of philosophy.
-
-547
-00:48:02,780 --> 00:48:06,180
-Managing focus and refocus, so like, a good example is,
-
-548
-00:48:06,180 --> 00:48:11,820
-we always thinking about going somewhere, but if they close it or if they do a negative action,
-
-549
-00:48:11,820 --> 00:48:20,240
-does it take them back to where they were. Like one thing I often find is like, when I use a table of contents
-
-550
-00:48:20,240 --> 00:48:24,100
-if I click the table of contents, and I get sent down to the bottom of the page,
-
-551
-00:48:24,100 --> 00:48:26,920
-but what happens when I want to get back?
-
-552
-00:48:28,280 --> 00:48:35,380
-There's no way back. You have to tab shift all the way through every single link to get back.
-
-553
-00:48:35,720 --> 00:48:41,420
-There should be potentially a way to track where you came from and where you might want to go back.
-
-554
-00:48:41,660 --> 00:48:43,220
-Things like that.
-
-555
-00:48:43,220 --> 00:48:47,840
-And then the biggest one for you developers, read and follow the design patterns.
-
-556
-00:48:47,840 --> 00:48:49,820
-I cannot emphasize that enough.
-
-557
-00:48:49,940 --> 00:48:56,580
-There are, there's so much but that really the only way to make the assistive technologies
-
-558
-00:48:56,580 --> 00:49:01,720
-to be able to communicate to the browser 
-is through the standards.
-
-559
-00:49:01,720 --> 00:49:05,800
-Some don't follow them, some do but at least we can go with the baseline.
-
-560
-00:49:06,100 --> 00:49:12,620
-So, here's an example of all of the design patterns that are already specified.
-
-561
-00:49:13,920 --> 00:49:20,380
-Accordions, alert boxes, dialogs, autocomplete, buttons, checkboxes, comboboxes, date pickers, modals,
-
-562
-00:49:20,380 --> 00:49:27,340
-drag and drop, grid, I mean, I'm guessing there might be a small percentage of user experiences out there
-
-563
-00:49:27,340 --> 00:49:32,720
-that comes up wth something brand new. But you can't, I would be surprised if you can't correlate it back to this.
-
-564
-00:49:33,560 --> 00:49:37,620
-So like, take an accordion.
-Oh, not an accordion, a carousel.
-
-565
-00:49:37,620 --> 00:49:44,220
-There's no carousel in this. So let's think about it, break it apart. Buttons, content, links.
-
-566
-00:49:44,440 --> 00:49:49,360
-Each little piece of the carousel can be broken up into a standard.
-
-567
-00:49:49,940 --> 00:49:55,780
-And that's really where you want to focus on both, I would say if you are a UX person,
-
-568
-00:49:56,300 --> 00:50:01,980
-this is a great place to start building that next best experience but following the standard
-
-569
-00:50:02,080 --> 00:50:10,840
-take the turnstyle door, right? If you follow these, it'll be more easy to recognize, know how it works,
-
-570
-00:50:10,840 --> 00:50:14,900
-you won't be pushing it, you won't be bouncing it because it's going to slow or whatever may be,
-
-571
-00:50:14,900 --> 00:50:19,460
-and then from a developers point of view, this is the place where you really need to
-
-572
-00:50:19,460 --> 00:50:25,520
-make sure, because if you don't follow these at least the majority of the way through,
-
-573
-00:50:25,520 --> 00:50:29,900
-screen readers in particular won't be accessible.
-
-574
-00:50:29,900 --> 00:50:32,060
-And that concludes the presentation.
-
-575
-00:50:33,080 --> 00:50:34,420
-Thank you.
-
-576
-00:50:34,420 --> 00:50:39,700
-[Applause]
-
-577
-00:50:39,700 --> 00:50:40,820
-[Dennis]: Any questions...
-
-578
-00:50:41,200 --> 00:50:45,900
-[Steve]: So, how does this impact mobile phones?
-
-579
-00:50:47,000 --> 00:50:51,600
-[Seth]: So, it impacts nearly one to one.
-
-580
-00:50:52,080 --> 00:50:59,900
-If you are talking about native application, so like your Facebook app, there's a lot more nuance
-
-581
-00:50:59,900 --> 00:51:04,020
-and a lot more spec out there that hasn't been defined.
-
-582
-00:51:04,260 --> 00:51:08,440
-But I would say that if you are talking mobile web, so like responsive design,
-
-583
-00:51:08,440 --> 00:51:14,720
-like, screen readers on mobile phones are following the same standards as desktops are.
-
-584
-00:51:14,960 --> 00:51:21,540
-And the design pattern, if you think about the analogy of roads or outlooks or whatever,
-
-585
-00:51:21,540 --> 00:51:27,840
-it's the same thing, right, a switch is a switch, a carousel is a carousel, whether it is in a native app
-
-586
-00:51:27,840 --> 00:51:34,040
-or in a web page, it's the same intuitive thing. The only thing that is different is how you interact with it.
-
-587
-00:51:34,540 --> 00:51:39,940
-So if you're able-bodied, you might use swipe, right?
-For something, or touch, or tap.
-
-588
-00:51:39,940 --> 00:51:46,980
-If you're not, you use a screen reader that basically has to intuitively, you know,
-
-589
-00:51:47,620 --> 00:51:51,600
-communicate to whatever it is that it wants to do, and what it should be doing.
-
-590
-00:51:52,040 --> 00:51:56,320
-So, if you have an iPhone, try your VoiceOver on it.
-
-591
-00:51:56,320 --> 00:52:02,780
-It's awesome. It does it very well. And you'll find that the sites or the apps that are following most of the patterns
-
-592
-00:52:03,360 --> 00:52:05,200
-are the ones you can actually use.
-
-593
-00:52:05,660 --> 00:52:09,020
-So I would say that in most cases, it's a one to one.
-
-594
-00:52:09,020 --> 00:52:14,660
-[Steve]: Great. And then the second question, most of these things are JavaScript?
-
-595
-00:52:16,600 --> 00:52:27,600
-[Seth]: No, so, most, so the screen where I had landmarks, roles and then states and properties,
-
-596
-00:52:28,060 --> 00:52:34,800
-landmarks and roles are pure HTML. They are just straight-up HTML. There are no ifs, ands or buts.
-
-597
-00:52:35,520 --> 00:52:42,100
-The state changing, when you need to interact with it on a dynamic element
-
-598
-00:52:42,100 --> 00:52:45,580
-so, does everybody understand what stateless
-or state means?
-
-599
-00:52:45,580 --> 00:52:49,000
-It means that it is either ... like static or it can be a constant across ...
-
-600
-00:52:49,000 --> 00:52:55,800
-if it doesn't have a state, that it can change, you have to track that through JavaScript.
-
-601
-00:52:55,800 --> 00:53:02,140
-So there are instances of sites out there that don't really leverage a lot of dynamically changing components
-
-602
-00:53:02,140 --> 00:53:09,520
-and elements that you can make purely accessible, which is some basic ARIA tags, roles and landmarks.
-
-603
-00:53:11,920 --> 00:53:12,660
-[Attendee]: I have a question
-
-604
-00:53:12,660 --> 00:53:13,220
-[Seth]: Sure.
-
-605
-00:53:13,220 --> 00:53:22,860
-[Attendee]: So I read somewhere where ARIA was ... and a lot of the default HTML5
-
-606
-00:53:22,860 --> 00:53:27,600
-elements and landmarks actually have the ARIA ...  within them.
-
-607
-00:53:27,600 --> 00:53:28,100
-[Seth]: Correct.
-
-608
-00:53:28,100 --> 00:53:40,720
-[Attendee]: So would it be better to just try to ...
-I don't know, not be so redundant ...
-
-609
-00:53:40,720 --> 00:53:47,900
-[Seth]: Correct. So in the absence of, if I were to use the nav tag, which is navigation,
-
-610
-00:53:47,900 --> 00:53:52,580
-you wouldn't need to add role navigation to it.
-You would not need to do that.
-
-611
-00:53:52,580 --> 00:53:57,080
-But in the instance of, you know, progressive enhancement and graceful degradation,
-
-612
-00:53:57,080 --> 00:54:02,300
-when you have to accommodate a non-HTML5 browser, you then need to
-
-613
-00:54:02,300 --> 00:54:07,480
-a shim it, if no one knows what that is, I will explain later, but be basically, add the role.
-
-614
-00:54:07,480 --> 00:54:09,860
-That's usually what shimming will do.
-
-615
-00:54:10,780 --> 00:54:16,900
-But, yes, generally speaking, you don't need to over tag, and the way to learn more about that is
-
-616
-00:54:17,520 --> 00:54:24,060
-what I do a lot now, which is, a lot quicker and a lot easier is to use a fiddle, like a js fiddle or like a codepen
-
-617
-00:54:24,060 --> 00:54:28,700
-I'll stick one tiny tag in that fiddle and I'll open up my screen reader
-
-618
-00:54:28,700 --> 00:54:35,240
-rather than going through the whole page and figuring out the page, I will go component and elements alone
-
-619
-00:54:35,240 --> 00:54:38,160
-and hear it and learn from it and see if it actually works.
-
-620
-00:54:38,160 --> 00:54:42,920
-It's an extra step, it's kind of a poc, a proof of concept.
-
-621
-00:54:42,920 --> 00:54:47,900
-So, thats how I'll do that. You could go in,
-type a tag and test it and be like
-
-622
-00:54:47,900 --> 00:54:52,260
-"ok, well, maybe that's not intuitive enough,
+**[Seth]:** Correct. So in the absence of, if I were to use the nav tag, which is navigation, you wouldn't need to add role navigation to it. You would not need to do that. But in the instance of, you know, progressive enhancement and graceful degradation, when you have to accommodate a non-HTML5 browser, you then need to a shim it, if no one knows what that is, I will explain later, but be basically, add the role. That's usually what shimming will do. But, yes, generally speaking, you don't need to over tag, and the way to learn more about that is what I do a lot now, which is, a lot quicker and a lot easier is to use a fiddle, like a js fiddle or like a codepen I'll stick one tiny tag in that fiddle and I'll open up my screen reader rather than going through the whole page and figuring out the page, I will go component and elements alone and hear it and learn from it and see if it actually works. It's an extra step, it's kind of a poc, a proof of concept. So, thats how I'll do that. You could go in, type a tag and test it and be like "ok, well, maybe that's not intuitive enough,
 I'm going to add something else."
 
-623
-00:54:52,260 --> 00:54:57,660
-[Dennis]: We actually did something similar, we've had an ongoing debate
-
-624
-00:54:57,660 --> 00:55:10,560
-between aria-label, aria-labelledby and aria-describedby. We had one of our folks in requirements saying
-
-625
-00:55:10,560 --> 00:55:18,280
-aria-labelledby and then the text they want to appear. For any of you who do not know,
-
-626
-00:55:18,280 --> 00:55:25,160
-aria-labelledby and describedby, they typically point to an ID, which has the textual content
-
-627
-00:55:25,160 --> 00:55:32,880
-that is describing the label. Aria-label actually contains the text string that is used as the label.
-
-628
-00:55:32,880 --> 00:55:42,600
-But we ... I knew that as being the fact, but the UX person that I'm collaborated with kept on saying
-
-629
-00:55:42,600 --> 00:55:52,760
-aria-describedby and then the text. So I literally created just a flat, HTML file with every variation of these three
-
-630
-00:55:52,760 --> 00:55:58,300
-ARIAs used, and then we just listened to it in two different screen readers and said
-
-631
-00:55:58,300 --> 00:56:07,940
-done. And I think that's really what you have to do with ARIA. In our initial requirements,
-
-632
-00:56:07,940 --> 00:56:12,500
-the requirements folks, next to every link,
-would say role equals link.
-
-633
-00:56:14,140 --> 00:56:16,100
-And I'm like ... all that extra work.
-
-634
-00:56:16,100 --> 00:56:18,580
-[Seth]: Yeah, there's intent for each of them.
-
-635
-00:56:18,580 --> 00:56:23,480
-And understanding the intent of them could sometimes be ambiguous.
-
-636
-00:56:23,480 --> 00:56:28,320
-But like, just like, for front-end developers, when do you use an ID and when do you use a class
-
-637
-00:56:28,320 --> 00:56:32,340
-or when do you use a data selector, all of these type of things come into the discussion.
-
-638
-00:56:32,860 --> 00:56:39,820
-There is original intent behind those attributes and parameters. And if you stick to the original intent,
-
-639
-00:56:39,820 --> 00:56:47,540
-you'll likely succeed more across a wider range than if you change it, like for instance, like
-
-640
-00:56:47,540 --> 00:56:53,960
-I could not use any class or ID on any div or any element ever, right?
-
-641
-00:56:53,960 --> 00:56:59,140
-And I could use data selectors. I could manipulate it and manage the page any way I wanted to.
-
-642
-00:56:59,140 --> 00:57:07,880
-It's possible. Should you? No. So you want to try and research back to the intent of the littlest nuance
-
-643
-00:57:07,880 --> 00:57:14,360
-to ensure that the widest range of things are actually working. So like labelledby would widely be used
-
-644
-00:57:14,360 --> 00:57:22,100
-for a one to many relationship. So you have one description like "this link opens in a new window"
-
-645
-00:57:22,100 --> 00:57:29,380
-but you have ten links on the page. So those ten links will have labelledby and that one ID
-
-646
-00:57:29,380 --> 00:57:36,560
-like Dennis said, and your leveraging a better experience and a better codebase to do it as well.
-
-647
-00:57:38,240 --> 00:57:44,740
-[Attendee]: How different would you say the experience is between different screen readers?
-
-648
-00:57:44,740 --> 00:57:46,420
-[Seth]: I'm glad you asked.
+**[Dennis]:** We actually did something similar, we've had an ongoing debate between aria-label, aria-labelledby and aria-describedby. We had one of our folks in requirements saying aria-labelledby and then the text they want to appear. For any of you who do not know, aria-labelledby and describedby, they typically point to an ID, which has the textual content that is describing the label. Aria-label actually contains the text string that is used as the label. But we ... I knew that as being the fact, but the UX person that I'm collaborated with kept on saying aria-describedby and then the text. So I literally created just a flat, HTML file with every variation of these three ARIAs used, and then we just listened to it in two different screen readers and said done. And I think that's really what you have to do with ARIA. In our initial requirements, the requirements folks, next to every link, would say role equals link. And I'm like ... all that extra work.
 
-649
-00:57:46,420 --> 00:57:59,460
-I would say that it is an exact, same paradigm as between Safari, Firefox, Mozilla, IE, Chrome
+**[Seth]:** Yeah, there's intent for each of them. And understanding the intent of them could sometimes be ambiguous. But like, just like, for front-end developers, when do you use an ID and when do you use a class or when do you use a data selector, all of these type of things come into the discussion. There is original intent behind those attributes and parameters. And if you stick to the original intent, you'll likely succeed more across a wider range than if you change it, like for instance, like I could not use any class or ID on any div or any element ever, right? And I could use data selectors. I could manipulate it and manage the page any way I wanted to. It's possible. Should you? No. So you want to try and research back to the intent of the littlest nuance to ensure that the widest range of things are actually working. So like labelledby would widely be used for a one to many relationship. So you have one description like "this link opens in a new window" but you have ten links on the page. So those ten links will have labelledby and that one ID like Dennis said, and your leveraging a better experience and a better codebase to do it as well.
 
-650
-00:57:59,460 --> 00:58:01,520
-It is just a different browser.
+**[Attendee]:** How different would you say the experience is between different screen readers?
 
-651
-00:58:01,880 --> 00:58:11,560
-I mean, essentially what it is. NVDA doesn't do exactly what JAWS does, JAWS doesn't do what VoiceOver does
+**[Seth]:** I'm glad you asked. I would say that it is an exact, same paradigm as between Safari, Firefox, Mozilla, IE, Chrome. It is just a different browser. I mean, essentially what it is. NVDA doesn't do exactly what JAWS does, JAWS doesn't do what VoiceOver does. They're all trying to follow the specs but they all behave differently.
 
-652
-00:58:11,560 --> 00:58:15,440
-They're all trying to follow the specs but they all behave differently.
+**[Dennis]:** One thing I'll say about that, just from an experience within the last six to eight months is it's also a difference between platforms ... JAWS, handle things in a similar manner. JAWS is more robust than NVDA. Safari which is on a different platform, reads the DOM in a different manner. Therefore, certain things that may work in JAWS and NVDA does not seem to work in Safari. It doesn't mean that Safari is broken, it just that it does it differently. From my experience, Safari and VoiceOver are the most strict combination that you can use. So if you don't know if something works or not, try it in Safari and VoiceOver first, then test on the Windows platform.
 
-653
-00:58:16,360 --> 00:58:22,500
-[Dennis]: One thing I'll say about that, just from an experience within the last six to eight months is
+**[Seth]:** Right, and it's also a paradigm between which screen reader or assistive technology you are using and which browser you are using.
 
-654
-00:58:22,880 --> 00:58:34,460
-it's also a difference between platforms ... JAWS, handle things in a similar manner.
+**[Dennis]:** Don't use Chrome.
 
-655
-00:58:34,460 --> 00:58:42,500
-JAWS is more robust than NVDA. Safari which is on a different platform, reads the DOM in a different manner.
+**[Seth]:** Right? So for instance, you're using VoiceOver and you're using Chrome, it won't work as well if you're using VoiceOver with Safari. Or if you're using JAWS with Firefox versus JAWS with IE.
 
-656
-00:58:42,500 --> 00:58:51,300
-Therefore, certain things that may work in JAWS and NVDA does not seem to work in Safari
+**[Attendee]** [Unrecognizable]
 
-657
-00:58:51,300 --> 00:59:00,840
-It doesn't mean that Safari is broken, it just that it does it differently. From my experience, Safari and VoiceOver
+**[Dennis]:** So, two things. They're not telling us.
 
-658
-00:59:00,840 --> 00:59:10,480
-are the most strict combination that you can use. So if you don't know if something works or not,
+**[Laughter]**
 
-659
-00:59:10,480 --> 00:59:15,560
-try it in Safari and VoiceOver first, then test on the Windows platform.
+**[Dennis]:** So two things. One, WebAim, which is a website, they have an annual screen reader survey. Check out the survey, the last one was last July, they'll likely be putting out another one soon. And they tell you the combinations of browser and screen reader, and it actually changed big time last year because of the folks that run Windows Eyes, they actually announced to their users that there was a survey going on and NVDA dropped clear to second to last place and Windows Eyes was second to JAWS. But you'll get a feel for how actually screen reader users are using the tools, with which browsers and such, that's a great resource. Now, how are the airlines handling it?
 
-660
-00:59:15,560 --> 00:59:20,920
-[Seth]: Right, and it's also a paradigm between which screen reader or assistive technology you are using
+**[Attendee]:** Somebody is going to come back and judge you, right?
 
-661
-00:59:20,920 --> 00:59:23,020
-and which browser you are using.
+**[Dennis]:** Yes, and that is the users. So, it's been an emotional roller coaster the last year because the DOT is not telling us what their going to do. First, we thought they were going to hire auditors. What's going to happen is, when users find an issue, they won't come to us, they'll go to the DOT. The DOT will file a complaint with us, we have however long, we don't even know how long the grace period is but we will have, however many weeks to fix that particular problem, or else we will be fined $27,000 dollars per instance per day.
 
-662
-00:59:23,020 --> 00:59:23,960
-[Dennis]: Don't use Chrome.
+**[Seth]:** The thing to keep in mind, and I'll kind of go back to the original question so A: if you are in the position to make a choice of what requirements you have just like any sort of requirements, you follow the numbers. So like JAWS is 75% of the screen reader market. So by using ChromeVox, which is a good example, it's like zero percent. So it's a testing tool.
 
-663
-00:59:23,960 --> 00:59:28,620
-[Seth]: Right? So for instance, you're using VoiceOver and you're using Chrome,
+**[Dennis]:** Yeah, it's a testing tool, we actually thought it would be great for our developers, because it's like handy. Experience has told us that it works completely differently as well as Chrome in general works differently with any screen reader. We're heavy Chrome users for development, but when it comes time to using a screen reader, open up Firefox and NVDA or IE and JAWS.
 
-664
-00:59:28,620 --> 00:59:35,880
-it won't work as well if you're using VoiceOver with Safari. Or if you're using JAWS with Firefox
+**[Seth]:** Just like you would do in a normal QA cycle, so at Critical Mass, we test every browser that meets our client's or the industry's requirements. So, when it comes down to it, we can't guarantee that it'll work in every single browser and every single device or every single orientation, it's not possible. But we can do our best. And our best, the easiest way to achieve the best, is to follow the specs. And I will say that, in my experience, JAWS and VoiceOver and NVDA, they all behave very very similar from a code perspective, you might just need to know the nuances of how to access that. Like, as a tester. So, your testers might actually not know how to use the devices or the assistive technology well enough, and they'll get false positives. So just like I did an example, I pulled up Southwest, I couldn't figure it out, I said ok, that's how. It was eventually accessible, once I remembered the right types of things to do. So your testers have to really know the devices that they're using to test on. It's like, a mobile phone or a desktop, you test differently from a mobile phone to a desktop, right? You test differently from NVDA to JAWS, JAWS to VoiceOver. So if you're doing the full gamut, it's part of the biz, so to speak.
 
-665
-00:59:35,880 --> 00:59:37,920
-versus JAWS with IE.
+**[Attendee]:** Dennis, the Feds, there's no way the Feds will ...
 
-666
-00:59:37,920 --> 01:00:32,720
-[Attendee]: [Unrecognizable]
+**[Seth]:** There's a question back over here.
 
-667
-01:00:32,720 --> 01:00:37,980
-[Dennis]: So, two things. They're not telling us.
+**[Attendee]:** ...
 
-668
-01:00:37,980 --> 01:00:40,100
-[Laughter]
+**[Seth]:** So yes. So that is the W3C created WCAG 2.0, which is relatively recent, and then there's three levels, within that, so that's the standards that basically both the browsers are following and the assistive technologies are trying to mimic towards, but as we all know, browsers and companies and businesses like to make their own nuances and they don't always follow the standards, right? And that's why we have kit CSS, we have Mozilla, hyphen Mozilla because they wanted to do something before the standard was finished or before there was a standard. So every browser and every assistive technology, they all try and follow a certain set of rules, but this is not a perfect utopia. So that rarely ever happens.
 
-669
-01:00:40,100 --> 01:00:50,620
-[Dennis]: So two things. One, WebAim, which is a website, they have an annual screen reader survey.
+**[Dennis]:** We have time for one more question.
 
-670
-01:00:51,320 --> 01:00:56,640
-Check out the survey, the last one was last July, they'll likely be putting out another one soon.
+**[Attendee]:** ...
 
-671
-01:00:56,640 --> 01:01:04,000
-And they tell you the combinations of browser and screen reader, and it actually changed big time last year
+**[Dennis]:** So, that ... I believe that was started by Stephen Faulkner who contributes to the W3C spec for ARIA. But also on WebAim.org their forum, let's put it this way, I joined the International Association of Accessibility Professionals last year primarily for the forums. I did not renew, because WebAim, and their forums, which are free, are almost richer for my particular needs. It's a little antiquated, because it's driven by email. But if you want to learn like ...I started a thread, however many months ago, a button versus a link. And actually, the information I was receiving, which was from like Steven Faulkner from the W3C and Leonie Watson and such, they were contradicting what the advice we were being given by an agency, and that was helpful because I actually have a high level of respect for these particular people. They basically said, code to spec, let the assistive technology catch up, which sounds like IE, so. It's just history repeating itself.
 
-672
-01:01:04,000 --> 01:01:12,660
-because of the folks that run Windows Eyes, they actually announced to their users
-
-673
-01:01:12,660 --> 01:01:19,420
-that there was a survey going on and NVDA dropped clear to second to last place
-
-674
-01:01:19,420 --> 01:01:27,980
-and Windows Eyes was second to JAWS. But you'll get a feel for how actually screen reader users are
-
-675
-01:01:27,980 --> 01:01:34,520
-using the tools, with which browsers and such, that's a great resource.
-
-676
-01:01:34,520 --> 01:01:36,920
-Now, how are the airlines handling it?
-
-677
-01:01:39,380 --> 01:01:41,940
-[Attendee]: Somebody is going to come back and judge you, right?
-
-678
-01:01:42,980 --> 01:01:54,460
-[Dennis]: Yes, and that is the users. So, it's been an emotional roller coaster the last year
-
-679
-01:01:54,460 --> 01:02:01,420
-because the DOT is not telling us what their going to do. First, we thought they were going to hire auditors.
-
-680
-01:02:01,900 --> 01:02:13,240
-What's going to happen is, when users find an issue, they won't come to us, they'll go to the DOT.
-
-681
-01:02:13,240 --> 01:02:19,840
-The DOT will file a complaint with us, we have however long, we don't even know how long the grace period is
-
-682
-01:02:19,840 --> 01:02:27,000
-but we will have, however many weeks to fix that particular problem, or else we will be fined
-
-683
-01:02:27,000 --> 01:02:30,880
-$27,000 dollars per instance per day.
-
-684
-01:02:30,880 --> 01:02:36,320
-[Seth]: The thing to keep in mind, and I'll kind of go back to the original question
-
-685
-01:02:36,320 --> 01:02:42,040
-so A: if you are in the position to make a choice of what requirements you have
-
-686
-01:02:42,040 --> 01:02:45,320
-just like any sort of requirements, you follow the numbers.
-
-687
-01:02:45,320 --> 01:02:48,660
-So like JAWS is 75% of the screen reader market.
-
-688
-01:02:48,660 --> 01:02:53,320
-So by using ChromeVox, which is a good example,
-it's like zero percent.
-
-689
-01:02:53,320 --> 01:02:54,520
-So it's a testing tool.
-
-690
-01:02:54,520 --> 01:02:59,140
-[Dennis]: Yeah, it's a testing tool, we actually thought it would be great for our developers,
-
-691
-01:02:59,140 --> 01:03:06,920
-because it's like handy. Experience has told us that it works completely differently
-
-692
-01:03:06,920 --> 01:03:12,380
-As well as Chrome in general works differently with any screen reader.
-
-693
-01:03:12,380 --> 01:03:18,180
-We're heavy Chrome users for development, but when it comes time to using a screen reader,
-
-694
-01:03:18,180 --> 01:03:23,140
-open up Firefox and NVDA or IE and JAWS.
-
-695
-01:03:23,140 --> 01:03:30,280
-[Seth]: Just like you would do in a normal QA cycle, so at Critical Mass, we test every browser
-
-696
-01:03:30,280 --> 01:03:33,800
-that meets our client's or the industry's requirements.
-
-697
-01:03:33,800 --> 01:03:44,120
-So, when it comes down to it, we can't guarantee that it'll work in every single browser and every single device
-
-698
-01:03:44,120 --> 01:03:50,280
-or every single orientation, it's not possible. But we can do our best.
-
-699
-01:03:50,280 --> 01:03:55,120
-And our best, the easiest way to achieve the best, is to follow the specs.
-
-700
-01:03:55,120 --> 01:04:02,680
-And I will say that, in my experience, JAWS and VoiceOver and NVDA, they all behave
-
-701
-01:04:02,680 --> 01:04:09,760
-very very similar from a code perspective, you might just need to know the nuances
-
-702
-01:04:09,760 --> 01:04:18,220
-of how to access that. Like, as a tester. So, your testers might actually not know how to use the devices
-
-703
-01:04:18,220 --> 01:04:23,040
-or the assistive technology well enough, and they'll get false positives.
-
-704
-01:04:24,880 --> 01:04:30,060
-So just like I did an example, I pulled up Southwest, I couldn't figure it out, I said ok, that's how.
-
-705
-01:04:30,060 --> 01:04:35,660
-It was eventually accessible, once I remembered the right types of things to do.
-
-706
-01:04:35,660 --> 01:04:42,540
-So your testers have to really know the devices that they're using to test on.
-
-707
-01:04:42,540 --> 01:04:49,620
-It's like, a mobile phone or a desktop, you test differently from a mobile phone to a desktop, right?
-
-708
-01:04:49,620 --> 01:04:56,800
-You test differently from NVDA to JAWS, JAWS to VoiceOver. So if you're doing the full gamut,
-
-709
-01:04:56,800 --> 01:04:59,360
-it's part of the biz, so to speak.
-
-710
-01:05:01,260 --> 01:05:22,640
-[Attendee]: Dennis, the Feds, there's no way the Feds will ...
-
-711
-01:05:22,640 --> 01:05:24,320
-[Seth]: There's a question back over here.
-
-712
-01:05:24,320 --> 01:05:32,240
-[Attendee]: ...
-
-713
-01:05:32,240 --> 01:05:41,040
-[Seth]: So yes. So that is the W3C created WCAG 2.0, which is relatively recent, and then there's three levels,
-
-714
-01:05:41,040 --> 01:05:47,360
-within that, so that's the standards that basically both the browsers are following and
-
-715
-01:05:47,360 --> 01:05:52,600
-the assistive technologies are trying to mimic towards, but as we all know,
-
-716
-01:05:53,120 --> 01:05:57,600
-browsers and companies and businesses like to make their own nuances
-
-717
-01:05:58,060 --> 01:06:05,720
-and they don't always follow the standards, right? And that's why we have kit CSS, we have Mozilla,
-
-718
-01:06:05,720 --> 01:06:10,900
-hyphen Mozilla because they wanted to do something before the standard was finished
-
-719
-01:06:11,420 --> 01:06:17,480
-or before there was a standard. So every browser and every assistive technology,
-
-720
-01:06:17,480 --> 01:06:23,580
-they all try and follow a certain set of rules, but this is not a perfect utopia.
-
-721
-01:06:24,000 --> 01:06:25,660
-So that rarely ever happens.
-
-722
-01:06:26,640 --> 01:06:29,680
-[Dennis]: We have time for one more question.
-
-723
-01:06:32,880 --> 01:06:46,880
-[Attendee]: ...
-
-724
-01:06:47,080 --> 01:06:56,460
-[Dennis]: So, that ... I believe that was started by Stephen Faulkner who contributes to the W3C spec for ARIA.
-
-725
-01:06:56,600 --> 01:07:03,340
-But also on WebAim.org their forum, let's put it this way,
-
-726
-01:07:03,340 --> 01:07:09,740
-I joined the International Association of Accessibility Professionals last year
-
-727
-01:07:09,740 --> 01:07:17,860
-primarily for the forums. I did not renew, because WebAim, and their forums, which are free,
-
-728
-01:07:18,920 --> 01:07:22,940
-are almost richer for my particular needs.
-
-729
-01:07:24,740 --> 01:07:34,120
-It's a little antiquated, because it's driven by email. But if you want to learn like ...
-
-730
-01:07:34,120 --> 01:07:39,500
-I started a thread, however many months ago, a button versus a link.
-
-731
-01:07:39,500 --> 01:07:46,660
-And actually, the information I was receiving, which was from like Steven Faulkner from the W3C
-
-732
-01:07:46,660 --> 01:07:53,960
-and Leonie Watson and such, they were contradicting what the advice we were being given
-
-733
-01:07:53,960 --> 01:08:04,860
-by an agency, and that was helpful because I actually have a high level of respect for these particular people.
-
-734
-01:08:04,860 --> 01:08:14,900
-They basically said, code to spec, let the assistive technology catch up, which sounds like IE, so.
-
-735
-01:08:14,900 --> 01:08:19,180
-It's just history repeating itself.
-
-736
-01:08:21,580 --> 01:08:24,240
 Well, once again, Seth, thank you so much.
 
-737
-01:08:24,240 --> 01:08:29,520
-[Applause]
+**[Applause]**
 
