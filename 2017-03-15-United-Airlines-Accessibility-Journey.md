@@ -71,7 +71,7 @@ Okay about a third to almost a half.
 48
 00:03:32,260 --> 00:03:36,800
 You know, air travel for the longest period of time
-
+ 
 49
 00:03:36,800 --> 00:03:38,800
 has been viewed as a luxury.
