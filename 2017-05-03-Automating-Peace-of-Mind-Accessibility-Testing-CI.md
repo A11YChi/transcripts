@@ -2,27 +2,15 @@
 ## Marcy Sutton - Wednesday, May 3, 2017
 [Source recording](https://www.youtube.com/watch?v=9x-MRZEEONE)
 
-[Dennis] Please give a warm, Chicago welcome to Marcy Sutton.
+**[Dennis]:** Please give a warm, Chicago welcome to Marcy Sutton.
 
-[Applause]
+**[Applause]**
 
-[Marcy] Hello, everyone.
+**[Marcy]** Hello, everyone. Should we check this microphone? This one's for the captions, right?
 
-4
-00:00:21,000 --> 00:00:25,860
-Should we check this microphone? This one's for the captions, right?
+**[Dennis]** That's for the stream and the captions.
 
-5
-00:00:25,860 --> 00:00:27,860
-[Dennis] That's for the stream and the captions.
-
-6
-00:00:27,860 --> 00:00:33,280
-[Marcy] For everyone on there. Okay well I guess I'll just talk loud enough so this mic picks me up.
-
-7
-00:00:34,320 --> 00:00:36,400
-Hi everyone. I'm super excited to be here.
+**[Marcy]** For everyone on there. Okay well I guess I'll just talk loud enough so this mic picks me up. Hi everyone. I'm super excited to be here.
 
 8
 00:00:36,400 --> 00:00:40,600
