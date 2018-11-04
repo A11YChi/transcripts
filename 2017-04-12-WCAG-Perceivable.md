@@ -2,13 +2,13 @@
 ## Dennis Deacon - Wednesday, April 12, 2017
 [Source recording](https://www.youtube.com/watch?v=t4PY8mnShm4&t=12s)
 
-[Dennis]: So tonight, we're talking about Perceivable: WCAG 2.0 for designers and developers. This is the URL for this presentation. It's there, live now. And you can always go back there after this event. This URL will also be on the final slide, so if you don't get to write it all down now, you can write it down then.
+**[Dennis]:** So tonight, we're talking about Perceivable: WCAG 2.0 for designers and developers. This is the URL for this presentation. It's there, live now. And you can always go back there after this event. This URL will also be on the final slide, so if you don't get to write it all down now, you can write it down then.
 
 I originally had scheduled this to cover all of WCAG in one event.
 
-[laughter]
+**[Laughter]**
 
-Oh my goodness, I don't know how I am going to get this into one hour. So the way I foresee this is ... and we'll get into it more as we get into some of the slides, but WCAG is like the World Book encyclopedia or Wikipedia it's huge and there's no way that you're ever going to know everything but as long as you get the high level details and you know where everything is, you can always refer to it.
+**[Dennis]:** Oh my goodness, I don't know how I am going to get this into one hour. So the way I foresee this is ... and we'll get into it more as we get into some of the slides, but WCAG is like the World Book encyclopedia or Wikipedia it's huge and there's no way that you're ever going to know everything but as long as you get the high level details and you know where everything is, you can always refer to it.
 
 So hopefully what you'll do is walk away today having a better understanding at least with regards to Perceivable, the first principle.
 
