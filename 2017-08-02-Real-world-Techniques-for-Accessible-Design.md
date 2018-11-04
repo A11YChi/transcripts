@@ -182,3 +182,4 @@ Thanks to Rosenfeld Media for their discount for our members. Get 20% off really
 Join the accessibility slack. To subscribe, go to web dash a11y dot herukuapp dot com. After subscribing, to join in the discussion, visit web dash a11y dot slack dot com
 
 This recording was produced by the Chicago Digital Accessibility & Inclusive Design Meetup. Visit us online at meetup dot com forward slash a11ychi Visit us on Twitter at twitter dot come forward slash a11ychi Visit us on Facebook at facebook dot com forward slash groups forward slash a11ychi Visit our YouTube channel at goo dot gl forward slash GfcU9A
+
