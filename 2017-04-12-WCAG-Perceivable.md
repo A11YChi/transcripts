@@ -1,5 +1,5 @@
 # WCAG 2.0 - Perceivable
-Dennis Deacon - Wednesday, April 12, 2017
+## Dennis Deacon - Wednesday, April 12, 2017
 [Source recording](https://www.youtube.com/watch?v=t4PY8mnShm4&t=12s)
 
 [Dennis]: So tonight, we're talking about Perceivable: WCAG 2.0 for designers and developers. This is the URL for this presentation. It's there, live now. And you can always go back there after this event. This URL will also be on the final slide, so if you don't get to write it all down now, you can write it down then.
