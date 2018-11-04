@@ -2,29 +2,9 @@
 ## Seth M Kane - Wednesday, October 5, 2016
 [Source recording](https://www.youtube.com/watch?v=bep9xZX8eBQ)
 
-1
-00:00:04,540 --> 00:00:08,200
-[Seth]: ...the actual presentation, because mine is more of a hands on demo
+**[Seth]:** ...the actual presentation, because mine is more of a hands on demo of accessibility and automation combined.
 
-2
-00:00:08,200 --> 00:00:11,380
-of accessibility and automation combined.
-
-3
-00:00:11,980 --> 00:00:16,980
-So, similar to what the other speakers spoke about using like Chrome tools,
-
-4
-00:00:16,980 --> 00:00:21,260
-or various testing tools or auditing tools, one of the things that I’m going to demonstrate is,
-
-5
-00:00:21,680 --> 00:00:24,580
-how to build that actually into your process like immediately
-
-6
-00:00:24,580 --> 00:00:28,440
-rather than like a second step or something like that.
+So, similar to what the other speakers spoke about using like Chrome tools, or various testing tools or auditing tools, one of the things that I’m going to demonstrate is, how to build that actually into your process like immediately rather than like a second step or something like that.
 
 7
 00:00:29,900 --> 00:00:35,660
