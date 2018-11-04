@@ -2,53 +2,13 @@
 ## Thomas Logan - Tuesday, December 6, 2016
 [Source recording](https://www.youtube.com/watch?v=Csh3G2bdBMk)
 
-1
-00:00:19,860 --> 00:00:20,580
-[Thomas]: Thank you.
+**[Thomas]:** Thank you. Hello, everyone.
 
-2
-00:00:21,960 --> 00:00:22,740
-Hello, everyone.
+**[Applause]**
 
-3
-00:00:22,900 --> 00:00:25,400
-[applause]
+**[Thomas]:** That video made me a bit emotional, too. I hadn't actually seen that video yet, but I had known that Apple started their keynote this year with a sequence of videos. And it was, you know, really exciting to me to see, you know, the CEO of the world's most powerful corporation, the richest corporation, starting off their presentation talking about accessibility. It does really speak to the fact that we are at a time where change is happening.
 
-4
-00:00:25,400 --> 00:00:27,400
-[Thomas]: That video made me a bit emotional, too.
-
-5
-00:00:27,400 --> 00:00:30,000
-I hadn't actually seen that video yet,
-
-6
-00:00:30,000 --> 00:00:37,360
-but I had known that Apple started their keynote this year with a sequence of videos.
-
-7
-00:00:37,360 --> 00:00:45,700
-And it was, you know, really exciting to me to see, you know, the CEO of the world's most powerful corporation,
-
-8
-00:00:45,700 --> 00:00:50,440
-the richest corporation, starting off their presentation talking about accessibility.
-
-9
-00:00:50,440 --> 00:00:56,080
-It does really speak to the fact that we are at a time where change is happening.
-
-10
-00:00:56,480 --> 00:01:00,280
-I started working accessibility in 2001.
-
-11
-00:01:00,680 --> 00:01:06,560
-I was a computer science student in North Carolina, Chapel Hill.
-
-12
-00:01:06,560 --> 00:01:11,580
-So Michael Jordan here in Chicago. I'm a big fan.
+I started working accessibility in 2001. I was a computer science student in North Carolina, Chapel Hill. So Michael Jordan here in Chicago. I'm a big fan.
 
 13
 00:01:11,780 --> 00:01:16,900
