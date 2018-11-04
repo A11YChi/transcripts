@@ -168,3 +168,4 @@ Thank you very much for coming at a non regular scheduled time, I’m impressed.
 **[Dennis]:** Well, thank you for presenting for us. And sharing your experiences. Thank you.
 
 [Applause]
+
