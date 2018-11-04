@@ -229,4 +229,3 @@ I'm going to add something else."
 Well, once again, Seth, thank you so much.
 
 **[Applause]**
-
