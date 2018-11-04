@@ -2,21 +2,7 @@
 ## Richard Douglass - Thursday, October 27, 2016
 [Source recording](https://www.youtube.com/watch?v=-OGvMXS7fcM)
 
-1
-00:00:17,080 --> 00:00:22,800
-Thank you so much for inviting me here and for giving me some of your time.
-
-2
-00:00:23,920 --> 00:00:25,540
-A little bit about me.
-
-3
-00:00:27,920 --> 00:00:32,700
-I've been involved in the user-experience field for a little over 16 years or so.
-
-4
-00:00:33,700 --> 00:00:38,140
-I spent time on big companies internal teams like Dennis just mentioned.
+**[Richard]:** Thank you so much for inviting me here and for giving me some of your time. A little bit about me. I've been involved in the user-experience field for a little over 16 years or so. I spent time on big companies internal teams like Dennis just mentioned.
 
 5
 00:00:38,620 --> 00:00:45,200
