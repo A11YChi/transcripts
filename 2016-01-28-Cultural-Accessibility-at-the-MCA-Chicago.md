@@ -572,3 +572,4 @@ Failing, awesome. Iterating, great. Fail forward. But, make sure that when you d
 
 **[Applause]**
 
+
