@@ -403,3 +403,4 @@ I now have a slide on the screen that are some resource URLs.
 * [FCC Consumer Guide to the 21st Century Communications and Video Accessibility Act (CVAA)](https://transition.fcc.gov/cgb/consumerfacts/CVAA-access-act.pdf)
 * [Facts and Figures on Adults with Vision Loss](http://www.afb.org/info/blindness-statistics/adults/facts-and-figures/235#demographics)
 * [CDC National Health Interview Survey](http://www.cdc.gov/nchs/nhis.htm)
+
