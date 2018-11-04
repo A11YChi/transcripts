@@ -2,46 +2,9 @@
 ## Gian Wild - Tuesday, July 26, 2016
 [Source recording](https://www.youtube.com/watch?v=VTuioz4fzv4)
 
-1
-00:00:07,320 --> 00:00:10,600
-[Dennis] Our speaker is Gian Wild, I'm going to read from here,
+**[Dennis]** Our speaker is Gian Wild, I'm going to read from here, because I spent a good half hour researching and writing this, so... Gian Wild is an accessibility industry veteran, having started back in 1998. She spent six years with the W3C Web Content Accessibility Guidelines (WCAG) Working Group and other associated groups, contributing to the development of WCAG 2. Gian speaks at web and accessibility conferences throughout the world. Additionally, she has spoken at the United Nations on the importance of accessibility. She is presently CEO of AccessibilityOz based in Australia. Please give a warm Chicago welcome to Gian Wild.
 
-2
-00:00:10,640 --> 00:00:16,000
-because I spent a good half hour researching and writing this, so...
-
-3
-00:00:17,160 --> 00:00:23,440
-Gian Wild is an accessibility industry veteran, having started back in 1998.
-
-4
-00:00:23,440 --> 00:00:30,380
-She spent six years with the W3C Web Content Accessibility Guidelines (WCAG) Working Group
-
-5
-00:00:30,400 --> 00:00:35,280
-and other associated groups, contributing to the development of WCAG 2.
-
-6
-00:00:35,880 --> 00:00:41,200
-Gian speaks at web and accessibility conferences throughout the world.
-
-7
-00:00:41,400 --> 00:00:46,800
-Additionally, she has spoken at the United Nations on the importance of accessibility.
-
-8
-00:00:46,800 --> 00:00:52,160
-She is presently CEO of AccessibilityOz
-based in Australia.
-
-9
-00:00:52,160 --> 00:00:55,920
-Please give a warm Chicago welcome to Gian Wild.
-
-10
-00:00:55,920 --> 00:01:02,340
-[Applause]
+**[Applause]**
 
 11
 00:01:02,360 --> 00:01:03,480
