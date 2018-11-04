@@ -2,21 +2,7 @@
 ## Robert Kingett - Wednesday, April 27, 2016
 [Source recording](https://www.youtube.com/watch?v=1-VKODQ_-4Y)
 
-1
-00:00:00,000 --> 00:00:02,100
-[Dennis] Go ahead and introduce yourself.
-
-2
-00:00:03,720 --> 00:00:10,720
-[Robert] Howdy y'all, I am Robert Kingett
-
-3
-00:00:11,100 --> 00:00:13,560
-and I am
-
-4
-00:00:14,540 --> 00:00:17,720
-I'm a person that wears a lot of hats.
+**[Robert]** Howdy y'all, I am Robert Kingett and I am I'm a person that wears a lot of hats.
 
 5
 00:00:17,720 --> 00:00:21,220
