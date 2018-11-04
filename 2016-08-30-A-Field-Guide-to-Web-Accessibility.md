@@ -2,12 +2,12 @@
 ## Derek Featherstone - Tuesday, August 30, 2016
 [Source recording](https://www.youtube.com/watch?v=gf_BrfCZT7c)
 
-[Dennis]: I'm very, very excited to introduce Derek Featherstone. He is a former Ironman tri-athlete, 
+**[Dennis]:** I'm very, very excited to introduce Derek Featherstone. He is a former Ironman tri-athlete, 
 and a current Star Wars fanboy. You notice I saw the Ottawa meetup ... He's also been a web professional since 1999 an internationally known speaker, teacher and authority on accessibility and web design. He leads the team at Simply Accessible based in Ottawa Canada. He always puts the user first and strives to make the web a better place by designing experiences that are easy to use for everyone, including people with disabilities. Derek's ideal accessible experience is to combine engaging, rich content, with brilliant design, and technical development excellence. Please give a warm Chicago welcome to Derek Featherstone.
 
-[Applause]
+**[Applause]**
 
-[Derek Featherstone]: I'm sweating a lot right now, with that introduction. I feel a little bit of pressure, but I think we'll sort it out.
+**[Derek Featherstone]:** I'm sweating a lot right now, with that introduction. I feel a little bit of pressure, but I think we'll sort it out.
 
 15
 00:01:25,100 --> 00:01:28,460
