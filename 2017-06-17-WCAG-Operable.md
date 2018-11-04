@@ -288,3 +288,4 @@ I'm sorry, you had a question?
 [Indecipherable]
 
 ... and I have to figure out a way to skip past the ad to go where the article continues. I know, JAWs has a ... I don't remember the command, but there is a mechanism in JAWs that you can say strip out all frames, and you can read the page, and it will just hide them. I don't think NVDA can do that ... I don't know what Voiceover, if you could do it with that, but certainly can with JAWs, I hate frames. They are a hell for screen readers.
+
