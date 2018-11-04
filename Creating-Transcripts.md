@@ -83,3 +83,4 @@ View some of the completed transcriptions for guidance here.
 Once you're finished, drop me a line, via email or mssage theough the meetup.com site.
 
 You're all set. Thank you for your assistance in making our meetup s inclusive and accessible as possible.
+
