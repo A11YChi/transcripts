@@ -2,7 +2,7 @@
 ## Todd Welstein - Wednesday, October 5, 2016
 [Source recording](https://www.youtube.com/watch?v=s98z_ThsNC0)
 
-[Todd]: Hi, I’m Todd Welstein. I work as a UI developer at NPR. The department that I’m in is called Digital Media, and it is responsible for NPR’s digital presence. It includes developers, QA people, dev ops, product owners, UX designers, product designers. We’re responsible for the website, npr.org, apps like NPR One, APIs that power website and the apps, and the internal content management system. And it’s a high traffic site. So for example, in September, there were 86 million page views and 40 million unique users. And my job as UI developer focuses on writing HTML, CSS and JavaScript.
+**[Todd]:** Hi, I’m Todd Welstein. I work as a UI developer at NPR. The department that I’m in is called Digital Media, and it is responsible for NPR’s digital presence. It includes developers, QA people, dev ops, product owners, UX designers, product designers. We’re responsible for the website, npr.org, apps like NPR One, APIs that power website and the apps, and the internal content management system. And it’s a high traffic site. So for example, in September, there were 86 million page views and 40 million unique users. And my job as UI developer focuses on writing HTML, CSS and JavaScript.
 
 This particular talk is going to be divided into two parts. The first part is color contrast. And it covers the basics of making adjustments for that. The second part of this related to alt text, specifically the null alt attribute value, and how that helps to reduce redundancy for screen reader users.
 
