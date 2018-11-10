@@ -311,4 +311,3 @@ There are simple things that we can talk about as well from a design perspective
 Alright, thank you very much, everybody.
 
 **[Applause]**
-
