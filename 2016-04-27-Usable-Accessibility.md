@@ -133,4 +133,3 @@ Thank you everybody.
 **[Dennis]:** Well, thank you very much, Robert.
 
 **[Applause]**
-
