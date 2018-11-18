@@ -4,6 +4,7 @@ Transcripts from past meetups. If you are looking to assist with formatting capt
 ## 2017
 * [2017-06-21: WCAG 2.0 - Operable with Dennis Deacon](https://github.com/A11YChi/transcripts/blob/master/2017-06-17-WCAG-Operable.md)
 * [2017-08-02: Real-world Techniques for Accessible Design with Joe Welinske](https://github.com/A11YChi/transcripts/blob/master/2017-08-02-Real-world-Techniques-for-Accessible-Design.md)
+* [2017-08-29: Inclusive Design with Derek Featherstone](https://github.com/A11YChi/transcripts/blob/master/2017-08-29-Inclusive-Design.md)
 
 ## 2016
 * [2016-01-28: Cultural Accessibility at the MCA Chicago](https://github.com/A11YChi/transcripts/blob/master/2016-01-28-Cultural-Accessibility-at-the-MCA-Chicago.md)
