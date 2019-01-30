@@ -10,7 +10,7 @@ Transcripts from past meetups. If you are looking to assist with formatting capt
 
 ## 2016
 * [2016-01-28: Cultural Accessibility at the MCA Chicago](https://github.com/A11YChi/transcripts/blob/master/2016-01-28-Cultural-Accessibility-at-the-MCA-Chicago.md)
-* [2016-3-16: Standards, Design Patterns, ARIA and more with Seth M Kane](https://github.com/A11YChi/transcripts/blob/master/2016-03-16-Standards-Design-Patterns-ARIA-and-more.md)
+* [2016-03-16: Standards, Design Patterns, ARIA and more with Seth M Kane](https://github.com/A11YChi/transcripts/blob/master/2016-03-16-Standards-Design-Patterns-ARIA-and-more.md)
 * [2016-10-05: Color contrast and alt attributes on npr.org with Todd Welstein](https://github.com/A11YChi/transcripts/blob/master/2016-10-05-Color-contrast-and-alt-attributes-on-npr.md)
 
 ## 2015
