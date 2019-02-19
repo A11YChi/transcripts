@@ -129,4 +129,3 @@ And on that note ... I will say ... Questions.
 **[Laughter]**
 
 **[Applause]**
-
