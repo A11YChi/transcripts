@@ -8,7 +8,7 @@
 
 So as I said, my name is Margie, my pronouns are she her hers, I forgot my button, I do have one. I'm a Software Engineer at Sprout Social. I like cooking, traveling, eating food and also eating food while traveling. So here's a good picture of me eating food in Rome. I was really happy about that.
 
-So my Twitter handle is @MargarineMargie Fun fact, somebody asked me if that was what my name was short for, and I said "nope that's a substitute for butter."
+So my Twitter handle is @MargarineMargie. Fun fact, somebody asked me if that was what my name was short for, and I said "nope that's a substitute for butter."
 
 **[Laughter]**
 
