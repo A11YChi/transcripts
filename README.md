@@ -2,14 +2,17 @@
 Transcripts from past meetups. If you are looking to assist with formatting captions to transcripts, please read [Creating-Transcripts.md](https://github.com/A11YChi/transcripts/blob/master/Creating-Transcripts.md).
 
 ## 2018
+* [2018-10-02: Accessibility 101 with Margie Chubin & Girl Develop It (GDI) Chicago](https://github.com/A11YChi/transcripts/blob/master/2018-10-02-Accessibility-101-with-Girl-Develop-It-Chicago.md)
 * [2018-12-11: Designing Accessible Sign Up Forms with Michellanne Li](https://github.com/A11YChi/transcripts/blob/master/2018-12-11-Designing-Accessible-Sign-Up-Forms.md)
 
 ## 2017
+* [2017-03-15: United Airline's Accessibility Journey with Dennis Deacon](https://github.com/A11YChi/transcripts/blob/master/2017-03-15-United-Airlines-Accessibility-Journey.md)
 * [2017-04-27: Usable Accessibility with Robert Kingett](https://github.com/A11YChi/transcripts/blob/master/2016-04-27-Usable-Accessibility.md)
 * [2017-06-21: WCAG 2.0 - Operable with Dennis Deacon](https://github.com/A11YChi/transcripts/blob/master/2017-06-17-WCAG-Operable.md)
 * [2017-08-02: Real-world Techniques for Accessible Design with Joe Welinske](https://github.com/A11YChi/transcripts/blob/master/2017-08-02-Real-world-Techniques-for-Accessible-Design.md)
 * [2017-08-29: Inclusive Design with Derek Featherstone](https://github.com/A11YChi/transcripts/blob/master/2017-08-29-Inclusive-Design.md)
 * [2017-09-27: Good Design Was Always Accessible with Sharlene King](https://github.com/A11YChi/transcripts/blob/master/2017-09-27-Good-Design-Was-Always-Accessible.md)
+* [2017-10-19: Accessibility Legal Update with Lainey Feingold](https://github.com/A11YChi/transcripts/blob/master/2017-10-19-Accessibility-Legal-Update.md)
 
 ## 2016
 * [2016-01-28: Cultural Accessibility at the MCA Chicago](https://github.com/A11YChi/transcripts/blob/master/2016-01-28-Cultural-Accessibility-at-the-MCA-Chicago.md)
