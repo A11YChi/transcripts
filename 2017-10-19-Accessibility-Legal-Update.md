@@ -1,5 +1,5 @@
 # Accessibility Legal Update
-## Lainey Fiengold - Thursday, October 19, 2017
+## Lainey Feingold - Thursday, October 19, 2017
 [Source recording](https://www.youtube.com/watch?v=sPsNZEN4pJk)
 
 The Chicago Digital Accessibility &amp; Inclusive Design Meetup presents,"What's Law Got to Do with It, Access as a Civil Right," with Lainey Feingold.
