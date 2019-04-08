@@ -6,11 +6,11 @@ The Chicago Digital Accessibility &amp; Inclusive Design Meetup presents,"What's
 
 **[Lainey]:** Ok. Thank you, Dennis. Dennis is amazing, you're very lucky to have him in Chicago.
 
-Can everybody hear me? I think ... [tapping finger on mic]. Oh, the podium mic ... Ohhh ... Podium mic?
+Can everybody hear me? I think... [tapping finger on mic]. Oh, the podium mic... Ohhh... Podium mic?
 
-**[Dennis]:** Check, check ...
+**[Dennis]:** Check, check...
 
-**[Lainey]:** Oh ... Okay ... oh boy, can I just hold this? Okay, that's better. Okay, well, thank you for coming.
+**[Lainey]:** Oh... Okay... oh boy, can I just hold this? Okay, that's better. Okay, well, thank you for coming.
 
 In my view, if you're here, and you're a part of the Accessibility Chicago meetup, you are an Accessibility Champion. So, really, sometimes it's so hard to do this work. And you're doing it, you're here, so thank you.
 
