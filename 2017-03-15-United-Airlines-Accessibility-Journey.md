@@ -14,7 +14,7 @@ It's one of ... United Airlines is one of the fastest ... sorry largest airline 
 
 ## Tech for All
 
-Tech for All is the agency ... the consultancy that we used to help us out with our accessibility endeavor. They have been around since 2001. Their mission is to serve clients with a commitment to make their products, services and websites accessible to all people, including those living with disabilities. They provided end-to-end accessibility solutions for a wide range of digital products, applications and websites and also for producers of digital content.
+Tech for All is the agency... the consultancy that we used to help us out with our accessibility endeavor. They have been around since 2001. Their mission is to serve clients with a commitment to make their products, services and websites accessible to all people, including those living with disabilities. They provided end-to-end accessibility solutions for a wide range of digital products, applications and websites and also for producers of digital content.
 
 When we were going through the agencies to figure out which one to go with, they had some airline experience, but they were very heavy in the higher education field. But some of their work that they did in that field we found interesting and sort of, you know, caused us to look at them a little bit closer. TFA's services include training, planning, designing, development, support, evaluation, testing, remediation, implementation and monitoring. Support for United Airline since March of 2015 for accessibility of its website, airport kiosk, mobile apps and in-flight Wi-Fi portal. 
 
