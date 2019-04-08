@@ -148,7 +148,7 @@ It really does potentially give the same possibility for a developer to say if s
 
 **[Voiceover Screen Reader]:** Voice over off.  A11Y The elements. Back button. Americium. Atomic weight. 243. State.  Artificial. 7. Discover. 1944 A.D.
 
-**[Thomas]:** So in this concept, I'm showing you ... that's ... actually a sorry. To really nail down giving a live presentation and having a screenreader talking ...
+**[Thomas]:** So in this concept, I'm showing you... that's... actually a sorry. To really nail down giving a live presentation and having a screenreader talking...
 
 **[Laughter]**
 
