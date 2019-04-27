@@ -10,191 +10,41 @@ I originally had scheduled this to cover all of WCAG in one event.
 
 **[Dennis]:** Oh my goodness, I don't know how I am going to get this into one hour. So the way I foresee this is ... and we'll get into it more as we get into some of the slides, but WCAG is like the World Book encyclopedia or Wikipedia it's huge and there's no way that you're ever going to know everything but as long as you get the high level details and you know where everything is, you can always refer to it.
 
-So hopefully what you'll do is walk away today having a better understanding at least with regards to Perceivable, the first principle.
+So hopefully what you'll do is walk away today having a better understanding at least with regards to Perceivable, the first principle. What's involved, what's covered, and then you'll be able to go out and do some further research on your own.
 
-18
-00:01:25,340 --> 00:01:33,040
-What's involved, what's covered, and then you'll be able to go out and do some further research on your own.
+So tonight's agenda ...what is WCAG, the first principal, which is Perceivable, and within there we have text alternatives for non-text content, alternative for time-based media, does anyone know what time-based media would be?
 
-19
-00:01:34,260 --> 00:01:35,640
-So tonight's agenda ...
+**[Attendee]:** Video
 
-20
-00:01:35,640 --> 00:01:37,640
-what is WCAG,
+**[Dennis]:** Video
 
-21
-00:01:37,640 --> 00:01:41,300
-the first principal, which is Perceivable,
+**[Attendee]:** Carousels
 
-22
-00:01:41,800 --> 00:01:45,840
-and within there we have text alternatives for non-text content,
+**[Dennis]:** Awww...
 
-23
-00:01:46,440 --> 00:01:48,440
-alternative for time-based media,
+**[Laughter]**
 
-24
-00:01:48,720 --> 00:01:51,200
-does anyone know what time-based media would be?
+**[Dennis]:** Seth, show this man the door.
 
-25
-00:01:52,460 --> 00:01:53,720
-[Attendee]: Video
+**[Laughter]**
 
-26
-00:01:54,920 --> 00:01:55,820
-[Dennis]: Video
+**[Dennis]:** No, just kidding. No, that would not be a time-based ... but I can see how you would think that though, so, I'm not going to totally discredit that.
 
-27
-00:01:55,820 --> 00:01:56,500
-[Attendee]: Carousels
+**[Attendee]:** [mumbled]
 
-28
-00:01:56,840 --> 00:01:58,080
-[Dennis]: Awww...
+**[Dennis]:** That's an interesting ... no ... that's covered by WCAG, but not in Perceivable. So just so you know, we are going to touch upon that. I could tell you stories about time out sessions, oh my goodness, but that's not included as part of time-based media.
 
-29
-00:01:58,080 --> 00:02:00,140
-[laughter]
+Okay, flexible content, contrast of content, the other principles will be covering we're hopefully going to cover operable which is very ... more heavily around developers as well as UX. We hope to have that scheduled for June.
 
-30
-00:02:00,320 --> 00:02:01,720
-[Dennis]: Seth, show this man the door.
+Understandable probably this fall, maybe September. And then Robust. Robust has one item, and I wouldn't ask you all to come out just for one item, so what we'll do for that is will cover Robust, and then we'll summarize what we've you know covered with all these other sessions.
 
-31
-00:02:01,720 --> 00:02:02,980
-[laughter]
+So, how will this be presented ... WCAG is very dry. If you read it you're going to all asleep and I'm just tell you right now it's very text heavy, very text-based. So, and there's a lot of bullets so don't fear the bullets I know you're in Chicago but don't fear the bullets. There's going to be plenty of code examples, plenty of design examples, and plenty of tools and resources in this presentation.
 
-32
-00:02:02,980 --> 00:02:03,860
-[Dennis]: no, just kidding
-
-33
-00:02:05,080 --> 00:02:08,920
-No, that would not be a time-based ...
-
-34
-00:02:09,460 --> 00:02:14,080
-but I can see how you would think that though, so, I'm not going to totally discredit that.
-
-35
-00:02:14,380 --> 00:02:25,820
-[Attendee]: [mumbled]
-
-36
-00:02:25,820 --> 00:02:27,820
-[Dennis]: That's an interesting ... no ...
-
-37
-00:02:28,360 --> 00:02:31,900
-that's covered by WCAG, but not in Perceivable.
-
-38
-00:02:31,900 --> 00:02:34,300
-So just so you know, we are going to touch upon that
-
-39
-00:02:34,300 --> 00:02:37,400
-I could tell you stories about time out sessions
-
-40
-00:02:37,400 --> 00:02:39,160
-oh my goodness
-
-41
-00:02:39,160 --> 00:02:43,820
-but that's not included as part of time-based media.
-
-42
-00:02:44,360 --> 00:02:47,100
-Okay, flexible content,
-
-43
-00:02:48,060 --> 00:02:50,060
-contrast of content,
-
-44
-00:02:50,400 --> 00:02:53,380
-the other principles will be covering
-
-45
-00:02:53,520 --> 00:02:55,860
-we're hopefully going to cover operable
-
-46
-00:02:55,860 --> 00:03:02,240
-which is very ... more heavily around developers as well as UX.
-
-47
-00:03:02,720 --> 00:03:05,520
-We hope to have that scheduled for June.
-
-48
-00:03:05,780 --> 00:03:09,280
-Understandable probably this fall, maybe September.
-
-49
-00:03:10,120 --> 00:03:11,480
-And then Robust.
-
-50
-00:03:12,360 --> 00:03:13,740
-Robust has one item,
-
-51
-00:03:14,800 --> 00:03:17,600
-and I wouldn't ask you all to come out just for one item,
-
-52
-00:03:17,600 --> 00:03:20,280
-so what we'll do for that is will cover Robust,
-
-53
-00:03:20,280 --> 00:03:25,600
-and then we'll summarize what we've you know covered with all these other sessions.
-
-54
-00:03:26,600 --> 00:03:29,500
-So, how will this be presented ...
-
-55
-00:03:31,360 --> 00:03:33,360
-WCAG is very dry.
-
-56
-00:03:34,000 --> 00:03:42,000
-If you read it you're going to all asleep and I'm just tell you right now it's very text heavy, very text-based.
-
-57
-00:03:42,500 --> 00:03:49,140
-So, and there's a lot of bullets so don't fear the bullets I know you're in Chicago but don't fear the bullets.
-
-58
-00:03:49,640 --> 00:03:52,160
-There's going to be plenty of code examples,
-
-59
-00:03:52,760 --> 00:03:54,460
-plenty of design examples,
-
-60
-00:03:54,460 --> 00:03:57,760
-and plenty of tools and resources in this presentation.
-
-61
-00:03:59,540 --> 00:04:01,860
 And of course plenty of my tacky jokes ...
 
-62
-00:04:02,180 --> 00:04:04,700
 [Video of Human League's "Human" plays]
 
-63
-00:04:04,980 --> 00:04:07,480
-[Dennis]: Because I'm human of course, so...
+**[Dennis]:** Because I'm human of course, so...
 
 64
 00:04:07,860 --> 00:04:10,340
