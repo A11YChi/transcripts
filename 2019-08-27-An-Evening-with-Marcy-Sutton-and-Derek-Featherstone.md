@@ -8,6 +8,8 @@ REMOTE CART CAPTIONING PROVIDED BY:
 ALTERNATIVE COMMUNICATION SERVICES, LLC
 www.CaptionFamily.com
 
+-----
+
 **Nick:** OK, everybody. We're going to get started. I want to make sure the captionist is -- I haven't seen anything. There it is. This is interesting. We have never had caption through interpreter, so this will be a new experience for everybody.
 
 Welcome to tonight's event. We're going to have a discussion with Marcy Sutton and Derek Featherstone and this will be moderated. Our co-organizers and Karen. If you have any questions, these are the people you want to talk to and we are here at sprouts social and also they are here if you have any questions.
