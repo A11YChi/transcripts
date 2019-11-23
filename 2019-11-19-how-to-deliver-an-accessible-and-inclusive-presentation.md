@@ -71,7 +71,7 @@ I often find that when I give a talk that's a lot of advice about like don't be 
 
 Can I get a half hearted yay? 
 
->> Yeah. 
+**ATTENDEES:** Yeah. 
 
 **FEN SLATTERY:** That was not half hearted that was too genuine. Oh, that's fine. We're going to be working on being more half hearted together as we go. 
 
@@ -403,7 +403,7 @@ Your question should be formed in the format of a question. — formed — oh co
 That ruined about — questions are like Jeopardy. Questions are like Jeopardy it should be formed as a question not as a statement also unlike Jeopardy I'm not Alex Trebek you shouldn't ask me a question to prove that you know something. You should instead ask me a question because you actually don't know the answer. I will take a few questions, also I'm on Twitter. I'm sorry we don't have much time. But I would be happy to talk to you afterwards, too, about questions. 
 Does somebody have a really good juicy question that would be relevant to a lot of us? Yeah. 
 
->> So at the beginning you were talking a bit about kind of inspiring emotions first and making that a priority. And I can imagine going in and preparing for a talk and having content that's really dry or not know how to bring that level of energy into it. I was wondering if you could talk more about that.
+**ATTENDEE** So at the beginning you were talking a bit about kind of inspiring emotions first and making that a priority. And I can imagine going in and preparing for a talk and having content that's really dry or not know how to bring that level of energy into it. I was wondering if you could talk more about that.
 
 **FEN SLATTERY:** I would be happy to talk more about that. The emotion — oh my God this microphone. I'm going to try the other one. Thank you I really appreciate — I really appreciate your patience with this microphone thing and you're wonderful I don't know your name. But you're wonderful very helpful. 
 
@@ -420,11 +420,11 @@ We're also low on time so it's probably good for all of us if you don't have que
 Okay. Cool, well I appreciate you all coming. Again, feel free to talk to me more on Twitter and stuff like that. Thank you. 
 (Applause).
 
->> Thank you all for coming. Fen, thank you for that very informative talk. I learned a lot. We'll apply a lot of that. 
+**MAYRA MARTINEZ** Thank you all for coming. Fen, thank you for that very informative talk. I learned a lot. We'll apply a lot of that. 
 
 If you have any questions, please let us know. We also have Alex in the back. If you would like to be a volunteer for the access — yes. Of course. 
 
->> Thanks so much. 
+**MAYRA MARTINEZ** Thanks so much. 
 
 ***
 This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings. 
