@@ -2,26 +2,7 @@
 ## Presenters: Jeff Mau, Diana Deibel, and Keith Soljacich - Thursday, April 18, 2019
 [Source Recording](https://www.youtube.com/watch?v=29SneVTDHBY&t=2s)
 
-CHICAGO DIGITAL ACCESSIBILITY & INCLUSIVE DESIGN MEET-UP
-ACCESSIBILITY IN VOICE EXPERIENCES
-
-APRIL 18, 2019
-
-
-CART CAPTIONING PROVIDED BY:
-ALTERNATIVE COMMUNICATION SERVICES, LLC
-
-www.CaptionFamily.com
-
-
-* * * * *
-This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings. 
-
-
-* * * *
-	 
-[Captioner standing by. Accessibility in Voice Experiences]
-	>> JEFF MAU:  So I'm all mic'd up so hi, I'm Jeff Mau.  I work with Keith at Digitas.  And Diana has been an expert helper with me with some of the coursework I teach at the institute of design related to conversational interfaces.  So we thought this would be a fun way to introduce accessibility and voice experiences with sort of a miniature panel.  So we hope that we will first share our thoughts on this topic.  And then open it up to, you know, questions and answers.  And it's a very, you know, tricky area to explore, because it's very new.  And, hopefully, that's what makes this fun.  
+**[Jeff]:** So I'm all mic'd up so hi, I'm Jeff Mau.  I work with Keith at Digitas.  And Diana has been an expert helper with me with some of the coursework I teach at the institute of design related to conversational interfaces.  So we thought this would be a fun way to introduce accessibility and voice experiences with sort of a miniature panel.  So we hope that we will first share our thoughts on this topic.  And then open it up to, you know, questions and answers.  And it's a very, you know, tricky area to explore, because it's very new.  And, hopefully, that's what makes this fun.  
 	 So here we are.  I just always get ahead of myself with my slides. So there's our pictures.  So the main premise of accessibility with voice experiences or conversational experiences is this is how I like to think about it.  I have to make sure I don't block the slide when I move around.  
 	 What do we do when accessibility alternative such as voice becomes the primary interface?  Historically with the web, you would have a screen reader or some other method of reading the words, if you have a need to hear them rather than see them.  But if the primary way is through speech, it kind of inverts itself.  I thought well, that's odd.  That's hard.  Like what's going on here?  So, I'm going set this up with some questions.  Hopefully we will attempt to answer.  
 	 So the main design question here is, you know, what are the challenges in creating a voice-based experience that's intentionally accessible.  That's our goal.  Frankly right now, I think most of the companies making these systems are just trying to build the system.  
