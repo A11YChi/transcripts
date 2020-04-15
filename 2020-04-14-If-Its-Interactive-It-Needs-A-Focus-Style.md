@@ -13,22 +13,22 @@ www.CaptionFamily.com
 This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings. 
 ***
 
-Attendee: You know, on the note of the reactions, is there a way to put, like, thumbs up or anything in the chat, or there are no reactions in the chat? 
-Attendee: Yeah, I don't think there are any ways to react in the chat. It's just, basically, if you align your face in the right way, you can pick your nose. 
-Attendee: That's pending the chat's there on the person's computer, right? 
-Attendee: Right. Or you can get slapped. 
-Attendee: Yeah, those snow flurries that we got for a little bit today were interesting. I was ‑‑ I have a friend in Minnesota, and she was saying that it was going to be heading our way. She got it on Easter. I was like, no, we're not going to get that. At least it was quick. 
+**Attendee:** You know, on the note of the reactions, is there a way to put, like, thumbs up or anything in the chat, or there are no reactions in the chat? 
+**Attendee:** Yeah, I don't think there are any ways to react in the chat. It's just, basically, if you align your face in the right way, you can pick your nose. 
+**Attendee:** That's pending the chat's there on the person's computer, right? 
+**Attendee:** Right. Or you can get slapped. 
+**Attendee:** Yeah, those snow flurries that we got for a little bit today were interesting. I was ‑‑ I have a friend in Minnesota, and she was saying that it was going to be heading our way. She got it on Easter. I was like, no, we're not going to get that. At least it was quick. 
 
 **ERIC BAILEY:** Yeah, we had some sleet, like last week. What's the joke if you don't like weather in New England? Just wait ten minutes. 
 
-Attendee: I remember a year ago around this time, we had, like, significant snowfall. Actually, just saw it on my phone. Yeah. It doesn't show. No. Fail. 
+**Attendee:** I remember a year ago around this time, we had, like, significant snowfall. Actually, just saw it on my phone. Yeah. It doesn't show. No. Fail. 
 
-Attendee: Hey, everybody. 
+**Attendee:** Hey, everybody. 
 
-Attendee: Hello. 
-Attendee: Hello. 
+**Attendee:** Hello. 
+**Attendee:** Hello. 
 
-Nick (Co-host): Hi. We're going to go ahead and start. You know, I'm going to ‑‑ anything before I start? Okay, good. I'm going to share my screen. 
+**Nick (Co-host)**: Hi. We're going to go ahead and start. You know, I'm going to ‑‑ anything before I start? Okay, good. I'm going to share my screen. 
 
 All right, let me ‑‑ okay. So thank you all for coming and joining tonight with Eric Bailey. Tonight's event, if you have any questions or technical Q&A, put out in Zoom or YouTube Live chat.
 
@@ -42,13 +42,13 @@ Heads up, if you prefer not to be in the recording, check your video camera is o
 
 We want to take a moment here, especially if you have any job openings related to accessibility, so I'm going to take a pause, if you want to share anything, any job opening. Or you can drop in chat. 
 
-Attendee: Nick, we have a question in the chat about the link to the slide deck. If you could drop that in when you have a chance. 
+**Attendee:** Nick, we have a question in the chat about the link to the slide deck. If you could drop that in when you have a chance. 
 
-Nick (Co-host): Yeah, I will do that. 
+**Nick (Co-host)**: Yeah, I will do that. 
 
-Karen (Co-host): I'll do it. 
+**Karen (Co-host)**: I'll do it. 
 
-Nick (Co-host): Okay, great. 
+**Nick (Co-host)**: Okay, great. 
 
 Okay. If no one has anything to share, we can move on. So we have a next event May 5th. It's tentative. It's always sunny in mobile accessibility, with Crystal Preston‑Watson. So we'll put out a Meetup in a couple days, so keep an eye out for that. 
 
@@ -158,67 +158,67 @@ Browsers are eating the world, and we're going to keep finding them in places we
 
 So thank you for your time, and to the Chicago Digital Accessibility Meetup group for setting this up. Thank you for the captioner. I really appreciate you taking the time. And, again, thank you to everyone tuning in today. I really appreciate your time and your attention and your consideration. I am reachable online via ericwbailey.design, that's my personal website, on most forms of social media, and these slides will be published. So now, I believe, I'm going to stop sharing, and we may have some time for questions. 
 
-Nick (Co-host): Yeah. We have one question from YouTube. I'm going to share in chat. So we had a question from Liz, who asked the question, "if you use keyboard navigation and then you shift to mouse, the dual focus can be confusing. For example, two items are used in keyboard and mouse, when they shift to items in the menu or highlighted," let me know if you understand the content of this question. 
+**Nick (Co-host)**: Yeah. We have one question from YouTube. I'm going to share in chat. So we had a question from Liz, who asked the question, "if you use keyboard navigation and then you shift to mouse, the dual focus can be confusing. For example, two items are used in keyboard and mouse, when they shift to items in the menu or highlighted," let me know if you understand the content of this question. 
 
 **ERIC BAILEY:** Yeah, if I'm understanding this correctly, the issue is when you have multiple inputs at the same time. So a mouse and a keyboard interacting near simultaneously. I think if my understanding is correct, that this is a good reason why your focus state should be separate from your hover state, in that you want to have a distinction between what is currently being hovered and what is being focussed, if there's a situation where you have those two input events kind of operating in tandem. Honestly, if somebody wants to hop in and tell me I'm wrong, feel free. But, you know, it's one of those if you're crafting a design system and it's a perfect world, that's kind of the thinking as to why you want to have a separate focus state from a hover state. And for the little comma trick that links them, that's just if, you know, your organization isn't prioritizing this sort of thing and you already have hover states because they are cool and pretty, and usually most websites do, just sneak that in when no one's looking. It's a little bit better, because it takes it from no focus indication whatsoever, to at least the focus effect is tied to something that visually updates on the screen. 
 
-Nick (Co-host): Cool, so Liz wanted to say thank you from YouTube. 
+**Nick (Co-host)**: Cool, so Liz wanted to say thank you from YouTube. 
 
 **ERIC BAILEY:** Whew. 
 
-Nick (Co-host): Good answer. All right, we're going to take a moment from live Q&A from anyone on Zoom. For those on YouTube, feel free to put in the chat and I'll relay to Eric. 
+**Nick (Co-host)**: Good answer. All right, we're going to take a moment from live Q&A from anyone on Zoom. For those on YouTube, feel free to put in the chat and I'll relay to Eric. 
 
 **ERIC BAILEY:** Jessica, I see your comment in the chat. The reason I made this deck is because of that fight. Just over and over and over again. 
 
-Attendee: I have a question. I guess in the same vein, if we do have clients or design teams that are really hesitant and really fighting against it, what other tools can we use to try to push for? I'd hate to sneak it in. I want to be able to convince people of the use of it, but sometimes it's really difficult. 
+**Attendee:** I have a question. I guess in the same vein, if we do have clients or design teams that are really hesitant and really fighting against it, what other tools can we use to try to push for? I'd hate to sneak it in. I want to be able to convince people of the use of it, but sometimes it's really difficult. 
 
 **ERIC BAILEY:** Yeah. I, personally, when I'm doing accessibility work, I like the ‑‑ you catch more flies with honey than vinegar kind of thinking. So like part of it is getting people to understand the importance. I think, you know, unfortunately, accessibility work is still not that mainstream, although it is getting better, and so, like, there may not be that knowledge of why a focus state is so important. The other kind of thing that just if you have the ability to, that is just absolutely so powerful, is test your product with somebody that relies on focus states. And the second they hit a page and don't know where they are, and, like, you know, your head of product is sitting there and just watching it, it is absolutely incredible, because it's very easy to read blog posts of text with, you know, people with impressive looking credentials and just be like, well, that's not me, but it's another thing to see a real human being trying to use something and not being able to because of the decisions you've made. And it's a big‑old slice of humble pie, but it's so incredible. 
 
-Attendee: That's a great point. Yeah, it builds up the empathy when you can see somebody else struggling with something you've built, or a decision that you've made, yeah. 
+**Attendee:** That's a great point. Yeah, it builds up the empathy when you can see somebody else struggling with something you've built, or a decision that you've made, yeah. 
 
-Attendee: I have a question. So when you had that slide where you had the link, the button, the detail, label, input, text area, and you're telling ‑‑ talking to a designer and saying that, you know, you're teaching them about styling the different focus states and they are used to going to Dribble or Pinterest for inspiration, and not a lot of places have those mapped out in design systems. Are there any organizations that have pretty esthetic options or examples? Because I know sometimes specs, they are just very plain and simple, that you can direct a designer to that might help them find more interesting‑looking patterns? 
+**Attendee:** I have a question. So when you had that slide where you had the link, the button, the detail, label, input, text area, and you're telling ‑‑ talking to a designer and saying that, you know, you're teaching them about styling the different focus states and they are used to going to Dribble or Pinterest for inspiration, and not a lot of places have those mapped out in design systems. Are there any organizations that have pretty esthetic options or examples? Because I know sometimes specs, they are just very plain and simple, that you can direct a designer to that might help them find more interesting‑looking patterns? 
 
 **ERIC BAILEY:** Yeah. I'm a big nerd, so I love other companies' design system style guides, and oh, Dribble, I could rant about Dribble for another hour. Like, typically, a mature style guide will include these kinds of things, either because they are making a serious attempt at it, or, honestly, they've been sued because of it and now they are including it because they've been compelled to. But you don't necessarily know that. So one of the cool things you can do is have that appeal to authority and be like, you know, well, Shopify does this, so, you know, they are legitimate. So that's maybe a way we could think about it. And then, you know, kind of following it up with just overwhelming them with resources, where it's like, well, here's seven full‑fledged design style guide systems with all the markup you could ever want, used by major commercial entities and, you know, what more could you do? Please, leave me alone. 
 
-Attendee: Mainly, just search for big brands that you enjoy and look for their style guides? 
+**Attendee:** Mainly, just search for big brands that you enjoy and look for their style guides? 
 
 **ERIC BAILEY:** Yeah, yeah. 
 
-Nick (Co-host): Cool. 
+**Nick (Co-host)**: Cool. 
 
 So we'll take a moment. We have a question from YouTube. I often see how the style that don't contrast strongly with the default state. Is that a major accessibility problem if there are more high contrast focus states? 
 
 **ERIC BAILEY:** I'd say yes in that color contrast guidelines are pretty specific. The math is pretty hammered down at this point, and if you were really interested in this kind of thing, they are actually updating it with, I believe, calculated luminosity and like this ties into, literally, how eyes see color because of physics and chemistry. It's really fascinating stuff, but to answer the question, if you are not meeting a high enough contrast value, there is the chance that a person may not be able to perceive it. So, like, this is the best resource we have for covering the widest amount of users, so if it's not meeting that ratio when the state is triggered, it may not be apparent, so it may not be obvious that it's been focused to, or it's being hovered, or its state has changed in some way. So, like, one thing I like to do is just ‑‑ if I can, just make it a little more obvious, so you have a larger area to indicate that. And that's kind of the difference between the underline on the link, which is, you know, usually a small one‑pixel underline, you know, popping in and out, which is kind of hard to perceive, or a larger kind of focus area, which may surround the entire element. 
 
-Karen (Co-host): We have another question from Jonathan in Zoom. I think you showed links using underlines when hovered over. Can't that cause a user to stop knowing they are links? 
+**Karen (Co-host)**: We have another question from Jonathan in Zoom. I think you showed links using underlines when hovered over. Can't that cause a user to stop knowing they are links? 
 
 **ERIC BAILEY:** I think that's a really interesting question. Potentially. And I'd say that that's ‑‑ that starts to open up into the question of digital literacy in that you can discover it by playing around with your interaction mode. But, you know, personally, I have family that are not technologically sophisticated, and I have kind of seen them ‑‑ not necessarily that specific kind of thing ‑‑ just struggle with these basic metaphors, which is, I think, if you'll let me kind of ramble for a second, kind of ammo for making utility obvious. So make your buttons look like buttons, make your links look like links, make your tabs look like tabs, because the more you can borrow from how everybody else does it, the more it may translate to, like, ah, this looks "ish," like the thing I'm used to, so I wonder if it will work the same way. 
 
 Josh Barr said material honesty. Yes, I love that phrase. 
 
-Attendee: Can you define "material honesty"? 
+**Attendee:** Can you define "material honesty"? 
 
 **ERIC BAILEY:** Yeah, so it's the idea that the thing looks like the thing it's built from. So a classic example is like a radio button that is analogous to, like, old‑time car radios, where you'd punch in, so you could only make one selection. Which I know just pops open the whole design debate, but it's one of those things where it's like sometimes you'll see designers that have the genius idea to make a checkbox, but make it a rounded circle instead of a square, and that starts to get into, well, what is this? You know, because all the other radios I see are circles, but this one's different, but I don't know it until I click it. I go in thinking I can choose one, and now I can choose many, is it broken, something I did? Oh, God. You know? 
 
-Attendee: Thank you. I like it, too. 
+**Attendee:** Thank you. I like it, too. 
 
-Nick (Co-host): Any last questions before we wrap up? I feel you put your eye rolled up, trying to think of questions. 
+**Nick (Co-host)**: Any last questions before we wrap up? I feel you put your eye rolled up, trying to think of questions. 
 
 I think we're going to wrap it up. Thank you all for joining us on Zoom and YouTube. And round of applause for Eric. Any parting word for us, Eric, before we close this up? 
 
 **ERIC BAILEY:** This was an absolute blast. Thank you so much for having me on. And then I see, if you'll permit me, Seth Kane in the chat is mentioning a future date, which is a virtual accessibility conference, which is kind of following up from CSUN, and it's futuredate.com. Inclusive 24 is coming, as well, and I'll be helping to run it this year, if it's something you're interested at all, please, pitch us. We'd love to have your submissions, and we're especially looking for new voices for accessibility of inclusive design, so we'd love to hear from you. 
 
-Santina (Co-host): Eric and Seth, I'm curious if you could share more information about what it is you're putting together for CSUN talks, because I know that ‑‑ at least myself, maybe one other ‑‑ one or two other people here in attendance, but I know some other of our usual attendees were scheduled to talk at CSUN and could not go for various reasons, obviously. 
+**Santina (Co-host)**: Eric and Seth, I'm curious if you could share more information about what it is you're putting together for CSUN talks, because I know that ‑‑ at least myself, maybe one other ‑‑ one or two other people here in attendance, but I know some other of our usual attendees were scheduled to talk at CSUN and could not go for various reasons, obviously. 
 
 Seth: Yeah, sure. So Future Date is basically a couple of people, about a dozen people that had talks or had engagements with CSUN that either got cancelled or got disappointed that things weren't being put online. So like example, Matt May and myself and a couple other people just decided to put together their time, energy, and effort and build an online conference. So everything will be curated, so topics ranging from legal, to UX, to a variety of different things. It will all be on YouTube, and then there is a schedule posted on the website right now with featured presenters, and as time permits, more talks are coming in, and people are basically just submitting their information. There's a panel of people that's selecting it. So it's next week. The dates are the 21st through the 23rd. And then if you're really just interested, the best way to follow is subscribe to the YouTube channel, and then you'll get notifications on what talks are coming up. And then for those legal‑minded individuals, we've actually decided to partner with ‑‑ oh, my God, I'm drawing a blank on the legal conference that got cancelled for accessibility, as well, but we're basically having ‑‑ going back and forth between the two groups. So it's going to be pretty cool. 
 
-Attendee: I just want to jump in and say, I mean, Seth gave a wonderful description, but I'll be presenting, I think next Thursday at the conference. I'll be talking about how I've incorporated accessibility into our QA testing process over at Base Camp. So it's been sort of a ‑‑ the idea, a lot of sort of introductory accessibility techniques, but also about sort of, like, you know, building trust from your team and that sorts of thing, so definitely check it out. The whole lineup of speakers is going to be really great. 
+**Attendee:** I just want to jump in and say, I mean, Seth gave a wonderful description, but I'll be presenting, I think next Thursday at the conference. I'll be talking about how I've incorporated accessibility into our QA testing process over at Base Camp. So it's been sort of a ‑‑ the idea, a lot of sort of introductory accessibility techniques, but also about sort of, like, you know, building trust from your team and that sorts of thing, so definitely check it out. The whole lineup of speakers is going to be really great. 
 
 **ERIC BAILEY:** Yeah, I love Base Camp. We just started using it internally, so that's really cool. 
 
-Attendee: Awesome. That's cool. For anyone who's not familiar, Base Camp is a project management software. It could be really useful if you're in a recently remote team. We've been remote for ‑‑ forever. And I've been at Base Camp about ten years. So if anyone has, you know, questions or wants to chat, too, about working remotely and working with remote teams and that sort of thing, feel free to hit me up by e‑mail, Michael@basecamp.com, or on Twitter. 
+**Attendee:** Awesome. That's cool. For anyone who's not familiar, Base Camp is a project management software. It could be really useful if you're in a recently remote team. We've been remote for ‑‑ forever. And I've been at Base Camp about ten years. So if anyone has, you know, questions or wants to chat, too, about working remotely and working with remote teams and that sort of thing, feel free to hit me up by e‑mail, Michael@basecamp.com, or on Twitter. 
 
-Nick (Co-host) Thank you all for sharing that. I think it's a good time to wrap it up and have a great evening. 
+**Nick (Co-host)** Thank you all for sharing that. I think it's a good time to wrap it up and have a great evening. 
 
 Thanks, everyone. 
 
