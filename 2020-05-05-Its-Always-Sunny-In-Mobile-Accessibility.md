@@ -1,13 +1,16 @@
 Tuesday, May 5, 2020
-***
+
+---
 Communication Access Realtime Translation (CART) captioning is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings.
 
 This transcript is being provided in rough‑draft format.
 
-**Title:** It's Always Sunny in Mobile Accessibility
+**Title:** _It's Always Sunny in Mobile Accessibility_ 
+
 Chicago Digital Accessibility & Inclusive Design Meetup 
+
 [STAND BY FOR LIVE CAPTIONS].
-*** 
+--- 
 
 **Santina Croniser:** If I could just have somebody confirm for me that you're seeing the slide full screen, the Digital Accessibility slide, where we say welcome. 
 
@@ -56,14 +59,17 @@ Feel free to share, and unmute yourselves accordingly.
 
 **Santina:** Sure. 
 
-**Crystal:**Sorry.  — **Santina:** You're also getting a compliment on your hair, from the chat! Oh, thank you, at least I can do that right. Versus. [LAUGHTER] sharing — my. 
+**Crystal:** Sorry.
+
+**Santina:** You're also getting a compliment on your hair, from the chat! 
+
+**Crystal:** Oh, thank you, at least I can do that right. Versus. [LAUGHTER] sharing — my. 
 
 **Santina:** No, not to worry, I'm sure everybody understands these kinds of things we take care of them ahead of time so nobody sees them usually, it's just, you know, the nature of our "new normal", right? 
 
 **Crystal:** Yeah, it's been a while since I had to do a presentation, while in — like, on Zoom, and it's usually, like, I'm just listening to other people. 
 
 **Santina:** Right, right. 
-
 
 **Crystal:** Okay, I think I have.... I just started. Let me get out of that. I promise, the presentation will be a lot better. Okay. Okay, so let me share my screen. And then. 
 
@@ -76,11 +82,12 @@ Feel free to share, and unmute yourselves accordingly.
 **Crystal:** Okay, awesome. Let me stop sharing so I can go back to — 
 
 **Santina:** Okay. 
+
 **Crystal:** Okay. 
 
 **Santina:** I'll go ahead and put up the slides, and then you'll see me fumble. Looks like I got it, whooo! There we are! Awesome. Thank you, for doing that. And, it looks like we're good. So we'll just continue, to hang out. We're just doing a little bit of an ice‑breaker, I'm not sure if you were here, when I was mentioning that. People can feel free to take themselves off of mute. If you feel comfortable doing so, and sharing out loud, or you can continue to just share in the chat, whichever you feel most comfortable with.
 
-**Crystal:**I do — because I found a critical — um, mistake in my slides, can I send you slides? It's, like, literally, just, two slides that need to be replaced. And I know — [LAUGHTER] I'm so sorry. 
+**Crystal:** I do — because I found a critical — um, mistake in my slides, can I send you slides? It's, like, literally, just, two slides that need to be replaced. And I know — [LAUGHTER] I'm so sorry. 
 
 **Santina:** Sure, that shouldn't be a problem. Feel free to go ahead and fix them. We could, um... if you shoot them over to Nick, we can either try to do this, Live, or we can send out the corrected slides afterwards. It shouldn't be a problem. 
 
@@ -104,10 +111,7 @@ Feel free to share, and unmute yourselves accordingly.
 
 **Crystal:** (giggling)... 
 
-**Santina:** This is all so exciting, I see that we have people tuning in from all over the United States. I saw, California, which is, actually, where I am now, I moved from Chicago. I saw — I think I saw North Carolina in here? 
-
-(Chicago, of course, it which is where most of us are based. So... incredibly exciting that we have this opportunity to all come together! 
-(Laughing), yes, Chicago coast is the best coast! Although you know... Californians will argue that. (Laughing) (Santina Croniser) I see we have Boston.... 
+**Santina:** This is all so exciting, I see that we have people tuning in from all over the United States. I saw, California, which is, actually, where I am now, I moved from Chicago. I saw — I think I saw North Carolina in here? (Chicago, of course, it which is where most of us are based. So... incredibly exciting that we have this opportunity to all come together! [LAUGHTER], yes, Chicago coast is the best coast! Although you know... Californians will argue that. (Laughing) (Santina Croniser) I see we have Boston.... 
 
 **Nick:** Crystal, I dropped the latest deck in the chat. So feel free to follow along. 
 
@@ -117,19 +121,17 @@ Feel free to share, and unmute yourselves accordingly.
 
 I'm Santina as it says on the slide, and we already did the introductions, we'll perhaps, have some after — to just chat and kind of talk and catch up, as well; so, you can feel free to stay after for that as well. Feel free to continue introducing yourselves, as well while I'm speaking. Just a reminder: That if you do not want to have your face captured in any way or you don't want to speak, that's absolutely okay. We're completely fine with that. Just make sure you turn off your video camera, and/or turn off your audio, and certainly turn off your audio while the speaker is speaking. We'll go ahead and go through the announcements and introduction, and then we'll get started. It should not actually take me that long to get through the slides. 
 
-We'll get started with our Speaker, Crystal Preston-Watson. "It's Always Sunny in Mobile Accessibility". And then we'll wrap up around 7:30. If you would like to follow along with the slides, you can certainly do so. We have speakerdeck.com/A11YChi. And nick did post that in the chat as well. So if it's easier for you to click on a link, go ahead and find that link in the chat. 
+We'll get started with our Speaker, Crystal Preston-Watson. "It's Always Sunny in Mobile Accessibility". And then we'll wrap up around 7:30. If you would like to follow along with the slides, you can certainly do so. We have [speakerdeck.com/A11YChi](https://speakerdeck.com/a11ychi). And Nick did post that in the chat as well. So if it's easier for you to click on a link, go ahead and find that link in the chat. 
 
-Live captioning is available, on any device with a web browser, so to access that, you simply go to streamtext.net/player? Event = CDA, with the capital CDA. 
+Live captioning is available, on any device with a web browser, so to access that, you simply go to [streamtext.net/player?Event=CDA](http://streamtext.net/player?Event=CDA), with the capital CDA. 
 
-Live captioning is sponsored by McDonald's! 
-
-So thank you, very much, McDonald's for sponsoring the live captioning! 
+Live captioning is sponsored by McDonald's! So thank you, very much, McDonald's for sponsoring the live captioning! 
 
 [APPLAUSE]
 
 And please do keep the discussions going on Twitter, you know, A11YChi. @A11YChi or # A11YChi; and, you know, taking quotes from the speaker is a great way, to not only boost the — your own visibility, but certainly, boost the visibility of the speaker. So the speakers always appreciate when you can —@them along with an interesting (Santina Croniser) interesting piece of information that — she might have had, that resonated with you! 
 
-**Santina:** (Continuing), of course, we do have our YouTube channel. You might be tuning in live on the YouTube channel right now, but if you would like to have this presentation afterwards, you want to send that out. Or you want to refer back to something, just go to YouTube.com/A11YChi. 
+**Santina:** (Continuing), of course, we do have our YouTube channel. You might be tuning in live on the YouTube channel right now, but if you would like to have this presentation afterwards, you want to send that out. Or you want to refer back to something, just go to [YouTube.com/A11YChi](http://youtube.com/a11ychi). 
 
 ... 
 
@@ -137,31 +139,21 @@ Oops! Ah! Sorry about that.
 
 Again, if you prefer not to be in the recording, check to make sure that your camera is off. Please do hold Q&A, for the very end, we will be monitoring chat as I mentioned, as you might have heard me say. Nick, myself, and — in the — and the rest of the organizers are going to go ahead and monitor those chats, and we will raise those questions at the very end. 
 
-Also, if you have any technical issues, or any questions, please feel free to ping us in the chat. We will go ahead and monitor those and help you out as much as we can. So I want to open this up, for jobs? 
-
-Feel free to take yourself off of mute. 
-
-If you are offering a job, and/or, just post that in the chat! 
-
-And, of course, if you are looking for a job, as well. Feel free to take yourself off mute. And mention that and/or post that in chat. So I'm just going to pause for a minute. So folks can go ahead and do that. 
+Also, if you have any technical issues, or any questions, please feel free to ping us in the chat. We will go ahead and monitor those and help you out as much as we can. So I want to open this up, for jobs? Feel free to take yourself off of mute. If you are offering a job, and/or, just post that in the chat! And, of course, if you are looking for a job, as well. Feel free to take yourself off mute. And mention that and/or post that in chat. So I'm just going to pause for a minute. So folks can go ahead and do that. 
 
 (A pause) 
 
-**Santina:** Very quiet today. All right! 
-
-Not your only opportunity. So if you have a job to offer and/or if you're looking for job, go ahead and mention that in chat and we can circle back towards the end and also we can announce that — we can open it up for another opportunity if — if folks weren't able to unmute or didn't get a chance to say that. 
+**Santina:** Very quiet today. All right! Not your only opportunity. So if you have a job to offer and/or if you're looking for job, go ahead and mention that in chat and we can circle back towards the end and also we can announce that — we can open it up for another opportunity if — if folks weren't able to unmute or didn't get a chance to say that. 
 
 Also, wanted to plug our next event. That's going to be occurring on May 21st, for global accessibility awareness day. We're don't go with to have an invisible disabilities panel, where myself, Keidra Chaney, Fen Slattery, and like I said myself, hopefully, you can join us for that! Very excited that we will be talking about "invisible disabilities. " 
 
-And now to introduce Crystal, pronouns she/her a Quality Engineer with a focus on accessibility at Salesforce, she believes accessibility is "a human right" and is passionate about building accessible and inclusive applications for everyone, and, of course, the Twitter go ahead, and@her, if you do quote her,@SCOPIC engineer. And, now I'm going to go ahead and turn this over to Crystal. So Crystal, I'm going to stop sharing.
+And now to introduce Crystal, pronouns she/her a Quality Engineer with a focus on accessibility at Salesforce, she believes accessibility is "a human right" and is passionate about building accessible and inclusive applications for everyone, and, of course, the Twitter go ahead, and @ her, if you do quote her, [@ScopicEngineer](https://twitter.com/ScopicEngineer). And, now I'm going to go ahead and turn this over to Crystal. So Crystal, I'm going to stop sharing.
 
 You can feel free to go ahead, and bring up your presentation! 
 
 **Crystal:** Okay. Let me make sure — I do this. (Taking the mic) all righty! I have done it — let me share my screen. (Giggling) and then I will share my presentation! 
 
-Hopefully you can see — (giggling) you can now see my presentation! So, thank you for the introduction (to Santina). I'm Crystal, and this is — it's "It's Always Sunny in Mobile Accessibility", and as you can guess, I am a huge — it's always sunny in Philadelphia fan! (Giggling). So — and — I — I realize that, this title, could be a little bit, you know, given this — the kind of style of the show, it could be a little bit kind of, maybe weird, but, I — I love the show, so I just thought you know what? I — I'm, you know, passionate about mobile accessibility and I really like that show. You know what? Go with this title. So, I am a Quality Engineer at salesforce.org, and on the screen — is Frank Reynolds, played by Danny DeVito in the show, dressed as an art critic. I am forgetting the character's name. But, this is going to be my Halloween costume. For this — [LAUGHTER] For this next year, even if it's just sitting in my house. Due to everything that's going on. 
-
-(Continuing) so this is kind of, over view of what I'm going to talk about. Going forward. And I'm — and I'm (giggling) I realize I'm look to the side — so for those, who can see me — I'm very — I'm someone who is very awkward, and also. I am someone who has visual impairment. I have Caraco n is and Ocular toxoplasmosis , so I don't have — I have my macula scarred in my right eye. The screen in front of me is really zoomed in. So this — just kind of a preference, if I go like that and I'm staring off, I'm reading my notes. But, so I'm going to go — this is our kind of, framework for what I'm going to talk about tonight (referring to PowerPoint) I'm going to say a few words on mobile usage. 
+Hopefully you can see — (giggling) you can now see my presentation! So, thank you for the introduction (to Santina). I'm Crystal, and this is — it's "It's Always Sunny in Mobile Accessibility", and as you can guess, I am a huge — it's always sunny in Philadelphia fan! (Giggling). So — and — I — I realize that, this title, could be a little bit, you know, given this — the kind of style of the show, it could be a little bit kind of, maybe weird, but, I — I love the show, so I just thought you know what? I — I'm, you know, passionate about mobile accessibility and I really like that show. You know what? Go with this title. So, I am a Quality Engineer at salesforce.org, and on the screen — is Frank Reynolds, played by Danny DeVito in the show, dressed as an art critic. I am forgetting the character's name. But, this is going to be my Halloween costume. For this — [LAUGHTER] For this next year, even if it's just sitting in my house. Due to everything that's going on. (Continuing) so this is kind of, over view of what I'm going to talk about. Going forward. And I'm — and I'm (giggling) I realize I'm look to the side — so for those, who can see me — I'm very — I'm someone who is very awkward, and also. I am someone who has visual impairment. I have Caraco n is and Ocular toxoplasmosis , so I don't have — I have my macula scarred in my right eye. The screen in front of me is really zoomed in. So this — just kind of a preference, if I go like that and I'm staring off, I'm reading my notes. But, so I'm going to go — this is our kind of, framework for what I'm going to talk about tonight (referring to PowerPoint) I'm going to say a few words on mobile usage. 
 
 Do a WCAG overview for those who may not know — or new to what — to web accessibility, and the Guidelines — exploring WCAG 2.1, mobile success criteria. And then explaining a little bit about Android™ Ios features and tools. I do want to preface: This is really not getting into any sort of, like, code. I just — I feel like, that, would just — unless we wanted to take, like, five hours — and dive deep! And that's — and I didn't — I didn't want to put in any code. This is kind of a — kind of introductory talk to mobile accessibility and really kind of giving some of — of the gist of the guidelines that WCAG covers. Specifically, applies to mobile, devices. So on the screen is a screenshot of an article from the BBC. 
 
@@ -175,20 +167,18 @@ And this is from WebAim. This is something — from their — this is from 201
 And it goes from January 2009 to October 2017. And from — from over the years, the amount of readers — of readers, and of people who they surveyed, use Mobile screen readers — increased significantly. It was 12% in 2009. And in October 2017, it was up to 88% of the people they — who they surveyed used a mobile screen reader. I just looked today from their latest survey, in 2019, and, though, they didn't really pull for this particular screen reader usage, in this particular way, but 86% of the people did respond, actually, yes. And so 80 — 80% of the people who did respond, did use a screen reader on their phone. 
 So it's pretty much the same. And, though, it's — and it's only going to grow. And I know, like, WebAim is just a small portion, but you can kind of take just by the fact that, you know, screen reader — like, — mobile phone usage, just in general, is on the rise — that's only — that only means that people who rely on Accessibility and assistive technology, also will be using mobile smartphones, and that their need for assistive technology like screen readers, will also be on the rise, also. 
 
-**Crystal:**And so we're going to go on to WCAG overview: 
-
-Hi, everybody out there! I hope you're all doing well (giggling) you know what? I'm going to take a little bit. And I — I am so — I do — believe it or not, I did improv. So I'm going to improv right now! I get really nervous, I have social anxiety disorder. If you haven't figured out. If you couldn't tell! [LAUGHTER] So I get really nervous, so I'm just going to shake it out. Going to do, you know — I'm not going to do voices, because — if you ever see me do an improv show, I only do a southern voice, or when I try to do Italian voice they're, like, "That's a really good Jamaican woman that you did". And I'm, like, okay, let's move on to WCAG, this is the overview. For those of you new to web accessibility — and I pronounce it WCAG, I think you can pronounce it different ways. That's just the easiest way for me to pronounce it, it stands for Web Content Accessibility Guidelines. And, they're a series of guidelines that, many people have used throughout for improving web accessibility. It was created by W3C, which is the worldwide web consortium. And, like, if you are if you're new to web accessibility, you work with — it's something that you do professionally, career‑wise, you know WCAG! 
+**Crystal:** And so we're going to go on to WCAG overview: Hi, everybody out there! I hope you're all doing well (giggling) you know what? I'm going to take a little bit. And I — I am so — I do — believe it or not, I did improv. So I'm going to improv right now! I get really nervous, I have social anxiety disorder. If you haven't figured out. If you couldn't tell! [LAUGHTER] So I get really nervous, so I'm just going to shake it out. Going to do, you know — I'm not going to do voices, because — if you ever see me do an improv show, I only do a southern voice, or when I try to do Italian voice they're, like, "That's a really good Jamaican woman that you did". And I'm, like, okay, let's move on to WCAG, this is the overview. For those of you new to web accessibility — and I pronounce it WCAG, I think you can pronounce it different ways. That's just the easiest way for me to pronounce it, it stands for Web Content Accessibility Guidelines. And, they're a series of guidelines that, many people have used throughout for improving web accessibility. It was created by W3C, which is the worldwide web consortium. And, like, if you are if you're new to web accessibility, you work with — it's something that you do professionally, career‑wise, you know WCAG! 
 
 (Continuing) (next slide), now, let me kind of — talking about — and, again, I don't know where everybody is on — on their knowledge of web accessibility. So I'm not going to go too, too deep, into kind of the intro — and kind of base — like, all the basics of WCAG. Just because, I — when I've tried to do this, this talk has ended up being two hours! [LAUGHTER] But I'm going to give the brief overview, on the slide we're going to talk about the "four principles" of WCAG. 
 
 And these are very — I think if you take away anything from WCAG, even if you don't work — if you're not doing things day‑to‑day, for accessibility; and I know kind of unfortunately, the nature of some people in positions, is that — and in certain companies you don't get to do Accessibility every — you know, like, all the time. And that's not your — some companies are, like, "Well, you know, still it's a thing that's nice to have" and, like, "We'll get to that later" I'm not going to off — that's a whole different area. If you're going to take away anything, going to remember anything, especially even if you're not focused on... um, accessibility, remember these four principles of WCAG: And those are. 
 
-1. perceivable. 
-2. operable 
-3. understandable 
-4. robust... 
+1. Perceivable. 
+2. Operable 
+3. Understandable 
+4. Robust 
 
-if you were a a in the '90s, pour. Users must be able to perceive the information presented. Operable users must be able to operate the interface, understandable, users must be able to understand the information as well as the operation of the user interface. Robust: Users must be able to access the content as technologies advance. 
+... if you were a a in the '90s, pour. Users must be able to perceive the information presented. Operable users must be able to operate the interface, understandable, users must be able to understand the information as well as the operation of the user interface. Robust: Users must be able to access the content as technologies advance. 
 
 And then also, when it comes to (next slide) conforming to WCAG guidelines, there is three levels of conformance. 
 
@@ -198,11 +188,7 @@ Level AA: And that kind of — addresses — the most major, most common acces
 
 I — I — got this from W3C, and it does — it says — I think it's a higher standard, it says "most complex" — I like that it's the higher standard, not "most complex" because I think that can really intimidate some, you know, — some teams, like, let's not even try for — a AAA on something. Because that's too complex. And I think you can't get maybe AAA on every single, you know, piece of function that you have on your Web site, but for a lot of areas, I think for, you know, — you can definitely try for that. And you can definitely succeed. 
 
-So that's more — less of — the most complex, and just the hierarchy of it. 
-
-So, if you're not in the "know", there is WCAG 2.0 and there's WCAG 2.1. 
-
-And WCAG 2.0 which are the guidelines, they were released about nearly ten years ago; and one of the main things is, like, if you think about mobile accessibility — ten years ago, which is 2010 — they're — I mean, you know, smartphones were a thing. But it was still kind of — I want to say, like, the Wild West of figuring out, like, apps. You know, it was only — I forget when I — like, the iPhone — really came out — but I — you know, I still feel, like, you know, Mobile Devices, and mobile phones were still kind of in their toddler ages, maybe around, like, that, you know, age where kids, like, learn the word ", like, no, and they'll say no, do you want ice cream? It's, like, no! (Giggling), do you want, like, broccoli, like, no! So everything is no. So that's kind of where I feel — when WCAG 2.0 came out, there was a lot going on when it came to mobile applications. And mobile development. And so it did not — it really didn't deal with mobile accessibility. It was mostly geared towards, you know, browser web‑based accessibility. And you pretty much had to take what, you know, what it said about that. And then tried to figure out, and apply it to your mobile device. That's really (laughing), it's — and it works for basic things, say, like, with alttext, and even color contrast and things like that. But when you get into Native Mobile, kind of functionality, that's where it gets really tricky. 
+So that's more — less of — the most complex, and just the hierarchy of it. So, if you're not in the "know", there is WCAG 2.0 and there's WCAG 2.1. And WCAG 2.0 which are the guidelines, they were released about nearly ten years ago; and one of the main things is, like, if you think about mobile accessibility — ten years ago, which is 2010 — they're — I mean, you know, smartphones were a thing. But it was still kind of — I want to say, like, the Wild West of figuring out, like, apps. You know, it was only — I forget when I — like, the iPhone — really came out — but I — you know, I still feel, like, you know, Mobile Devices, and mobile phones were still kind of in their toddler ages, maybe around, like, that, you know, age where kids, like, learn the word ", like, no, and they'll say no, do you want ice cream? It's, like, no! (Giggling), do you want, like, broccoli, like, no! So everything is no. So that's kind of where I feel — when WCAG 2.0 came out, there was a lot going on when it came to mobile applications. And mobile development. And so it did not — it really didn't deal with mobile accessibility. It was mostly geared towards, you know, browser web‑based accessibility. And you pretty much had to take what, you know, what it said about that. And then tried to figure out, and apply it to your mobile device. That's really (laughing), it's — and it works for basic things, say, like, with alttext, and even color contrast and things like that. But when you get into Native Mobile, kind of functionality, that's where it gets really tricky. 
 
 And the Guidelines really, don't — there is really not a good way to kind of take the — the guidelines, and then for, like, — say, a web — a site in the — in a web browser and then, apply them to a mobile application. (Continuing) so 2.1 came out, I believe — it was.... the beginning of 2018. January 2018. 
 
@@ -255,7 +241,7 @@ Android™ accessibility tools, you have A xe for Android™, that one does exis
 
 (Next slide) and that.... is.... it! Thank you very much! This is my Web site, I think the LinkedIn is wrong, but it's correct on my Web site! [LAUGHTER] 
 
-And so, you know, Web site CrystalPreston Watson.com. I'm not going to read the LinkedIn one because it's incorrect. And I do know what it is, I do know, I corrected it on my Web site, and my Twitter is@Scopicengineer. And I do have some resources — you can —@me on Twitter. Or, you know, find me on LinkedIn, and — if you want some links to these resources, I can definitely let you know. I can send those to you — yeah, and that's it. 
+And so, you know, Web site [CrystalPrestonWatson.com/](https://crystalprestonwatson.com/). I'm not going to read the LinkedIn one because it's incorrect. And I do know what it is, I do know, I corrected it on my Web site, and my Twitter is@Scopicengineer. And I do have some resources — you can —@me on Twitter. Or, you know, find me on LinkedIn, and — if you want some links to these resources, I can definitely let you know. I can send those to you — yeah, and that's it. 
 
 [APPLAUSE]
 
