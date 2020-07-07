@@ -1,9 +1,7 @@
  
 # Professional Testers with Disabilities
 
-A11yChi Meetup
-June 9, 2020 
-7:00 P.M. E.T.
+An A11yChi Meetup on June 9, 2020 at 7:00 PM Eastern Time
 
 CART CAPTIONING PROVIDED BY: 
 ALTERNATIVE COMMUNICATION SERVICES, LLC 
@@ -328,42 +326,71 @@ _Begins 2.5 minute video_
 **Heather:** Why don’t you move to the About page and find out a little bit more about Thomas Logan.
 
 **Vanh:** OK
+
 [Focus moving within the Equal Entry menu bar]
 
-**JAWS:** 
-Our Work | Equal Entry
+**JAWS:** Our Work | Equal Entry
+
 Banner re..
+
 Blog
+
 About
+
 Contact Us
+
 About
+
 Menu Menu
 
 **Vanh (in an almost whisper):** About
 
 [New page load]
+
 **JAWS:** Title is About | Equal Entry
+
 Banner region
+
 Skip to content
+
 Heading level 1
+
 Site Navigation region
+
 Visited link Home | Equal Entry
+
 Services menu 
+
 Our Work
+
 About
+
 Heading level
+
 Our History
+
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
+
 Subscribe to our mailing list
+
 Rapping to top
+
 [Screen scrolls back to the Equal Entry menu bar]
+
 About 
+
 Heading level 1
+
 Heading level 2 Our History
+
 Blank
+
 Equal Entry was
+
 Over the p..
+
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
+
 Main region end
 
 **Vanh:** huh! Ok.
@@ -371,18 +398,31 @@ Main region end
 [Screen scrolls back to the Equal Entry menu bar]
 
 **JAWS:** Our History
+
 Heading
+
 Heading
+
 Blank
+
 Contribute
+
 Main region
+
 Site navigation
+
 Search 
+
 Site Contact us
+
 About Menu
+
 Menu
+
 About Menu
+
 Leaving menus
+
 | Equal Entry
 
 **Heather:** Hold on. You we’re going quickly there. so 
@@ -404,14 +444,19 @@ Leaving menus
 **Heather:** Yum-uh
 
 **JAWS:** Heading Level 2 Our History
+
 Equal Entry
+
 Over the past six years, Equal Entry has grown into a global company, with team members joining us from throughout Europe, Asia, and the Americas. While we are fluent
 
 **Vanh:** And then, I think I jumped back up. Ok hold on.
+
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
 
 **JAWS:** Main region end
+
 [Screen scrolls back to the header Our History, also visible is the heading Our Team]
+
 Our Equal Entry was founded in 2012 by accessibility expert Thomas Log..
 
 **Heather:** so that, um, how did you get to that Main region end. What keypress were you using there?
@@ -423,9 +468,11 @@ Our Equal Entry was founded in 2012 by accessibility expert Thomas Log..
 **JAWS:** Region End
 
 **Vanh:** oh, I arrowed down. Or um, I was using the paragraph, uh command. And moved JAWS to fast, that was all.
+
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
 
 **Heather:** OK, so
+
 [Screen scrolls back to the header Our History, also visible is the heading Our Team]
 
 **JAWS:** Equal Entry was founded in 2012 by a
@@ -443,8 +490,11 @@ Our Equal Entry was founded in 2012 by accessibility expert Thomas Log..
 **Vanh:** That is the heading and there are 2
 
 **JAWS:** Equal Entry was found
+
 Over the past
+
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
+
 Main Region End
 
 **Vanh:** paragraphs here. 
