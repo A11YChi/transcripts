@@ -17,7 +17,7 @@ This is being provided in a rough-draft format. Communication Access Realtime Tr
 
 **Nick Ng:** The YouTube Live is now set. I'll go ahead and introduce myself.
 
-So I'm Nick Ng, pronoun is he/him. Located in Chicago. I'm co‑organizer in Chicago and what helped relieve stress was a bad thing I've been buying a lot of book which is is really terrible, I have like a stack of them, which I got rid of a lot in the past before the pandemic and now I Amgen. I'm happy you're all here.
+So I'm Nick Ng, pronoun is he/him. Located in Chicago. I'm co‑organizer in Chicago and what helped relieve stress was a bad thing I've been buying a lot of book which is is really terrible, I have like a stack of them, which I got rid of a lot in the past before the pandemic and now I am stress feeding it again. I'm happy you're all here.
 
 **Santina:** Very cool! Nick, we are recording now, or is that something that we will do after we go through the introductory questions and we'll have that in the chat?
 
