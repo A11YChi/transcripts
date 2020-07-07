@@ -47,7 +47,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Heather:** Yes. [LAUGHTER] Someone got it, good.
 
-**Karen Viado:** I'm Karen, I'm another one of the co‑organizers, my pronouns are she/her and I'm based in Chicago, and something I've bought for stress relief? I just started art journaling, so I'm like getting journals and art supplies and trying to get better at drawing and writing, so its been a lot of fun, but it's new.
+**Karen Viado:** I'm Karen, I'm another one of the co‑organizers, my pronouns are she/her and I'm based in Chicago, and something I've bought for stress relief? I just started art journaling, so I'm like getting journals and art supplies and trying to get better at drawing and writing, so it's been a lot of fun, but it's new.
 
 **Santina:** Sounds like fun.
 
