@@ -53,9 +53,9 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Nick:** Where do you buy your art supplies?
 
-**Karen:** I like to go to Atlas Natures it's a place in Downtown Chicago, and it's also, there's a place in Andersonville, also another Chicago neighborhood called Martha May which is very adorable, very cute, but those are like my main places, and then borrowing stuff from my sister whose a teacher, [LAUGHTER] So I take her stuff.
+**Karen:** I like to go to Atlas Stationers. It's a place in Downtown Chicago, and it's also, there's a place in Andersonville, also another Chicago neighborhood called Martha Mae which is very adorable, very cute, but those are like my main places, and then borrowing stuff from my sister whose a teacher, [LAUGHTER] So I take her stuff.
 
-**Santina:** I believe I can't remember is Martha May the name of the dog that's in the place?
+**Santina:** I believe I can't remember is Martha Mae the name of the dog that's in the place?
 
 **Karen:** Yes.
 
@@ -63,7 +63,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **John:** [LAUGHTER]
 
-**Nick:** Santina for your intro, what you created?
+**Nick:** Santina for your intro, what you did you purchase or create?
 
 **Santina:** I'm sorry?
 
@@ -135,7 +135,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Alyssa:** Oh, yeah I remember that. Nice to talk to you again.
 
-**Dan:** Well I think a full‑page display is coming because the American Printing House for the Blind just did a proposal and looking for partners to develop graphics display.
+**Dan:** Well I think a full‑page display is coming because the American Printing House for the Blind just did a request for proposal and looking for partners to develop graphics display.
 
 **Alyssa:** I so want to be a beta tester, that would be so much fun.
 
@@ -151,7 +151,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Alyssa:** I just like playing with the toys.
 
-**Dan:** I'm that way too and I'm disappointed that the conventions are virtual.ACB convention was going to be in Schaumburg which isn't too far from me. Of course it's not going to happen.
+**Dan:** I'm that way too and I'm disappointed that the conventions are virtual. ACB convention was going to be in Schaumburg which isn't too far from me. Of course it's not going to happen.
 
 **Alyssa:** Yeah.
 
@@ -159,7 +159,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Santina:** Everyone is curious what displays you're thinking of.
 
-**Dan:** Do I have?
+**Dan:** Which do I have?
 
 **Santina:** Which ones that you've narrowed it down to I believe.
 
@@ -167,7 +167,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Alyssa:** That could be helpful.
 
-**Dan:** People who say that braille is dying it's not true. We've had a whole cycle of new braille products in the past couple years, and the education establishment is finally realizing that if people don't read braille, they're not literate and if people aren't literal they can't work in any field, so it's not like people are making the connection between literacy and work and also, STEM subjects especially. You have to know braille to do them. Oh, wow it's 6:30.
+**Dan:** People who say that braille is dying it's not true. We've had a whole cycle of new braille products in the past couple years, and the education establishment is finally realizing that if people don't read braille, they're not literate and if people aren't literate they can't work in any field, so it's not like people are making the connection between literacy and work and also, STEM subjects especially. You have to know braille to do them. Oh, wow it's 6:30.
 
 **Alyssa:** Do I need to mute?
 
@@ -175,21 +175,23 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Nick:** Yeah, we can get started. So there's time at the end for Q & A.
 
-**Santina:** Sure, great.FYI, feel free to ask any questions in the chat and do feel free to continue to introduce yourselves as well until the speakers start.
+**Santina:** Sure, great. FYI, feel free to ask any questions in the chat and do feel free to continue to introduce yourselves as well until the speakers start.
 
-I won't be able to see chat because I'll be switching over to the presentation slide deck. So there we are, bear with me for that. Folks did ask about live captions. We have that link in the chat and Karen if you could place that in the chat again I'd greatly appreciate that. You can reach that with a web browser. This is the link.
+I won't be able to see chat because I'll be switching over to the presentation slide deck. So there we are, bear with me for that. 
 
 -----
 
 ## Announcements and introduction
 
-**Santina:** Our captioning is sponsored by McDonald's, so thank you very much, McDonald's!
+**Santina:** Folks did ask about live captions. We have that link in the chat and Karen if you could place that in the chat again I'd greatly appreciate that. You can reach that with a web browser. This is the link.
+
+Our captioning is sponsored by McDonald's, so thank you very much, McDonald's!
 
 You can, of course follow along with the slide show on your own device and look for professional testers with disabilities. Just go to speakerdeck.com/a11ychi.
 
 Of course keep the discussions going on Twitter, using the hashtag, A11yChi.
 
-We are live streaming this on YouTube, so hello to everybody on YouTube. You can ask questions through chat on YouTube as well, and if you would like to follow along with us on YouTube, this is the website. We do post the recordings from our meet‑up groups on there as well, so if you'd like to refer back to this talk and/or if you want to send it to your friends please feel free to do that and I'm just screwing that up all of a sudden.
+We are live streaming this on YouTube, so hello to everybody on YouTube. You can ask questions through chat on YouTube as well, and if you would like to follow along with us on YouTube, this is the website. We do post the recordings from our meet‑up groups on there as well, so if you'd like to refer back to this talk and/or if you want to send it to your friends please feel free to do that and I'm just screwing that up [LAUGHTER] all of a sudden.
 
 Just a reminder if you prefer not to be in the recording, make sure that your camera is off, hold questions for the Q & A time after the presentation, the co‑organizers will monitor the chat for technical issues and questions. I don't know what's wrong with my mouse right now. Just want to take a pause for jobs?
 
@@ -205,7 +207,7 @@ Heather is currently a full time Accessibility Consultant for Equal Entry a comp
 
 John G. Samuel, John G. is an award winning business development leader with other 13 years of experience building strategic partnerships and designing profitable business models and transforming organizations around the world.
 
-He's currently the Head of LCI Tech and responsible for launching a new technology, excuse me, responsible for launching the new technology services business for LCI which is one of the largest employers of Americans who are blind. John has a proven record of accomplishment of leading start up initiatives, previously helping build Homestrings a fintech platform focused on investments, and starting a highly successful joint venture in Cameroon for Aster, a global telecom infrastructure company.
+He's currently the Head of LCI Tech and responsible for launching a new technology, excuse me, responsible for launching the new technology services business for LCI which is one of the largest employers of Americans who are blind. John has a proven record of accomplishment of leading start up initiatives, previously helping build Homestrings, a fintech platform focused on diaspora investments, and starting a highly successful joint venture in Cameroon for Aster, a global telecom infrastructure company.
 
 And, Heather and Tom, please go ahead and share your screen and take it away.
 
@@ -223,17 +225,17 @@ The challenges that I was facing throughout my career, I realized the importance
 
 But I'm joined here today with my friend and colleague, Heather Burns.
 
-**Heather:** Thanks, John. So kicking off the way we kicked off the morning, so she/her is my pronoun, I'm in Charlotte, North Carolina, I didn't purchase it recently but I'm finding that a gift from Christmas is a jogging leash for my jog, and that is providing me lots of stress relief, as we get some jogs in and she's just a lot nicer on that particular leash than others, so, that is good! But as kind of alluded to my journey with accessibility started pretty early. In fact I don't remember a time really before I knew about my learning disability.
+**Heather:** Thanks, John. So kicking off the way we kicked off the morning, so she/her is my pronoun, I'm in Charlotte, North Carolina, I didn't purchase it recently but I'm finding that a gift from Christmas is a jogging leash for my dog, and that is providing me lots of stress relief, as we get some jogs in and she's just a lot nicer on that particular leash than others, so, that is good! But as kind of alluded to my journey with accessibility started pretty early. In fact I don't remember a time really before I knew about my learning disability.
 
 So, it was very much when I struggled academically when I had some difficulties, my parents were always great supporters to be able to say, to be able to name what it is, and be able to tell me okay, so that just means you've got to work harder, and you might need some accommodations in order to be successful.
 
 So, throughout my academic career, I was allowed to have accommodations, extra time, but one of the controversial accommodations I received was the ability to use a computer.
 
-Now, this was for I could do spell checking, I could rearrange sentences and craft essays using a computer, a lot more efficiently than by hand, and at the time, you've got to go back in the way back machine, we're talking Apple 2e, we're talking five inch floppy discs [LAUGHTER] As far as storage, right? The teachers didn't have much experience with computers, and they were concerned that if computers got into the classroom, they wouldn't be able to identify what is unique student work.
+Now, this was for I could do spell checking, I could rearrange sentences and craft essays using a computer, a lot more efficiently than by hand, and at the time, you've got to go back in the WayBack machine, we're talking Apple IIe, we're talking five inch floppy discs [LAUGHTER] As far as storage, right? The teachers didn't have much experience with computers, and they were concerned that if computers got into the classroom, they wouldn't be able to identify what is unique student work.
 
-So, it was really breaking ground with that but I always kind of knew that a computer would help me. Then, when I graduated, and it was like one of the early, so July 1993, the New Yorker publishes this cartoon, and it's a depiction of a dog sitting at a computer at a keyboard, he's looking down at another dog, and the caption is saying "on the internet, nobody knows that you're a dog."
+So, it was really breaking ground with that but I always kind of knew that a computer would help me. Then, when I graduated, and it was like one of the early, so July 1993, the New Yorker publishes this cartoon, and it's a depiction of a dog sitting at a computer at a keyboard, he's looking down at another dog, and the caption is saying, "On the internet, nobody knows that you're a dog."
 
-This was done by Peter Steiner, and for me, I can't remember who cut that out, and gave it to me but I remember laminating it and holding on to it because it was so powerful to me to think that, you know, on a lot of levels, I can pass, I can choose when I disclose about my learning disability and if I stumble over it before I've told somebody about it I get very self‑conscience.
+This was done by Peter Steiner, and for me, I can't remember who cut that out, and gave it to me but I remember laminating it and holding on to it because it was so powerful to me to think that, you know, on a lot of levels, I can pass, I can be social, I can choose when I disclose about my learning disability and if I stumble over it before I've told somebody about it I get very self‑conscience.
 
 If I run into it with a colleague that fully knows my background I'm like come on you should know about this! So, became very big for me, the power that a computer could provide to anyone with a disability, so that all disabilities could become, could be made to be invisible, and allow the individual to have the privilege and the honor to know that they get to choose when to disclose, and I thought that was incredibly powerful, so it led me to the career of computer science and Microsoft, and kept me passionate about accessibility.
 
@@ -247,7 +249,7 @@ They didn't do the request of connecting the label with the input and allowing 
 
 Finally I just want to mention that there are some organizations that do a great job of hiring, they include individuals with disabilities on their team. We love seeing that, but that's not a replacement. Those team members, they grew up with the product. They know where all the mitigations are. They know where all the work‑arounds are, and they become expert power users, without even knowing it.
 
-So, they're not a true testament to an individual with a disability being successful with your product, so I'm going to hand it back to John but before I do, I want to give just some visuals as far as when we talk about usability. John is going to go into this a little bit more but I did some internet searches and I found this company based in California, Interfaceanalysis associates and the only reason why I'm highlighting them is because they were kind enough to publish their pictures of their testing room [LAUGHTER] So this is very much the typical testing room that you would see.
+So, they're not a true testament to an individual with a disability being successful with your product, so I'm going to hand it back to John but before I do, I want to give just some visuals as far as when we talk about usability. John is going to go into this a little bit more but I did some internet searches and I found this company based in California, Interface Analysis Associates and the only reason why I'm highlighting them is because they were kind enough to publish their pictures of their testing room [LAUGHTER] So this is very much the typical testing room that you would see.
 
 There's a desk that is a fixed‑height desk. There are chairs to allow you to adjust that. At most they can put paper on that desk, they can put a computer on that desk but visually what you're seeing is tons of cameras around the room, from the ceiling from the side, trying to get every angle to record when somebody enters the testing room what they do.
 
@@ -257,61 +259,61 @@ When we flip over and look at the client observation room, you realize that one 
 
 So wanted to provide those visuals but I'll hand it off to John.
 
-**John:** Thank you, Heather. Yeah, so when I got into this field, I started wondering why don't companies use people with disabilities in their usability testing and I started asking companies and they would tell me Oh, yeah we tried and it just didn't work out. We just couldn't find really great test subjects and I started wondering and asking myself why are they not finding good test subjects.
+**John:** Thank you, Heather. Yeah, so when I got into this field, I started wondering why don't companies use people with disabilities in their usability testing and I started asking people and companies and they would tell me, "Oh, yeah we tried and it just didn't work out. We just couldn't find really great test subjects," and I started wondering and asking myself why are they not finding good test subjects.
 
-I started thinking about it and they are looking out they work 9:00‑5:00 so they are looking out on the street trying to grab somebody who has a disability or whose blind and during these hours, and I started wondering, the reason why that person may be available is because they all have a job and maybe one of the reasons they don't have a job is because they don't necessarily have the technology skills to have a job, and so when they're trying to bring them into do some usability testing those folks just don't know how to use the system.
+I started thinking about it and they are looking out they work 9:00‑5:00 so they are looking out on the street trying to grab somebody who has a disability or who's blind and during these hours, and I started wondering, the reason why that person may be available is because they all have a job and maybe one of the reasons they don't have a job is because they don't necessarily have the technology skills to have a job, and so when they're trying to bring them into do some usability testing those folks just don't know how to use the system.
 
-It just kind of stuck with me and I started thinking about it. What does an actual test environment look like and I'm happy that Heather was able to describe that, because that's what it is. You have to go to a test facility, you have to figure out transportation to that location, and then when you get there, you know, you have to the accommodations may not be accessible, they have these fixed desks and chairs and these systems.
+It just kind of stuck with me and I started thinking about it. What does an actual test environment look like? And I'm happy that Heather was able to describe that, because that's what it is. You have to go to a test facility, you have to figure out transportation to that location, and then when you get there, you know, you have to the accommodations may not be accessible, they have these fixed desks and chairs and these systems.
 
 I know for myself I had my own computer setup and customized to my own specifications and a lot of people who use assistive technology, they have it the same way, so that when you get somebody off the streets to come into one of these sterile environments and they have to setup their system to their own specifications, there is a lot of testing time so I can see that being major issues for not having great test subjects when you bring in people off the street.
 
-Then I started thinking about what is it that testing experience looks like? Often the case, it's a written document with click here, click here, and when we're designing these type of testing scenarios it's important to think about the input devices and not make any assumptions because you don't know what type of assistive technology, or input devices that people have been using.
+Then I started thinking about what is it that testing experience looks like? Often the case, it's a written document with click here, click here, and when we're designing these type of testing scenarios, it's important to think about the input devices and not make any assumptions because you don't know what type of assistive technology, or input devices that people have been using.
 
-But, before we start to look at how to find test subjects for your usability testing I think it's important to take a step back and take a look at why was LCI formed?
+But, before we start to look at how to find test subjects for your usability testing, I think it's important to take a step back and take a look at why was LCI formed?
 
 So, LCI was formed in 1936 by a local civil organization in Durham, North Carolina and the civic organization saw on the streets of Durham there were a lot of people who were panhandling and many of these folks had visual impairments and so what they wanted to do was create employment opportunities for these individuals.
 
 And that's where the formation of LC Industries which is now called LCI.
 
-But when we started to, started the business, the first‑line of business was creating furniture if you remember the wicker‑type of chairs and then we moved into mattresses, and these type of organizations are popping up all over the country, and the Federal Government took notice and started with products from the organization and today, LCI manufactures over 2500 products, and we have a footprint of 11 states, we have eight manufacturing facilities, 50 retail location, two distribution centers, and we employ over 800 people, and 400 of them are low vision or blind.
+But when we started to, started the business, the first‑line of business was creating furniture if you remember the wicker‑type of chairs and then we moved into mattresses, and these type of organizations were popping up all over the country, and the Federal Government took notice and started with products from the organization and today, LCI manufactures over 2500 products, and we have a footprint of 11 states, we have eight manufacturing facilities, 50 retail location, two distribution centers, and we employ over 800 people, and 400 of them are low vision or blind.
 
 So, when we start to, when we start to look at this, this opportunity at LCI, we really were focused on the retail and distribution, but although manufacturing is a very noble profession, we realized that we needed to start thinking outside because not everybody wants to go into this profession.
 
-So in 2017 the company realized that they wanted to create technology‑based jobs, and so we launched what is now called LCI Tech, and so the whole purpose of this was really to create those knowledge‑based jobs and careers, and when we started looking at the statistics and I figured that's what's really important is that we really started making a decision based on the statistics that we had in the community and saying in 2016, 7.2 million people identified with some sort of a visual impairment, and it was 78% of people had a high school degree, 33% of people had some type of college or Higher Education and then only 15% had completed a undergraduate degree or higher and the real quicker was that only 29% had a full time job and these numbers were really just like staggering and we realized that we really had to do something. We had to do something and we started looking at the barriers that were standing in the way of people from pursuing these type of careers.
+So in 2017 the company realized that they wanted to create technology‑based jobs, and so we launched what is now called LCI Tech, and so the whole purpose of this was really to create those knowledge‑based jobs and careers, and when we started looking at the statistics and I figured that's what's really important is that we really started making a decision based on the statistics that we had in the community and in 2016, 7.2 million people identified with some sort of a visual impairment, and it was 78% of people had a high school degree, 33% of people had some type of college or Higher Education and then only 15% had completed a undergraduate degree or higher and the real kicker was that only 29% had a full time job and these numbers were really just like staggering and we realized that we really had to do something. We had to do something and we started looking at the barriers that were standing in the way of people from pursuing these type of careers.
 
-So we noticed that the expectation has always been a barrier with as we know is every day that as we go through the new normal but we also noticed that education was a big challenge and also accessibility.
+So we noticed that the stratification has always been a barrier with as we know is every day that as we live in a new normal but we also noticed that education was a big challenge and also accessibility.
 
-So I realized that we had to address the accessibility issue so we needed to have ways to do this.
+So I realized that we had to address the accessibility issue so we needed to find ways to do this.
 
 So, why am I talking about these stats and these barriers is because even though LCI had such a large number of employees, we had 400 people in our organization, we did some surveys and were really excited because I thought I look at the results of the survey and I saw that there was so many people with college education. We have so many people who have great experience with computers, and I thought this was going to be a great foundation that we needed to launch LCI Tech.
 
-So as I started on the survey, I realized that a lot of these individuals had gone to college and had prior careers in technology before they lost their vision, but once they lost their vision, many of them did not continue on with their education or continue with using assistive technology, and so we realized that we had to go outside and look externally for talent and so today, we have 10 people who are on the team at LCI Tech, seven of whom are blind or low vision but we had to look and it took us some time to find and so we did face challenges and although we're always looking for that, it's something that we had to really work at to find people in looking to build our organization.
+But as I started doing the assessments of these individuals ... as I started on the survey, I realized that a lot of these individuals had gone to college and had these prior careers in technology before they lost their vision, but once they lost their vision, many of them did not continue on with their education or continue with using assistive technology, and so we realized that we had to go outside and look externally for talent and so today, we have 10 people who are on the team at LCI Tech, seven of whom are blind or low vision but we had to look externally and it took us some time to find and so we did face challenges and although we're always looking for that, it's something that we had to really work at to find people in looking to build our organization.
 
 With that I'm going to pass it back to Heather.
 
 **Heather:** So really, I think what John's highlighting is the fact that finding the right participants are so key.
 
-So at Equal Entry a lot of our clientele are looking for a specific persona. When they're developing their application or their website, they have in mind a specific persona and I can use the example of Tableau. They're a company that is on our website and I work with. They are an enterprise‑level, visualization product. They work with a large amount of data. They are a business tool. They want their primary persona is educated.
+So, at Equal Entry a lot of our clientele are looking for a specific persona, right? When they're developing their software. Their application or their website, they have in mind a specific persona and I can use the example of Tableau. They're a company that is on our website and I work with. They are an enterprise‑level, visualization product. They work with a large amount of data. They are a business tool. They want their primary persona is educated.
 
-So they want to include participants with disabilities that need that education part that would be business professionals utilizing their product. We need to make sure they're proficient with computers. If we have a customer, even if it's a retail website, and no their main persona doesn't require a college education but they do expect computer proficiency because if they don't have that from a usability participant then they're going to kind of unfortunately blame the user as opposed to their software, and so we want to make sure that we're giving them the most valuable feedback that they can't really argue with, that they have to accept, and go Oh, okay, yeah, really we need to address this because even somebody that is highly proficient with a computer, proficient with their assistive technology, is going to be, it hasn't been successful, therefore they need to fix it.
+So they want to include participants with disabilities that meet that education part that would be business professionals utilizing their product. We need to make sure they're proficient with computers. If we have a customer, even if it's a retail website, and no their main persona doesn't require a college education but they do expect computer proficiency because if they don't have that from a usability participant then they're going to kind of unfortunately blame the user as opposed to their software, and so we want to make sure that we're giving them the most valuable feedback that they can't really argue with, that they have to accept, and go, "Oh, okay, yeah, really we need to address this because even somebody that is highly proficient with a computer, proficient with their assistive technology, is going to be, it hasn't been successful," therefore they need to fix it.
 
-The final component I'd say for our participant is willingness to try and fail and I think this is true for any usability study. You're putting people in a position, you're asking them to do something that's a little off the wall or a little new, outside their comfort zone. They really got to be willing to try and just accept that yeah, it might not work and that's okay.
+The final component I'd say for our participant is willingness to try and fail. I think this is true for any usability study. You're putting people in a position, you're asking them to do something that's a little off the wall or a little new, outside their comfort zone. They really got to be willing to try and just accept that, "Yeah, it might not work and that's okay."
 
 Then the final thing that we feel very strongly about at Equal Entry is that these participants should be paid. This is not something that you should be looking for volunteers to try to come in and assist with because you are looking for an educated computer proficient, proficient with assistive technology. They have a specialized skill. They're providing you with valuable insight. There should be some payment monetary kind of contribution back to them.
 
-So, with that, once you kind of find the right participants so what's worked? So Equal Entry we've been working with LCI for about over a year now, and essentially what we found is when we tried to do an ad hoc, we had a lot of technical setup issues. It was how do we do this again? It's a which technology did we need to join? How do we just setup the meetings? How do we get the technology aligned?
+So, with that, once you kind of find the right participants so what's worked? So Equal Entry we've been working with LCI for about over a year now, and essentially what we found is when we tried to do an ad hoc, we had a lot of technical setup issues. It was, "How do we do this again?" It is, "Which technology did we need to join?" "How do we just set up the meetings?" "How do we get the technology aligned?"
 
 So we've now started kind of having weekly office hours, that's cut down on the amount of churn from a technology perspective. We also solely use Zoom. Zoom allows us to share the computer audio as well as the visual of the individual and their screen, so we get great facial expression from the tester that we can pick‑up on immediately, and we can record the audio for the screen reader as well and we'll give an example of that in just a second.
 
-Then, at Equal Entry we're very specific about the fact that we write our scripts to be as inclusive as possible. As John was alluding to rather than directions that say "click on", right? It's "activate" so they can choose which input device they're using in order to do that.
+Then, at Equal Entry we're very specific about the fact that we write our scripts to be as inclusive as possible. As John was alluding to rather than directions that say "click on", right? It's "activate" so they can choose which input device that they're using in order to do that.
 
 We also found working specifically with LCI that it was difficult for them to kind of switch back and forth between the application that they were working with, and the notes or the digital information that we were providing as far as what the scripts should be on what they should do, so we have found that it's better to have a facilitator verbally tell a visually impaired an individual with visual impairments to have it read to them, so that then they can take those actions without having to switch back and forth between applications.
 
-So, with that, I want to pause and I'm going to show a 2.5 minute video, and this is kind of an early session that we did with LCI and Von is the person that was helping us here and what we're going to see is she's working with the Equal Entry website.
+So, with that, I want to pause and I'm going to show a 2.5 minute video, and this is kind of an early session that we did with LCI and Vanh is the person that was helping us here and what we're going to see is she's working with the Equal Entry website.
 
-We had just done a refresh of our About Page and we had a developer and a junior tester working on it that had given it the thumbs up, and then we had Von do a quick review.
+We had just done a refresh of our About Page and we had a developer and a junior tester working on it that had given it the thumbs up, and then we had Vanh do a quick review.
 
-For those I'm going to quickly put back in the chat window the link to the full, if I can find where the chat window is. Can I ask somebody else to— Oh, here we go. I can't find it. It's lost in my screen somewhere, I apologize but if somebody could resend the link to the actual PowerPoint if you want to follow along, in the notes section of this slide, so the presentation notes has the full transcript for what you're about to hear, and if you are new to listening to a screen reader this is going to be very fast, so you might want to follow along with that transcript in order to be able to understand what's going on but I'll also give you kind of a debrief afterwards.
+For those I'm going to quickly put back in the chat window the link to the full, if I can find where the chat window is. Can I ask somebody else to — Oh, here we go. I can't find it. It's lost in my screen somewhere, I apologize but if somebody could resend the link to the actual PowerPoint if you want to follow along, in the notes section of this slide, so the presentation notes has the full transcript for what you're about to hear, and if you are new to listening to a screen reader this is going to be very fast, so you might want to follow along with that transcript in order to be able to understand what's going on but I'll also give you kind of a debrief afterwards.
 
 So we all cross our fingers and hope that technology works for us today.
 
@@ -465,7 +467,7 @@ Our Equal Entry was founded in 2012 by accessibility expert Thomas Log...
 
 **JAWS:** Region End
 
-**Vanh:** oh, I arrowed down. Or um, I was using the paragraph, uh command. And moved JAWS to fast, that was all.
+**Vanh:** Oh, I arrowed down. Or um, I was using the paragraph, uh command. And moved JAWS to fast, that was all.
 
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
 
@@ -513,19 +515,19 @@ _Ends 2.5 minute video_
 
 -----
 
-**Heather:** So visually what you can see on the screen is the Equal Entry about page with our history has the two paragraphs and below it you can see there is another title that's just barely readable of our team and then there's images and they are just the very top of Thomas Logan's head and so when it was hitting that last page and going all the way to the end you could see it was another image and it was of me so there's clearly content in there, that she was missing.
+**Heather:** So visually what you can see on the screen is the Equal Entry About page with our history has the two paragraphs and below it you can see that there is another title that's just barely readable of our team and then there's images and they are just the very top of Thomas Logan's head and so when it was hitting that last page and going all the way to the end you could see it was another image and it was of me so there's clearly content in there, that she was missing.
 
-What with a little bit more investigation was identified is that we had a misuse of our hidden that had misfired and was hiding the rest of the content to assistive technologies, so the automated accessibility testing that was done passed no problem and our tester who was using a screen reader was tabbing to active elements and was able to find and read all the active elements on the screen.
+What with a little bit more investigation was identified is that we had a misuse of ARIA hidden that had misfired and was hiding the rest of the content to assistive technologies, so the automated accessibility testing that was done passed no problem and our tester who was using a screen reader was tabbing to active elements and was able to find and read all the active elements on the screen.
 
 For a native screen reader user that is just trying to navigate a page, clearly, they were hitting some significant problems with the page. So it's a quick and easy fix. It was only up for a little while, I promise. But it was fascinating to me and I thought it was a great example of how you can do some very basic tests, and get a good sense of what an individual would find but then actually, working through just making running through some very specific scenarios, the big key issues, and making sure people are successful is as I said that gold standard of making sure something was accessible.
 
-So, why don't you move to — it started to play again sorry about that.
+[Video: So, why don't you move to] — it started to play again. Sorry about that.
 
-Really lessons learned sharing the screen with the computer audio is absolutely key. We've tried this with other technologies where I couldn't hear what the screen reader was saying and it was just all on the participant to kind of communicate what they were experiencing in their own narrative and it just wasn't as effective. So I'm pretty verse in screen readers so you can tell that I was allowing Von to use her own speed of how she was using it or how she wanted to use her screen reader has allowed her to do that and I could follow it and with experience that's pretty easy to do and be able to understand where she was on the screen, but really need to have that computer audio.
+Really, lessons learned sharing the screen with the computer audio is absolutely key. We've tried this with other technologies where I couldn't hear what the screen reader was saying and it was just all on the participant to kind of communicate what they were experiencing in their own narrative and it just wasn't as effective. So I'm pretty verse in screen readers so you can tell that I was allowing Vahn to use her own speed of how she was using it or how she wanted to use her screen reader has allowed her to do that and I could follow it and with experience that's pretty easy to do and be able to understand where she was on the screen, but really need to have that computer audio.
 
-Individual volume adjustment is something that we would love to see, because sometimes when you want the screen reader to be slightly less and pump up the volume of the individual that is participating so that you can hear what they're saying when they're talking over their screen reader we would love to be able to do that independent volume adjustment and that's not there yet, so that, I'm putting a plug for everybody making their request to their technology vendors, and I've kind of alluded to this as far as Zoom allows me, that in the recording all you saw was Von's screen, but when I was participating in that I could see her facial expression and that is pretty critical from surprise, frustration, confusion, right?
+Individual volume adjustment is something that we would love to see, because sometimes when you want the screen reader to be slightly less and pump up the volume of the individual that is participating so that you can hear what they're saying when they're talking over their screen reader we would love to be able to do that independent volume adjustment and that's not there yet, so that, I'm putting a plug for everybody making their request to their technology vendors, and I've kind of alluded to this as far as Zoom allows me, that in the recording all you saw was Vahn's screen, but when I was participating in that I could see her facial expression and that is pretty critical from surprise, frustration, confusion, right?
 
-You heard her kind of go Huh? Oh! And seeing facial expression helped understand that those voice expressions.
+You heard her kind of go, "Huh? Oh!" And seeing facial expression helped understand that those voice expressions.
 
 So if those facilitators aren't used to the speed of the screen reader it is important to ask the participant to slow down their screen reader. It again, it's just that critical ability for the facilitator to be able to hear exactly what the participant is hearing to be able to make some judgments over what might be the problem and being able to articulate.
 
