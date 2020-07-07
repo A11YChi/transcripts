@@ -3,9 +3,7 @@
 
 An A11yChi Meetup on June 9, 2020 at 7:00 PM Eastern Time
 
-CART CAPTIONING PROVIDED BY: 
-ALTERNATIVE COMMUNICATION SERVICES, LLC 
-www.CaptionFamily.com
+CART Captioning Provided by Alternative Communication Services (ACS), LLC
 
 This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings 
 
@@ -457,38 +455,38 @@ Over the past six years, Equal Entry has grown into a global company, with team 
 
 [Screen scrolls back to the header Our History, also visible is the heading Our Team]
 
-Our Equal Entry was founded in 2012 by accessibility expert Thomas Log..
-
+Our Equal Entry was founded in 2012 by accessibility expert Thomas Log...
+
 **Heather:** so that, um, how did you get to that Main region end. What keypress were you using there?
-
+
 **Vanh:** to get the Main Region end?
-
+
 **Heather:** Yeah, cus you were reading, you, the focus was in the Our History and you're reading that text and then I am hearing an announcement of region end.
 
 **JAWS:** Region End
-
+
 **Vanh:** oh, I arrowed down. Or um, I was using the paragraph, uh command. And moved JAWS to fast, that was all.
 
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
-
+
 **Heather:** OK, so
 
 [Screen scrolls back to the header Our History, also visible is the heading Our Team]
-
+
 **JAWS:** Equal Entry was founded in 2012 by a
-
+
 **Heather:** Ok, keep going, I’m just trying to ah, follow along with what you're doing from a keyboard perspective. 
-
+
 **Vanh:** Uh-huh.
-
+
 **Heather:** So and here is the first time I really lost you.
-
+
 **Vanh:** Ok sorry about that. So it looks like I am here and
-
+
 **JAWS:** Heading Level 2 Our History
-
+
 **Vanh:** That is the heading and there are 2
-
+
 **JAWS:** Equal Entry was found
 
 Over the past
@@ -496,19 +494,19 @@ Over the past
 [Screen scrolls rapidly to the footer, image of Heather Burns shown above the footer]
 
 Main Region End
-
-**Vanh:** paragraphs here. 
+
+**Vanh:** paragraphs here.
 
 [Screen scrolls back to the header Our History, also visible is the heading Our Team]
 
 **JAWS:** Over the past six years, Equal Entry has 
-
-**Vanh:** describing the the history of Equal Entry.
-
+
+**Vanh:** describing the the history of Equal Entry
+
 **Heather:** Yes
-
+
 **Vanh:** Looks like that’s it.
-
+
 **Heather:** Ok I’m going to say, we’re, you might have just found a bug for us.
 
 _Ends 2.5 minute video_
