@@ -330,7 +330,8 @@ _Begins 2.5 minute video_
 **Vanh:** OK
 [Focus moving within the Equal Entry menu bar]
 
-**JAWS:** Our Work | Equal Entry
+**JAWS:** 
+Our Work | Equal Entry
 Banner re..
 Blog
 About
