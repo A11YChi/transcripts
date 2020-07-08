@@ -161,13 +161,13 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Dan:** Which do I have?
 
-**Santina:** Which ones that you've narrowed it down to I believe.
+**Santina:** Which ones that you've narrowed it down to, I believe.
 
-**Dan:** Oh, well there's a product from the company HIMS called the Q braille, it's a 40 cell display with a braille keyboard and Windows modifier keys, and I've seen it and it's an interesting concept. There's a newer display that just came out this week from the American Printing House for the Blind called the Mantis. I'm not sure how they got their bug names but this is a display with a QWERTY keyboard.
+**Dan:** Oh, well there's a product from the company HIMS called the QBraille, it's a 40 cell display with a braille keyboard and Windows modifier keys, and I've seen it and it's an interesting concept. There's a newer display that just came out this week from the American Printing House for the Blind called the Mantis. I'm not sure how they got their bug names but this is a display with a QWERTY keyboard.
 
 **Alyssa:** That could be helpful.
 
-**Dan:** People who say that braille is dying it's not true. We've had a whole cycle of new braille products in the past couple years, and the education establishment is finally realizing that if people don't read braille, they're not literate and if people aren't literate they can't work in any field, so it's not like people are making the connection between literacy and work and also, STEM subjects especially. You have to know braille to do them. Oh, wow it's 6:30.
+**Dan:** People who say that braille is dying, it's not true. We've had a whole cycle of new braille products in the past couple years, and the education establishment is finally realizing that if people don't read braille, they're not literate and if people aren't literate they can't work in any field, so it's not like people are making the connection between literacy and work and also, STEM subjects especially. You have to know braille to do them. Oh, wow it's 6:30.
 
 **Alyssa:** Do I need to mute?
 
@@ -195,7 +195,7 @@ We are live streaming this on YouTube, so hello to everybody on YouTube. You can
 
 Just a reminder if you prefer not to be in the recording, make sure that your camera is off, hold questions for the Q & A time after the presentation, the co‑organizers will monitor the chat for technical issues and questions. I don't know what's wrong with my mouse right now. Just want to take a pause for jobs?
 
-If you have any jobs at your company that you're listing specifically in accessibility and/or your currently looking for a job feel free to take yourself off mute and mention it and/or feel free to drop it in the chat.
+If you have any jobs at your company that you're listing specifically in accessibility and/or you're currently looking for a job? Feel free to take yourself off mute and mention it and/or feel free to drop it in the chat.
 
 All right, if nobody is going to speak up you still have the opportunity to drop that in the chat, and/or you can mention that afterwards as well. We do also want to do a brief mention of the current events obviously, it concerns a lot of us and especially as accessibility professionals we need to acknowledge there are folks in our community that are being affected so we do encourage you to check out the hashtags, disabled black talk, and disabled black lives matter. Both of those are currently trending on Twitter right now.
 
@@ -205,7 +205,7 @@ Accommodation Microsoft she worked on the accessibility of Windows and the Offic
 
 Heather is currently a full time Accessibility Consultant for Equal Entry a company funded by a former Microsoft accessibility peer, Thomas Logan who was also on our line. Equal Entry provides clients with accessibility expertise through audits, training and expert witness testimony.
 
-John G. Samuel, John G. is an award winning business development leader with other 13 years of experience building strategic partnerships and designing profitable business models and transforming organizations around the world.
+John G. Samuel, John G. is an award winning business development leader with other 13 years of experience building strategic partnerships, designing profitable business models and transforming organizations around the world.
 
 He's currently the Head of LCI Tech and responsible for launching a new technology, excuse me, responsible for launching the new technology services business for LCI which is one of the largest employers of Americans who are blind. John has a proven record of accomplishment of leading start up initiatives, previously helping build Homestrings, a fintech platform focused on diaspora investments, and starting a highly successful joint venture in Cameroon for Aster, a global telecom infrastructure company.
 
@@ -215,9 +215,9 @@ And, Heather and Tom, please go ahead and share your screen and take it away.
 
 ## Professional Testers with Disabilities
 
-**John:** Awesome, thank you so much for that introduction and thank you all for inviting us to participate today at the Chicago accessibility. My name is John Samuel and I am the Chief innovation architect at LCI Tech. We are a division of LCI and we are the largest employer of Americans who are blind and our mission at LCI Tech is to create careers for people who are blind.
+**John:** Awesome. Thank you so much for that introduction and thank you all for inviting us to participate today at the Chicago accessibility. My name is John Samuel and I am the Chief innovation architect at LCI Tech. We are a division of LCI and we are the largest employer of Americans who are blind and our mission at LCI Tech is to create careers for people who are blind.
 
-My connection with the disability community started when I was diagnosed with a degenerating eye condition called Retinitis pigmentosa when I was a freshman in college and at the time I didn't know anyone who was blind and when I got this news it was devastating and really shook my world and I was ashamed to tell anyone.
+My connection with the disability community started when I was diagnosed with a degenerating eye condition called Retinitis pigmentosa when I was a freshman in college and at the time I didn't know anyone who was blind and when I got this news, it was devastating and really shook my world and I was ashamed to tell anyone.
 
 I moved on with my career and moved on throughout the world and in different places I would figure out different ways to accommodate for myself and figuring out ways with my limited vision and eyesight I would use it, using inverted colors and larger font, so eventually I got to the point where I had to use a screen reader.
 
@@ -271,7 +271,7 @@ Then I started thinking about what is it that testing experience looks like? Oft
 
 But, before we start to look at how to find test subjects for your usability testing, I think it's important to take a step back and take a look at why was LCI formed?
 
-So, LCI was formed in 1936 by a local civil organization in Durham, North Carolina and the civic organization saw on the streets of Durham there were a lot of people who were panhandling and many of these folks had visual impairments and so what they wanted to do was create employment opportunities for these individuals.
+So, LCI was formed in 1936 by a local civil organization in Durham, North Carolina and the civic organization saw on the streets of Durham, there were a lot of people who were panhandling and many of these folks had visual impairments and so what they wanted to do was create employment opportunities for these individuals.
 
 And that's where the formation of LC Industries which is now called LCI.
 
@@ -503,7 +503,7 @@ Main Region End
 
 **JAWS:** Over the past six years, Equal Entry has 
 
-**Vanh:** describing the the history of Equal Entry
+**Vanh:** Describing the history of Equal Entry
 
 **Heather:** Yes
 
@@ -557,9 +557,9 @@ I think we did one Windows client, so we've done a whole host of things with the
 
 **Heather:** That is an awesome point. We did not discuss ahead of time if we were talking pricing at this type of event, so I think I'm going to have to say contact John or I after? I don't know what protocol is for this.
 
-**John:** I'll say one thing Heather. One of the main things is we've always tried to make at least from an usability perspective, we want to make it obtainable for everybody because at the end of the day we want to make sure that people are not doing it because it's cost prohibitive so we've been trying to make sure that it is reasonable for people and their budget but that's on the usability side we try to do as much as we can.
+**John:** I'll say one thing, Heather. One of the main things is we've always tried to make, at least from an usability perspective, we want to make it obtainable for everybody because at the end of the day we want to make sure that people are not doing it because it's cost prohibitive so we've been trying to make sure that it is reasonable for people and their budget but that's on the usability side we try to do as much as we can.
 
-**Santina:** Great, thank you. Folks if you want to go ahead and put questions in chat either here on Zoom or on YouTube Live feed. We'll go ahead and answer those questions either way.
+**Santina:** Great, thank you. Folks, if you want to go ahead and put questions in chat either here on Zoom or on YouTube Live feed. We'll go ahead and answer those questions either way.
 
 **Heather:** I'm catching up on the chat.
 
@@ -577,11 +577,11 @@ You'll have somebody be very successful and you'll have a recording of it, so it
 
 **Heather:** So I've met with LCI at their place of work. As far as going to the person's home, I can say yes in my past, so I gave the pictures of the usability testing facility the first time that I, as a program manager requested individuals with disabilities, we ran into lots of problems.
 
-Getting people to the testing site, the testing site's accessibility, getting the accessibility software on the computer, essentially it was a abysmal failure so the next usability study I did at Microsoft, I said I want to give people computers and I'm going to pre‑load them with our beta software that's not out to the public and it's going to be locked down so they have access to it, but we'll install it in their house and to my manager's credit, they go okay, how many computers do you need? It's Microsoft, okay, fine!
+Getting people to the testing site, the testing site's accessibility, getting the accessibility software on the computer, essentially it was an abysmal failure so the next usability study I did at Microsoft, I said I want to give people computers and I'm going to pre‑load them with our beta software that's not out to the public and it's going to be locked down so they have access to it, but we'll install it in their house and to my manager's credit, they go okay, how many computers do you need? It's Microsoft, okay, fine!
 
 So, here I load up like brand new machines, still in their box, putting them in my car, and I'm like somebody is going to stop me. Nope! So, I did put them at individual's homes and they were people that we had found through advocacy organizations for the blind, and honestly, we didn't get great data as far as of the participants only one had really advanced computer skills to the point where they felt comfortable utilizing this system.
 
-The idea was that they would have it at their home, and because of the ability to pre‑load the beta software, it had to be a pretty powerful machine at the time, it had to be locked down from a Microsoft privacy perspective, but we said hey, you can install your own assistive technology and you can customize it and we'll give you lots of time with this.
+The idea was that they would have it at their home, and because of the ability to pre‑load the beta software, it had to be a pretty powerful machine at the time, it had to be locked down from a Microsoft privacy perspective, but we said, "Hey, you can install your own assistive technology and you can customize it and we'll give you lots of time with this."
 
 Came back later and again only one participant had actually used it. Everybody else was like yeah, I turned it on. Didn't really, yeah, didn't use it in any way.
 
@@ -599,7 +599,7 @@ The key is having it be their own system. Having it be their comfort level with 
 
 **John:** Okay, thanks.
 
-**Santina:** Kind of building off that we have a question of how do you overcome a problem when testers, excuse me how do you overcome a problem of testers getting nervous when observed?
+**Santina:** Kind of building off that we have a question of "How do you overcome a problem when testers," excuse me, "How do you overcome a problem of testers getting nervous when observed?"
 
 **Heather:** That is a little bit of time. It's just rapport, I think. So hopefully, I'm a welcoming voice and it's not too painful to listen to me as we go through this webinar, [LAUGHTER] But it's really part of that is setting expectations early on with the participants as far as you've got to be willing to try and fail because that's what we're looking for.
 
@@ -663,9 +663,9 @@ How many testing scripts do you normally start with at the initial phase? Again,
 
 So I think that covered the two. The last one being privacy consent. Absolutely. Yes. So we have non‑disclosure agreements with our clients and we have a partner agreement with LCI that includes that non‑disclosure and we have the agreement between LCI and us for being able to record those videos and share those with assets with our clients so that they can see the full experience or we can cut various video. Cut various videos down to a specific issue for them.
 
-**Santina:** Great. John this one is directed specifically to you. Do you have testers who can test with speech recognition technology?
+**Santina:** Great. John, this one is directed specifically to you: "Do you have testers who can test with speech recognition technology?"
 
-**John:** Yeah, so we also have people who use what is it Dragon Natural Speak, so we do have people who use that as well, and we do offer that as well.
+**John:** Yeah, so we also have people who use, what is it, Dragon Natural Speak, so we do have people who use that as well, and we do offer that as well.
 
 **Santina:** Great. That's all I'm showing, Nick, and Karen, but I see with a question in the chat. Do you see anything from Twitter or any in chat that I've missed? Anything on YouTube?
 
@@ -687,7 +687,7 @@ So, with that, John? Do you want to?
 
 **Santina:** Awesome. I think that we'll go ahead and close it out with this last question. We are almost at time for final thoughts.
 
-We have a last question. Do you have any tips for typical people to get used to testing with blind or low vision subjects?
+We have a last question: "Do you have any tips for typical people to get used to testing with blind or low vision subjects?"
 
 **Heather:** John do you want to take that one or do you want me to?
 
