@@ -59,7 +59,7 @@ I actually don't have a clock in front of me when I'm presenting so I'll rely on
 
 **Karen:** Yes.
 
-**Santina:** I follow the dog on Instagram, actually. So Dan, in Chicago, don't worry about finishing up work. We aren't going to truly get started until about 6:30 so no rush, trying to finish up work. I see that your purchase was the eternal sky book series, that's something that I don't know about, and Sarah also from Chicago. I agree with you that adding to something to the cart and buying it is just kind of stress relief, right? [LAUGHTER] So, she bought some workout clothes, very cool. Even if you don't work out with them, it's the action that counts! [LAUGHTER]
+**Santina:** I follow the dog on Instagram, actually. So Dan, in Chicago, don't worry about finishing up work. We aren't going to truly get started until about 6:30 so no rush, trying to finish up work. I see that your purchase was the _Eternal Sky_ book series, that's something that I don't know about, and Sarah also from Chicago. I agree with you that adding to something to the cart and buying it is just kind of stress relief, right? [LAUGHTER] So, she bought some workout clothes, very cool. Even if you don't work out with them, it's the action that counts! [LAUGHTER]
 
 **John:** [LAUGHTER]
 
