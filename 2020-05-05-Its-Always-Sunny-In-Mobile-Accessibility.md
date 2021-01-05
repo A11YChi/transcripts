@@ -12,112 +12,7 @@ Chicago Digital Accessibility & Inclusive Design Meetup
 [STAND BY FOR LIVE CAPTIONS].
 --- 
 
-**Santina Croniser:** If I could just have somebody confirm for me that you're seeing the slide full screen, the Digital Accessibility slide, where we say welcome. 
-
-**Attendee:** Yes. 
-
-**Santina:** Awesome. Perfect, thank you so much.
-
-We're just waiting, once we — have our speaker, it looks like she might be connecting right now. We're going to do a technical test — we're going to do a technical test, just to make sure that everything is going all right. And that she's able to (Santina) hear us, and that she — we're able to hear her. And, of course, then, we'll go ahead, and get started, a little bit later on, but, in the meantime, you know, feel free, to introduce yourself. And — just as a little ice‑breaker we thought anything that you could — a topic that you could give a 20‑minute presentation on, without any presentation. Or, excuse me, preparation. 
-
-So, you know, no need to give that presentation right now. Just a — just kind of a fun — little topic you could give a quick presentation on. So, feel free. 
-Feel free to share, and unmute yourselves accordingly. 
-
-**Kathryn:** Can it be humorous?
-
-**Santina:** Yes, humor is encouraged. [LAUGHTER] 
-
-**Kathryn:** Thank you. 
-
-**Santina:** Sure. 
-
-**Nick Ng:** Hey, Crystal, are you here? 
-
-(Pause).
-
-**Crystal Preston-Watson:** [LAUGHTER] Hello! Hello, I'm, like, trying to find — where things are on my computer. [LAUGHTER] 
-
-**Santina:** Great it sounds like I can hear you very well. Can you hear us? 
-
-**Crystal:** Yes.
-
-**Santina:** Perfect, perfect, if you want to try, just sharing, just to make sure that you're able, to — share the slides. 
-
-**Crystal:** Yeah. 
-
-**Santina:** That would be great. 
-
-**Crystal:** I cannot start screen‑share while others are sharing. 
-
-**Santina:** That's an easily solvable thing. I'm going to stop, give it another try. You should be able to share. 
-
-**Crystal:** Okay. Can you see the screen?
-
-**Santina:** I can, it looks like it's not in full screen. 
-
-**Crystal:** Oh, let me... Switch over to — let me stop. And then I'll do that again. [LAUGHTER] 
-
-**Santina:** Sure. 
-
-**Crystal:** Sorry.
-
-**Santina:** You're also getting a compliment on your hair, from the chat! 
-
-**Crystal:** Oh, thank you, at least I can do that right. Versus. [LAUGHTER] sharing — my. 
-
-**Santina:** No, not to worry, I'm sure everybody understands these kinds of things we take care of them ahead of time so nobody sees them usually, it's just, you know, the nature of our "new normal", right? 
-
-**Crystal:** Yeah, it's been a while since I had to do a presentation, while in — like, on Zoom, and it's usually, like, I'm just listening to other people. 
-
-**Santina:** Right, right. 
-
-**Crystal:** Okay, I think I have.... I just started. Let me get out of that. I promise, the presentation will be a lot better. Okay. Okay, so let me share my screen. And then. 
-
-**Santina:** Awesome! Perfect.
-
-**Crystal:** And then, can you see — this is in the middle of my presentation for some reason, it just says talkback and voiceover. 
-
-**Santina:** Yes, I can see that and it is full screen.
-
-**Crystal:** Okay, awesome. Let me stop sharing so I can go back to — 
-
-**Santina:** Okay. 
-
-**Crystal:** Okay. 
-
-**Santina:** I'll go ahead and put up the slides, and then you'll see me fumble. Looks like I got it, whooo! There we are! Awesome. Thank you, for doing that. And, it looks like we're good. So we'll just continue, to hang out. We're just doing a little bit of an ice‑breaker, I'm not sure if you were here, when I was mentioning that. People can feel free to take themselves off of mute. If you feel comfortable doing so, and sharing out loud, or you can continue to just share in the chat, whichever you feel most comfortable with.
-
-**Crystal:** I do — because I found a critical — um, mistake in my slides, can I send you slides? It's, like, literally, just, two slides that need to be replaced. And I know — [LAUGHTER] I'm so sorry. 
-
-**Santina:** Sure, that shouldn't be a problem. Feel free to go ahead and fix them. We could, um... if you shoot them over to Nick, we can either try to do this, Live, or we can send out the corrected slides afterwards. It shouldn't be a problem. 
-
-**Crystal:** Okay. I'll do that now. Sorry about that. 
-
-**Santina:** No problem. No worries.... 
-
-(A pause) 
-
-**Nick:** What would you need to do? I think I missed that part, where you mentioned it — 
-
-**Santina:** There was just a slide collection, or a slide correction [sic]; so, if you could upload, the corrected slides, if you're able to, and if not, we can just take care of it, after the — after the presentation, and send them out. 
-
-**Crystal:** I'm sending them to you, like, in 30 seconds. [LAUGHTER]. (A pause) I completely lost the chat.
-
-**Santina:** No problem, and we'll be monitoring the chat throughout, so that way, you don't have to worry about people asking questions in the meantime 
-
-**Crystal:** (Giggling) I definitely want to say something, on the chat, but I can't get off it. 
-
-**Santina:** Sure, sure, I mean, you will have two or three of us monitoring that chat, so, just in case one of us misses it, hopefully, all of us should be able to work together, and ensure that — ensure nothing is missed. 
-
-**Crystal:** (giggling)... 
-
-**Santina:** This is all so exciting, I see that we have people tuning in from all over the United States. I saw, California, which is, actually, where I am now, I moved from Chicago. I saw — I think I saw North Carolina in here? (Chicago, of course, it which is where most of us are based. So... incredibly exciting that we have this opportunity to all come together! [LAUGHTER], yes, Chicago coast is the best coast! Although you know... Californians will argue that. (Laughing) (Santina Croniser) I see we have Boston.... 
-
-**Nick:** Crystal, I dropped the latest deck in the chat. So feel free to follow along. 
-
-(A pause) 
-
-**Santina:** All right. Unless anybody has a reason that we shouldn't start exactly on time, I'm going to go ahead and start. Again, very excited to see that we have folks from all over North America. I saw one reporting from Ontario Canada, as well as Georgia. Boston, like I already said; California, and, of course, Chicago! Naturally! Obviously, where most folks are, and — naturally being the Chicago Digital Accessibility Meet‑up group so really excited we have the chance to come together. As folks — most of the folks know who know me in person, I moved out to San Francisco; so, these remote Meet‑ups, actually, offer a rare opportunity for me to come in, and see everybody all over again. So I'm so excited. That I get to come and be a part of the accessibility group. Remotely. So thank you, everybody, for attending. Thank you for spending, May 5th with us, even though perhaps, you would rather go and have a margarita, or, you know, have a margarita, while you are tuning in, that's also acceptable. [LAUGHTER]
+**Santina Croniser:** All right. Unless anybody has a reason that we shouldn't start exactly on time, I'm going to go ahead and start. Again, very excited to see that we have folks from all over North America. I saw one reporting from Ontario Canada, as well as Georgia. Boston, like I already said; California, and, of course, Chicago! Naturally! Obviously, where most folks are, and — naturally being the Chicago Digital Accessibility Meet‑up group so really excited we have the chance to come together. As folks — most of the folks know who know me in person, I moved out to San Francisco; so, these remote Meet‑ups, actually, offer a rare opportunity for me to come in, and see everybody all over again. So I'm so excited. That I get to come and be a part of the accessibility group. Remotely. So thank you, everybody, for attending. Thank you for spending, May 5th with us, even though perhaps, you would rather go and have a margarita, or, you know, have a margarita, while you are tuning in, that's also acceptable. [LAUGHTER]
 
 I'm Santina as it says on the slide, and we already did the introductions, we'll perhaps, have some after — to just chat and kind of talk and catch up, as well; so, you can feel free to stay after for that as well. Feel free to continue introducing yourselves, as well while I'm speaking. Just a reminder: That if you do not want to have your face captured in any way or you don't want to speak, that's absolutely okay. We're completely fine with that. Just make sure you turn off your video camera, and/or turn off your audio, and certainly turn off your audio while the speaker is speaking. We'll go ahead and go through the announcements and introduction, and then we'll get started. It should not actually take me that long to get through the slides. 
 
@@ -151,7 +46,7 @@ And now to introduce Crystal, pronouns she/her a Quality Engineer with a focus o
 
 You can feel free to go ahead, and bring up your presentation! 
 
-**Crystal:** Okay. Let me make sure — I do this. (Taking the mic) all righty! I have done it — let me share my screen. (Giggling) and then I will share my presentation! 
+**Crystal Preston-Watson:** Okay. Let me make sure — I do this. (Taking the mic) all righty! I have done it — let me share my screen. (Giggling) and then I will share my presentation! 
 
 Hopefully you can see — (giggling) you can now see my presentation! So, thank you for the introduction (to Santina). I'm Crystal, and this is — it's "It's Always Sunny in Mobile Accessibility", and as you can guess, I am a huge — it's always sunny in Philadelphia fan! (Giggling). So — and — I — I realize that, this title, could be a little bit, you know, given this — the kind of style of the show, it could be a little bit kind of, maybe weird, but, I — I love the show, so I just thought you know what? I — I'm, you know, passionate about mobile accessibility and I really like that show. You know what? Go with this title. So, I am a Quality Engineer at salesforce.org, and on the screen — is Frank Reynolds, played by Danny DeVito in the show, dressed as an art critic. I am forgetting the character's name. But, this is going to be my Halloween costume. For this — [LAUGHTER] For this next year, even if it's just sitting in my house. Due to everything that's going on. (Continuing) so this is kind of, over view of what I'm going to talk about. Going forward. And I'm — and I'm (giggling) I realize I'm look to the side — so for those, who can see me — I'm very — I'm someone who is very awkward, and also. I am someone who has visual impairment. I have Caraco n is and Ocular toxoplasmosis , so I don't have — I have my macula scarred in my right eye. The screen in front of me is really zoomed in. So this — just kind of a preference, if I go like that and I'm staring off, I'm reading my notes. But, so I'm going to go — this is our kind of, framework for what I'm going to talk about tonight (referring to PowerPoint) I'm going to say a few words on mobile usage. 
 
@@ -345,7 +240,7 @@ Thank you. I want to thank you, again, and give the group a chance to thank you 
 
 **Gregory:** There's an issue with my headphone port: My name is Greg everybody, it's nice to meet you‑all, and I guess what I was asking, in regards to the media query question: Is, is — for instance with media queries, how — media queries are used to basically — to basically have content fit the — have content fit for, like, different devices on different screen sizes. I was wondering if that could be used in the same way as well to — on a mobile device, in order to have it not fit to, like, a single — just a single one display or not. 
 
-**Crystal:**Y eah, I'm — yeah, actually, I'm not sure about that. So I will — I mean, I can look that up, because that's something I know I should know. And I'm — and I know I've dealt with this before, but for the life of me, I can't remember! [LAUGHTER] 
+**Crystal:** Yeah, I'm — yeah, actually, I'm not sure about that. So I will — I mean, I can look that up, because that's something I know I should know. And I'm — and I know I've dealt with this before, but for the life of me, I can't remember! [LAUGHTER] 
 
 **Gregory:** That's fine. 
 
