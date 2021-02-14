@@ -13,45 +13,6 @@ www.CaptionFamily.com
 This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings. 
 ***
 
-**Attendee:** You know, on the note of the reactions, is there a way to put, like, thumbs up or anything in the chat, or there are no reactions in the chat? 
-**Attendee:** Yeah, I don't think there are any ways to react in the chat. It's just, basically, if you align your face in the right way, you can pick your nose. 
-**Attendee:** That's pending the chat's there on the person's computer, right? 
-**Attendee:** Right. Or you can get slapped. 
-**Attendee:** Yeah, those snow flurries that we got for a little bit today were interesting. I was ‑‑ I have a friend in Minnesota, and she was saying that it was going to be heading our way. She got it on Easter. I was like, no, we're not going to get that. At least it was quick. 
-
-**ERIC BAILEY:** Yeah, we had some sleet, like last week. What's the joke if you don't like weather in New England? Just wait ten minutes. 
-
-**Attendee:** I remember a year ago around this time, we had, like, significant snowfall. Actually, just saw it on my phone. Yeah. It doesn't show. No. Fail. 
-
-**Attendee:** Hey, everybody. 
-
-**Attendee:** Hello. 
-**Attendee:** Hello. 
-
-**Nick (Co-host)**: Hi. We're going to go ahead and start. You know, I'm going to ‑‑ anything before I start? Okay, good. I'm going to share my screen. 
-
-All right, let me ‑‑ okay. So thank you all for coming and joining tonight with Eric Bailey. Tonight's event, if you have any questions or technical Q&A, put out in Zoom or YouTube Live chat.
-
-So we have ‑‑ we turned off the video and mute it, but if for some reason, we're going to be recorded, if for some reason you don't want to be recorded on YouTube. We have a speaker deck, where you can access Eric's slides. Speakerdeck.com/a11ychi. 
-
-We also have live captioning on any device, so you can view that at streamtext.net/player, question mark, event, equals sign, CDA. And then the live captioning is sponsored by McDonald's Accessibility Team. So we want to say thank you to the McDonald's team. 
-
-What? Oh. So keeping the discussion going on Twitter @a11yChi, we also have a YouTube channel. 
-
-Heads up, if you prefer not to be in the recording, check your video camera is off. We're holding all questions for Q&A time. And co‑organizers will monitor chat for technical issues or questions. 
-
-We want to take a moment here, especially if you have any job openings related to accessibility, so I'm going to take a pause, if you want to share anything, any job opening. Or you can drop in chat. 
-
-**Attendee:** Nick, we have a question in the chat about the link to the slide deck. If you could drop that in when you have a chance. 
-
-**Nick (Co-host)**: Yeah, I will do that. 
-
-**Karen (Co-host)**: I'll do it. 
-
-**Nick (Co-host)**: Okay, great. 
-
-Okay. If no one has anything to share, we can move on. So we have a next event May 5th. It's tentative. It's always sunny in mobile accessibility, with Crystal Preston‑Watson. So we'll put out a Meetup in a couple days, so keep an eye out for that. 
-
 And we want to ‑‑ the main part of the show. Eric Bailey, pronoun is he/him. Eric, welcome. Eric is a Boston‑based designer who helps create straightforward solutions that address a person's practical, physical, cognitive, emotional needs using accessible performance device‑agnostic technology. He's an inclusive design advocate, A11YProject maintainer, and Mozilla Developer Center Web Docks contributor. Reach out to him at @EricwBailey. Eric, feel free to take over, and I'll pass it on to you. 
 
 **ERIC BAILEY:** Thank you for such a lovely introduction. It's great to see you all virtually. So, I'm going to share my screen, but just before I do, quick thumbs up on if audio's sounding okay. Great, all right. 
