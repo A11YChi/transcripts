@@ -13,7 +13,7 @@ www.CaptionFamily.com
 This is being provided in a rough-draft format. Communication Access Realtime Translation (CART) is provided in order to facilitate communication accessibility and may not be a totally verbatim record of the proceedings. 
 ***
 
-And we want to ‑‑ the main part of the show. Eric Bailey, pronoun is he/him. Eric, welcome. Eric is a Boston‑based designer who helps create straightforward solutions that address a person's practical, physical, cognitive, emotional needs using accessible performance device‑agnostic technology. He's an inclusive design advocate, A11YProject maintainer, and Mozilla Developer Center Web Docks contributor. Reach out to him at @EricwBailey. Eric, feel free to take over, and I'll pass it on to you. 
+**Nick Ng:** And we want to ‑‑ the main part of the show. Eric Bailey, pronoun is he/him. Eric, welcome. Eric is a Boston‑based designer who helps create straightforward solutions that address a person's practical, physical, cognitive, emotional needs using accessible performance device‑agnostic technology. He's an inclusive design advocate, A11YProject maintainer, and Mozilla Developer Center Web Docks contributor. Reach out to him at @EricwBailey. Eric, feel free to take over, and I'll pass it on to you. 
 
 **ERIC BAILEY:** Thank you for such a lovely introduction. It's great to see you all virtually. So, I'm going to share my screen, but just before I do, quick thumbs up on if audio's sounding okay. Great, all right. 
 
